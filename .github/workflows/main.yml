@@ -1,0 +1,29 @@
+name: MAC to M3U Converter
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Ejecutar diariamente a medianoche
+  workflow_dispatch:     # Permitir ejecución manual
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: pip install requests
+      
+      - name: Run MAC to M3U script
+        env:
+          IPTV_URL: ${{ secrets.IPTV_URL }}
+          MAC_ADDRESS: ${{ secrets.MAC_ADDRESS }}
+        run: |
+          python maclist.py
+          

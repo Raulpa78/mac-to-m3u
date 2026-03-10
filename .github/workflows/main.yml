@@ -20,10 +20,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests
       
-      - name: Run MAC to M3U script
+      - name: Run maclist script
+        run: python maclist.py
         env:
-          IPTV_URL: ${{ secrets.IPTV_URL }}
-          MAC_ADDRESS: ${{ secrets.MAC_ADDRESS }}
-        run: |
-          python maclist.py
+          IPTV_URL: ${{ secrets.IPTV_URL }}      # 👈 Pasa el secret
+          MAC_ADDRESS: ${{ secrets.MAC_ADDRESS }}  # 👈 Pasa el secret
           

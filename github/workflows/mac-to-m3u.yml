@@ -26,3 +26,4 @@ jobs:
           MAC_ADDRESS: ${{ secrets.MAC_ADDRESS }}
         run: |
           python maclist.py
+          

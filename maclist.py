@@ -36,8 +36,11 @@ def input_colored(prompt: str, color: str) -> str:
 
 
 def get_base_url() -> str:
-    """Gets base URL from user input and formats it correctly."""
-    base_url_input: str = input_colored("Enter IPTV link: ", "cyan")
+    """Gets base URL from environment variable or user input."""
+    base_url_input = os.getenv('IPTV_URL')  # 👈 Lee del secret
+    if not base_url_input:
+        base_url_input = input_colored("Enter IPTV link: ", "cyan")
+    
     parsed_url = urlparse(base_url_input)
     scheme = parsed_url.scheme or "http"
     host = parsed_url.hostname
@@ -46,7 +49,11 @@ def get_base_url() -> str:
 
 
 def get_mac_address() -> str:
-    """Gets MAC address from user input."""
+    """Gets MAC address from environment variable or user input."""
+    mac = os.getenv('MAC_ADDRESS')  # 👈 Lee del secret
+    if mac:
+        return mac.upper()
+    
     return input_colored("Input Mac address: ", "cyan").upper()
 
 

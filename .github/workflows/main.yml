@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'  # Ejecutar diariamente a medianoche
   workflow_dispatch:     # Permitir ejecución manual
 
+permissions:
+  contents: write        # 👈 Permite escribir en el repo  
+  
 jobs:
   convert:
     runs-on: ubuntu-latest
@@ -23,6 +26,13 @@ jobs:
       - name: Run maclist script
         run: python maclist.py
         env:
-          IPTV_URL: ${{ secrets.IPTV_URL }}      # 👈 Pasa el secret
-          MAC_ADDRESS: ${{ secrets.MAC_ADDRESS }}  # 👈 Pasa el secret
-          
+          IPTV_URL: ${{ secrets.IPTV_URL }}
+          MAC_ADDRESS: ${{ secrets.MAC_ADDRESS }}
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "🔄 Update from workflow - $(date)" || echo "No changes to commit"
+          git push

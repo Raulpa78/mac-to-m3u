@@ -28,6 +28,9 @@ jobs:
         env:
           IPTV_URL: ${{ secrets.IPTV_URL }}
           MAC_ADDRESS: ${{ secrets.MAC_ADDRESS }}
+          SERIAL_NUMBER: ${{ secrets.SERIAL_NUMBER }}
+          DEVICE_ID: ${{ secrets.DEVICE_ID }}
+          DEVICE_ID_2: ${{ secrets.DEVICE_ID_2 }}
       
       - name: Commit and push changes
         run: |

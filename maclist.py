@@ -58,15 +58,62 @@ def get_mac_address() -> str:
     return input_colored("Input Mac address: ", "cyan").upper()
 
 
+def get_serial_number() -> str:
+    """Gets serial number from environment variable or user input."""
+    serial = os.getenv('SERIAL_NUMBER')
+    if serial:
+        return serial
+    
+    return input_colored("Input serial number (optional, press Enter to skip): ", "cyan")
+
+
+def get_device_id() -> str:
+    """Gets device ID from environment variable or user input."""
+    device_id = os.getenv('DEVICE_ID')
+    if device_id:
+        return device_id
+    
+    return input_colored("Input device ID (optional, press Enter to skip): ", "cyan")
+
+
+def get_device_id_2() -> str:
+    """Gets secondary device ID from environment variable or user input."""
+    device_id_2 = os.getenv('DEVICE_ID_2')
+    if device_id_2:
+        return device_id_2
+    
+    return input_colored("Input secondary device ID (optional, press Enter to skip): ", "cyan")
+
+
 def get_token(
-    session: requests.Session, base_url: str, mac: str, timeout: int = 10
+    session: requests.Session, 
+    base_url: str, 
+    mac: str, 
+    serial_number: str = "",
+    device_id: str = "",
+    device_id_2: str = "",
+    timeout: int = 10
 ) -> Optional[str]:
-    """Gets token using MAC authentication."""
+    """Gets token using MAC authentication and additional device parameters."""
     url = f"{base_url}/portal.php?action=handshake&type=stb&token=&JsHttpRequest=1-xml"
 
     headers = {"Authorization": f"MAC {mac}"}
+    
+    # Construir payload con parámetros opcionales
+    payload = {}
+    if serial_number:
+        payload["serial"] = serial_number
+    if device_id:
+        payload["device_id"] = device_id
+    if device_id_2:
+        payload["device_id_2"] = device_id_2
+    
     try:
-        res = session.get(url, headers=headers, timeout=timeout)
+        if payload:
+            res = session.post(url, headers=headers, json=payload, timeout=timeout)
+        else:
+            res = session.get(url, headers=headers, timeout=timeout)
+        
         res.raise_for_status()
         data = res.json()
         return data["js"]["token"]
@@ -89,9 +136,14 @@ def get_subscription(
         res.raise_for_status()
         data = res.json()
         mac = data["js"]["mac"]
-
+        
+        # Mostrar información adicional si está disponible
+        serial = data.get("js", {}).get("serial", "N/A")
+        device_id = data.get("js", {}).get("device_id", "N/A")
+        device_id_2 = data.get("js", {}).get("device_id_2", "N/A")
         expiry = data.get("js", {}).get("phone", "N/A")
-        print_colored(f"MAC = {mac}\nExpiry = {expiry}", "green")
+        
+        print_colored(f"MAC = {mac}\nSerial = {serial}\nDevice ID = {device_id}\nDevice ID 2 = {device_id_2}\nExpiry = {expiry}", "green")
         return True
     except (requests.RequestException, json.JSONDecodeError, KeyError) as e:
         print_colored(f"Error fetching subscription info: {e}", "red")
@@ -128,9 +180,14 @@ def get_channel_list(
 
 
 def save_channel_list(
-    base_url: str, channels_data: List[Dict], group_info: Dict, mac: str
+    base_url: str, 
+    channels_data: List[Dict], 
+    group_info: Dict, 
+    mac: str,
+    serial_number: str = "",
+    device_id: str = ""
 ) -> None:
-    """Saves the channel list to an M3U file."""
+    """Saves the channel list to an M3U file with device parameters."""
     sanitized_url = re.sub(r"[\W_]+", "_", base_url)
     filename = f'{sanitized_url}_{datetime.now().strftime("%Y-%m-%d")}.m3u'
     count = 0
@@ -149,7 +206,12 @@ def save_channel_list(
                     ch_id_match = re.search(r"/ch/(\d+)", cmd_url)
                     if ch_id_match:
                         ch_id = ch_id_match.group(1)
+                        # Agregar parámetros adicionales en la URL
                         cmd_url = f"{base_url}/play/live.php?mac={mac}&stream={ch_id}&extension=ts"
+                        if serial_number:
+                            cmd_url += f"&serial={serial_number}"
+                        if device_id:
+                            cmd_url += f"&device_id={device_id}"
 
                 if not cmd_url:
                     continue
@@ -170,9 +232,19 @@ def main() -> None:
     try:
         base_url = get_base_url()
         mac = get_mac_address()
+        serial_number = get_serial_number()
+        device_id = get_device_id()
+        device_id_2 = get_device_id_2()
 
         session = requests.Session()
         session.cookies.update({"mac": mac})
+        if serial_number:
+            session.cookies.update({"serial": serial_number})
+        if device_id:
+            session.cookies.update({"device_id": device_id})
+        if device_id_2:
+            session.cookies.update({"device_id_2": device_id_2})
+        
         session.headers.update(
             {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
@@ -182,14 +254,14 @@ def main() -> None:
             }
         )
 
-        token = get_token(session, base_url, mac)
+        token = get_token(session, base_url, mac, serial_number, device_id, device_id_2)
         if token:
             print_colored("Token acquired successfully.", "green")
             if get_subscription(session, base_url, token):
                 print_colored("Fetching channel list...", "cyan")
                 channels_data, group_info = get_channel_list(session, base_url, token)
                 if channels_data and group_info:
-                    save_channel_list(base_url, channels_data, group_info, mac)
+                    save_channel_list(base_url, channels_data, group_info, mac, serial_number, device_id)
     except KeyboardInterrupt:
         print_colored("\nExiting gracefully...", "yellow")
         sys.exit(0)

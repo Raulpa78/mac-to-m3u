@@ -74,6 +74,33 @@ def get_mac_address() -> str:
     
     return input_colored("Input Mac address: ", "cyan").upper()
 
+def get_serial_number() -> str:
+    """Gets serial number from environment variable or user input."""
+    serial = os.getenv('SERIAL_NUMBER')
+    if serial:
+        return serial
+    
+    return input_colored("Input serial number (optional, press Enter to skip): ", "cyan")
+
+
+def get_device_id() -> str:
+    """Gets device ID from environment variable or user input."""
+    device_id = os.getenv('DEVICE_ID')
+    if device_id:
+        return device_id
+    
+    return input_colored("Input device ID (optional, press Enter to skip): ", "cyan")
+
+
+def get_device_id_2() -> str:
+    """Gets secondary device ID from environment variable or user input."""
+    device_id_2 = os.getenv('DEVICE_ID_2')
+    if device_id_2:
+        return device_id_2
+    
+    return input_colored("Input secondary device ID (optional, press Enter to skip): ", "cyan")
+    
+
 def get_token(
     session: requests.Session, 
     base_url: str, 

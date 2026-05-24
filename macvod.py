@@ -34,8 +34,10 @@ def input_colored(prompt: str, color: str) -> str:
 
 
 def get_base_url() -> str:
-    base_url_input = os.getenv("IPTV_URL")
+    base_url_input = os.getenv("IPTV_URL", "").strip()
     if not base_url_input:
+        if not sys.stdin.isatty():
+            raise ValueError("Falta IPTV_URL y no hay entrada interactiva disponible.")
         base_url_input = input_colored("Enter IPTV link: ", "cyan").strip()
 
     parsed_url = urlparse(base_url_input)
@@ -52,31 +54,59 @@ def get_base_url() -> str:
 
 
 def get_mac_address() -> str:
-    mac = os.getenv("MAC_ADDRESS")
+    mac = os.getenv("MAC_ADDRESS", "").strip()
     if mac:
-        return mac.upper().strip()
-    return input_colored("Input Mac address: ", "cyan").strip().upper()
+        return mac.upper()
+
+    if not sys.stdin.isatty():
+        raise ValueError("Falta MAC_ADDRESS y no hay entrada interactiva disponible.")
+
+    try:
+        return input_colored("Input Mac address: ", "cyan").strip().upper()
+    except EOFError:
+        raise ValueError("No se pudo leer la MAC desde entrada estándar.")
 
 
 def get_serial_number() -> str:
-    serial = os.getenv("SERIAL_NUMBER")
+    serial = os.getenv("SERIAL_NUMBER", "").strip()
     if serial:
-        return serial.strip()
-    return input_colored("Input serial number (optional, press Enter to skip): ", "cyan").strip()
+        return serial
+
+    if not sys.stdin.isatty():
+        return ""
+
+    try:
+        return input_colored("Input serial number (optional, press Enter to skip): ", "cyan").strip()
+    except EOFError:
+        return ""
 
 
 def get_device_id() -> str:
-    device_id = os.getenv("DEVICE_ID")
+    device_id = os.getenv("DEVICE_ID", "").strip()
     if device_id:
-        return device_id.strip()
-    return input_colored("Input device ID (optional, press Enter to skip): ", "cyan").strip()
+        return device_id
+
+    if not sys.stdin.isatty():
+        return ""
+
+    try:
+        return input_colored("Input device ID (optional, press Enter to skip): ", "cyan").strip()
+    except EOFError:
+        return ""
 
 
 def get_device_id_2() -> str:
-    device_id_2 = os.getenv("DEVICE_ID_2")
+    device_id_2 = os.getenv("DEVICE_ID_2", "").strip()
     if device_id_2:
-        return device_id_2.strip()
-    return input_colored("Input secondary device ID (optional, press Enter to skip): ", "cyan").strip()
+        return device_id_2
+
+    if not sys.stdin.isatty():
+        return ""
+
+    try:
+        return input_colored("Input secondary device ID (optional, press Enter to skip): ", "cyan").strip()
+    except EOFError:
+        return ""
 
 
 def get_token(

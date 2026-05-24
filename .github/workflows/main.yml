@@ -35,8 +35,8 @@ jobs:
       - name: Run macvod script
         run: python macvod.py
         env:
-         IPTV_URL: ${{ secrets.IPTV_URL }}
-         MAC_ADDRESS: ${{ secrets.MAC_ADDRESS }}
+          IPTV_URL: ${{ secrets.IPTV_URL }}
+          MAC_ADDRESS: ${{ secrets.MAC_ADDRESS }}
       
       - name: Commit and push changes
         run: |

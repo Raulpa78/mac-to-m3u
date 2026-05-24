@@ -55,25 +55,23 @@ def input_colored(prompt: str, color: str) -> str:
     return input(colored_prompt)
 
 def get_base_url() -> str:
-    """
-    Get the base URL from the user input.
-
-    Returns:
-        str: The base URL.
-    """
-    base_url: str = input_colored("Enter IPTV link: ", "cyan")
-    parsed_url = urlparse(base_url)
-    host: str = parsed_url.hostname or ""
-    port: Optional[int] = parsed_url.port or 80
-    return f"http://{host}:{port}"
+    """Gets base URL from environment variable or user input."""
+    base_url_input = os.getenv('IPTV_URL')  # ðŸ‘ˆ Lee del secret
+    if not base_url_input:
+        base_url_input = input_colored("Enter IPTV link: ", "cyan")
+    
+    parsed_url = urlparse(base_url_input)
+    scheme = parsed_url.scheme or "http"
+    host = parsed_url.hostname
+    port = parsed_url.port or 80
+    return f"{scheme}://{host}:{port}"
 
 def get_mac_address() -> str:
-    """
-    Get the MAC address from the user input.
-
-    Returns:
-        str: The MAC address.
-    """
+    """Gets MAC address from environment variable or user input."""
+    mac = os.getenv('MAC_ADDRESS')  # ðŸ‘ˆ Lee del secret
+    if mac:
+        return mac.upper()
+    
     return input_colored("Input Mac address: ", "cyan").upper()
 
 def get_token(session: requests.Session, base_url: str, timeout: int = 10) -> Optional[str]:

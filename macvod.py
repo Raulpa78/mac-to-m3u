@@ -299,18 +299,31 @@ def fetch_and_save_vods(session: requests.Session, base_url: str, headers: Dict[
     return total_count
 
 def main() -> None:
-    """
-    Main function to handle the IPTV VOD fetching and saving process.
-
-    Returns:
-        None
-    """
+    """Main function to orchestrate the process."""
     try:
-        base_url: str = get_base_url()
-        mac: str = get_mac_address()
-        session: requests.Session = requests.Session()
-        session.cookies.update({'mac': f'{mac}'})
-        token: Optional[str] = get_token(session, base_url, mac)
+        base_url = get_base_url()
+        mac = get_mac_address()
+        serial_number = get_serial_number()
+        device_id = get_device_id()
+        device_id_2 = get_device_id_2()
+
+        session = requests.Session()
+        session.cookies.update({"mac": mac})
+        if serial_number:
+            session.cookies.update({"serial": serial_number})
+        if device_id:
+            session.cookies.update({"device_id": device_id})
+        if device_id_2:
+            session.cookies.update({"device_id_2": device_id_2})
+        
+        session.headers.update(
+            {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+                "Referer": f"{base_url}/c/",
+                "Accept": "application/json, text/javascript, */*; q=0.01",
+                "X-Requested-With": "XMLHttpRequest",
+            }
+        )
         if token:
             if get_subscription(session, base_url, token):
                 headers: Dict[str, str] = {"Authorization": f"Bearer {token}"}

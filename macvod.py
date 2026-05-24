@@ -183,96 +183,140 @@ def get_subscription(
         return False
 
 
-def get_vod_categories(
+def get_env_or_input(name: str, prompt: str, required: bool = True) -> str:
+    value = os.getenv(name, "").strip()
+    if value:
+        return value
+
+    value = input(prompt).strip()
+    if required and not value:
+        raise ValueError(f"El valor {name} es obligatorio.")
+    return value
+
+
+def build_session(token: str) -> requests.Session:
+    session = requests.Session()
+    session.headers.update({
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/json",
+        "User-Agent": "CatalogClient/1."
+    })
+    return session
+
+
+def get_categories(
     session: requests.Session,
     base_url: str,
-    token: str,
-    timeout: int = 10
-) -> Optional[List[Dict[str, Any]]]:
-    url = f"{base_url}/portal.php?type=vod&action=get_categories&JsHttpRequest=1-xml"
-    headers = {"Authorization": f"Bearer {token}"}
+    timeout: int = 15
+) -> List[Dict[str, Any]]:
+    url = f"{base_url}/categories"
+    res = session.get(url, timeout=timeout)
+    res.raise_for_status()
 
-    try:
-        res = session.get(url, headers=headers, timeout=timeout, allow_redirects=False)
-        res.raise_for_status()
-
-        data = res.json()
-        categories = data.get("js")
-
-        if not isinstance(categories, list):
-            print_colored("La respuesta no contiene una lista válida de categorías.", "red")
-            print_colored(res.text, "yellow")
-            return None
-
-        return categories
-
-    except (requests.RequestException, json.JSONDecodeError) as e:
-        print_colored(f"Error fetching VOD categories: {e}", "red")
-        return None
+    data = res.json()
+    if not isinstance(data, list):
+        raise ValueError("La respuesta de categorías no es una lista.")
+    return data
 
 
-def save_categories_to_json(base_url: str, categories: List[Dict[str, Any]]) -> str:
-    sanitized_url = base_url.replace("://", "_").replace("/", "_").replace(".", "_").replace(":", "_")
-    current = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    filename = f"{sanitized_url}_vod_categories_{current}.json"
+def get_items_by_category(
+    session: requests.Session,
+    base_url: str,
+    category_id: str,
+    page: int = 1,
+    timeout: int = 15
+) -> List[Dict[str, Any]]:
+    url = f"{base_url}/items"
+    params = {
+        "category_id": category_id,
+        "page": page
+    }
+
+    res = session.get(url, params=params, timeout=timeout)
+    res.raise_for_status()
+
+    data = res.json()
+    if not isinstance(data, dict):
+        raise ValueError("La respuesta de items no tiene formato esperado.")
+
+    items = data.get("items", [])
+    if not isinstance(items, list):
+        raise ValueError("El campo 'items' no es una lista.")
+    return items
+
+
+def fetch_all_items_for_category(
+    session: requests.Session,
+    base_url: str,
+    category: Dict[str, Any]
+) -> Dict[str, Any]:
+    category_id = str(category.get("id", ""))
+    category_title = category.get("title", "Sin título")
+
+    page = 1
+    all_items: List[Dict[str, Any]] = []
+
+    while True:
+        items = get_items_by_category(session, base_url, category_id, page=page)
+        if not items:
+            break
+
+        all_items.extend(items)
+        page += 1
+
+    return {
+        "id": category_id,
+        "title": category_title,
+        "count": len(all_items),
+        "items": all_items
+    }
+
+
+def save_to_json(base_name: str, payload: Any) -> str:
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    filename = f"{base_name}_{timestamp}.json"
 
     with open(filename, "w", encoding="utf-8") as f:
-        json.dump(categories, f, indent=2, ensure_ascii=False)
+        json.dump(payload, f, ensure_ascii=False, indent=2)
 
     return filename
 
 
 def main() -> None:
     try:
-        base_url = get_base_url()
-        mac = get_mac_address()
-        serial_number = get_serial_number()
-        device_id = get_device_id()
-        device_id_2 = get_device_id_2()
+        base_url = get_env_or_input("API_BASE_URL", "Base URL de la API: ")
+        token = get_env_or_input("API_TOKEN", "Token Bearer: ")
 
-        session = requests.Session()
-        session.cookies.update({"mac": mac})
+        session = build_session(token)
 
-        if serial_number:
-            session.cookies.update({"serial": serial_number})
-        if device_id:
-            session.cookies.update({"device_id": device_id})
-        if device_id_2:
-            session.cookies.update({"device_id_2": device_id_2})
+        print_msg("Obteniendo categorías...")
+        categories = get_categories(session, base_url)
+        print_msg(f"Categorías encontradas: {len(categories)}")
 
-        session.headers.update({
-            "User-Agent": "Mozilla/5.",
-            "Referer": f"{base_url}/c/",
-            "Accept": "application/json, text/javascript, */*; q=.01",
-            "X-Requested-With": "XMLHttpRequest",
-        })
+        results: List[Dict[str, Any]] = []
 
-        token = get_token(session, base_url, mac, serial_number, device_id, device_id_2)
-        if not token:
-            print_colored("No se pudo obtener el token.", "red")
-            sys.exit(1)
+        for category in categories:
+            title = category.get("title", "Sin título")
+            print_msg(f"Procesando categoría: {title}")
 
-        print_colored(f"Token obtenido: {token}", "green")
+            category_data = fetch_all_items_for_category(session, base_url, category)
+            print_msg(f"  -> {category_data['count']} elementos")
+            results.append(category_data)
 
-        get_subscription(session, base_url, token)
+        out = {
+            "base_url": base_url,
+            "total_categories": len(results),
+            "categories": results
+        }
 
-        categories = get_vod_categories(session, base_url, token)
-        if not categories:
-            print_colored("No se pudieron obtener categorías VOD.", "red")
-            sys.exit(1)
-
-        print_colored(f"Categorías VOD encontradas: {len(categories)}", "cyan")
-        for cat in categories:
-            print_colored(f"[{cat.get('id', 'N/A')}] {cat.get('title', 'Sin título')}", "yellow")
-
-        filename = save_categories_to_json(base_url, categories)
-        print_colored(f"Categorías guardadas en: {filename}", "green")
+        filename = save_to_json("catalogo_completo", out)
+        print_msg(f"Guardado en: {filename}")
 
     except KeyboardInterrupt:
-        print_colored("\nExiting gracefully...", "yellow")
+        print_msg("Cancelado por el usuario.")
         sys.exit()
     except Exception as e:
-        print_colored(f"Unexpected error: {e}", "red")
+        print_msg(f"Error: {e}")
         sys.exit(1)
 
 

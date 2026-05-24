@@ -1,12 +1,12 @@
 import requests
+import requests
 import json
+import os
 from datetime import datetime
-from urllib.parse import urlparse, quote
+from urllib.parse import urlparse
 import sys
-import base64
-from typing import Dict, Optional, Any, List
-from tqdm import tqdm
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import re
+from typing import Dict, Tuple, Optional, Any, List
 
 def print_colored(text: str, color: str) -> None:
     """

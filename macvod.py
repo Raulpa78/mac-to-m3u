@@ -74,25 +74,42 @@ def get_mac_address() -> str:
     
     return input_colored("Input Mac address: ", "cyan").upper()
 
-def get_token(session: requests.Session, base_url: str, timeout: int = 10) -> Optional[str]:
-    """
-    Get the authentication token from the server.
+def get_token(
+    session: requests.Session, 
+    base_url: str, 
+    mac: str, 
+    serial_number: str = "",
+    device_id: str = "",
+    device_id_2: str = "",
+    timeout: int = 10
+) -> Optional[str]:
+    """Gets token using MAC authentication and additional device parameters."""
+    url = f"{base_url}/portal.php?action=handshake&type=stb&token=&JsHttpRequest=1-xml"
 
-    Args:
-        session (requests.Session): The current session.
-        base_url (str): The base URL.
-        timeout (int): The request timeout in seconds.
-
-    Returns:
-        Optional[str]: The authentication token or None if the request fails.
-    """
-    url: str = f"{base_url}/portal.php?action=handshake&type=stb&token=&JsHttpRequest=1-xml"
+    headers = {"Authorization": f"MAC {mac}"}
+    
+    # Construir payload con parámetros opcionales
+    payload = {}
+    if serial_number:
+        payload["serial"] = serial_number
+    if device_id:
+        payload["device_id"] = device_id
+    if device_id_2:
+        payload["device_id_2"] = device_id_2
+    
     try:
-        res: requests.Response = session.get(url, timeout=timeout, allow_redirects=False)
-        data: Dict[str, Any] = json.loads(res.text)
-        return data['js']['token']
-    except (requests.RequestException, json.JSONDecodeError) as e:
+        if payload:
+            res = session.post(url, headers=headers, json=payload, timeout=timeout)
+        else:
+            res = session.get(url, headers=headers, timeout=timeout)
+        
+        res.raise_for_status()
+        data = res.json()
+        return data["js"]["token"]
+    except (requests.RequestException, json.JSONDecodeError, KeyError) as e:
         print_colored(f"Error fetching token: {e}", "red")
+        if "res" in locals():
+            print_colored(f"Server response: {res.text}", "yellow")
         return None
 
 def get_subscription(session: requests.Session, base_url: str, token: str, timeout: int = 10) -> bool:

@@ -5,6 +5,7 @@ import os
 from datetime import datetime
 from urllib.parse import urlparse
 import sys
+import base64
 import re
 from typing import Dict, Tuple, Optional, Any, List
 

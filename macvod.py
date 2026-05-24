@@ -112,34 +112,31 @@ def get_token(
             print_colored(f"Server response: {res.text}", "yellow")
         return None
 
-def get_subscription(session: requests.Session, base_url: str, token: str, timeout: int = 10) -> bool:
-    """
-    Get the subscription information from the server.
+def get_subscription(
+    session: requests.Session, base_url: str, token: str, timeout: int = 10
+) -> bool:
+    """Gets subscription information using a Bearer token."""
+    url = f"{base_url}/portal.php?type=account_info&action=get_main_info&JsHttpRequest=1-xml"
 
-    Args:
-        session (requests.Session): The current session.
-        base_url (str): The base URL.
-        token (str): The authentication token.
-        timeout (int): The request timeout in seconds.
-
-    Returns:
-        bool: True if the subscription info is fetched successfully, False otherwise.
-    """
-    url: str = f"{base_url}/portal.php?type=account_info&action=get_main_info&JsHttpRequest=1-xml"
-    headers: Dict[str, str] = {"Authorization": f"Bearer {token}"}
+    headers = {"Authorization": f"Bearer {token}"}
     try:
-        res: requests.Response = session.get(url, headers=headers, timeout=timeout, allow_redirects=False)
-        if res.status_code == 200:
-            data: Dict[str, Any] = json.loads(res.text)
-            mac: str = data['js']['mac']
-            expiry: str = data['js']['phone']
-            print_colored(f"MAC = {mac}\nExpiry = {expiry}", "green")
-            return True
-        else:
-            print_colored("Failed to fetch subscription info", "red")
-            return False
-    except requests.RequestException as e:
+        res = session.get(url, headers=headers, timeout=timeout)
+        res.raise_for_status()
+        data = res.json()
+        mac = data["js"]["mac"]
+        
+        # Mostrar información adicional si está disponible
+        serial = data.get("js", {}).get("serial", "N/A")
+        device_id = data.get("js", {}).get("device_id", "N/A")
+        device_id_2 = data.get("js", {}).get("device_id_2", "N/A")
+        expiry = data.get("js", {}).get("phone", "N/A")
+        
+        print_colored(f"MAC = {mac}\nSerial = {serial}\nDevice ID = {device_id}\nDevice ID 2 = {device_id_2}\nExpiry = {expiry}", "green")
+        return True
+    except (requests.RequestException, json.JSONDecodeError, KeyError) as e:
         print_colored(f"Error fetching subscription info: {e}", "red")
+        if "res" in locals():
+            print_colored(f"Server response: {res.text}", "yellow")
         return False
 
 def get_vod_categories(session: requests.Session, base_url: str, headers: Dict[str, str], timeout: int = 10) -> Optional[List[Dict[str, Any]]]:

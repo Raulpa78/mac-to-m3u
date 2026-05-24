@@ -56,7 +56,7 @@ def input_colored(prompt: str, color: str) -> str:
 
 def get_base_url() -> str:
     """Gets base URL from environment variable or user input."""
-    base_url_input = os.getenv('IPTV_URL')  # ðŸ‘ˆ Lee del secret
+    base_url_input = os.getenv('IPTV_URL')  # ðŸ'ˆ Lee del secret
     if not base_url_input:
         base_url_input = input_colored("Enter IPTV link: ", "cyan")
     
@@ -68,7 +68,7 @@ def get_base_url() -> str:
 
 def get_mac_address() -> str:
     """Gets MAC address from environment variable or user input."""
-    mac = os.getenv('MAC_ADDRESS')  # ðŸ‘ˆ Lee del secret
+    mac = os.getenv('MAC_ADDRESS')  # ðŸ'ˆ Lee del secret
     if mac:
         return mac.upper()
     
@@ -301,7 +301,7 @@ def main() -> None:
         mac: str = get_mac_address()
         session: requests.Session = requests.Session()
         session.cookies.update({'mac': f'{mac}'})
-        token: Optional[str] = get_token(session, base_url)
+        token: Optional[str] = get_token(session, base_url, mac)
         if token:
             if get_subscription(session, base_url, token):
                 headers: Dict[str, str] = {"Authorization": f"Bearer {token}"}
@@ -325,7 +325,7 @@ def main() -> None:
         sys.exit(0)
     except Exception as e:
         print_colored(f"Unexpected error: {e}", "red")
-        main()
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()

@@ -10,50 +10,31 @@ import re
 from typing import Dict, Tuple, Optional, Any, List
 
 def print_colored(text: str, color: str) -> None:
-    """
-    Print text in a specified color.
-
-    Args:
-        text (str): The text to print.
-        color (str): The color to print the text in.
-
-    Returns:
-        None
-    """
+    """Prints colored text."""
     colors: Dict[str, str] = {
         "green": "\033[92m",
         "red": "\033[91m",
         "blue": "\033[94m",
         "yellow": "\033[93m",
         "cyan": "\033[96m",
-        "magenta": "\033[95m"
+        "magenta": "\033[95m",
     }
     color_code: str = colors.get(color.lower(), "\033[0m")
-    colored_text: str = f"{color_code}{text}\033[0m"
-    
+    print(f"{color_code}{text}\033[0m")
+
 
 def input_colored(prompt: str, color: str) -> str:
-    """
-    Get user input with a colored prompt.
-
-    Args:
-        prompt (str): The prompt message.
-        color (str): The color for the prompt.
-
-    Returns:
-        str: The user's input.
-    """
+    """Gets user input with a colored prompt."""
     colors: Dict[str, str] = {
         "green": "\033[92m",
         "red": "\033[91m",
         "blue": "\033[94m",
         "yellow": "\033[93m",
         "cyan": "\033[96m",
-        "magenta": "\033[95m"
+        "magenta": "\033[95m",
     }
     color_code: str = colors.get(color.lower(), "\033[0m")
-    colored_prompt: str = f"{color_code}{prompt}\033[0m"
-    return input(colored_prompt)
+    return input(f"{color_code}{prompt}\033[0m")
 
 def get_base_url() -> str:
     """Gets base URL from environment variable or user input."""

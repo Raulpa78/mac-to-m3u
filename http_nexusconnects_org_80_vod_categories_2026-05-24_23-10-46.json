@@ -1,0 +1,2972 @@
+[
+  {
+    "id": "*",
+    "title": "All",
+    "alias": "*",
+    "censored": 0
+  },
+  {
+    "id": "294",
+    "title": "┃MULTI / LINGO┃ 4K HDR | SDR",
+    "alias": "┃MULTI / LINGO┃ 4K HDR | SDR",
+    "censored": 0
+  },
+  {
+    "id": "3709",
+    "title": "┃MULTI / LINGO┃ NEW RELEASES",
+    "alias": "┃MULTI / LINGO┃ NEW RELEASES",
+    "censored": 0
+  },
+  {
+    "id": "2741",
+    "title": "┃MULTI / LINGO┃ PARAMOUNT+",
+    "alias": "┃MULTI / LINGO┃ PARAMOUNT+",
+    "censored": 0
+  },
+  {
+    "id": "3701",
+    "title": "┃MULTI / LINGO┃ NETFLIX",
+    "alias": "┃MULTI / LINGO┃ NETFLIX",
+    "censored": 0
+  },
+  {
+    "id": "3495",
+    "title": "┃MULTI / LINGO┃ JAMES BOND",
+    "alias": "┃MULTI / LINGO┃ JAMES BOND",
+    "censored": 0
+  },
+  {
+    "id": "3702",
+    "title": "┃MULTI / LINGO┃ AMAZON PRIME",
+    "alias": "┃MULTI / LINGO┃ AMAZON PRIME",
+    "censored": 0
+  },
+  {
+    "id": "3703",
+    "title": "┃MULTI / LINGO┃ HBOMAX",
+    "alias": "┃MULTI / LINGO┃ HBOMAX",
+    "censored": 0
+  },
+  {
+    "id": "3704",
+    "title": "┃MULTI / LINGO┃ DISNEY+ | HULU",
+    "alias": "┃MULTI / LINGO┃ DISNEY+ | HULU",
+    "censored": 0
+  },
+  {
+    "id": "3705",
+    "title": "┃MULTI / LINGO┃ SKYSHOWTIME",
+    "alias": "┃MULTI / LINGO┃ SKYSHOWTIME",
+    "censored": 0
+  },
+  {
+    "id": "3706",
+    "title": "┃MULTI / LINGO┃ APPLE+",
+    "alias": "┃MULTI / LINGO┃ APPLE+",
+    "censored": 0
+  },
+  {
+    "id": "3540",
+    "title": "┃MULTI / LINGO┃ KIDS",
+    "alias": "┃MULTI / LINGO┃ KIDS",
+    "censored": 0
+  },
+  {
+    "id": "3393",
+    "title": "┃NL┃ TOP 100",
+    "alias": "┃NL┃ TOP 100",
+    "censored": 0
+  },
+  {
+    "id": "172",
+    "title": "┃NL┃ 4K HDR | SDR",
+    "alias": "┃NL┃ 4K HDR | SDR",
+    "censored": 0
+  },
+  {
+    "id": "174",
+    "title": "┃NL┃ HEVC | X265",
+    "alias": "┃NL┃ HEVC | X265",
+    "censored": 0
+  },
+  {
+    "id": "416",
+    "title": "┃NL┃ DOLBY VISION",
+    "alias": "┃NL┃ DOLBY VISION",
+    "censored": 0
+  },
+  {
+    "id": "376",
+    "title": "┃NL┃ PATHÉ THUIS",
+    "alias": "┃NL┃ PATHÉ THUIS",
+    "censored": 0
+  },
+  {
+    "id": "427",
+    "title": "┃NL┃ PATHÉ KIDS",
+    "alias": "┃NL┃ PATHÉ KIDS",
+    "censored": 0
+  },
+  {
+    "id": "162",
+    "title": "┃NL┃ BIOSCOOP",
+    "alias": "┃NL┃ BIOSCOOP",
+    "censored": 0
+  },
+  {
+    "id": "175",
+    "title": "┃NL┃ BIOSCOOP KIDS",
+    "alias": "┃NL┃ BIOSCOOP KIDS",
+    "censored": 0
+  },
+  {
+    "id": "191",
+    "title": "┃NL┃ AMAZON PRIME VIDEO",
+    "alias": "┃NL┃ AMAZON PRIME VIDEO",
+    "censored": 0
+  },
+  {
+    "id": "196",
+    "title": "┃NL┃ NETFLIX",
+    "alias": "┃NL┃ NETFLIX",
+    "censored": 0
+  },
+  {
+    "id": "272",
+    "title": "┃NL┃ NETFLIX KIDS",
+    "alias": "┃NL┃ NETFLIX KIDS",
+    "censored": 0
+  },
+  {
+    "id": "273",
+    "title": "┃NL┃ NETFLIX DOCUMENTAIRES",
+    "alias": "┃NL┃ NETFLIX DOCUMENTAIRES",
+    "censored": 0
+  },
+  {
+    "id": "169",
+    "title": "┃NL┃ VIDEOLAND",
+    "alias": "┃NL┃ VIDEOLAND",
+    "censored": 0
+  },
+  {
+    "id": "3256",
+    "title": "┃NL┃ VIDEOLAND NL GESPROKEN",
+    "alias": "┃NL┃ VIDEOLAND NL GESPROKEN",
+    "censored": 0
+  },
+  {
+    "id": "559",
+    "title": "┃NL┃ NPO START",
+    "alias": "┃NL┃ NPO START",
+    "censored": 0
+  },
+  {
+    "id": "192",
+    "title": "┃NL┃ DISNEY+",
+    "alias": "┃NL┃ DISNEY+",
+    "censored": 0
+  },
+  {
+    "id": "194",
+    "title": "┃NL┃ DISNEY+ 4K HDR | SDR",
+    "alias": "┃NL┃ DISNEY+ 4K HDR | SDR",
+    "censored": 0
+  },
+  {
+    "id": "558",
+    "title": "┃NL┃ DISNEY+ KIDS",
+    "alias": "┃NL┃ DISNEY+ KIDS",
+    "censored": 0
+  },
+  {
+    "id": "897",
+    "title": "┃NL┃ DISNEY COLLECTIONS KIDS",
+    "alias": "┃NL┃ DISNEY COLLECTIONS KIDS",
+    "censored": 0
+  },
+  {
+    "id": "572",
+    "title": "┃NL┃ NATIONAL GEOGRAPHIC",
+    "alias": "┃NL┃ NATIONAL GEOGRAPHIC",
+    "censored": 0
+  },
+  {
+    "id": "561",
+    "title": "┃NL┃ CARTOON NETWORK",
+    "alias": "┃NL┃ CARTOON NETWORK",
+    "censored": 0
+  },
+  {
+    "id": "556",
+    "title": "┃NL┃ NICK+",
+    "alias": "┃NL┃ NICK+",
+    "censored": 0
+  },
+  {
+    "id": "266",
+    "title": "┃NL┃ HBOMAX",
+    "alias": "┃NL┃ HBOMAX",
+    "censored": 0
+  },
+  {
+    "id": "482",
+    "title": "┃NL┃ SKYSHOWTIME",
+    "alias": "┃NL┃ SKYSHOWTIME",
+    "censored": 0
+  },
+  {
+    "id": "203",
+    "title": "┃NL┃ GOLDEN CLASSICS",
+    "alias": "┃NL┃ GOLDEN CLASSICS",
+    "censored": 0
+  },
+  {
+    "id": "586",
+    "title": "┃NL┃ MUBI",
+    "alias": "┃NL┃ MUBI",
+    "censored": 0
+  },
+  {
+    "id": "268",
+    "title": "┃NL┃ APPLE TV+",
+    "alias": "┃NL┃ APPLE TV+",
+    "censored": 0
+  },
+  {
+    "id": "3410",
+    "title": "┃NL┃ GOOGLE PLAY",
+    "alias": "┃NL┃ GOOGLE PLAY",
+    "censored": 0
+  },
+  {
+    "id": "405",
+    "title": "┃NL┃ VIAPLAY",
+    "alias": "┃NL┃ VIAPLAY",
+    "censored": 0
+  },
+  {
+    "id": "3299",
+    "title": "┃NL┃ VIAPLAY VROOOOOM",
+    "alias": "┃NL┃ VIAPLAY VROOOOOM",
+    "censored": 0
+  },
+  {
+    "id": "176",
+    "title": "┃NL┃ F1 TV PRO",
+    "alias": "┃NL┃ F1 TV PRO",
+    "censored": 0
+  },
+  {
+    "id": "199",
+    "title": "┃NL┃ VIAPLAY F1 ┃ SPORTS",
+    "alias": "┃NL┃ VIAPLAY F1 ┃ SPORTS",
+    "censored": 0
+  },
+  {
+    "id": "3594",
+    "title": "┃NL┃ VIAPLAY DARTS",
+    "alias": "┃NL┃ VIAPLAY DARTS",
+    "censored": 0
+  },
+  {
+    "id": "177",
+    "title": "┃NL┃ MXGP MOTOCROSS",
+    "alias": "┃NL┃ MXGP MOTOCROSS",
+    "censored": 0
+  },
+  {
+    "id": "771",
+    "title": "┃NL┃ ZIGGO SPORT RACE CAFE",
+    "alias": "┃NL┃ ZIGGO SPORT RACE CAFE",
+    "censored": 0
+  },
+  {
+    "id": "198",
+    "title": "┃NL┃ WITHLOVE",
+    "alias": "┃NL┃ WITHLOVE",
+    "censored": 0
+  },
+  {
+    "id": "277",
+    "title": "┃NL┃ NEWFAITHNETWORK",
+    "alias": "┃NL┃ NEWFAITHNETWORK",
+    "censored": 0
+  },
+  {
+    "id": "2653",
+    "title": "┃NL┃ BET+",
+    "alias": "┃NL┃ BET+",
+    "censored": 0
+  },
+  {
+    "id": "898",
+    "title": "┃NL┃ MOVIE COLLECTION",
+    "alias": "┃NL┃ MOVIE COLLECTION",
+    "censored": 0
+  },
+  {
+    "id": "3395",
+    "title": "┃NL┃ BOKS FILMS",
+    "alias": "┃NL┃ BOKS FILMS",
+    "censored": 0
+  },
+  {
+    "id": "3639",
+    "title": "┃NL┃ BRUCE LEE",
+    "alias": "┃NL┃ BRUCE LEE",
+    "censored": 0
+  },
+  {
+    "id": "3569",
+    "title": "┃NL┃ DENZEL WASHINGTON",
+    "alias": "┃NL┃ DENZEL WASHINGTON",
+    "censored": 0
+  },
+  {
+    "id": "3570",
+    "title": "┃NL┃ WESLEY SNIPES",
+    "alias": "┃NL┃ WESLEY SNIPES",
+    "censored": 0
+  },
+  {
+    "id": "3396",
+    "title": "┃NL┃ STEVEN SEAGAL",
+    "alias": "┃NL┃ STEVEN SEAGAL",
+    "censored": 0
+  },
+  {
+    "id": "3518",
+    "title": "┃NL┃ BRIGITTE BARDOT",
+    "alias": "┃NL┃ BRIGITTE BARDOT",
+    "censored": 0
+  },
+  {
+    "id": "3574",
+    "title": "┃NL┃ BUD SPENCER",
+    "alias": "┃NL┃ BUD SPENCER",
+    "censored": 0
+  },
+  {
+    "id": "3575",
+    "title": "┃NL┃ CHUCK NORRIS",
+    "alias": "┃NL┃ CHUCK NORRIS",
+    "censored": 0
+  },
+  {
+    "id": "3576",
+    "title": "┃NL┃ CLINT EASTWOOD",
+    "alias": "┃NL┃ CLINT EASTWOOD",
+    "censored": 0
+  },
+  {
+    "id": "2742",
+    "title": "┃NL┃ ELVIS PRESLEY",
+    "alias": "┃NL┃ ELVIS PRESLEY",
+    "censored": 0
+  },
+  {
+    "id": "3571",
+    "title": "┃NL┃ HARRY POTTER (NL AUDIO)",
+    "alias": "┃NL┃ HARRY POTTER (NL AUDIO)",
+    "censored": 0
+  },
+  {
+    "id": "3572",
+    "title": "┃NL┃ HARRY POTTER (NL SUBS)",
+    "alias": "┃NL┃ HARRY POTTER (NL SUBS)",
+    "censored": 0
+  },
+  {
+    "id": "2973",
+    "title": "┃NL┃ FEYENOORD ONE",
+    "alias": "┃NL┃ FEYENOORD ONE",
+    "censored": 0
+  },
+  {
+    "id": "430",
+    "title": "┃NL┃ GLORY | PFL | DAZN",
+    "alias": "┃NL┃ GLORY | PFL | DAZN",
+    "censored": 0
+  },
+  {
+    "id": "351",
+    "title": "┃NL┃ UFC ┃ WWE",
+    "alias": "┃NL┃ UFC ┃ WWE",
+    "censored": 0
+  },
+  {
+    "id": "204",
+    "title": "┃NL┃ CONCERTEN ┃ FESTIVALS",
+    "alias": "┃NL┃ CONCERTEN ┃ FESTIVALS",
+    "censored": 0
+  },
+  {
+    "id": "477",
+    "title": "┃NL┃ TV SHOWS ┃ CABARET",
+    "alias": "┃NL┃ TV SHOWS ┃ CABARET",
+    "censored": 0
+  },
+  {
+    "id": "220",
+    "title": "┃NL┃ NL ┃ VLAAMS GESPROKEN",
+    "alias": "┃NL┃ NL ┃ VLAAMS GESPROKEN",
+    "censored": 0
+  },
+  {
+    "id": "2733",
+    "title": "┃NL┃ BOLLYWOOD",
+    "alias": "┃NL┃ BOLLYWOOD",
+    "censored": 0
+  },
+  {
+    "id": "201",
+    "title": "┃NL┃ ACTIE",
+    "alias": "┃NL┃ ACTIE",
+    "censored": 0
+  },
+  {
+    "id": "202",
+    "title": "┃NL┃ AVONTUUR",
+    "alias": "┃NL┃ AVONTUUR",
+    "censored": 0
+  },
+  {
+    "id": "215",
+    "title": "┃NL┃ KOMEDIE",
+    "alias": "┃NL┃ KOMEDIE",
+    "censored": 0
+  },
+  {
+    "id": "208",
+    "title": "┃NL┃ FAMILIE",
+    "alias": "┃NL┃ FAMILIE",
+    "censored": 0
+  },
+  {
+    "id": "225",
+    "title": "┃NL┃ THRILLER ┃ MYSTERY",
+    "alias": "┃NL┃ THRILLER ┃ MYSTERY",
+    "censored": 0
+  },
+  {
+    "id": "219",
+    "title": "┃NL┃ MISDAAD",
+    "alias": "┃NL┃ MISDAAD",
+    "censored": 0
+  },
+  {
+    "id": "209",
+    "title": "┃NL┃ FANTASY",
+    "alias": "┃NL┃ FANTASY",
+    "censored": 0
+  },
+  {
+    "id": "222",
+    "title": "┃NL┃ SCIENCE FICTION",
+    "alias": "┃NL┃ SCIENCE FICTION",
+    "censored": 0
+  },
+  {
+    "id": "207",
+    "title": "┃NL┃ DRAMA ┃ ROMANTIEK",
+    "alias": "┃NL┃ DRAMA ┃ ROMANTIEK",
+    "censored": 0
+  },
+  {
+    "id": "212",
+    "title": "┃NL┃ HORROR",
+    "alias": "┃NL┃ HORROR",
+    "censored": 0
+  },
+  {
+    "id": "211",
+    "title": "┃NL┃ HISTORY ┃ OORLOG",
+    "alias": "┃NL┃ HISTORY ┃ OORLOG",
+    "censored": 0
+  },
+  {
+    "id": "227",
+    "title": "┃NL┃ WESTERN",
+    "alias": "┃NL┃ WESTERN",
+    "censored": 0
+  },
+  {
+    "id": "3300",
+    "title": "┃NL┃ K3",
+    "alias": "┃NL┃ K3",
+    "censored": 0
+  },
+  {
+    "id": "279",
+    "title": "┃NL┃ KINDEREN 4K ┃ HEVC",
+    "alias": "┃NL┃ KINDEREN 4K ┃ HEVC",
+    "censored": 0
+  },
+  {
+    "id": "265",
+    "title": "┃NL┃ KINDEREN ┃NL GESPROKEN┃",
+    "alias": "┃NL┃ KINDEREN ┃NL GESPROKEN┃",
+    "censored": 0
+  },
+  {
+    "id": "214",
+    "title": "┃NL┃ KINDEREN",
+    "alias": "┃NL┃ KINDEREN",
+    "censored": 0
+  },
+  {
+    "id": "190",
+    "title": "┃NL┃ BABY ┃ PEUTER",
+    "alias": "┃NL┃ BABY ┃ PEUTER",
+    "censored": 0
+  },
+  {
+    "id": "270",
+    "title": "┃NL┃ ANIME",
+    "alias": "┃NL┃ ANIME",
+    "censored": 0
+  },
+  {
+    "id": "3245",
+    "title": "┃NL┃ MINUUT VOOR ALLAH",
+    "alias": "┃NL┃ MINUUT VOOR ALLAH",
+    "censored": 0
+  },
+  {
+    "id": "223",
+    "title": "┃NL┃ SINTERKLAAS",
+    "alias": "┃NL┃ SINTERKLAAS",
+    "censored": 0
+  },
+  {
+    "id": "213",
+    "title": "┃NL┃ KERSTFILMS",
+    "alias": "┃NL┃ KERSTFILMS",
+    "censored": 0
+  },
+  {
+    "id": "189",
+    "title": "┃NL┃ KERSTSPECIALS",
+    "alias": "┃NL┃ KERSTSPECIALS",
+    "censored": 0
+  },
+  {
+    "id": "206",
+    "title": "┃NL┃ DOCUMENTAIRES",
+    "alias": "┃NL┃ DOCUMENTAIRES",
+    "censored": 0
+  },
+  {
+    "id": "417",
+    "title": "┃BE┃ STREAMZ",
+    "alias": "┃BE┃ STREAMZ",
+    "censored": 0
+  },
+  {
+    "id": "585",
+    "title": "┃BE┃ VTMGO+ / VRTMAX",
+    "alias": "┃BE┃ VTMGO+ / VRTMAX",
+    "censored": 0
+  },
+  {
+    "id": "2740",
+    "title": "┃BE┃ VLAAMS GESPROKEN",
+    "alias": "┃BE┃ VLAAMS GESPROKEN",
+    "censored": 0
+  },
+  {
+    "id": "3637",
+    "title": "┃DE┃ TOP 100",
+    "alias": "┃DE┃ TOP 100",
+    "censored": 0
+  },
+  {
+    "id": "118",
+    "title": "┃DE┃ KINO",
+    "alias": "┃DE┃ KINO",
+    "censored": 0
+  },
+  {
+    "id": "119",
+    "title": "┃DE┃ KINO KINDER",
+    "alias": "┃DE┃ KINO KINDER",
+    "censored": 0
+  },
+  {
+    "id": "113",
+    "title": "┃DE┃ NETFLIX",
+    "alias": "┃DE┃ NETFLIX",
+    "censored": 0
+  },
+  {
+    "id": "485",
+    "title": "┃DE┃ RTL+ ┃ NOWTV",
+    "alias": "┃DE┃ RTL+ ┃ NOWTV",
+    "censored": 0
+  },
+  {
+    "id": "114",
+    "title": "┃DE┃ MAGENTA",
+    "alias": "┃DE┃ MAGENTA",
+    "censored": 0
+  },
+  {
+    "id": "115",
+    "title": "┃DE┃ AMAZON PRIME",
+    "alias": "┃DE┃ AMAZON PRIME",
+    "censored": 0
+  },
+  {
+    "id": "117",
+    "title": "┃DE┃ DISNEY+ ┃ DREAMWORKS ┃ NATGEO",
+    "alias": "┃DE┃ DISNEY+ ┃ DREAMWORKS ┃ NATGEO",
+    "censored": 0
+  },
+  {
+    "id": "604",
+    "title": "┃DE┃ JOYN",
+    "alias": "┃DE┃ JOYN",
+    "censored": 0
+  },
+  {
+    "id": "116",
+    "title": "┃DE┃ HBOMAX",
+    "alias": "┃DE┃ HBOMAX",
+    "censored": 0
+  },
+  {
+    "id": "140",
+    "title": "┃DE┃ APPLE TV+",
+    "alias": "┃DE┃ APPLE TV+",
+    "censored": 0
+  },
+  {
+    "id": "819",
+    "title": "┃DE┃ BOLLYWOOD",
+    "alias": "┃DE┃ BOLLYWOOD",
+    "censored": 0
+  },
+  {
+    "id": "899",
+    "title": "┃DE┃ FILM COLLECTION",
+    "alias": "┃DE┃ FILM COLLECTION",
+    "censored": 0
+  },
+  {
+    "id": "426",
+    "title": "┃DE┃ FERNSEHEN MEDIATHEK",
+    "alias": "┃DE┃ FERNSEHEN MEDIATHEK",
+    "censored": 0
+  },
+  {
+    "id": "123",
+    "title": "┃DE┃ FAMILIE",
+    "alias": "┃DE┃ FAMILIE",
+    "censored": 0
+  },
+  {
+    "id": "122",
+    "title": "┃DE┃ KOMÖDIE",
+    "alias": "┃DE┃ KOMÖDIE",
+    "censored": 0
+  },
+  {
+    "id": "128",
+    "title": "┃DE┃ DRAMA ┃ ROMANTIK",
+    "alias": "┃DE┃ DRAMA ┃ ROMANTIK",
+    "censored": 0
+  },
+  {
+    "id": "120",
+    "title": "┃DE┃ AKTION",
+    "alias": "┃DE┃ AKTION",
+    "censored": 0
+  },
+  {
+    "id": "121",
+    "title": "┃DE┃ ABENTEUER",
+    "alias": "┃DE┃ ABENTEUER",
+    "censored": 0
+  },
+  {
+    "id": "134",
+    "title": "┃DE┃ KRIMI",
+    "alias": "┃DE┃ KRIMI",
+    "censored": 0
+  },
+  {
+    "id": "124",
+    "title": "┃DE┃ THRILLER ┃ GEHEIMNIS",
+    "alias": "┃DE┃ THRILLER ┃ GEHEIMNIS",
+    "censored": 0
+  },
+  {
+    "id": "129",
+    "title": "┃DE┃ HORROR",
+    "alias": "┃DE┃ HORROR",
+    "censored": 0
+  },
+  {
+    "id": "130",
+    "title": "┃DE┃ HISTORY ┃ KRIEG",
+    "alias": "┃DE┃ HISTORY ┃ KRIEG",
+    "censored": 0
+  },
+  {
+    "id": "125",
+    "title": "┃DE┃ SCIENCE FICTION",
+    "alias": "┃DE┃ SCIENCE FICTION",
+    "censored": 0
+  },
+  {
+    "id": "126",
+    "title": "┃DE┃ FANTASIE",
+    "alias": "┃DE┃ FANTASIE",
+    "censored": 0
+  },
+  {
+    "id": "132",
+    "title": "┃DE┃ KINDER",
+    "alias": "┃DE┃ KINDER",
+    "censored": 0
+  },
+  {
+    "id": "137",
+    "title": "┃DE┃ KABARETT ┃ KONZERT ┃ MUSIK",
+    "alias": "┃DE┃ KABARETT ┃ KONZERT ┃ MUSIK",
+    "censored": 0
+  },
+  {
+    "id": "136",
+    "title": "┃DE┃ DOKUMENTAR FILME",
+    "alias": "┃DE┃ DOKUMENTAR FILME",
+    "censored": 0
+  },
+  {
+    "id": "142",
+    "title": "┃DE┃ KOLLEKTIONEN",
+    "alias": "┃DE┃ KOLLEKTIONEN",
+    "censored": 0
+  },
+  {
+    "id": "131",
+    "title": "┃DE┃ WESTERN",
+    "alias": "┃DE┃ WESTERN",
+    "censored": 0
+  },
+  {
+    "id": "135",
+    "title": "┃DE┃ WEIHNACHTS FILME",
+    "alias": "┃DE┃ WEIHNACHTS FILME",
+    "censored": 0
+  },
+  {
+    "id": "621",
+    "title": "┃DE┃ ANIME",
+    "alias": "┃DE┃ ANIME",
+    "censored": 0
+  },
+  {
+    "id": "3632",
+    "title": "┃DE┃ SYLVESTER STALLONE",
+    "alias": "┃DE┃ SYLVESTER STALLONE",
+    "censored": 0
+  },
+  {
+    "id": "3603",
+    "title": "┃DE┃ NICOLAS CAGE",
+    "alias": "┃DE┃ NICOLAS CAGE",
+    "censored": 0
+  },
+  {
+    "id": "3630",
+    "title": "┃DE┃ RYAN REYNOLDS",
+    "alias": "┃DE┃ RYAN REYNOLDS",
+    "censored": 0
+  },
+  {
+    "id": "391",
+    "title": "┃FR┃ NOUVEAUTÉS",
+    "alias": "┃FR┃ NOUVEAUTÉS",
+    "censored": 0
+  },
+  {
+    "id": "392",
+    "title": "┃FR┃ NOUVEAUTÉS ENFANTS",
+    "alias": "┃FR┃ NOUVEAUTÉS ENFANTS",
+    "censored": 0
+  },
+  {
+    "id": "3414",
+    "title": "┃FR┃ TOP 100",
+    "alias": "┃FR┃ TOP 100",
+    "censored": 0
+  },
+  {
+    "id": "3640",
+    "title": "┃FR┃ COLLECTION",
+    "alias": "┃FR┃ COLLECTION",
+    "censored": 0
+  },
+  {
+    "id": "3419",
+    "title": "┃FR┃ V.O. SOUS-TITRES",
+    "alias": "┃FR┃ V.O. SOUS-TITRES",
+    "censored": 0
+  },
+  {
+    "id": "393",
+    "title": "┃FR┃ NETFLIX",
+    "alias": "┃FR┃ NETFLIX",
+    "censored": 0
+  },
+  {
+    "id": "395",
+    "title": "┃FR┃ DISNEY+ ┃ NAT GEO",
+    "alias": "┃FR┃ DISNEY+ ┃ NAT GEO",
+    "censored": 0
+  },
+  {
+    "id": "2736",
+    "title": "┃FR┃ DISNEY+ KIDS",
+    "alias": "┃FR┃ DISNEY+ KIDS",
+    "censored": 0
+  },
+  {
+    "id": "394",
+    "title": "┃FR┃ AMAZON PRIME",
+    "alias": "┃FR┃ AMAZON PRIME",
+    "censored": 0
+  },
+  {
+    "id": "396",
+    "title": "┃FR┃ HBOMAX",
+    "alias": "┃FR┃ HBOMAX",
+    "censored": 0
+  },
+  {
+    "id": "397",
+    "title": "┃FR┃ APPLE TV+",
+    "alias": "┃FR┃ APPLE TV+",
+    "censored": 0
+  },
+  {
+    "id": "857",
+    "title": "┃FR┃ THRILLER ┃CRIME",
+    "alias": "┃FR┃ THRILLER ┃CRIME",
+    "censored": 0
+  },
+  {
+    "id": "398",
+    "title": "┃FR┃ ACTION | AVENTURE",
+    "alias": "┃FR┃ ACTION | AVENTURE",
+    "censored": 0
+  },
+  {
+    "id": "3420",
+    "title": "┃FR┃ COMEDY DRAMA",
+    "alias": "┃FR┃ COMEDY DRAMA",
+    "censored": 0
+  },
+  {
+    "id": "404",
+    "title": "┃FR┃ DRAME ┃ ROMANCE",
+    "alias": "┃FR┃ DRAME ┃ ROMANCE",
+    "censored": 0
+  },
+  {
+    "id": "3422",
+    "title": "┃FR┃ GUERRE",
+    "alias": "┃FR┃ GUERRE",
+    "censored": 0
+  },
+  {
+    "id": "3423",
+    "title": "┃FR┃ SCIENCE-FICTION",
+    "alias": "┃FR┃ SCIENCE-FICTION",
+    "censored": 0
+  },
+  {
+    "id": "2828",
+    "title": "┃FR┃ FANTASY | FANTASIQUE",
+    "alias": "┃FR┃ FANTASY | FANTASIQUE",
+    "censored": 0
+  },
+  {
+    "id": "410",
+    "title": "┃FR┃HORROR | HORREUR",
+    "alias": "┃FR┃HORROR | HORREUR",
+    "censored": 0
+  },
+  {
+    "id": "3424",
+    "title": "┃FR┃ ROMANCE",
+    "alias": "┃FR┃ ROMANCE",
+    "censored": 0
+  },
+  {
+    "id": "859",
+    "title": "┃FR┃ TELEFILM",
+    "alias": "┃FR┃ TELEFILM",
+    "censored": 0
+  },
+  {
+    "id": "401",
+    "title": "┃FR┃ KIDS | ENFANTS",
+    "alias": "┃FR┃ KIDS | ENFANTS",
+    "censored": 0
+  },
+  {
+    "id": "3425",
+    "title": "┃FR┃ COMICS",
+    "alias": "┃FR┃ COMICS",
+    "censored": 0
+  },
+  {
+    "id": "3426",
+    "title": "┃FR┃ MANGAS",
+    "alias": "┃FR┃ MANGAS",
+    "censored": 0
+  },
+  {
+    "id": "3427",
+    "title": "┃FR┃ ANIMATIONS (COURTS-METRAGES)",
+    "alias": "┃FR┃ ANIMATIONS (COURTS-METRAGES)",
+    "censored": 0
+  },
+  {
+    "id": "3428",
+    "title": "┃FR┃ FILMS DE NOEL",
+    "alias": "┃FR┃ FILMS DE NOEL",
+    "censored": 0
+  },
+  {
+    "id": "409",
+    "title": "┃FR┃ COMEDIE",
+    "alias": "┃FR┃ COMEDIE",
+    "censored": 0
+  },
+  {
+    "id": "3430",
+    "title": "┃FR┃ FILMS ANCIENS",
+    "alias": "┃FR┃ FILMS ANCIENS",
+    "censored": 0
+  },
+  {
+    "id": "3432",
+    "title": "┃FR┃ WESTERN",
+    "alias": "┃FR┃ WESTERN",
+    "censored": 0
+  },
+  {
+    "id": "403",
+    "title": "┃FR┃ DOCUMENTAIRES ┃ HISTORY",
+    "alias": "┃FR┃ DOCUMENTAIRES ┃ HISTORY",
+    "censored": 0
+  },
+  {
+    "id": "3434",
+    "title": "┃FR┃ SPECTACLES",
+    "alias": "┃FR┃ SPECTACLES",
+    "censored": 0
+  },
+  {
+    "id": "3641",
+    "title": "┃TR┃ GÜNLÜK -  PAZARTESİ",
+    "alias": "┃TR┃ GÜNLÜK -  PAZARTESİ",
+    "censored": 0
+  },
+  {
+    "id": "3642",
+    "title": "┃TR┃ GÜNLÜK -  SALI",
+    "alias": "┃TR┃ GÜNLÜK -  SALI",
+    "censored": 0
+  },
+  {
+    "id": "3643",
+    "title": "┃TR┃ GÜNLÜK -  ÇARŞAMBA",
+    "alias": "┃TR┃ GÜNLÜK -  ÇARŞAMBA",
+    "censored": 0
+  },
+  {
+    "id": "3644",
+    "title": "┃TR┃ GÜNLÜK -  PERŞEMBE",
+    "alias": "┃TR┃ GÜNLÜK -  PERŞEMBE",
+    "censored": 0
+  },
+  {
+    "id": "3645",
+    "title": "┃TR┃ GÜNLÜK -  CUMA",
+    "alias": "┃TR┃ GÜNLÜK -  CUMA",
+    "censored": 0
+  },
+  {
+    "id": "3646",
+    "title": "┃TR┃ GÜNLÜK - CUMARTESİ",
+    "alias": "┃TR┃ GÜNLÜK - CUMARTESİ",
+    "censored": 0
+  },
+  {
+    "id": "3647",
+    "title": "┃TR┃ GÜNLÜK - PAZAR",
+    "alias": "┃TR┃ GÜNLÜK - PAZAR",
+    "censored": 0
+  },
+  {
+    "id": "3464",
+    "title": "┃TR┃ 4K HDR | SDR",
+    "alias": "┃TR┃ 4K HDR | SDR",
+    "censored": 0
+  },
+  {
+    "id": "3468",
+    "title": "┃TR┃ 3D FILMLER",
+    "alias": "┃TR┃ 3D FILMLER",
+    "censored": 0
+  },
+  {
+    "id": "3465",
+    "title": "┃TR┃ VIZYON FILMLER",
+    "alias": "┃TR┃ VIZYON FILMLER",
+    "censored": 0
+  },
+  {
+    "id": "360",
+    "title": "┃TR┃ YERLI FILMLERI",
+    "alias": "┃TR┃ YERLI FILMLERI",
+    "censored": 0
+  },
+  {
+    "id": "368",
+    "title": "┃TR┃ NETFLIX",
+    "alias": "┃TR┃ NETFLIX",
+    "censored": 0
+  },
+  {
+    "id": "3515",
+    "title": "┃TR┃ AMAZON PRIME VIDEO",
+    "alias": "┃TR┃ AMAZON PRIME VIDEO",
+    "censored": 0
+  },
+  {
+    "id": "354",
+    "title": "┃TR┃ DISNEY+",
+    "alias": "┃TR┃ DISNEY+",
+    "censored": 0
+  },
+  {
+    "id": "355",
+    "title": "┃TR┃ HBOMAX | BLUTV",
+    "alias": "┃TR┃ HBOMAX | BLUTV",
+    "censored": 0
+  },
+  {
+    "id": "364",
+    "title": "┃TR┃ APPLE TV+",
+    "alias": "┃TR┃ APPLE TV+",
+    "censored": 0
+  },
+  {
+    "id": "478",
+    "title": "┃TR┃ BEIN | TOD",
+    "alias": "┃TR┃ BEIN | TOD",
+    "censored": 0
+  },
+  {
+    "id": "3654",
+    "title": "┃TR┃ TABII",
+    "alias": "┃TR┃ TABII",
+    "censored": 0
+  },
+  {
+    "id": "352",
+    "title": "┃TR┃ EXXEN",
+    "alias": "┃TR┃ EXXEN",
+    "censored": 0
+  },
+  {
+    "id": "362",
+    "title": "┃TR┃ MUBI",
+    "alias": "┃TR┃ MUBI",
+    "censored": 0
+  },
+  {
+    "id": "3514",
+    "title": "┃TR┃ ALTYAZILI",
+    "alias": "┃TR┃ ALTYAZILI",
+    "censored": 0
+  },
+  {
+    "id": "3469",
+    "title": "┃TR┃ AKSIYON",
+    "alias": "┃TR┃ AKSIYON",
+    "censored": 0
+  },
+  {
+    "id": "3516",
+    "title": "┃TR┃ KOMEDI",
+    "alias": "┃TR┃ KOMEDI",
+    "censored": 0
+  },
+  {
+    "id": "3466",
+    "title": "┃TR┃ DRAM",
+    "alias": "┃TR┃ DRAM",
+    "censored": 0
+  },
+  {
+    "id": "3470",
+    "title": "┃TR┃ KORKU-GERILIM",
+    "alias": "┃TR┃ KORKU-GERILIM",
+    "censored": 0
+  },
+  {
+    "id": "361",
+    "title": "┃TR┃ YESILCAM",
+    "alias": "┃TR┃ YESILCAM",
+    "censored": 0
+  },
+  {
+    "id": "456",
+    "title": "┃TR┃ ANIMASYON",
+    "alias": "┃TR┃ ANIMASYON",
+    "censored": 0
+  },
+  {
+    "id": "457",
+    "title": "┃TR┃ BELGESEL",
+    "alias": "┃TR┃ BELGESEL",
+    "censored": 0
+  },
+  {
+    "id": "3413",
+    "title": "┃TR┃ SERI FILMLER",
+    "alias": "┃TR┃ SERI FILMLER",
+    "censored": 0
+  },
+  {
+    "id": "356",
+    "title": "┃TR┃ KEMAL SUNAL",
+    "alias": "┃TR┃ KEMAL SUNAL",
+    "censored": 0
+  },
+  {
+    "id": "3531",
+    "title": "┃TR┃ TIYATRO FILMLER",
+    "alias": "┃TR┃ TIYATRO FILMLER",
+    "censored": 0
+  },
+  {
+    "id": "3524",
+    "title": "┃TR┃ CUNEYT ARKIN FILMLERI",
+    "alias": "┃TR┃ CUNEYT ARKIN FILMLERI",
+    "censored": 0
+  },
+  {
+    "id": "3525",
+    "title": "┃TR┃ FERDI TAYFUR FILMLERI",
+    "alias": "┃TR┃ FERDI TAYFUR FILMLERI",
+    "censored": 0
+  },
+  {
+    "id": "3526",
+    "title": "┃TR┃ IBRAHIM TATLISES FILMLERI",
+    "alias": "┃TR┃ IBRAHIM TATLISES FILMLERI",
+    "censored": 0
+  },
+  {
+    "id": "3527",
+    "title": "┃TR┃ ORHAN GENCEBAY FILMLERI",
+    "alias": "┃TR┃ ORHAN GENCEBAY FILMLERI",
+    "censored": 0
+  },
+  {
+    "id": "3528",
+    "title": "┃TR┃ ZEKI & METIN AKPINAR FILMLERI",
+    "alias": "┃TR┃ ZEKI & METIN AKPINAR FILMLERI",
+    "censored": 0
+  },
+  {
+    "id": "3529",
+    "title": "┃TR┃ YILMAZ GUNEY FILMLERI",
+    "alias": "┃TR┃ YILMAZ GUNEY FILMLERI",
+    "censored": 0
+  },
+  {
+    "id": "3530",
+    "title": "┃TR┃ TURKAN SORAY FILMLERI",
+    "alias": "┃TR┃ TURKAN SORAY FILMLERI",
+    "censored": 0
+  },
+  {
+    "id": "2893",
+    "title": "┃GR┃ ANT1+ F1 / SPORTS",
+    "alias": "┃GR┃ ANT1+ F1 / SPORTS",
+    "censored": 0
+  },
+  {
+    "id": "179",
+    "title": "┃GR┃ MARKOS SEFERLIS",
+    "alias": "┃GR┃ MARKOS SEFERLIS",
+    "censored": 0
+  },
+  {
+    "id": "193",
+    "title": "┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",
+    "alias": "┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "205",
+    "title": "┃GR┃ ΚΙΝΗΜΑΤΟΓΡΆΦΟΥ ┃ CINEMA",
+    "alias": "┃GR┃ ΚΙΝΗΜΑΤΟΓΡΆΦΟΥ ┃ CINEMA",
+    "censored": 0
+  },
+  {
+    "id": "290",
+    "title": "┃GR┃ AMAZON PRIME",
+    "alias": "┃GR┃ AMAZON PRIME",
+    "censored": 0
+  },
+  {
+    "id": "263",
+    "title": "┃GR┃ DISNEY+",
+    "alias": "┃GR┃ DISNEY+",
+    "censored": 0
+  },
+  {
+    "id": "264",
+    "title": "┃GR┃ NETFLIX KIDS",
+    "alias": "┃GR┃ NETFLIX KIDS",
+    "censored": 0
+  },
+  {
+    "id": "200",
+    "title": "┃GR┃ NETFLIX",
+    "alias": "┃GR┃ NETFLIX",
+    "censored": 0
+  },
+  {
+    "id": "269",
+    "title": "┃GR┃ KIDS ┃ ΠΑΙΔΙΚΑ ┃ΜΕΤΑΓΛΩΤΙΣΜΈΝΑ┃",
+    "alias": "┃GR┃ KIDS ┃ ΠΑΙΔΙΚΑ ┃ΜΕΤΑΓΛΩΤΙΣΜΈΝΑ┃",
+    "censored": 0
+  },
+  {
+    "id": "210",
+    "title": "┃GR┃ KIDS ┃ ΠΑΙΔΙΚΑ",
+    "alias": "┃GR┃ KIDS ┃ ΠΑΙΔΙΚΑ",
+    "censored": 0
+  },
+  {
+    "id": "231",
+    "title": "┃GR┃ ΜΥΣΤΗΡΊΟΥ ┃ MYSTERY",
+    "alias": "┃GR┃ ΜΥΣΤΗΡΊΟΥ ┃ MYSTERY",
+    "censored": 0
+  },
+  {
+    "id": "217",
+    "title": "┃GR┃ ΚΩΜΩΔΊΑΣ ┃ ΟΙΚΟΓΕΝΕΙΑΚΗ ┃ COMEDY ┃ FAMILY",
+    "alias": "┃GR┃ ΚΩΜΩΔΊΑΣ ┃ ΟΙΚΟΓΕΝΕΙΑΚΗ ┃ COMEDY ┃ FAMILY",
+    "censored": 0
+  },
+  {
+    "id": "216",
+    "title": "┃GR┃ ΔΡΑΜΑ ┃ ΡΟΜΑΝΤΙΚΗ ┃ DRAMA ┃ ROMANCE",
+    "alias": "┃GR┃ ΔΡΑΜΑ ┃ ΡΟΜΑΝΤΙΚΗ ┃ DRAMA ┃ ROMANCE",
+    "censored": 0
+  },
+  {
+    "id": "226",
+    "title": "┃GR┃ ΑΣΤΥΝΟΜΙΚΗ ┃ CRIME",
+    "alias": "┃GR┃ ΑΣΤΥΝΟΜΙΚΗ ┃ CRIME",
+    "censored": 0
+  },
+  {
+    "id": "221",
+    "title": "┃GR┃ ΔΡΆΣΗΣ ┃ ACTION",
+    "alias": "┃GR┃ ΔΡΆΣΗΣ ┃ ACTION",
+    "censored": 0
+  },
+  {
+    "id": "218",
+    "title": "┃GR┃ ΧΡΙΣΤΟΥΓΕΝΝΩΝ ┃ CHRISTMAS",
+    "alias": "┃GR┃ ΧΡΙΣΤΟΥΓΕΝΝΩΝ ┃ CHRISTMAS",
+    "censored": 0
+  },
+  {
+    "id": "230",
+    "title": "┃GR┃ ΘΡΙΛΕΡ ┃ THRILLER",
+    "alias": "┃GR┃ ΘΡΙΛΕΡ ┃ THRILLER",
+    "censored": 0
+  },
+  {
+    "id": "229",
+    "title": "┃GR┃ ΠΟΛΕΜΙΚΕΣ┃ WAR",
+    "alias": "┃GR┃ ΠΟΛΕΜΙΚΕΣ┃ WAR",
+    "censored": 0
+  },
+  {
+    "id": "228",
+    "title": "┃GR┃ ΠΕΡΙΠΕΤΕΙΑΣ ┃ ADVENTURE",
+    "alias": "┃GR┃ ΠΕΡΙΠΕΤΕΙΑΣ ┃ ADVENTURE",
+    "censored": 0
+  },
+  {
+    "id": "236",
+    "title": "┃GR┃ ΕΠΙΣΤΗΜΟΝΙΚΉΣ ΦΑΝΤΑΣΊΑΣ ┃ SCI-FI",
+    "alias": "┃GR┃ ΕΠΙΣΤΗΜΟΝΙΚΉΣ ΦΑΝΤΑΣΊΑΣ ┃ SCI-FI",
+    "censored": 0
+  },
+  {
+    "id": "235",
+    "title": "┃GR┃ ΤΡΌΜΟΥ ┃ HORROR",
+    "alias": "┃GR┃ ΤΡΌΜΟΥ ┃ HORROR",
+    "censored": 0
+  },
+  {
+    "id": "234",
+    "title": "┃GR┃ ΦΑΝΤΑΣΙΑS ┃ FANTASY",
+    "alias": "┃GR┃ ΦΑΝΤΑΣΙΑS ┃ FANTASY",
+    "censored": 0
+  },
+  {
+    "id": "233",
+    "title": "┃GR┃ ΝΤΟΚΥΜΑΝΤΈΡ / DOCU / SPORT",
+    "alias": "┃GR┃ ΝΤΟΚΥΜΑΝΤΈΡ / DOCU / SPORT",
+    "censored": 0
+  },
+  {
+    "id": "232",
+    "title": "┃GR┃ ΓΟΥΕΣΤΕΡΝ / WESTERN",
+    "alias": "┃GR┃ ΓΟΥΕΣΤΕΡΝ / WESTERN",
+    "censored": 0
+  },
+  {
+    "id": "3090",
+    "title": "┃ES┃NUEVAS CINE",
+    "alias": "┃ES┃NUEVAS CINE",
+    "censored": 0
+  },
+  {
+    "id": "3091",
+    "title": "┃ES┃NETFLIX",
+    "alias": "┃ES┃NETFLIX",
+    "censored": 0
+  },
+  {
+    "id": "3092",
+    "title": "┃ES┃ AMAZON PRIME",
+    "alias": "┃ES┃ AMAZON PRIME",
+    "censored": 0
+  },
+  {
+    "id": "3093",
+    "title": "┃ES┃ DISNEY+",
+    "alias": "┃ES┃ DISNEY+",
+    "censored": 0
+  },
+  {
+    "id": "3094",
+    "title": "┃ES┃ HBOMAX",
+    "alias": "┃ES┃ HBOMAX",
+    "censored": 0
+  },
+  {
+    "id": "3095",
+    "title": "┃ES┃ APPLE TV+",
+    "alias": "┃ES┃ APPLE TV+",
+    "censored": 0
+  },
+  {
+    "id": "3096",
+    "title": "┃ES┃ ACTION",
+    "alias": "┃ES┃ ACTION",
+    "censored": 0
+  },
+  {
+    "id": "3097",
+    "title": "┃ES┃ ADVENTURE",
+    "alias": "┃ES┃ ADVENTURE",
+    "censored": 0
+  },
+  {
+    "id": "3098",
+    "title": "┃ES┃ COMEDY",
+    "alias": "┃ES┃ COMEDY",
+    "censored": 0
+  },
+  {
+    "id": "3099",
+    "title": "┃ES┃ FAMILY",
+    "alias": "┃ES┃ FAMILY",
+    "censored": 0
+  },
+  {
+    "id": "3100",
+    "title": "┃ES┃ THRILLER | MYSTER",
+    "alias": "┃ES┃ THRILLER | MYSTER",
+    "censored": 0
+  },
+  {
+    "id": "3101",
+    "title": "┃ES┃ CRIME",
+    "alias": "┃ES┃ CRIME",
+    "censored": 0
+  },
+  {
+    "id": "3102",
+    "title": "┃ES┃ SCI-FI",
+    "alias": "┃ES┃ SCI-FI",
+    "censored": 0
+  },
+  {
+    "id": "3103",
+    "title": "┃ES┃ DRAMA | ROMANCE",
+    "alias": "┃ES┃ DRAMA | ROMANCE",
+    "censored": 0
+  },
+  {
+    "id": "3104",
+    "title": "┃ES┃ HORROR",
+    "alias": "┃ES┃ HORROR",
+    "censored": 0
+  },
+  {
+    "id": "3105",
+    "title": "┃ES┃ FANTASY",
+    "alias": "┃ES┃ FANTASY",
+    "censored": 0
+  },
+  {
+    "id": "3107",
+    "title": "┃ES┃ CLASSIC",
+    "alias": "┃ES┃ CLASSIC",
+    "censored": 0
+  },
+  {
+    "id": "3106",
+    "title": "┃ES┃ HISTORIA | WAR",
+    "alias": "┃ES┃ HISTORIA | WAR",
+    "censored": 0
+  },
+  {
+    "id": "3109",
+    "title": "┃ES┃ KIDS | BABY",
+    "alias": "┃ES┃ KIDS | BABY",
+    "censored": 0
+  },
+  {
+    "id": "3169",
+    "title": "┃PT┃ CINEMA",
+    "alias": "┃PT┃ CINEMA",
+    "censored": 0
+  },
+  {
+    "id": "3170",
+    "title": "┃PT┃ AMAZON PRIME VIDEO",
+    "alias": "┃PT┃ AMAZON PRIME VIDEO",
+    "censored": 0
+  },
+  {
+    "id": "3171",
+    "title": "┃PT┃ NETFLIX",
+    "alias": "┃PT┃ NETFLIX",
+    "censored": 0
+  },
+  {
+    "id": "3172",
+    "title": "┃PT┃ DISNEY+",
+    "alias": "┃PT┃ DISNEY+",
+    "censored": 0
+  },
+  {
+    "id": "3173",
+    "title": "┃PT┃ HBOMAX",
+    "alias": "┃PT┃ HBOMAX",
+    "censored": 0
+  },
+  {
+    "id": "3174",
+    "title": "┃PT┃ APPLE TV+",
+    "alias": "┃PT┃ APPLE TV+",
+    "censored": 0
+  },
+  {
+    "id": "3175",
+    "title": "┃PT┃ ACTION",
+    "alias": "┃PT┃ ACTION",
+    "censored": 0
+  },
+  {
+    "id": "3176",
+    "title": "┃PT┃ ADVENTURE",
+    "alias": "┃PT┃ ADVENTURE",
+    "censored": 0
+  },
+  {
+    "id": "3178",
+    "title": "┃PT┃ FAMILY",
+    "alias": "┃PT┃ FAMILY",
+    "censored": 0
+  },
+  {
+    "id": "3177",
+    "title": "┃PT┃ COMEDY",
+    "alias": "┃PT┃ COMEDY",
+    "censored": 0
+  },
+  {
+    "id": "3179",
+    "title": "┃PT┃ THRILLER | MYSTER",
+    "alias": "┃PT┃ THRILLER | MYSTER",
+    "censored": 0
+  },
+  {
+    "id": "3180",
+    "title": "┃PT┃ CRIME",
+    "alias": "┃PT┃ CRIME",
+    "censored": 0
+  },
+  {
+    "id": "3181",
+    "title": "┃PT┃ SCI-FI",
+    "alias": "┃PT┃ SCI-FI",
+    "censored": 0
+  },
+  {
+    "id": "3182",
+    "title": "┃PT┃ DRAME | ROMANCE",
+    "alias": "┃PT┃ DRAME | ROMANCE",
+    "censored": 0
+  },
+  {
+    "id": "3183",
+    "title": "┃PT┃ HORROR",
+    "alias": "┃PT┃ HORROR",
+    "censored": 0
+  },
+  {
+    "id": "3184",
+    "title": "┃PT┃ WAR",
+    "alias": "┃PT┃ WAR",
+    "censored": 0
+  },
+  {
+    "id": "3185",
+    "title": "┃PT┃ KIDS",
+    "alias": "┃PT┃ KIDS",
+    "censored": 0
+  },
+  {
+    "id": "3186",
+    "title": "┃PT┃ DOCUMENTARY",
+    "alias": "┃PT┃ DOCUMENTARY",
+    "censored": 0
+  },
+  {
+    "id": "701",
+    "title": "┃AL┃ SHQIP",
+    "alias": "┃AL┃ SHQIP",
+    "censored": 0
+  },
+  {
+    "id": "432",
+    "title": "┃AL┃ CINEMA | KINEMA",
+    "alias": "┃AL┃ CINEMA | KINEMA",
+    "censored": 0
+  },
+  {
+    "id": "433",
+    "title": "┃AL┃ CINEMA KIDS | KINEMA FËMIJË",
+    "alias": "┃AL┃ CINEMA KIDS | KINEMA FËMIJË",
+    "censored": 0
+  },
+  {
+    "id": "434",
+    "title": "┃AL┃ NETFLIX",
+    "alias": "┃AL┃ NETFLIX",
+    "censored": 0
+  },
+  {
+    "id": "435",
+    "title": "┃AL┃ NETFLIX KIDS | NETFLIX FËMIJË",
+    "alias": "┃AL┃ NETFLIX KIDS | NETFLIX FËMIJË",
+    "censored": 0
+  },
+  {
+    "id": "436",
+    "title": "┃AL┃ AMAZON PRIME",
+    "alias": "┃AL┃ AMAZON PRIME",
+    "censored": 0
+  },
+  {
+    "id": "437",
+    "title": "┃AL┃ DISNEY + ┃ NAT GEO",
+    "alias": "┃AL┃ DISNEY + ┃ NAT GEO",
+    "censored": 0
+  },
+  {
+    "id": "438",
+    "title": "┃AL┃ ISLAM",
+    "alias": "┃AL┃ ISLAM",
+    "censored": 0
+  },
+  {
+    "id": "439",
+    "title": "┃AL┃ FESTIVE",
+    "alias": "┃AL┃ FESTIVE",
+    "censored": 0
+  },
+  {
+    "id": "440",
+    "title": "┃AL┃ APPLE TV+",
+    "alias": "┃AL┃ APPLE TV+",
+    "censored": 0
+  },
+  {
+    "id": "900",
+    "title": "┃AL┃ TURK",
+    "alias": "┃AL┃ TURK",
+    "censored": 0
+  },
+  {
+    "id": "888",
+    "title": "┃AL┃ HINDI",
+    "alias": "┃AL┃ HINDI",
+    "censored": 0
+  },
+  {
+    "id": "886",
+    "title": "┃AL┃ ASIA | AZIATIK",
+    "alias": "┃AL┃ ASIA | AZIATIK",
+    "censored": 0
+  },
+  {
+    "id": "2788",
+    "title": "┃AL┃ NOSTALGJIK",
+    "alias": "┃AL┃ NOSTALGJIK",
+    "censored": 0
+  },
+  {
+    "id": "441",
+    "title": "┃AL┃ ACTION | AKSION",
+    "alias": "┃AL┃ ACTION | AKSION",
+    "censored": 0
+  },
+  {
+    "id": "442",
+    "title": "┃AL┃ ADVENTURE | AVENTURË",
+    "alias": "┃AL┃ ADVENTURE | AVENTURË",
+    "censored": 0
+  },
+  {
+    "id": "443",
+    "title": "┃AL┃ COMEDY | KOMEDI",
+    "alias": "┃AL┃ COMEDY | KOMEDI",
+    "censored": 0
+  },
+  {
+    "id": "444",
+    "title": "┃AL┃ FAMILY | FAMILJAR",
+    "alias": "┃AL┃ FAMILY | FAMILJAR",
+    "censored": 0
+  },
+  {
+    "id": "445",
+    "title": "┃AL┃ THRILLER ┃ MISTER",
+    "alias": "┃AL┃ THRILLER ┃ MISTER",
+    "censored": 0
+  },
+  {
+    "id": "446",
+    "title": "┃AL┃ KRIM",
+    "alias": "┃AL┃ KRIM",
+    "censored": 0
+  },
+  {
+    "id": "447",
+    "title": "┃AL┃ FANTASY | FANTAZI",
+    "alias": "┃AL┃ FANTASY | FANTAZI",
+    "censored": 0
+  },
+  {
+    "id": "448",
+    "title": "┃AL┃ SC-FI | FANTASHKENCË",
+    "alias": "┃AL┃ SC-FI | FANTASHKENCË",
+    "censored": 0
+  },
+  {
+    "id": "449",
+    "title": "┃AL┃ DRAMË ┃ ROMANCË",
+    "alias": "┃AL┃ DRAMË ┃ ROMANCË",
+    "censored": 0
+  },
+  {
+    "id": "450",
+    "title": "┃AL┃ HORROR",
+    "alias": "┃AL┃ HORROR",
+    "censored": 0
+  },
+  {
+    "id": "452",
+    "title": "┃AL┃ WAR | LUFTË┃HISTORI",
+    "alias": "┃AL┃ WAR | LUFTË┃HISTORI",
+    "censored": 0
+  },
+  {
+    "id": "453",
+    "title": "┃AL┃KIDS | FËMIJË",
+    "alias": "┃AL┃KIDS | FËMIJË",
+    "censored": 0
+  },
+  {
+    "id": "454",
+    "title": "┃AL┃ DOKUMENTARË",
+    "alias": "┃AL┃ DOKUMENTARË",
+    "censored": 0
+  },
+  {
+    "id": "451",
+    "title": "┃AL┃ WESTERN",
+    "alias": "┃AL┃ WESTERN",
+    "censored": 0
+  },
+  {
+    "id": "3636",
+    "title": "┃EN┃ TOP 100",
+    "alias": "┃EN┃ TOP 100",
+    "censored": 0
+  },
+  {
+    "id": "550",
+    "title": "┃EN┃ CINEMA",
+    "alias": "┃EN┃ CINEMA",
+    "censored": 0
+  },
+  {
+    "id": "582",
+    "title": "┃EN┃ BET+",
+    "alias": "┃EN┃ BET+",
+    "censored": 0
+  },
+  {
+    "id": "532",
+    "title": "┃EN┃ NETFLIX",
+    "alias": "┃EN┃ NETFLIX",
+    "censored": 0
+  },
+  {
+    "id": "531",
+    "title": "┃EN┃ AMAZON PRIME",
+    "alias": "┃EN┃ AMAZON PRIME",
+    "censored": 0
+  },
+  {
+    "id": "539",
+    "title": "┃EN┃ DISNEY+",
+    "alias": "┃EN┃ DISNEY+",
+    "censored": 0
+  },
+  {
+    "id": "793",
+    "title": "┃EN┃ HBO",
+    "alias": "┃EN┃ HBO",
+    "censored": 0
+  },
+  {
+    "id": "807",
+    "title": "┃EN┃ DISCOVERY +",
+    "alias": "┃EN┃ DISCOVERY +",
+    "censored": 0
+  },
+  {
+    "id": "817",
+    "title": "┃EN┃ PARAMOUNT +",
+    "alias": "┃EN┃ PARAMOUNT +",
+    "censored": 0
+  },
+  {
+    "id": "802",
+    "title": "┃EN┃ APPLE TV+",
+    "alias": "┃EN┃ APPLE TV+",
+    "censored": 0
+  },
+  {
+    "id": "803",
+    "title": "┃EN┃ PEACOCK",
+    "alias": "┃EN┃ PEACOCK",
+    "censored": 0
+  },
+  {
+    "id": "805",
+    "title": "┃EN┃ HULU",
+    "alias": "┃EN┃ HULU",
+    "censored": 0
+  },
+  {
+    "id": "808",
+    "title": "┃EN┃ TUBI",
+    "alias": "┃EN┃ TUBI",
+    "censored": 0
+  },
+  {
+    "id": "812",
+    "title": "┃EN┃ LIFETIME",
+    "alias": "┃EN┃ LIFETIME",
+    "censored": 0
+  },
+  {
+    "id": "813",
+    "title": "┃EN┃ SKY",
+    "alias": "┃EN┃ SKY",
+    "censored": 0
+  },
+  {
+    "id": "814",
+    "title": "┃EN┃ BBC",
+    "alias": "┃EN┃ BBC",
+    "censored": 0
+  },
+  {
+    "id": "815",
+    "title": "┃EN┃ CNN",
+    "alias": "┃EN┃ CNN",
+    "censored": 0
+  },
+  {
+    "id": "823",
+    "title": "┃EN┃ ESPN+",
+    "alias": "┃EN┃ ESPN+",
+    "censored": 0
+  },
+  {
+    "id": "961",
+    "title": "┃EN┃ NETFLIX BLACK LEAD",
+    "alias": "┃EN┃ NETFLIX BLACK LEAD",
+    "censored": 0
+  },
+  {
+    "id": "829",
+    "title": "┃EN┃ HALLMARK",
+    "alias": "┃EN┃ HALLMARK",
+    "censored": 0
+  },
+  {
+    "id": "544",
+    "title": "┃EN┃ COMEDY",
+    "alias": "┃EN┃ COMEDY",
+    "censored": 0
+  },
+  {
+    "id": "545",
+    "title": "┃EN┃ DRAMA ┃ ROMANCE",
+    "alias": "┃EN┃ DRAMA ┃ ROMANCE",
+    "censored": 0
+  },
+  {
+    "id": "547",
+    "title": "┃EN┃ FAMILY",
+    "alias": "┃EN┃ FAMILY",
+    "censored": 0
+  },
+  {
+    "id": "548",
+    "title": "┃EN┃ CRIME",
+    "alias": "┃EN┃ CRIME",
+    "censored": 0
+  },
+  {
+    "id": "540",
+    "title": "┃EN┃ ACTION",
+    "alias": "┃EN┃ ACTION",
+    "censored": 0
+  },
+  {
+    "id": "546",
+    "title": "┃EN┃ ADVENTURE",
+    "alias": "┃EN┃ ADVENTURE",
+    "censored": 0
+  },
+  {
+    "id": "549",
+    "title": "┃EN┃ FANTASY",
+    "alias": "┃EN┃ FANTASY",
+    "censored": 0
+  },
+  {
+    "id": "543",
+    "title": "┃EN┃ THRILLER┃MYSTERY",
+    "alias": "┃EN┃ THRILLER┃MYSTERY",
+    "censored": 0
+  },
+  {
+    "id": "809",
+    "title": "┃EN┃ SCIENCE FICTION",
+    "alias": "┃EN┃ SCIENCE FICTION",
+    "censored": 0
+  },
+  {
+    "id": "542",
+    "title": "┃EN┃ HORROR",
+    "alias": "┃EN┃ HORROR",
+    "censored": 0
+  },
+  {
+    "id": "791",
+    "title": "┃EN┃ HISTORY┃WAR",
+    "alias": "┃EN┃ HISTORY┃WAR",
+    "censored": 0
+  },
+  {
+    "id": "806",
+    "title": "┃EN┃ CHRISTMAS",
+    "alias": "┃EN┃ CHRISTMAS",
+    "censored": 0
+  },
+  {
+    "id": "810",
+    "title": "┃EN┃ KIDS",
+    "alias": "┃EN┃ KIDS",
+    "censored": 0
+  },
+  {
+    "id": "551",
+    "title": "┃EN┃ DOCUMENTARY",
+    "alias": "┃EN┃ DOCUMENTARY",
+    "censored": 0
+  },
+  {
+    "id": "804",
+    "title": "┃EN┃ WESTERN",
+    "alias": "┃EN┃ WESTERN",
+    "censored": 0
+  },
+  {
+    "id": "811",
+    "title": "┃EN┃ MUSIC",
+    "alias": "┃EN┃ MUSIC",
+    "censored": 0
+  },
+  {
+    "id": "2787",
+    "title": "┃IT┃ NETFLIX",
+    "alias": "┃IT┃ NETFLIX",
+    "censored": 0
+  },
+  {
+    "id": "2790",
+    "title": "┃IT┃ DISNEY+",
+    "alias": "┃IT┃ DISNEY+",
+    "censored": 0
+  },
+  {
+    "id": "260",
+    "title": "┃IT┃ AMAZON PRIME",
+    "alias": "┃IT┃ AMAZON PRIME",
+    "censored": 0
+  },
+  {
+    "id": "578",
+    "title": "┃IT┃ RAI PLAY",
+    "alias": "┃IT┃ RAI PLAY",
+    "censored": 0
+  },
+  {
+    "id": "2785",
+    "title": "┃IT┃ ITALY MOVIES",
+    "alias": "┃IT┃ ITALY MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "495",
+    "title": "┃IT┃ SKY ORIGINAL",
+    "alias": "┃IT┃ SKY ORIGINAL",
+    "censored": 0
+  },
+  {
+    "id": "239",
+    "title": "┃IT┃ ANIMAZIONE",
+    "alias": "┃IT┃ ANIMAZIONE",
+    "censored": 0
+  },
+  {
+    "id": "262",
+    "title": "┃IT┃ AVVENTURA",
+    "alias": "┃IT┃ AVVENTURA",
+    "censored": 0
+  },
+  {
+    "id": "238",
+    "title": "┃IT┃ AZIONE",
+    "alias": "┃IT┃ AZIONE",
+    "censored": 0
+  },
+  {
+    "id": "241",
+    "title": "┃IT┃ CINEMA ┃ NUOVO",
+    "alias": "┃IT┃ CINEMA ┃ NUOVO",
+    "censored": 0
+  },
+  {
+    "id": "242",
+    "title": "┃IT┃ COMMEDIA",
+    "alias": "┃IT┃ COMMEDIA",
+    "censored": 0
+  },
+  {
+    "id": "244",
+    "title": "┃IT┃ CRIMINE",
+    "alias": "┃IT┃ CRIMINE",
+    "censored": 0
+  },
+  {
+    "id": "245",
+    "title": "┃IT┃ DOCUMENTARIO",
+    "alias": "┃IT┃ DOCUMENTARIO",
+    "censored": 0
+  },
+  {
+    "id": "246",
+    "title": "┃IT┃ DRAMMA",
+    "alias": "┃IT┃ DRAMMA",
+    "censored": 0
+  },
+  {
+    "id": "240",
+    "title": "┃IT┃ BAMBINI",
+    "alias": "┃IT┃ BAMBINI",
+    "censored": 0
+  },
+  {
+    "id": "261",
+    "title": "┃IT┃ FAMIGLIA",
+    "alias": "┃IT┃ FAMIGLIA",
+    "censored": 0
+  },
+  {
+    "id": "247",
+    "title": "┃IT┃ FANTASCIENZA",
+    "alias": "┃IT┃ FANTASCIENZA",
+    "censored": 0
+  },
+  {
+    "id": "249",
+    "title": "┃IT┃ HORROR",
+    "alias": "┃IT┃ HORROR",
+    "censored": 0
+  },
+  {
+    "id": "251",
+    "title": "┃IT┃ MISTERO",
+    "alias": "┃IT┃ MISTERO",
+    "censored": 0
+  },
+  {
+    "id": "252",
+    "title": "┃IT┃ NATALE",
+    "alias": "┃IT┃ NATALE",
+    "censored": 0
+  },
+  {
+    "id": "253",
+    "title": "┃IT┃ ROMANTICISMO",
+    "alias": "┃IT┃ ROMANTICISMO",
+    "censored": 0
+  },
+  {
+    "id": "255",
+    "title": "┃IT┃ STORIA",
+    "alias": "┃IT┃ STORIA",
+    "censored": 0
+  },
+  {
+    "id": "256",
+    "title": "┃IT┃ THRILLER",
+    "alias": "┃IT┃ THRILLER",
+    "censored": 0
+  },
+  {
+    "id": "257",
+    "title": "┃IT┃ VECCHIO",
+    "alias": "┃IT┃ VECCHIO",
+    "censored": 0
+  },
+  {
+    "id": "258",
+    "title": "┃IT┃ WESTERN",
+    "alias": "┃IT┃ WESTERN",
+    "censored": 0
+  },
+  {
+    "id": "2838",
+    "title": "┃PL┃ POLSKIE FILM",
+    "alias": "┃PL┃ POLSKIE FILM",
+    "censored": 0
+  },
+  {
+    "id": "2837",
+    "title": "┃PL┃ FILMY 4K",
+    "alias": "┃PL┃ FILMY 4K",
+    "censored": 0
+  },
+  {
+    "id": "2836",
+    "title": "┃PL┃ OSTATNIO DODANE",
+    "alias": "┃PL┃ OSTATNIO DODANE",
+    "censored": 0
+  },
+  {
+    "id": "2841",
+    "title": "┃PL┃ NETFLIX",
+    "alias": "┃PL┃ NETFLIX",
+    "censored": 0
+  },
+  {
+    "id": "2845",
+    "title": "┃PL┃ DISNEY+",
+    "alias": "┃PL┃ DISNEY+",
+    "censored": 0
+  },
+  {
+    "id": "2647",
+    "title": "┃PL┃ AKCJA ┃SENSACJA ┃KRYMINAL",
+    "alias": "┃PL┃ AKCJA ┃SENSACJA ┃KRYMINAL",
+    "censored": 0
+  },
+  {
+    "id": "2842",
+    "title": "┃PL┃ DRAMA ┃ROMANSOWE",
+    "alias": "┃PL┃ DRAMA ┃ROMANSOWE",
+    "censored": 0
+  },
+  {
+    "id": "2840",
+    "title": "┃PL┃ KOMEDIA",
+    "alias": "┃PL┃ KOMEDIA",
+    "censored": 0
+  },
+  {
+    "id": "2891",
+    "title": "┃PL┃ FAMILIJNE",
+    "alias": "┃PL┃ FAMILIJNE",
+    "censored": 0
+  },
+  {
+    "id": "2839",
+    "title": "┃PL┃ FILMY DLA DZIECI",
+    "alias": "┃PL┃ FILMY DLA DZIECI",
+    "censored": 0
+  },
+  {
+    "id": "2847",
+    "title": "┃PL┃ HORROR",
+    "alias": "┃PL┃ HORROR",
+    "censored": 0
+  },
+  {
+    "id": "2846",
+    "title": "┃PL┃ DOKUMENTALNE",
+    "alias": "┃PL┃ DOKUMENTALNE",
+    "censored": 0
+  },
+  {
+    "id": "2791",
+    "title": "┃ES┃ ESPAÑA",
+    "alias": "┃ES┃ ESPAÑA",
+    "censored": 0
+  },
+  {
+    "id": "3437",
+    "title": "┃EXYU┃ NETFLIX FILMOVI",
+    "alias": "┃EXYU┃ NETFLIX FILMOVI",
+    "censored": 0
+  },
+  {
+    "id": "163",
+    "title": "┃EXYU┃ STRANO NOVO",
+    "alias": "┃EXYU┃ STRANO NOVO",
+    "censored": 0
+  },
+  {
+    "id": "164",
+    "title": "┃EXYU┃ STRANO STARI",
+    "alias": "┃EXYU┃ STRANO STARI",
+    "censored": 0
+  },
+  {
+    "id": "574",
+    "title": "┃EXYU┃ STRANI FILMOVI",
+    "alias": "┃EXYU┃ STRANI FILMOVI",
+    "censored": 0
+  },
+  {
+    "id": "166",
+    "title": "┃EXYU┃ RATNI FILMOVI",
+    "alias": "┃EXYU┃ RATNI FILMOVI",
+    "censored": 0
+  },
+  {
+    "id": "308",
+    "title": "┃EXYU┃ DOMACE FILMOVI",
+    "alias": "┃EXYU┃ DOMACE FILMOVI",
+    "censored": 0
+  },
+  {
+    "id": "307",
+    "title": "┃EXYU┃ DECA FILMOVI",
+    "alias": "┃EXYU┃ DECA FILMOVI",
+    "censored": 0
+  },
+  {
+    "id": "3438",
+    "title": "┃EXYU┃ WESTERN FILMOVI",
+    "alias": "┃EXYU┃ WESTERN FILMOVI",
+    "censored": 0
+  },
+  {
+    "id": "3440",
+    "title": "┃EXYU┃ DOCU FILMOVI",
+    "alias": "┃EXYU┃ DOCU FILMOVI",
+    "censored": 0
+  },
+  {
+    "id": "3439",
+    "title": "┃EXYU┃ ANIME FILMOVI",
+    "alias": "┃EXYU┃ ANIME FILMOVI",
+    "censored": 0
+  },
+  {
+    "id": "3635",
+    "title": "┃AR┃ TOP 100",
+    "alias": "┃AR┃ TOP 100",
+    "censored": 0
+  },
+  {
+    "id": "3532",
+    "title": "┃AR┃ MOROCCO MOVIES | افلام مغربية",
+    "alias": "┃AR┃ MOROCCO MOVIES | افلام مغربية",
+    "censored": 0
+  },
+  {
+    "id": "2941",
+    "title": "┃AR┃ 4K MOVIES | 4K افلام",
+    "alias": "┃AR┃ 4K MOVIES | 4K افلام",
+    "censored": 0
+  },
+  {
+    "id": "3579",
+    "title": "┃AR┃ CHRISTMAS MOVIES | افلام كريسماس",
+    "alias": "┃AR┃ CHRISTMAS MOVIES | افلام كريسماس",
+    "censored": 0
+  },
+  {
+    "id": "2969",
+    "title": "┃AR┃ ARABIC CINEMA MOVIES | افلام  سينما عربية",
+    "alias": "┃AR┃ ARABIC CINEMA MOVIES | افلام  سينما عربية",
+    "censored": 0
+  },
+  {
+    "id": "3189",
+    "title": "┃AR┃ ARABIC MOVIES 2024 | افلام عربية 2024",
+    "alias": "┃AR┃ ARABIC MOVIES 2024 | افلام عربية 2024",
+    "censored": 0
+  },
+  {
+    "id": "3190",
+    "title": "┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",
+    "alias": "┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",
+    "censored": 0
+  },
+  {
+    "id": "3191",
+    "title": "┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",
+    "alias": "┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",
+    "censored": 0
+  },
+  {
+    "id": "3192",
+    "title": "┃AR┃ ARABIC MOVIES 2021 | افلام عربية 2021",
+    "alias": "┃AR┃ ARABIC MOVIES 2021 | افلام عربية 2021",
+    "censored": 0
+  },
+  {
+    "id": "3193",
+    "title": "┃AR┃ ARABIC MOVIES 2020 | افلام عربية 2020",
+    "alias": "┃AR┃ ARABIC MOVIES 2020 | افلام عربية 2020",
+    "censored": 0
+  },
+  {
+    "id": "3197",
+    "title": "┃AR┃ ARABIC MOVIES 2020-2000 | افلام عربية 2020-2000",
+    "alias": "┃AR┃ ARABIC MOVIES 2020-2000 | افلام عربية 2020-2000",
+    "censored": 0
+  },
+  {
+    "id": "2651",
+    "title": "┃AR┃ ARABIC MOVIES |  افلام عربية",
+    "alias": "┃AR┃ ARABIC MOVIES |  افلام عربية",
+    "censored": 0
+  },
+  {
+    "id": "2878",
+    "title": "┃AR┃ ARABIC CLASSIC MOVIES | افلام عربية كلاسيك",
+    "alias": "┃AR┃ ARABIC CLASSIC MOVIES | افلام عربية كلاسيك",
+    "censored": 0
+  },
+  {
+    "id": "3196",
+    "title": "┃AR┃ ARABIC MOVIES BLACK & WHITE | افلام ابيض واسود",
+    "alias": "┃AR┃ ARABIC MOVIES BLACK & WHITE | افلام ابيض واسود",
+    "censored": 0
+  },
+  {
+    "id": "3194",
+    "title": "┃AR┃ ARABIC MOVIES DOC | افلام وثائقية",
+    "alias": "┃AR┃ ARABIC MOVIES DOC | افلام وثائقية",
+    "censored": 0
+  },
+  {
+    "id": "3195",
+    "title": "┃AR┃ ARABIC PLAYS | مسرحيات عربية",
+    "alias": "┃AR┃ ARABIC PLAYS | مسرحيات عربية",
+    "censored": 0
+  },
+  {
+    "id": "2875",
+    "title": "┃AR┃ أفلام عادل إمام [ADEL AMAM]",
+    "alias": "┃AR┃ أفلام عادل إمام [ADEL AMAM]",
+    "censored": 0
+  },
+  {
+    "id": "3258",
+    "title": "┃AR┃ DISNEY+",
+    "alias": "┃AR┃ DISNEY+",
+    "censored": 0
+  },
+  {
+    "id": "3259",
+    "title": "┃AR┃ DISNEY+ DUBB",
+    "alias": "┃AR┃ DISNEY+ DUBB",
+    "censored": 0
+  },
+  {
+    "id": "2880",
+    "title": "┃AR┃ DISNEY+ KIDS",
+    "alias": "┃AR┃ DISNEY+ KIDS",
+    "censored": 0
+  },
+  {
+    "id": "3211",
+    "title": "┃AR┃ DISNEY+ KIDS DUBB",
+    "alias": "┃AR┃ DISNEY+ KIDS DUBB",
+    "censored": 0
+  },
+  {
+    "id": "3273",
+    "title": "┃AR┃ ANIME MOVIES",
+    "alias": "┃AR┃ ANIME MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "2648",
+    "title": "┃AR┃ KIDS",
+    "alias": "┃AR┃ KIDS",
+    "censored": 0
+  },
+  {
+    "id": "3213",
+    "title": "┃AR┃ KIDS DUBB",
+    "alias": "┃AR┃ KIDS DUBB",
+    "censored": 0
+  },
+  {
+    "id": "2991",
+    "title": "┃AR┃ ENGLISH CINEMA MOVIES",
+    "alias": "┃AR┃ ENGLISH CINEMA MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "3214",
+    "title": "┃AR┃ ENG MOVIES 2024",
+    "alias": "┃AR┃ ENG MOVIES 2024",
+    "censored": 0
+  },
+  {
+    "id": "3215",
+    "title": "┃AR┃ ENG MOVIES 2023",
+    "alias": "┃AR┃ ENG MOVIES 2023",
+    "censored": 0
+  },
+  {
+    "id": "3216",
+    "title": "┃AR┃ ENG MOVIES 2022",
+    "alias": "┃AR┃ ENG MOVIES 2022",
+    "censored": 0
+  },
+  {
+    "id": "3217",
+    "title": "┃AR┃ ENG MOVIES 2021",
+    "alias": "┃AR┃ ENG MOVIES 2021",
+    "censored": 0
+  },
+  {
+    "id": "3218",
+    "title": "┃AR┃ ENG MOVIES 2020",
+    "alias": "┃AR┃ ENG MOVIES 2020",
+    "censored": 0
+  },
+  {
+    "id": "3238",
+    "title": "┃AR┃ NETFLIX NEW RELEASE",
+    "alias": "┃AR┃ NETFLIX NEW RELEASE",
+    "censored": 0
+  },
+  {
+    "id": "2881",
+    "title": "┃AR┃ NETFLIX",
+    "alias": "┃AR┃ NETFLIX",
+    "censored": 0
+  },
+  {
+    "id": "3239",
+    "title": "┃AR┃ NETFLIX KIDS",
+    "alias": "┃AR┃ NETFLIX KIDS",
+    "censored": 0
+  },
+  {
+    "id": "3231",
+    "title": "┃AR┃ MOVIES COLLECTION",
+    "alias": "┃AR┃ MOVIES COLLECTION",
+    "censored": 0
+  },
+  {
+    "id": "3219",
+    "title": "┃AR┃ ACTION",
+    "alias": "┃AR┃ ACTION",
+    "censored": 0
+  },
+  {
+    "id": "3220",
+    "title": "┃AR┃ ADVENTURE",
+    "alias": "┃AR┃ ADVENTURE",
+    "censored": 0
+  },
+  {
+    "id": "3221",
+    "title": "┃AR┃ COMEDY | FAMILY",
+    "alias": "┃AR┃ COMEDY | FAMILY",
+    "censored": 0
+  },
+  {
+    "id": "3222",
+    "title": "┃AR┃ THRILLER | MYSTERY",
+    "alias": "┃AR┃ THRILLER | MYSTERY",
+    "censored": 0
+  },
+  {
+    "id": "3223",
+    "title": "┃AR┃ CRIME",
+    "alias": "┃AR┃ CRIME",
+    "censored": 0
+  },
+  {
+    "id": "3224",
+    "title": "┃AR┃ FANTASY",
+    "alias": "┃AR┃ FANTASY",
+    "censored": 0
+  },
+  {
+    "id": "3225",
+    "title": "┃AR┃ SCI-FI",
+    "alias": "┃AR┃ SCI-FI",
+    "censored": 0
+  },
+  {
+    "id": "2710",
+    "title": "┃AR┃ DRAMA | ROMANCE",
+    "alias": "┃AR┃ DRAMA | ROMANCE",
+    "censored": 0
+  },
+  {
+    "id": "3227",
+    "title": "┃AR┃ HORROR",
+    "alias": "┃AR┃ HORROR",
+    "censored": 0
+  },
+  {
+    "id": "3228",
+    "title": "┃AR┃ WAR | HISTORY",
+    "alias": "┃AR┃ WAR | HISTORY",
+    "censored": 0
+  },
+  {
+    "id": "3229",
+    "title": "┃AR┃ WESTERN",
+    "alias": "┃AR┃ WESTERN",
+    "censored": 0
+  },
+  {
+    "id": "3232",
+    "title": "┃AR┃ CLASSICS",
+    "alias": "┃AR┃ CLASSICS",
+    "censored": 0
+  },
+  {
+    "id": "3230",
+    "title": "┃AR┃ DOCU",
+    "alias": "┃AR┃ DOCU",
+    "censored": 0
+  },
+  {
+    "id": "3233",
+    "title": "┃AR┃ NEW INDIAN MOVIES",
+    "alias": "┃AR┃ NEW INDIAN MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "3234",
+    "title": "┃AR┃ INDIAN MOVIES 2024-2023",
+    "alias": "┃AR┃ INDIAN MOVIES 2024-2023",
+    "censored": 0
+  },
+  {
+    "id": "3235",
+    "title": "┃AR┃ INDIAN MOVIES 2022-2020",
+    "alias": "┃AR┃ INDIAN MOVIES 2022-2020",
+    "censored": 0
+  },
+  {
+    "id": "2649",
+    "title": "┃AR┃ INDIAN MOVIES",
+    "alias": "┃AR┃ INDIAN MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "3237",
+    "title": "┃AR┃ INDIAN CLASSICS",
+    "alias": "┃AR┃ INDIAN CLASSICS",
+    "censored": 0
+  },
+  {
+    "id": "3240",
+    "title": "┃AR┃ TURKISH NEW RELEASE",
+    "alias": "┃AR┃ TURKISH NEW RELEASE",
+    "censored": 0
+  },
+  {
+    "id": "2743",
+    "title": "┃AR┃ TURKISH TRANS MOVIES",
+    "alias": "┃AR┃ TURKISH TRANS MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "3242",
+    "title": "┃AR┃ ASIAN NEW RELEASE",
+    "alias": "┃AR┃ ASIAN NEW RELEASE",
+    "censored": 0
+  },
+  {
+    "id": "3243",
+    "title": "┃AR┃ ASIAN MOVIES",
+    "alias": "┃AR┃ ASIAN MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "3496",
+    "title": "┃AR┃ ROSHDI ABAZA | رشدي اباظه",
+    "alias": "┃AR┃ ROSHDI ABAZA | رشدي اباظه",
+    "censored": 0
+  },
+  {
+    "id": "3497",
+    "title": "┃AR┃ FARED  SHAWKY | فريد شوقي",
+    "alias": "┃AR┃ FARED  SHAWKY | فريد شوقي",
+    "censored": 0
+  },
+  {
+    "id": "3498",
+    "title": "┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",
+    "alias": "┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",
+    "censored": 0
+  },
+  {
+    "id": "3499",
+    "title": "┃AR┃ ABDEL HALEEM | عبد الحليم",
+    "alias": "┃AR┃ ABDEL HALEEM | عبد الحليم",
+    "censored": 0
+  },
+  {
+    "id": "3500",
+    "title": "┃AR┃ FARED ELATRASH | فريد الأطرش",
+    "alias": "┃AR┃ FARED ELATRASH | فريد الأطرش",
+    "censored": 0
+  },
+  {
+    "id": "3503",
+    "title": "┃AR┃ FATEN HAMAMA | فاتن حمامه",
+    "alias": "┃AR┃ FATEN HAMAMA | فاتن حمامه",
+    "censored": 0
+  },
+  {
+    "id": "3501",
+    "title": "┃AR┃ SOAD HOSNY | سعاد حسني",
+    "alias": "┃AR┃ SOAD HOSNY | سعاد حسني",
+    "censored": 0
+  },
+  {
+    "id": "3504",
+    "title": "┃AR┃ SHADIA | شاديه",
+    "alias": "┃AR┃ SHADIA | شاديه",
+    "censored": 0
+  },
+  {
+    "id": "3505",
+    "title": "┃AR┃ DRED LAHAM  | دريد لحام",
+    "alias": "┃AR┃ DRED LAHAM  | دريد لحام",
+    "censored": 0
+  },
+  {
+    "id": "3521",
+    "title": "┃AR┃ AHMED HELMY | احمد حلمي",
+    "alias": "┃AR┃ AHMED HELMY | احمد حلمي",
+    "censored": 0
+  },
+  {
+    "id": "3519",
+    "title": "┃AR┃ AHMED EZ | احمد عز",
+    "alias": "┃AR┃ AHMED EZ | احمد عز",
+    "censored": 0
+  },
+  {
+    "id": "3508",
+    "title": "┃AR┃ AHMED ZAKY | أحمد زكي",
+    "alias": "┃AR┃ AHMED ZAKY | أحمد زكي",
+    "censored": 0
+  },
+  {
+    "id": "3534",
+    "title": "┃AR┃ AHMED ELSKA | احمد السقا",
+    "alias": "┃AR┃ AHMED ELSKA | احمد السقا",
+    "censored": 0
+  },
+  {
+    "id": "3507",
+    "title": "┃AR┃ MHAMOUD YASEEN | محمود ياسين",
+    "alias": "┃AR┃ MHAMOUD YASEEN | محمود ياسين",
+    "censored": 0
+  },
+  {
+    "id": "3513",
+    "title": "┃AR┃ IMETAB BATCHAN | اميتاب باتشان",
+    "alias": "┃AR┃ IMETAB BATCHAN | اميتاب باتشان",
+    "censored": 0
+  },
+  {
+    "id": "3522",
+    "title": "┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",
+    "alias": "┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",
+    "censored": 0
+  },
+  {
+    "id": "3506",
+    "title": "┃AR┃ NOUR ELSHREF | نور الشريف",
+    "alias": "┃AR┃ NOUR ELSHREF | نور الشريف",
+    "censored": 0
+  },
+  {
+    "id": "3520",
+    "title": "┃AR┃ MMOHAMED HENEDI | محمد هنيدي",
+    "alias": "┃AR┃ MMOHAMED HENEDI | محمد هنيدي",
+    "censored": 0
+  },
+  {
+    "id": "3567",
+    "title": "┃AR┃ SHAH RUKH KHAN | شاروخان",
+    "alias": "┃AR┃ SHAH RUKH KHAN | شاروخان",
+    "censored": 0
+  },
+  {
+    "id": "3538",
+    "title": "┃AR┃ BRUCE WILLIS | بروس ويلز",
+    "alias": "┃AR┃ BRUCE WILLIS | بروس ويلز",
+    "censored": 0
+  },
+  {
+    "id": "3633",
+    "title": "┃AR┃ STEVEN SEAGAL | ستيڤن سيجال",
+    "alias": "┃AR┃ STEVEN SEAGAL | ستيڤن سيجال",
+    "censored": 0
+  },
+  {
+    "id": "3600",
+    "title": "┃AR┃ Jim Carrey | چيم كاري",
+    "alias": "┃AR┃ Jim Carrey | چيم كاري",
+    "censored": 0
+  },
+  {
+    "id": "3634",
+    "title": "┃AR┃ JACKI CHAN | چاكي شان",
+    "alias": "┃AR┃ JACKI CHAN | چاكي شان",
+    "censored": 0
+  },
+  {
+    "id": "3536",
+    "title": "┃AR┃ SCARLETT JOHANSON | سكارليت جوهانسون",
+    "alias": "┃AR┃ SCARLETT JOHANSON | سكارليت جوهانسون",
+    "censored": 0
+  },
+  {
+    "id": "3543",
+    "title": "┃AR┃ DENZEL WASHINGTON | دينزل واشنطن",
+    "alias": "┃AR┃ DENZEL WASHINGTON | دينزل واشنطن",
+    "censored": 0
+  },
+  {
+    "id": "3542",
+    "title": "┃AR┃ ARNOLD SCHWARZENEGGER | ارنولد شوارزنيجر",
+    "alias": "┃AR┃ ARNOLD SCHWARZENEGGER | ارنولد شوارزنيجر",
+    "censored": 0
+  },
+  {
+    "id": "3537",
+    "title": "┃AR┃ NICCOLAS CAGE | نيكولاس كيدچ",
+    "alias": "┃AR┃ NICCOLAS CAGE | نيكولاس كيدچ",
+    "censored": 0
+  },
+  {
+    "id": "3535",
+    "title": "┃AR┃ VAN DAMME | ڤان دام",
+    "alias": "┃AR┃ VAN DAMME | ڤان دام",
+    "censored": 0
+  },
+  {
+    "id": "3578",
+    "title": "┃AR┃ OPRA | أوبرا",
+    "alias": "┃AR┃ OPRA | أوبرا",
+    "censored": 0
+  },
+  {
+    "id": "2830",
+    "title": "┃IR┃ PERSIAN MOVIES",
+    "alias": "┃IR┃ PERSIAN MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "2831",
+    "title": "┃IR┃ PERSIAN SUB | DUB",
+    "alias": "┃IR┃ PERSIAN SUB | DUB",
+    "censored": 0
+  },
+  {
+    "id": "2833",
+    "title": "┃IR┃ PERSIAN CLASSIC",
+    "alias": "┃IR┃ PERSIAN CLASSIC",
+    "censored": 0
+  },
+  {
+    "id": "2832",
+    "title": "┃IR┃ PERSIAN KIDS",
+    "alias": "┃IR┃ PERSIAN KIDS",
+    "censored": 0
+  },
+  {
+    "id": "2876",
+    "title": "┃IR┃ FESTIVAL MOVIES",
+    "alias": "┃IR┃ FESTIVAL MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "2877",
+    "title": "┃IR┃ PERSIAN DOCUMENTARIES",
+    "alias": "┃IR┃ PERSIAN DOCUMENTARIES",
+    "censored": 0
+  },
+  {
+    "id": "2933",
+    "title": "┃SOM┃ SOMALIA MOVIES",
+    "alias": "┃SOM┃ SOMALIA MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "3481",
+    "title": "┃PAKISTAN┃ URDU MOVIES",
+    "alias": "┃PAKISTAN┃ URDU MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "2813",
+    "title": "┃ASIA┃ HINDI NEW RELEASE",
+    "alias": "┃ASIA┃ HINDI NEW RELEASE",
+    "censored": 0
+  },
+  {
+    "id": "2601",
+    "title": "┃ASIA┃ HINDI",
+    "alias": "┃ASIA┃ HINDI",
+    "censored": 0
+  },
+  {
+    "id": "2602",
+    "title": "┃ASIA┃ SOUTH HINDI DUBBED",
+    "alias": "┃ASIA┃ SOUTH HINDI DUBBED",
+    "censored": 0
+  },
+  {
+    "id": "2603",
+    "title": "┃ASIA┃ ENGLISH HINDI DUBBED",
+    "alias": "┃ASIA┃ ENGLISH HINDI DUBBED",
+    "censored": 0
+  },
+  {
+    "id": "3482",
+    "title": "┃ASIA┃ HINDI COLLECTION",
+    "alias": "┃ASIA┃ HINDI COLLECTION",
+    "censored": 0
+  },
+  {
+    "id": "2604",
+    "title": "┃ASIA┃ HINDI KIDS",
+    "alias": "┃ASIA┃ HINDI KIDS",
+    "censored": 0
+  },
+  {
+    "id": "3491",
+    "title": "┃ASIA┃ PUNJABI NEW RELEASE",
+    "alias": "┃ASIA┃ PUNJABI NEW RELEASE",
+    "censored": 0
+  },
+  {
+    "id": "2605",
+    "title": "┃ASIA┃ PUNJABI",
+    "alias": "┃ASIA┃ PUNJABI",
+    "censored": 0
+  },
+  {
+    "id": "3484",
+    "title": "┃ASIA┃ PUNJABI COLLECTION MOVIES",
+    "alias": "┃ASIA┃ PUNJABI COLLECTION MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "3485",
+    "title": "┃ASIA┃ TAMIL NEW RELEASE",
+    "alias": "┃ASIA┃ TAMIL NEW RELEASE",
+    "censored": 0
+  },
+  {
+    "id": "2606",
+    "title": "┃ASIA┃ TAMIL",
+    "alias": "┃ASIA┃ TAMIL",
+    "censored": 0
+  },
+  {
+    "id": "2607",
+    "title": "┃ASIA┃ TAMIL DUBBED",
+    "alias": "┃ASIA┃ TAMIL DUBBED",
+    "censored": 0
+  },
+  {
+    "id": "3486",
+    "title": "┃ASIA┃ TAMIL COLLECTION",
+    "alias": "┃ASIA┃ TAMIL COLLECTION",
+    "censored": 0
+  },
+  {
+    "id": "2608",
+    "title": "┃ASIA┃ TAMIL KIDS",
+    "alias": "┃ASIA┃ TAMIL KIDS",
+    "censored": 0
+  },
+  {
+    "id": "2835",
+    "title": "┃ASIA┃ ODIA MOVIES",
+    "alias": "┃ASIA┃ ODIA MOVIES",
+    "censored": 0
+  },
+  {
+    "id": "3487",
+    "title": "┃ASIA┃ TELUGU NEW RELEASE",
+    "alias": "┃ASIA┃ TELUGU NEW RELEASE",
+    "censored": 0
+  },
+  {
+    "id": "2609",
+    "title": "┃ASIA┃ TELUGU",
+    "alias": "┃ASIA┃ TELUGU",
+    "censored": 0
+  },
+  {
+    "id": "2610",
+    "title": "┃ASIA┃ TELUGU DUBBED",
+    "alias": "┃ASIA┃ TELUGU DUBBED",
+    "censored": 0
+  },
+  {
+    "id": "3488",
+    "title": "┃ASIA┃ TELUGU COLLECTION",
+    "alias": "┃ASIA┃ TELUGU COLLECTION",
+    "censored": 0
+  },
+  {
+    "id": "2611",
+    "title": "┃ASIA┃ TELUGU KIDS",
+    "alias": "┃ASIA┃ TELUGU KIDS",
+    "censored": 0
+  },
+  {
+    "id": "2612",
+    "title": "┃ASIA┃ KANNADA",
+    "alias": "┃ASIA┃ KANNADA",
+    "censored": 0
+  },
+  {
+    "id": "2613",
+    "title": "┃ASIA┃ KANNADA DUBBED",
+    "alias": "┃ASIA┃ KANNADA DUBBED",
+    "censored": 0
+  },
+  {
+    "id": "3489",
+    "title": "┃ASIA┃ MALAYALAM NEW RELEASE",
+    "alias": "┃ASIA┃ MALAYALAM NEW RELEASE",
+    "censored": 0
+  },
+  {
+    "id": "2614",
+    "title": "┃ASIA┃ MALAYALAM",
+    "alias": "┃ASIA┃ MALAYALAM",
+    "censored": 0
+  },
+  {
+    "id": "2615",
+    "title": "┃ASIA┃ MALAYALAM DUBBED",
+    "alias": "┃ASIA┃ MALAYALAM DUBBED",
+    "censored": 0
+  },
+  {
+    "id": "3490",
+    "title": "┃ASIA┃ MALAYALAM COLLECTION",
+    "alias": "┃ASIA┃ MALAYALAM COLLECTION",
+    "censored": 0
+  },
+  {
+    "id": "2616",
+    "title": "┃ASIA┃ BANGLA",
+    "alias": "┃ASIA┃ BANGLA",
+    "censored": 0
+  },
+  {
+    "id": "2617",
+    "title": "┃ASIA┃ MARATHI",
+    "alias": "┃ASIA┃ MARATHI",
+    "censored": 0
+  },
+  {
+    "id": "2618",
+    "title": "┃ASIA┃ GUJARATI",
+    "alias": "┃ASIA┃ GUJARATI",
+    "censored": 0
+  }
+]

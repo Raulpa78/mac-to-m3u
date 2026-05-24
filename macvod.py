@@ -29,7 +29,7 @@ def print_colored(text: str, color: str) -> None:
     }
     color_code: str = colors.get(color.lower(), "\033[0m")
     colored_text: str = f"{color_code}{text}\033[0m"
-    tqdm.write(colored_text)
+    
 
 def input_colored(prompt: str, color: str) -> str:
     """

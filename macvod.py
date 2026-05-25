@@ -110,17 +110,20 @@ def get_device_id_2() -> str:
 
 
 def get_token(
-    session: requests.Session,
-    base_url: str,
-    mac: str,
+    session: requests.Session, 
+    base_url: str, 
+    mac: str, 
     serial_number: str = "",
     device_id: str = "",
     device_id_2: str = "",
     timeout: int = 10
 ) -> Optional[str]:
+    """Gets token using MAC authentication and additional device parameters."""
     url = f"{base_url}/portal.php?action=handshake&type=stb&token=&JsHttpRequest=1-xml"
-    headers = {"Authorization": f"MAC {mac}"}
 
+    headers = {"Authorization": f"MAC {mac}"}
+    
+    # Construir payload con parámetros opcionales
     payload = {}
     if serial_number:
         payload["serial"] = serial_number
@@ -128,21 +131,21 @@ def get_token(
         payload["device_id"] = device_id
     if device_id_2:
         payload["device_id_2"] = device_id_2
-
+    
     try:
         if payload:
             res = session.post(url, headers=headers, json=payload, timeout=timeout)
         else:
             res = session.get(url, headers=headers, timeout=timeout)
-
+        
         res.raise_for_status()
         data = res.json()
-
-        token = data.get("js", {}).get("token")
-        if not token:
-            print_colored("No se encontró token en la respuesta.", "red")
-            print_colored(res.text, "yellow")
-            return None
+        return data["js"]["token"]
+    except (requests.RequestException, json.JSONDecodeError, KeyError) as e:
+        print_colored(f"Error fetching token: {e}", "red")
+        if "res" in locals():
+            print_colored(f"Server response: {res.text}", "yellow")
+        return None
 
         return token
 

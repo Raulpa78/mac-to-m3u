@@ -310,8 +310,16 @@ def main() -> None:
                 "X-Requested-With": "XMLHttpRequest",
             }
         )
-        if token:
-            if get_subscription(session, base_url, token):
+        
+        token = get_token(session, base_url, mac, serial_number, device_id, device_id_2)
+
+        if not token:
+            print_colored("No se pudo obtener el token.", "red")
+            sys.exit(1)
+
+        print_colored(f"Token obtenido: {token}", "green")
+            
+        if get_subscription(session, base_url, token):
                 headers: Dict[str, str] = {"Authorization": f"Bearer {token}"}
                 vod_categories: Optional[List[Dict[str, Any]]] = get_vod_categories(session, base_url, headers)
                 if vod_categories:

@@ -283,16 +283,49 @@ def save_to_json(base_name: str, payload: Any) -> str:
 
 
 def main() -> None:
+    """Main function to orchestrate the process."""
     try:
-        base_url = get_env_or_input("API_BASE_URL", "Base URL de la API: ")
-        token = get_env_or_input("API_TOKEN", "Token Bearer: ")
+        base_url = get_base_url()
+        mac = get_mac_address()
+        serial_number = get_serial_number()
+        device_id = get_device_id()
+        device_id_2 = get_device_id_2()
 
-        session = build_session(token)
-
-        print_msg("Obteniendo categorías...")
-        categories = get_categories(session, base_url)
-        print_msg(f"Categorías encontradas: {len(categories)}")
-
+        session = requests.Session()
+        session.cookies.update({"mac": mac})
+        if serial_number:
+            session.cookies.update({"serial": serial_number})
+        if device_id:
+            session.cookies.update({"device_id": device_id})
+        if device_id_2:
+            session.cookies.update({"device_id_2": device_id_2})
+        
+        session.headers.update(
+            {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+                "Referer": f"{base_url}/c/",
+                "Accept": "application/json, text/javascript, */*; q=0.01",
+                "X-Requested-With": "XMLHttpRequest",
+            }
+        )
+        if token:
+            if get_subscription(session, base_url, token):
+                headers: Dict[str, str] = {"Authorization": f"Bearer {token}"}
+                vod_categories: Optional[List[Dict[str, Any]]] = get_vod_categories(session, base_url, headers)
+                if vod_categories:
+                    sanitized_url: str = base_url.replace("://", "_").replace("/", "_").replace(".", "_").replace(":", "_")
+                    current: str = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+                    with open(f'{sanitized_url}_{current}.m3u', 'w', encoding='utf-16') as file:
+                        file.write('#EXTM3U\n')
+                        with ThreadPoolExecutor(max_workers=10) as executor:
+                            futures = {executor.submit(fetch_and_save_vods, session, base_url, headers, category, file): category for category in vod_categories if category['id'] != "*"}
+                            for future in tqdm(as_completed(futures), total=len(futures), desc="Fetching categories"):
+                                category: Dict[str, Any] = futures[future]
+                                try:
+                                    result: int = future.result()
+                                    print_colored(f"Fetched {result} VODs for category: {category['title']}", "cyan")
+                                except Exception as e:
+                                    print_colored(f"Error fetching VODs for category {category['title']}: {e}", "red")
         results: List[Dict[str, Any]] = []
 
         for category in categories:

@@ -249,7 +249,6 @@ def save_to_json(base_name: str, payload: Any) -> str:
 
 
 def main() -> None:
-    """Main function to orchestrate the process."""
     try:
         base_url = get_base_url()
         mac = get_mac_address()
@@ -259,54 +258,56 @@ def main() -> None:
 
         session = requests.Session()
         session.cookies.update({"mac": mac})
+
         if serial_number:
             session.cookies.update({"serial": serial_number})
         if device_id:
             session.cookies.update({"device_id": device_id})
         if device_id_2:
             session.cookies.update({"device_id_2": device_id_2})
-        
-        session.headers.update(
-            {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
-                "Referer": f"{base_url}/c/",
-                "Accept": "application/json, text/javascript, */*; q=0.01",
-                "X-Requested-With": "XMLHttpRequest",
-            }
-        )
-        
-        token = get_token(session, base_url, mac, serial_number, device_id, device_id_2)
 
+        session.headers.update({
+            "User-Agent": "Mozilla/5.",
+            "Referer": f"{base_url}/c/",
+            "Accept": "application/json, text/javascript, */*; q=.01",
+            "X-Requested-With": "XMLHttpRequest",
+        })
+
+        token = get_token(session, base_url, mac, serial_number, device_id, device_id_2)
         if not token:
             print_colored("No se pudo obtener el token.", "red")
             sys.exit(1)
 
         print_colored(f"Token obtenido: {token}", "green")
-            
-        if get_subscription(session, base_url, token):
-                headers: Dict[str, str] = {"Authorization": f"Bearer {token}"}
-                vod_categories: Optional[List[Dict[str, Any]]] = get_vod_categories(session, base_url, headers)
-                if vod_categories:
-                    sanitized_url: str = base_url.replace("://", "_").replace("/", "_").replace(".", "_").replace(":", "_")
-                    current: str = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-                    with open(f'{sanitized_url}_{current}.m3u', 'w', encoding='utf-16') as file:
-                        file.write('#EXTM3U\n')
-                        
 
-        out = {
-            "base_url": base_url,
-            "total_categories": len(results),
-            "categories": results
-        }
+        headers = {"Authorization": f"Bearer {token}"}
+        vod_categories = get_vod_categories(session, base_url, headers)
 
-        filename = save_to_json("catalogo_completo", out)
-        print_msg(f"Guardado en: {filename}")
+        if not vod_categories:
+            print_colored("No se pudieron obtener categorías VOD.", "red")
+            sys.exit(1)
+
+        results: List[Dict[str, Any]] = []
+
+        for category in vod_categories:
+            category_id = category.get("id")
+            category_title = category.get("title", "Sin título")
+
+            print_colored(f"Procesando categoría: {category_title}", "cyan")
+
+            results.append({
+                "id": category_id,
+                "title": category_title
+            })
+
+        print_colored(f"Total categorías procesadas: {len(results)}", "green")
 
     except KeyboardInterrupt:
         print_colored("\nExiting gracefully...", "yellow")
-        sys.exit(0)
+        sys.exit()
     except Exception as e:
         print_colored(f"An unexpected error occurred in main: {e}", "red")
+        sys.exit(1)
 
 
 if __name__ == "__main__":

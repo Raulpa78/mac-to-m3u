@@ -313,11 +313,10 @@ def main() -> None:
         print_msg(f"Guardado en: {filename}")
 
     except KeyboardInterrupt:
-        print_msg("Cancelado por el usuario.")
-        sys.exit()
+        print_colored("\nExiting gracefully...", "yellow")
+        sys.exit(0)
     except Exception as e:
-        print_msg(f"Error: {e}")
-        sys.exit(1)
+        print_colored(f"An unexpected error occurred in main: {e}", "red")
 
 
 if __name__ == "__main__":

@@ -1,10 +1,14 @@
 import requests
+import requests
 import json
 import os
-import sys
 from datetime import datetime
-from urllib.parse import urlparse
-from typing import Dict, Optional, Any, List
+from urllib.parse import urlparse, quote
+import sys
+import base64
+import re
+from typing import Dict, Tuple, Optional, Any, List
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
 def print_colored(text: str, color: str) -> None:

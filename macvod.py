@@ -225,7 +225,7 @@ def fetch_and_save_vods(session, base_url, headers, category, file) -> int:
         return 
 
     page = 1
-    total_count = 
+     
 
     while True:
         vod_data = get_vod_list(session, base_url, headers, category_id, page)

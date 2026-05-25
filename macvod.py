@@ -1,4 +1,4 @@
-simport requests
+import requests
 import requests
 import json
 import os

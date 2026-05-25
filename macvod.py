@@ -147,7 +147,6 @@ def get_token(
             print_colored(f"Server response: {res.text}", "yellow")
         return None
 
-        return token
 
     except (requests.RequestException, json.JSONDecodeError) as e:
         print_colored(f"Error fetching token: {e}", "red")

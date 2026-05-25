@@ -206,20 +206,34 @@ def build_session(token: str) -> requests.Session:
     return session
 
 
-def get_categories(
+def get_vod_categories(
     session: requests.Session,
     base_url: str,
-    timeout: int = 15
-) -> List[Dict[str, Any]]:
-    url = f"{base_url}/categories"
-    res = session.get(url, timeout=timeout)
-    res.raise_for_status()
+    headers: Dict[str, str],
+    timeout: int = 10
+) -> Optional[List[Dict[str, Any]]]:
+    """
+    Obtiene la lista de categorías VOD del servidor.
+    """
+    url = f"{base_url}/portal.php?type=vod&action=get_categories&JsHttpRequest=1-xml"
 
-    data = res.json()
-    if not isinstance(data, list):
-        raise ValueError("La respuesta de categorías no es una lista.")
-    return data
+    try:
+        res = session.get(url, headers=headers, timeout=timeout, allow_redirects=False)
+        res.raise_for_status()
 
+        data = res.json()
+        categories = data.get("js")
+
+        if not isinstance(categories, list):
+            print_colored("La respuesta no contiene una lista válida de categorías.", "red")
+            print_colored(res.text, "yellow")
+            return None
+
+        return categories
+
+    except (requests.RequestException, json.JSONDecodeError) as e:
+        print_colored(f"Error fetching VOD categories: {e}", "red")
+        return None
 
 def get_items_by_category(
     session: requests.Session,

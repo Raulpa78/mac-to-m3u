@@ -1,4 +1,4 @@
-import requests
+simport requests
 import requests
 import json
 import os
@@ -265,32 +265,26 @@ def get_items_by_category(
     return items
 
 
-def fetch_all_items_for_category(
-    session: requests.Session,
-    base_url: str,
-    category: Dict[str, Any]
-) -> Dict[str, Any]:
-    category_id = str(category.get("id", ""))
-    category_title = category.get("title", "Sin título")
+def fetch_and_save_vods(session, base_url, headers, category, file) -> int:
+    category_id = category['id']
+    category_title = category['title']
+
+    if category_id == "*":
+        return 
 
     page = 1
-    all_items: List[Dict[str, Any]] = []
+    total_count = 
 
     while True:
-        items = get_items_by_category(session, base_url, category_id, page=page)
-        if not items:
+        vod_data = get_vod_list(session, base_url, headers, category_id, page)
+        if not vod_data:
             break
 
-        all_items.extend(items)
+        count = save_vod_list(file, vod_data, session, base_url, category_title)
+        total_count += count
         page += 1
 
-    return {
-        "id": category_id,
-        "title": category_title,
-        "count": len(all_items),
-        "items": all_items
-    }
-
+    return total_count
 
 def save_to_json(base_name: str, payload: Any) -> str:
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")

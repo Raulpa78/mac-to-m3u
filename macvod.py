@@ -1,12 +1,9 @@
 import requests
-import requests
 import json
 import os
 from datetime import datetime
-from urllib.parse import urlparse, quote
+from urllib.parse import urlparse
 import sys
-import base64
-import re
 from typing import Dict, Tuple, Optional, Any, List
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -122,12 +119,10 @@ def get_token(
     device_id_2: str = "",
     timeout: int = 10
 ) -> Optional[str]:
-    """Gets token using MAC authentication and additional device parameters."""
+    """Obtiene token usando autenticación MAC."""
     url = f"{base_url}/portal.php?action=handshake&type=stb&token=&JsHttpRequest=1-xml"
-
     headers = {"Authorization": f"MAC {mac}"}
-    
-    # Construir payload con parámetros opcionales
+
     payload = {}
     if serial_number:
         payload["serial"] = serial_number
@@ -135,27 +130,29 @@ def get_token(
         payload["device_id"] = device_id
     if device_id_2:
         payload["device_id_2"] = device_id_2
-    
+
     try:
         if payload:
             res = session.post(url, headers=headers, json=payload, timeout=timeout)
         else:
             res = session.get(url, headers=headers, timeout=timeout)
-        
+
         res.raise_for_status()
         data = res.json()
-        return data["js"]["token"]
-    except (requests.RequestException, json.JSONDecodeError, KeyError) as e:
+
+        token = data.get("js", {}).get("token")
+        if not token:
+            print_colored("No se encontró token en la respuesta.", "red")
+            print_colored(res.text, "yellow")
+            return None
+
+        return token
+
+    except (requests.RequestException, json.JSONDecodeError) as e:
         print_colored(f"Error fetching token: {e}", "red")
         if "res" in locals():
             print_colored(f"Server response: {res.text}", "yellow")
         return None
-
-
-    except (requests.RequestException, json.JSONDecodeError) as e:
-        print_colored(f"Error fetching token: {e}", "red")
-        return None
-
 
 def get_subscription(
     session: requests.Session,
@@ -189,26 +186,6 @@ def get_subscription(
         return False
 
 
-def get_env_or_input(name: str, prompt: str, required: bool = True) -> str:
-    value = os.getenv(name, "").strip()
-    if value:
-        return value
-
-    value = input(prompt).strip()
-    if required and not value:
-        raise ValueError(f"El valor {name} es obligatorio.")
-    return value
-
-
-def build_session(token: str) -> requests.Session:
-    session = requests.Session()
-    session.headers.update({
-        "Authorization": f"Bearer {token}",
-        "Accept": "application/json",
-        "User-Agent": "CatalogClient/1."
-    })
-    return session
-
 
 def get_vod_categories(
     session: requests.Session,
@@ -238,31 +215,6 @@ def get_vod_categories(
     except (requests.RequestException, json.JSONDecodeError) as e:
         print_colored(f"Error fetching VOD categories: {e}", "red")
         return None
-
-def get_items_by_category(
-    session: requests.Session,
-    base_url: str,
-    category_id: str,
-    page: int = 1,
-    timeout: int = 15
-) -> List[Dict[str, Any]]:
-    url = f"{base_url}/items"
-    params = {
-        "category_id": category_id,
-        "page": page
-    }
-
-    res = session.get(url, params=params, timeout=timeout)
-    res.raise_for_status()
-
-    data = res.json()
-    if not isinstance(data, dict):
-        raise ValueError("La respuesta de items no tiene formato esperado.")
-
-    items = data.get("items", [])
-    if not isinstance(items, list):
-        raise ValueError("El campo 'items' no es una lista.")
-    return items
 
 
 def fetch_and_save_vods(session, base_url, headers, category, file) -> int:
@@ -339,24 +291,7 @@ def main() -> None:
                     current: str = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
                     with open(f'{sanitized_url}_{current}.m3u', 'w', encoding='utf-16') as file:
                         file.write('#EXTM3U\n')
-                        with ThreadPoolExecutor(max_workers=10) as executor:
-                            futures = {executor.submit(fetch_and_save_vods, session, base_url, headers, category, file): category for category in vod_categories if category['id'] != "*"}
-                            for future in tqdm(as_completed(futures), total=len(futures), desc="Fetching categories"):
-                                category: Dict[str, Any] = futures[future]
-                                try:
-                                    result: int = future.result()
-                                    print_colored(f"Fetched {result} VODs for category: {category['title']}", "cyan")
-                                except Exception as e:
-                                    print_colored(f"Error fetching VODs for category {category['title']}: {e}", "red")
-        results: List[Dict[str, Any]] = []
-
-        for category in categories:
-            title = category.get("title", "Sin título")
-            print_msg(f"Procesando categoría: {title}")
-
-            category_data = fetch_all_items_for_category(session, base_url, category)
-            print_msg(f"  -> {category_data['count']} elementos")
-            results.append(category_data)
+                        
 
         out = {
             "base_url": base_url,

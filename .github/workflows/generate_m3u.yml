@@ -33,9 +33,19 @@ jobs:
           SERIAL_NUMBER: ${{ secrets.SERIAL_NUMBER }}
           DEVICE_ID:     ${{ secrets.DEVICE_ID }}
           DEVICE_ID_2:   ${{ secrets.DEVICE_ID_2 }}
-          RESOLVE_LINKS: "false"      # pon "true" si quieres URLs ya resueltas
-          MAX_WORKERS:   "5"
-          OUTPUT_DIR:    "output"
+          # --- Filtro de categorías ---
+          CATEGORY_FILTERS:              "ASIA_HINDI,ES_"
+          CATEGORY_FILTER_MODE:          "startswith"   # o "contains"
+          CATEGORY_FILTER_CASE_SENSITIVE: "false"
+
+          # --- Resolución de links ---
+          RESOLVE_LINKS:                 "true"
+          RESOLVE_WORKERS:               "20"
+          RESOLVE_RATE_LIMIT:            "30"
+          RESOLVE_RETRIES:               "3"
+
+          MAX_WORKERS:                   "5"
+          OUTPUT_DIR:                    "output"
         run: python iptv_vod_m3u.py
 
       - name: Upload artifacts

@@ -194,6 +194,58 @@ def fetch_category_vods(
     print_colored(f"  [{category_title}] -> {len(vods)} VODs", "blue")
     return vods
 
+def resolve_link_with_retry(
+    session: requests.Session,
+    base_url: str,
+    headers: Dict[str, str],
+    cmd: str,
+    content_type: str = "vod",   # "vod" o "itv" (live)
+    rate_limiter: Optional[RateLimiter] = None,
+    max_retries: int = 3,
+    timeout: int = 15,
+) -> Optional[str]:
+    """
+    Resuelve un cmd llamando a create_link.
+    Funciona tanto para VOD como para Live (itv).
+    """
+    if not cmd:
+        return None
+
+    # Endpoint correcto según tipo
+    action = "create_link"
+    url = (
+        f"{base_url}/portal.php?type={content_type}&action={action}"
+        f"&cmd={requests.utils.quote(cmd, safe='')}"
+        f"&JsHttpRequest=1-xml"
+    )
+
+    for attempt in range(1, max_retries + 1):
+        if rate_limiter:
+            rate_limiter.wait()
+        try:
+            res = session.get(url, headers=headers, timeout=timeout)
+            res.raise_for_status()
+            data = res.json().get("js", {})
+            link = data.get("cmd", "") or ""
+
+            # Limpiar posibles prefijos: "ffmpeg ", "ffrt ", "auto ", número inicial, etc.
+            link = link.strip()
+            link = re.sub(r"^(ffmpeg|ffrt|auto)\s+", "", link, flags=re.IGNORECASE)
+            link = re.sub(r"^\d+\s+", "", link)  # a veces empieza con "1 http://..."
+
+            # Extraer URL final
+            match = re.search(r"(https?://\S+)", link)
+            if match:
+                return match.group(1)
+
+            return None  # respondió pero sin URL útil
+
+        except (requests.RequestException, json.JSONDecodeError) as e:
+            if attempt < max_retries:
+                time.sleep(0.5 * (2 ** (attempt - 1)))
+            else:
+                print_colored(f"  ✗ Falló tras {max_retries} intentos: {e}", "red")
+    return None
 
 # ---------------------- M3U ----------------------
 

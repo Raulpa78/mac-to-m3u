@@ -52,14 +52,14 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: iptv-vod-m3u
-          path: output/
+          path: output/iptv_vod.m3u
           retention-days: 30
 
       - name: Commit & push generated files
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
+          git add output/iptv_vod.m3u
           git commit -m "Añadir directorio output"
           if git diff --cached --quiet; then
             echo "No hay cambios para commitear."

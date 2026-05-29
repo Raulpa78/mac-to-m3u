@@ -278,7 +278,7 @@ def filter_categories(
         if mode == "startswith":
             match = any(haystack.startswith(p) for p in norm_patterns)
         else:   contains
-            match = any(p in haystack for p in norm_patterns)
+            
 
         if match:
             filtered.append(cat)
@@ -325,7 +325,7 @@ def build_m3u(vods: List[Dict[str, Any]], resolve_links: bool = False,
         if resolve_links and session and headers:
             stream_url = get_vod_stream_link(session, base_url, headers, cmd)
         else:
-             Link "portal-style": muchos reproductores Stalker-compatibles lo aceptan
+             
             match = re.search(r"(https?://\S+)", cmd)
             stream_url = match.group(1) if match else cmd
 
@@ -384,7 +384,7 @@ def main() -> None:
             "Accept-Encoding": "gzip, deflate",
         })
 
-         1) Obtener Token
+         
         token = get_token(session, base_url, mac, serial_number, device_id, device_id_2)
         if not token:
             print_colored("No se pudo obtener el token.", "red")
@@ -393,14 +393,14 @@ def main() -> None:
 
         headers = {"Authorization": f"Bearer {token}"}
 
-         2) Categorías VOD
+         
         vod_categories = get_vod_categories(session, base_url, headers)
         if not vod_categories:
             print_colored("No se pudieron obtener categorías VOD.", "red")
             sys.exit(1)
         print_colored(f"Categorías VOD encontradas: {len(vod_categories)}", "cyan")
 
-         2.1) FILTRAR categorías
+         
         filter_raw = os.getenv("CATEGORY_FILTERS", "").strip()
         if filter_raw:
             filter_mode = os.getenv("CATEGORY_FILTER_MODE", "startswith").strip().lower()
@@ -419,7 +419,7 @@ def main() -> None:
                 print_colored("Ninguna categoría coincide con el filtro.", "yellow")
                 sys.exit(0)
 
-         3) Descargar VODs (en paralelo por categoría)
+         
         all_vods: List[Dict[str, Any]] = []
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             future_to_cat = {
@@ -440,16 +440,15 @@ def main() -> None:
             print_colored("No se encontraron VODs.", "yellow")
             sys.exit(0)
 
-         4) Carpeta de salida: utilizar el directorio actual
-        output_dir = os.getcwd()   Cambiado para usar el directorio actual
+         
         os.makedirs(output_dir, exist_ok=True)
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
-         5) Guardar JSON (backup completo)
+         
         json_path = os.path.join(output_dir, f"vods_{timestamp}.json") 
         save_json(json_path, all_vods) 
         
-         También una copia "latest" para que el workflow siempre tenga ruta fija 
+         
         save_json(os.path.join(output_dir, "vods_latest.json"), all_vods)
 
         # 6) Construir M3U global agrupado por categoría
@@ -466,7 +465,7 @@ def main() -> None:
         save_file(m3u_path, m3u_content)
         save_file(os.path.join(output_dir, "vods_latest.m3u"), m3u_content)
 
-         7) M3U separados por grupo (un archivo por categoría)
+         
         per_group_dir = os.path.join(output_dir, "groups")
         os.makedirs(per_group_dir, exist_ok=True)
 

@@ -463,10 +463,12 @@ def main() -> None:
     )
     
     try:
-    m3u_path = os.path.join(output_dir, f"vods_{timestamp}.m3u")
-    save_file(m3u_path, m3u_content)
-    save_file(os.path.join(output_dir, "vods_latest.m3u"), m3u_content)
-
+        m3u_path = os.path.join(output_dir, f"vods_{timestamp}.m3u")
+        save_file(m3u_path, m3u_content)
+        save_file(os.path.join(output_dir, "vods_latest.m3u"), m3u_content)
+    except Exception as e:
+        print_colored(f"Ocurrió un error: {e}", "red")
+    
     # 7) M3U separados por grupo (un archivo por categoría)
     per_group_dir = os.path.join(output_dir, "groups")
     os.makedirs(per_group_dir, exist_ok=True)

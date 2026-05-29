@@ -441,59 +441,59 @@ def main() -> None:
             print_colored("No se encontraron VODs.", "yellow")
             sys.exit(0)
 
-        # 4) Carpeta de salida
-        output_dir = os.getenv("OUTPUT_DIR", "output")
+        # 4) Carpeta de salida: utilizar el directorio actual
+        output_dir = os.getcwd()  # Cambiado para usar el directorio actual
         os.makedirs(output_dir, exist_ok=True)
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
-        # 5) Guardar JSON (backup completo)
-        json_path = os.path.join(output_dir, f"vods_{timestamp}.json")
-        save_json(json_path, all_vods)
-        # También una copia "latest" para que el workflow siempre tenga ruta fija
+        # 5) Guardar
+ .      JSON (backup completo) json_path = os.path.join(output_dir, f"vods_{timestamp}.json") 
+        save_json(json_path, all_vods) 
+        # También una copia "latest" para que el workflow siempre tenga ruta fija 
         save_json(os.path.join(output_dir, "vods_latest.json"), all_vods)
 
-        # 6) Construir M3U global agrupado por categoría
+       # 6) Construir M3U global agrupado por categoría
         print_colored("Construyendo M3U...", "cyan")
         m3u_content = build_m3u(
-            all_vods,
+        all_vods,
+        resolve_links=resolve_links,
+        session=session,
+        base_url=base_url,
+        headers=headers,
+    )
+    m3u_path = os.path.join(output_dir, f"vods_{timestamp}.m3u")
+    save_file(m3u_path, m3u_content)
+    save_file(os.path.join(output_dir, "vods_latest.m3u"), m3u_content)
+
+    # 7) M3U separados por grupo (un archivo por categoría)
+    per_group_dir = os.path.join(output_dir, "groups")
+    os.makedirs(per_group_dir, exist_ok=True)
+
+    grouped: Dict[str, List[Dict[str, Any]]] = {}
+    for vod in all_vods:
+        g = vod.get("_category_title", "VOD")
+        grouped.setdefault(g, []).append(vod)
+
+    for group_name, items in grouped.items():
+        safe_name = re.sub(r"[^\w\-]+", "_", group_name).strip("_") or "grupo"
+        group_m3u = build_m3u(
+            items,
             resolve_links=resolve_links,
             session=session,
             base_url=base_url,
             headers=headers,
         )
-        m3u_path = os.path.join(output_dir, f"vods_{timestamp}.m3u")
-        save_file(m3u_path, m3u_content)
-        save_file(os.path.join(output_dir, "vods_latest.m3u"), m3u_content)
+        save_file(os.path.join(per_group_dir, f"{safe_name}.m3u"), group_m3u)
 
-        # 7) M3U separados por grupo (un archivo por categoría)
-        per_group_dir = os.path.join(output_dir, "groups")
-        os.makedirs(per_group_dir, exist_ok=True)
+    print_colored("✓ Proceso completado correctamente.", "green")
 
-        grouped: Dict[str, List[Dict[str, Any]]] = {}
-        for vod in all_vods:
-            g = vod.get("_category_title", "VOD")
-            grouped.setdefault(g, []).append(vod)
+except KeyboardInterrupt:
+    print_colored("\nExiting gracefully...", "yellow")
+    sys.exit(0)
+except Exception as e:
+    print_colored(f"An unexpected error occurred in main: {e}", "red")
+    sys.exit(1)
+ 
 
-        for group_name, items in grouped.items():
-            safe_name = re.sub(r"[^\w\-]+", "_", group_name).strip("_") or "grupo"
-            group_m3u = build_m3u(
-                items,
-                resolve_links=resolve_links,
-                session=session,
-                base_url=base_url,
-                headers=headers,
-            )
-            save_file(os.path.join(per_group_dir, f"{safe_name}.m3u"), group_m3u)
-
-        print_colored("✓ Proceso completado correctamente.", "green")
-
-    except KeyboardInterrupt:
-        print_colored("\nExiting gracefully...", "yellow")
-        sys.exit(0)
-    except Exception as e:
-        print_colored(f"An unexpected error occurred in main: {e}", "red")
-        sys.exit(1)
-
-
-if __name__ == "__main__":
-    main()
+if name == "main":
+   main()

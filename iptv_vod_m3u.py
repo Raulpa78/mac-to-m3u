@@ -228,20 +228,21 @@ def resolve_link_with_retry(
             data = res.json().get("js", {})
             link = data.get("cmd", "") or ""
 
+            # Limpiar posibles prefijos: "ffmpeg ", "ffrt ", "auto ", número inicial, etc.
             link = link.strip()
-            
             link = re.sub(r"^(ffmpeg|ffrt|auto)\s+", "", link, flags=re.IGNORECASE)
-            link = re.sub(r"^\d+\s+", "", link)
+            link = re.sub(r"^\d+\s+", "", link)  # a veces empieza con "1 http://..."
 
+            # Extraer URL final
             match = re.search(r"(https?://\S+)", link)
             if match:
                 return match.group(1)
 
-            return None   Sin URL útil
+            return None  # respondió pero sin URL útil
 
         except (requests.RequestException, json.JSONDecodeError) as e:
             if attempt < max_retries:
-                time.sleep(0.5  (2 * (attempt - 1)))
+                time.sleep(0.5 * (2 ** (attempt - 1)))
             else:
                 print_colored(f"  ✗ Falló tras {max_retries} intentos: {e}", "red")
     return None

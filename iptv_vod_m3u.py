@@ -190,7 +190,7 @@ def fetch_category_vods(
 
         total_items = int(data.get("total_items", 0))
         max_page_items = int(data.get("max_page_items", 14) or 14)
-        if page  max_page_items >= total_items:
+        if page * max_page_items >= total_items:
             break
         page += 1
 

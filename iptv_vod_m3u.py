@@ -2,12 +2,15 @@ import requests
 import json
 import os
 import re
+import time
+import sys
 from datetime import datetime
 from urllib.parse import urlparse
-import sys
 from typing import Dict, Optional, Any, List
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+
+# ---------------------- COLORED OUTPUT ----------------------
 
 def print_colored(text: str, color: str) -> None:
     colors = {
@@ -120,31 +123,6 @@ def get_vod_categories(
         print_colored(f"Error fetching VOD categories: {e}", "red")
         return None
 
-# 2) Categorías VOD
-        vod_categories = get_vod_categories(session, base_url, headers)
-        if not vod_categories:
-            print_colored("No se pudieron obtener categorías VOD.", "red")
-            sys.exit(1)
-        print_colored(f"Categorías VOD totales: {len(vod_categories)}", "cyan")
-
-        # 2.1) FILTRAR categorías
-        filter_raw = os.getenv("CATEGORY_FILTERS", "ASIA_HINDI,ES_").strip()
-        filter_mode = os.getenv("CATEGORY_FILTER_MODE", "startswith").strip().lower()
-        filter_case_sensitive = os.getenv("CATEGORY_FILTER_CASE_SENSITIVE", "false").lower() == "true"
-
-        patterns = [p.strip() for p in filter_raw.split(",") if p.strip()]
-        if patterns:
-            vod_categories = filter_categories(
-                vod_categories,
-                patterns=patterns,
-                mode=filter_mode,
-                case_sensitive=filter_case_sensitive,
-            )
-
-        if not vod_categories:
-            print_colored("Ninguna categoría coincide con el filtro.", "yellow")
-            sys.exit(0)
-
 
 def get_vod_page(
     session: requests.Session, base_url: str, headers: Dict[str, str],
@@ -219,13 +197,13 @@ def fetch_category_vods(
     print_colored(f"  [{category_title}] -> {len(vods)} VODs", "blue")
     return vods
 
+
 def resolve_link_with_retry(
     session: requests.Session,
     base_url: str,
     headers: Dict[str, str],
     cmd: str,
-    content_type: str = "vod",   # "vod" o "itv" (live)
-    rate_limiter: Optional[RateLimiter] = None,
+    content_type: str = "vod",
     max_retries: int = 3,
     timeout: int = 15,
 ) -> Optional[str]:
@@ -245,8 +223,6 @@ def resolve_link_with_retry(
     )
 
     for attempt in range(1, max_retries + 1):
-        if rate_limiter:
-            rate_limiter.wait()
         try:
             res = session.get(url, headers=headers, timeout=timeout)
             res.raise_for_status()
@@ -271,6 +247,58 @@ def resolve_link_with_retry(
             else:
                 print_colored(f"  ✗ Falló tras {max_retries} intentos: {e}", "red")
     return None
+
+
+# ---------------------- FILTERING ----------------------
+
+def filter_categories(
+    categories: List[Dict[str, Any]],
+    patterns: List[str],
+    mode: str = "startswith",
+    case_sensitive: bool = False,
+) -> List[Dict[str, Any]]:
+    """
+    Filtra categorías cuyo título coincida con alguno de los patrones.
+    - mode="startswith": el título empieza por el patrón
+    - mode="contains":   el patrón aparece en cualquier parte del título
+    """
+    if not patterns:
+        return categories
+
+    norm_patterns = [p.strip() for p in patterns if p.strip()]
+    if not case_sensitive:
+        norm_patterns = [p.lower() for p in norm_patterns]
+
+    filtered: List[Dict[str, Any]] = []
+    discarded: List[str] = []
+
+    for cat in categories:
+        title = str(cat.get("title", ""))
+        haystack = title if case_sensitive else title.lower()
+
+        if mode == "startswith":
+            match = any(haystack.startswith(p) for p in norm_patterns)
+        else:  # contains
+            match = any(p in haystack for p in norm_patterns)
+
+        if match:
+            filtered.append(cat)
+        else:
+            discarded.append(title)
+
+    print_colored(
+        f"Filtro aplicado (modo={mode}, patrones={norm_patterns}): "
+        f"{len(filtered)} incluidas / {len(discarded)} descartadas",
+        "cyan",
+    )
+
+    if filtered:
+        print_colored("Categorías incluidas:", "green")
+        for cat in filtered:
+            print_colored(f"  ✓ {cat.get('title')}", "green")
+
+    return filtered
+
 
 # ---------------------- M3U ----------------------
 
@@ -373,6 +401,25 @@ def main() -> None:
             sys.exit(1)
         print_colored(f"Categorías VOD encontradas: {len(vod_categories)}", "cyan")
 
+        # 2.1) FILTRAR categorías
+        filter_raw = os.getenv("CATEGORY_FILTERS", "").strip()
+        if filter_raw:
+            filter_mode = os.getenv("CATEGORY_FILTER_MODE", "startswith").strip().lower()
+            filter_case_sensitive = os.getenv("CATEGORY_FILTER_CASE_SENSITIVE", "false").lower() == "true"
+
+            patterns = [p.strip() for p in filter_raw.split(",") if p.strip()]
+            if patterns:
+                vod_categories = filter_categories(
+                    vod_categories,
+                    patterns=patterns,
+                    mode=filter_mode,
+                    case_sensitive=filter_case_sensitive,
+                )
+
+            if not vod_categories:
+                print_colored("Ninguna categoría coincide con el filtro.", "yellow")
+                sys.exit(0)
+
         # 3) Descargar VODs (en paralelo por categoría)
         all_vods: List[Dict[str, Any]] = []
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
@@ -438,60 +485,8 @@ def main() -> None:
             )
             save_file(os.path.join(per_group_dir, f"{safe_name}.m3u"), group_m3u)
 
-        print_colored(" Proceso completado correctamente.", "green")
+        print_colored("✓ Proceso completado correctamente.", "green")
 
-    # ---------------------- FILTRO DE CATEGORÍAS ----------------------
-
-def filter_categories(
-    categories: List[Dict[str, Any]],
-    patterns: List[str],
-    mode: str = "startswith",      # "startswith" | "contains"
-    case_sensitive: bool = False,
-) -> List[Dict[str, Any]]:
-    """
-    Filtra categorías cuyo título coincida con alguno de los patrones.
-    - mode="startswith": el título empieza por el patrón
-    - mode="contains":   el patrón aparece en cualquier parte del título
-    """
-    if not patterns:
-        return categories  # Sin filtros = todas
-
-    # Normalizar patrones
-    norm_patterns = [p.strip() for p in patterns if p.strip()]
-    if not case_sensitive:
-        norm_patterns = [p.lower() for p in norm_patterns]
-
-    filtered: List[Dict[str, Any]] = []
-    discarded: List[str] = []
-
-    for cat in categories:
-        title = str(cat.get("title", ""))
-        haystack = title if case_sensitive else title.lower()
-
-        if mode == "startswith":
-            match = any(haystack.startswith(p) for p in norm_patterns)
-        else:  # contains
-            match = any(p in haystack for p in norm_patterns)
-
-        if match:
-            filtered.append(cat)
-        else:
-            discarded.append(title)
-
-    print_colored(
-        f"Filtro aplicado (modo={mode}, patrones={norm_patterns}): "
-        f"{len(filtered)} incluidas / {len(discarded)} descartadas",
-        "cyan",
-    )
-
-    # Mostrar las incluidas para verificar
-    if filtered:
-        print_colored("Categorías incluidas:", "green")
-        for cat in filtered:
-            print_colored(f"  ✓ {cat.get('title')}", "green")
-
-    return filtered
-    
     except KeyboardInterrupt:
         print_colored("\nExiting gracefully...", "yellow")
         sys.exit(0)

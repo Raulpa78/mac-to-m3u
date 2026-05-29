@@ -493,7 +493,6 @@ except KeyboardInterrupt:
 except Exception as e:
     print_colored(f"An unexpected error occurred in main: {e}", "red")
     sys.exit(1)
- 
 
 if name == "main":
    main()

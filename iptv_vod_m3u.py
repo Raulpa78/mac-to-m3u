@@ -461,6 +461,8 @@ def main() -> None:
         base_url=base_url,
         headers=headers,
     )
+    
+    try:
     m3u_path = os.path.join(output_dir, f"vods_{timestamp}.m3u")
     save_file(m3u_path, m3u_content)
     save_file(os.path.join(output_dir, "vods_latest.m3u"), m3u_content)

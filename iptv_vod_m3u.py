@@ -491,12 +491,12 @@ def main() -> None:
 
     print_colored("✓ Proceso completado correctamente.", "green")
 
-    except KeyboardInterrupt:
-        print_colored("\nExiting gracefully...", "yellow")
-        sys.exit(0)
-    except Exception as e:
-        print_colored(f"An unexpected error occurred in main: {e}", "red")
-        sys.exit(1)
+  except KeyboardInterrupt:
+      print_colored("\nExiting gracefully...", "yellow")
+      sys.exit(0)
+  except Exception as e:
+      print_colored(f"An unexpected error occurred in main: {e}", "red")
+      sys.exit(1)
 
 if __name__ == "__main__":
     main()

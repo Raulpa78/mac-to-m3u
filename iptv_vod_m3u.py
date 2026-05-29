@@ -10,7 +10,7 @@ from typing import Dict, Optional, Any, List
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
- ---------------------- COLORED OUTPUT ----------------------
+ #---------------------- COLORED OUTPUT ----------------------
 
 def print_colored(text: str, color: str) -> None:
     colors = {
@@ -28,7 +28,7 @@ def input_colored(prompt: str, color: str) -> str:
     return input(f"{colors.get(color.lower(), '')}{prompt}\033[0m")
 
 
- ---------------------- ENV / INPUT HELPERS ----------------------
+# ---------------------- ENV / INPUT HELPERS ----------------------
 
 def _get_env_or_input(env_var: str, prompt: str, required: bool = True) -> str:
     value = os.getenv(env_var, "").strip()
@@ -72,7 +72,7 @@ def get_device_id_2() -> str:
     return _get_env_or_input("DEVICE_ID_2", "Input secondary device ID (optional): ", required=False)
 
 
- ---------------------- AUTH ----------------------
+# ---------------------- AUTH ----------------------
 
 def get_token(
     session: requests.Session, base_url: str, mac: str,
@@ -105,7 +105,7 @@ def get_token(
         return None
 
 
- ---------------------- VOD ----------------------
+# ---------------------- VOD ----------------------
 
 def get_vod_categories(
     session: requests.Session, base_url: str, headers: Dict[str, str], timeout: int = 15
@@ -247,7 +247,7 @@ def resolve_link_with_retry(
     return None
 
 
- ---------------------- FILTERING ----------------------
+# ---------------------- FILTERING ----------------------
 
 def filter_categories(
     categories: List[Dict[str, Any]],
@@ -298,7 +298,7 @@ def filter_categories(
     return filtered
 
 
- ---------------------- M3U ----------------------
+# ---------------------- M3U ----------------------
 
 def sanitize(text: str) -> str:
     if not text:
@@ -338,7 +338,7 @@ def build_m3u(vods: List[Dict[str, Any]], resolve_links: bool = False,
     return "\n".join(lines) + "\n"
 
 
- ---------------------- OUTPUT ----------------------
+ #---------------------- OUTPUT ----------------------
 
 def save_file(filename: str, content: str) -> None:
     with open(filename, "w", encoding="utf-8") as f:

@@ -30,8 +30,8 @@ def input_colored(prompt: str, color: str) -> str:
 
 # ---------------------- ENV / INPUT HELPERS ----------------------
 
-def _get_env_or_input(env_var: str, prompt: str, required: bool = True) -> str:
-    value = os.getenv(env_var, "").strip()
+def get_env_or_input(env_var: str, default: str) -> str:
+    return os.getenv(env_var, default)
     if value:
         return value
     if not sys.stdin.isatty():

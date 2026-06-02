@@ -2,15 +2,12 @@ import requests
 import json
 import os
 import re
-import time
-import sys
 from datetime import datetime
 from urllib.parse import urlparse
+import sys
 from typing import Dict, Optional, Any, List
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-
- #---------------------- COLORED OUTPUT ----------------------
 
 def print_colored(text: str, color: str) -> None:
     colors = {
@@ -30,8 +27,8 @@ def input_colored(prompt: str, color: str) -> str:
 
 # ---------------------- ENV / INPUT HELPERS ----------------------
 
-def get_env_or_input(env_var: str, default: str) -> str:
-    return os.getenv(env_var, default)
+def _get_env_or_input(env_var: str, prompt: str, required: bool = True) -> str:
+    value = os.getenv(env_var, "").strip()
     if value:
         return value
     if not sys.stdin.isatty():
@@ -47,7 +44,7 @@ def get_env_or_input(env_var: str, default: str) -> str:
 
 
 def get_base_url() -> str:
-    base_url_input = get_env_or_input("IPTV_URL", "Enter IPTV link: ")
+    base_url_input = _get_env_or_input("IPTV_URL", "Enter IPTV link: ")
     parsed = urlparse(base_url_input)
     if not parsed.scheme or not parsed.hostname:
         raise ValueError("URL inválida. Ejemplo: http://dominio:puerto")
@@ -57,19 +54,19 @@ def get_base_url() -> str:
 
 
 def get_mac_address() -> str:
-    return get_env_or_input("MAC_ADDRESS", "Input MAC address: ").upper()
+    return _get_env_or_input("MAC_ADDRESS", "Input MAC address: ").upper()
 
 
 def get_serial_number() -> str:
-    return get_env_or_input("SERIAL_NUMBER", "Input serial number (optional): ", required=False)
+    return _get_env_or_input("SERIAL_NUMBER", "Input serial number (optional): ", required=False)
 
 
 def get_device_id() -> str:
-    return get_env_or_input("DEVICE_ID", "Input device ID (optional): ", required=False)
+    return _get_env_or_input("DEVICE_ID", "Input device ID (optional): ", required=False)
 
 
 def get_device_id_2() -> str:
-    return get_env_or_input("DEVICE_ID_2", "Input secondary device ID (optional): ", required=False)
+    return _get_env_or_input("DEVICE_ID_2", "Input secondary device ID (optional): ", required=False)
 
 
 # ---------------------- AUTH ----------------------
@@ -172,7 +169,7 @@ def fetch_category_vods(
     category_id = str(category.get("id", ""))
     category_title = category.get("title", "Sin título")
 
-    if category_id in ("", ""):
+    if category_id in ("*", ""):
         return []
 
     vods: List[Dict[str, Any]] = []
@@ -198,107 +195,6 @@ def fetch_category_vods(
     return vods
 
 
-def resolve_link_with_retry(
-    session: requests.Session,
-    base_url: str,
-    headers: Dict[str, str],
-    cmd: str,
-    content_type: str = "vod",
-    max_retries: int = 3,
-    timeout: int = 15,
-) -> Optional[str]:
-    """
-    Resuelve un cmd llamando a create_link.
-    Funciona tanto para VOD como para Live (itv).
-    """
-    if not cmd:
-        return None
-
-    action = "create_link"
-    url = (
-        f"{base_url}/portal.php?type={content_type}&action={action}"
-        f"&cmd={requests.utils.quote(cmd, safe='')}"
-        f"&JsHttpRequest=1-xml"
-    )
-
-    for attempt in range(1, max_retries + 1):
-        try:
-            res = session.get(url, headers=headers, timeout=timeout)
-            res.raise_for_status()
-            data = res.json().get("js", {})
-            link = data.get("cmd", "") or ""
-
-            # Limpiar posibles prefijos: "ffmpeg ", "ffrt ", "auto ", número inicial, etc.
-            link = link.strip()
-            link = re.sub(r"^(ffmpeg|ffrt|auto)\s+", "", link, flags=re.IGNORECASE)
-            link = re.sub(r"^\d+\s+", "", link)  # a veces empieza con "1 http://..."
-
-            # Extraer URL final
-            match = re.search(r"(https?://\S+)", link)
-            if match:
-                return match.group(1)
-
-            return None  # respondió pero sin URL útil
-
-        except (requests.RequestException, json.JSONDecodeError) as e:
-            if attempt < max_retries:
-                time.sleep(0.5 * (2 ** (attempt - 1)))
-            else:
-                print_colored(f"  ✗ Falló tras {max_retries} intentos: {e}", "red")
-    return None
-
-
-# ---------------------- FILTERING ----------------------
-
-def filter_categories(
-    categories: List[Dict[str, Any]],
-    patterns: List[str],
-    mode: str = "startswith",
-    case_sensitive: bool = False,
-) -> List[Dict[str, Any]]:
-    """
-    Filtra categorías cuyo título coincida con alguno de los patrones.
-    - mode="startswith": el título empieza por el patrón
-    - mode="contains":   el patrón aparece en cualquier parte del título
-    """
-    if not patterns:
-        return categories
-
-    norm_patterns = [p.strip() for p in patterns if p.strip()]
-    if not case_sensitive:
-        norm_patterns = [p.lower() for p in norm_patterns]
-
-    filtered: List[Dict[str, Any]] = []
-    discarded: List[str] = []
-
-    for cat in categories:
-        title = str(cat.get("title", ""))
-        haystack = title if case_sensitive else title.lower()
-
-        if mode == "startswith":
-            match = any(haystack.startswith(p) for p in norm_patterns)
-        else:   contains
-            
-
-        if match:
-            filtered.append(cat)
-        else:
-            discarded.append(title)
-
-    print_colored(
-        f"Filtro aplicado (modo={mode}, patrones={norm_patterns}): "
-        f"{len(filtered)} incluidas / {len(discarded)} descartadas",
-        "cyan",
-    )
-
-    if filtered:
-        print_colored("Categorías incluidas:", "green")
-        for cat in filtered:
-            print_colored(f"  ✓ {cat.get('title')}", "green")
-
-    return filtered
-
-
 # ---------------------- M3U ----------------------
 
 def sanitize(text: str) -> str:
@@ -315,7 +211,7 @@ def build_m3u(vods: List[Dict[str, Any]], resolve_links: bool = False,
     Si resolve_links=True, hace una petición extra por cada VOD para obtener la URL real
     (más lento pero el M3U funciona directamente).
     """
-    lines = ["EXTM3U"]
+    lines = ["#EXTM3U"]
     for vod in vods:
         name = sanitize(vod.get("name", "Sin nombre"))
         logo = vod.get("screenshot_uri") or vod.get("cover") or ""
@@ -325,7 +221,7 @@ def build_m3u(vods: List[Dict[str, Any]], resolve_links: bool = False,
         if resolve_links and session and headers:
             stream_url = get_vod_stream_link(session, base_url, headers, cmd)
         else:
-             
+            # Link "portal-style": muchos reproductores Stalker-compatibles lo aceptan
             match = re.search(r"(https?://\S+)", cmd)
             stream_url = match.group(1) if match else cmd
 
@@ -333,13 +229,13 @@ def build_m3u(vods: List[Dict[str, Any]], resolve_links: bool = False,
             continue
 
         lines.append(
-            f'EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}'
+            f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}'
         )
         lines.append(stream_url)
     return "\n".join(lines) + "\n"
 
 
- #---------------------- OUTPUT ----------------------
+# ---------------------- OUTPUT ----------------------
 
 def save_file(filename: str, content: str) -> None:
     with open(filename, "w", encoding="utf-8") as f:
@@ -378,13 +274,13 @@ def main() -> None:
         session.headers.update({
             "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3",
             "Referer": f"{base_url}/c/",
-            "Accept": "application/json, text/javascript, /; q=0.01",
+            "Accept": "application/json, text/javascript, */*; q=0.01",
             "X-Requested-With": "XMLHttpRequest",
             "Accept-Language": "en-US,en;q=0.5",
             "Accept-Encoding": "gzip, deflate",
         })
 
-         
+        # 1) Token
         token = get_token(session, base_url, mac, serial_number, device_id, device_id_2)
         if not token:
             print_colored("No se pudo obtener el token.", "red")
@@ -393,33 +289,14 @@ def main() -> None:
 
         headers = {"Authorization": f"Bearer {token}"}
 
-         
+        # 2) Categorías VOD
         vod_categories = get_vod_categories(session, base_url, headers)
         if not vod_categories:
             print_colored("No se pudieron obtener categorías VOD.", "red")
             sys.exit(1)
         print_colored(f"Categorías VOD encontradas: {len(vod_categories)}", "cyan")
 
-         
-        filter_raw = os.getenv("CATEGORY_FILTERS", "").strip()
-        if filter_raw:
-            filter_mode = os.getenv("CATEGORY_FILTER_MODE", "startswith").strip().lower()
-            filter_case_sensitive = os.getenv("CATEGORY_FILTER_CASE_SENSITIVE", "false").lower() == "true"
-
-            patterns = [p.strip() for p in filter_raw.split(",") if p.strip()]
-            if patterns:
-                vod_categories = filter_categories(
-                    vod_categories,
-                    patterns=patterns,
-                    mode=filter_mode,
-                    case_sensitive=filter_case_sensitive,
-                )
-
-            if not vod_categories:
-                print_colored("Ninguna categoría coincide con el filtro.", "yellow")
-                sys.exit(0)
-
-         
+        # 3) Descargar VODs (en paralelo por categoría)
         all_vods: List[Dict[str, Any]] = []
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             future_to_cat = {
@@ -440,15 +317,15 @@ def main() -> None:
             print_colored("No se encontraron VODs.", "yellow")
             sys.exit(0)
 
-         
+        # 4) Carpeta de salida
+        output_dir = os.getenv("OUTPUT_DIR", "output")
         os.makedirs(output_dir, exist_ok=True)
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
-         
-        json_path = os.path.join(output_dir, f"vods_{timestamp}.json") 
-        save_json(json_path, all_vods) 
-        
-         
+        # 5) Guardar JSON (backup completo)
+        json_path = os.path.join(output_dir, f"vods_{timestamp}.json")
+        save_json(json_path, all_vods)
+        # También una copia "latest" para que el workflow siempre tenga ruta fija
         save_json(os.path.join(output_dir, "vods_latest.json"), all_vods)
 
         # 6) Construir M3U global agrupado por categoría
@@ -460,12 +337,11 @@ def main() -> None:
             base_url=base_url,
             headers=headers,
         )
-        
         m3u_path = os.path.join(output_dir, f"vods_{timestamp}.m3u")
         save_file(m3u_path, m3u_content)
         save_file(os.path.join(output_dir, "vods_latest.m3u"), m3u_content)
 
-         
+        # 7) M3U separados por grupo (un archivo por categoría)
         per_group_dir = os.path.join(output_dir, "groups")
         os.makedirs(per_group_dir, exist_ok=True)
 
@@ -485,14 +361,15 @@ def main() -> None:
             )
             save_file(os.path.join(per_group_dir, f"{safe_name}.m3u"), group_m3u)
 
-        print_colored("✓ Proceso completado correctamente.", "green")
+        print_colored(" Proceso completado correctamente.", "green")
 
     except KeyboardInterrupt:
         print_colored("\nExiting gracefully...", "yellow")
         sys.exit(0)
     except Exception as e:
-        print_colored(f"Ocurrió un error: {e}", "red")
+        print_colored(f"An unexpected error occurred in main: {e}", "red")
         sys.exit(1)
+
 
 if __name__ == "__main__":
     main()

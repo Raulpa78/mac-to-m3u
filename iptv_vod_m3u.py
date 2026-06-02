@@ -47,7 +47,7 @@ def get_env_or_input(env_var: str, default: str) -> str:
 
 
 def get_base_url() -> str:
-    base_url_input = _get_env_or_input("IPTV_URL", "Enter IPTV link: ")
+    base_url_input = get_env_or_input("IPTV_URL", "Enter IPTV link: ")
     parsed = urlparse(base_url_input)
     if not parsed.scheme or not parsed.hostname:
         raise ValueError("URL inválida. Ejemplo: http://dominio:puerto")
@@ -57,19 +57,19 @@ def get_base_url() -> str:
 
 
 def get_mac_address() -> str:
-    return _get_env_or_input("MAC_ADDRESS", "Input MAC address: ").upper()
+    return get_env_or_input("MAC_ADDRESS", "Input MAC address: ").upper()
 
 
 def get_serial_number() -> str:
-    return _get_env_or_input("SERIAL_NUMBER", "Input serial number (optional): ", required=False)
+    return get_env_or_input("SERIAL_NUMBER", "Input serial number (optional): ", required=False)
 
 
 def get_device_id() -> str:
-    return _get_env_or_input("DEVICE_ID", "Input device ID (optional): ", required=False)
+    return get_env_or_input("DEVICE_ID", "Input device ID (optional): ", required=False)
 
 
 def get_device_id_2() -> str:
-    return _get_env_or_input("DEVICE_ID_2", "Input secondary device ID (optional): ", required=False)
+    return get_env_or_input("DEVICE_ID_2", "Input secondary device ID (optional): ", required=False)
 
 
 # ---------------------- AUTH ----------------------

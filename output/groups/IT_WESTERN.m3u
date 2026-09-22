@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aHd9oMhqEe8S8yr7Fme2cStAIv.jpg" group-title="┃IT┃ WESTERN",┃IT┃ The Truffle Hunters
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148928.mp4&play_token=Mm2QxX7SAE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mp5LD93t4GTBrB6zcrwVFhzT50.jpg" group-title="┃IT┃ WESTERN",┃IT┃ Out of Darkness
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148840.mp4&play_token=y5upubbFQB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7M9gXN2e14in05FsGr2LBaagd0.jpg" group-title="┃IT┃ WESTERN",┃IT┃ Hell or High Water
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1104798.mp4&play_token=fO35WCOnzg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43fhV5lUAUlz5Jx8fXm4vytspr3.jpg" group-title="┃IT┃ WESTERN",┃IT┃ Hell on the Border - Cowboy da leggenda
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1104797.mp4&play_token=h2UYZJ2Bj1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjdJN48tBaLB7HdmyzBnlypXvPj.jpg" group-title="┃IT┃ WESTERN",┃IT┃ Frontera
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1104583.mp4&play_token=606Xl0ZVpe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bV0rWoiRo7pHUTQkh6Oio6irlXO.jpg" group-title="┃IT┃ WESTERN",┃IT┃ Django Unchained
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103569.mp4&play_token=ZTiYCD2tfK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCQ13cqd02dop7Chkov0fPl4r3t.jpg" group-title="┃IT┃ WESTERN",Deadwood: The Movie - 2019
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103437.mp4&play_token=0LE7lDMy3h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWQfInQkauNbyZRQRxbM7IXm3DF.jpg" group-title="┃IT┃ WESTERN",┃IT┃ Dead in Tombstone
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103419.mp4&play_token=ECIVNqirE0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cw8HPomOzNql3l4xdaJJ8HGIZds.jpg" group-title="┃IT┃ WESTERN",┃IT┃ The Revenant
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1046014.mp4&play_token=3SYq2GOWU2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiI2W5iVbqw9ZReJPrRktaU0Wae.jpg" group-title="┃IT┃ WESTERN",┃IT┃ La ballata di Buster Scruggs
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1044855.mp4&play_token=V2lGJ6T87r&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFiMTIzMTAtYjcxZi00MTFkLWExNGMtM2JlMzU3MmRkOWU0XkEyXkFqcGc@._V1_.jpg" group-title="┃IT┃ WESTERN",┃IT┃ The Running Gun
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1044796.mp4&play_token=o1w49Xyekg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXxoJpKBbFBJKsw9gQlugOzgOWr.jpg" group-title="┃IT┃ WESTERN",┃IT┃ The Ridiculous 6
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1044791.mp4&play_token=jYePfiiWpm&type=movie

@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsam2od31vB28NkHEfco54WYcoM.jpg" group-title="┃PL┃ POLSKIE FILM",┃PL┃ Lodz
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813878.mkv&play_token=PG2RrtgNc7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YP7Xj2fT6ESn1gNiIS5QnLnVhJ.jpg" group-title="┃PL┃ POLSKIE FILM",┃PL┃ Młode Wilki 1/2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813843.mkv&play_token=IZvkGVWzH6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1aJIwpTs9kgkxBy6dsnQIw5vv0.jpg" group-title="┃PL┃ POLSKIE FILM",┃PL┃ Lewandowski - Unknown
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813835.mp4&play_token=yL3KUnE2S6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hugwWFnP5vZUDKCO4Jt9avDHCd.jpg" group-title="┃PL┃ POLSKIE FILM",┃PL┃ Holiday
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813814.mp4&play_token=ZFJoGDV1ef&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nohXrrTg1FkI86YX9vwavYwm0F.jpg" group-title="┃PL┃ POLSKIE FILM",┃PL┃ Powstaniec 1863
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=794119.mkv&play_token=O9ZdGLPJo6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃PL┃ POLSKIE FILM",┃PL┃ Wezwanie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793659.mp4&play_token=5Q9uQ9zFcW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTwNDvEE151SKmXSw3FOU96ZMvY.jpg" group-title="┃PL┃ POLSKIE FILM",┃PL┃ Fuks 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793261.mp4&play_token=BBGOKDalbE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePQ5wL7qCW6DydZGdiDpcDOFMag.jpg" group-title="┃PL┃ POLSKIE FILM",┃PL┃ Miłość na pierwszą stronę
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793140.mkv&play_token=sOkjOKIOx3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ya5y0QloWU1kaUO3j13K2JaKQ4.jpg" group-title="┃PL┃ POLSKIE FILM",┃PL┃ Masz ci los!
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793134.mkv&play_token=BQWbbSulhk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKB0EoR33sUK2rQRmiCGtwnrqts.jpg" group-title="┃PL┃ POLSKIE FILM",┃PL┃ Kobieta Z... [Woman of...]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793129.mp4&play_token=enAet5C51j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃PL┃ POLSKIE FILM",┃PL┃ Ania z Zielonego Wzgórza
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793120.mp4&play_token=Z1J0HNCZZ1&type=movie

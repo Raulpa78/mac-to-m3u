@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imJ75w2pFecLpmTQNYN4HK0E1jb.jpg" group-title="┃IT┃ BAMBINI",┃IT┃ White Fang
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=744324.mkv&play_token=VCqK2JBGpc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHU9TXhRtpXtqXyV6UlwnuDlaBf.jpg" group-title="┃IT┃ BAMBINI",┃IT┃ Arrivederci  Tyrano -My Tyrano Together  Forever
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=744299.mkv&play_token=Ow0lgE2Pcp&type=movie

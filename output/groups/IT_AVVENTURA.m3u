@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8vHnMjLPaclzxDWTnGzcwC19tT.jpg" group-title="┃IT┃ AVVENTURA",┃IT┃ The Adventures of Jurassic Pet
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1157251.mp4&play_token=5cxFDnsJKF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMKiLh0mES4Uiococ240lbbTGXQ.jpg" group-title="┃IT┃ AVVENTURA",┃IT┃ Interstellar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1154706.mp4&play_token=wZJPFgauiS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1e4gIuMBqjtQecPBHzLKOh8Ky68.jpg" group-title="┃IT┃ AVVENTURA",┃IT┃ The Jungle Book
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148905.mp4&play_token=vkgOpZy4Q2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcklZ2Th8Cmkrye9AfwWmFJKbfB.jpg" group-title="┃IT┃ AVVENTURA",┃IT┃ Alad'2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148888.mp4&play_token=rQzcOuldxB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIYnUnkIqbWWltX6RNsgCeOJIgn.jpg" group-title="┃IT┃ AVVENTURA",┃IT┃ À la Poursuite de Ricky Baker
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1146910.mp4&play_token=4Lljzd1Baa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ds5sVpvZYz5q66NjfMcYkNHc2cA.jpg" group-title="┃IT┃ AVVENTURA",┃IT┃ X-Men : Apocalypse
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1146853.mp4&play_token=fDNomUfhIN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97KgbDfsdo0W4mBkUclCzrYBtOZ.jpg" group-title="┃IT┃ AVVENTURA",┃IT┃ Le Dernier Loup
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1107325.mp4&play_token=UgV7gquHAE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpFxujxAkVFsrTCtjTNpmjAx3LL.jpg" group-title="┃IT┃ AVVENTURA",┃IT┃ Lara Croft - Tomb Raider
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1107225.mp4&play_token=w31phwVT4E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWH3fkp9CEe6GathZLTURPz0uZ2.jpg" group-title="┃IT┃ AVVENTURA",┃IT┃ Lara Croft: Tomb Raider - La culla della vita
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1107224.mp4&play_token=PIb7jRAdKJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qylXRxt4Uzc3QwYdPDSitH0HQz6.jpg" group-title="┃IT┃ AVVENTURA",┃IT┃ Jurassic School
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1105080.mp4&play_token=qR6FiikDZ6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iw4ijEd9zQ9ubKPGy86zf1bhYtk.jpg" group-title="┃IT┃ AVVENTURA",┃IT┃ Jack Hunter e la ricerca della tomba di Akhenaten
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1105044.mp4&play_token=Owm785sLGe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exIzeGkBgqA3zqhhYQZpupXzHeo.jpg" group-title="┃IT┃ AVVENTURA",In the Heart of the Sea - 2015
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1104998.mp4&play_token=9QqYrZmLsj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVKewiBPcY2dQujYEsnQmQ7lfRZ.jpg" group-title="┃IT┃ AVVENTURA",┃IT┃ Il Signore degli Anelli - Le due torri
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1104975.mp4&play_token=ndpHtUsjQA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nv6wnTxXYTbUTObE4VXu7bacPRt.jpg" group-title="┃IT┃ AVVENTURA",┃IT┃ Il Signore degli Anelli - La compagnia dell'anello
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1104974.mp4&play_token=kj7YHGrYld&type=movie

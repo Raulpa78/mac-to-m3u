@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yCx5OSw3ckFhZP4guriUFxqrDB.jpg" group-title="┃IT┃ MISTERO",┃IT┃ Smetto quando voglio
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148864.mp4&play_token=Gpkzci2N9f&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQRsASJnSUt4FkZuAoKbRBr5wjB.jpg" group-title="┃IT┃ MISTERO",┃IT┃ Enemy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1146900.mp4&play_token=3l1TKJyo1e&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hBpFyJ3pGdupXbaC2L7nGvLMBn.jpg" group-title="┃IT┃ MISTERO",┃IT┃ Greta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1104703.mp4&play_token=4XuoA1hSx2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keW2sLB9yJbdkRy9yHQjqUjmzbB.jpg" group-title="┃IT┃ MISTERO",┃IT┃ Closed Circuit
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103289.mp4&play_token=33SJrFcEtm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRbMTL6hNVRlh74d9iBSAKCOAOZ.jpg" group-title="┃IT┃ MISTERO",┃IT┃ Mute
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1046469.mp4&play_token=PGy44WVJtq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xknAsyff2zmyi5GlXRZLueigDa.jpg" group-title="┃IT┃ MISTERO",┃IT┃ La ballata del ragazzo perduto
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1046463.mp4&play_token=2bq1turSwJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b8oOqWUNqOkc3h1woBQ8nOw43v.jpg" group-title="┃IT┃ MISTERO",┃IT┃ Il passo del diavolo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1044961.mp4&play_token=wxUbgAJ4XH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJ2t0UwJIdzXD0weMHPSBLvEWeL.jpg" group-title="┃IT┃ MISTERO",┃IT┃ La donna più assassinata del mondo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1044720.mp4&play_token=LZ783heWYZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejijnP0sOr4Fgxo5CYWT6rz3ZdG.jpg" group-title="┃IT┃ MISTERO",┃IT┃ La casa degli oggetti - Lost& Found
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=744295.mkv&play_token=3Oclc5JTAt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdoOkjtC6BLZGdVBfLCKVXrKOcO.jpg" group-title="┃IT┃ MISTERO",┃IT┃ Collide - Destini incrociati
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=744280.mkv&play_token=hX3rF1dXrU&type=movie

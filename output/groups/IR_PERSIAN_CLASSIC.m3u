@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVCBMg4ZuLPnWhIWJHD9IP4nIuY.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ The Message
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799164.mp4&play_token=7drBSCFOxq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxM6kqilAdpdhqUl2biYp5frUxE.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ Jaws
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799121.mkv&play_token=Jip2cOmwZL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feA0zc2A10gxY0aof4sPk07oDrc.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ Irma la Douce
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799101.mkv&play_token=AP8llA4HSw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7Pv44sBcxhc47kNNDDafNAgr7Y.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ Indiana Jones and the Temple of Doom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799081.mkv&play_token=jFwNswCWGg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ Indiana Jones and the Last Crusade
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799080.mkv&play_token=F5znVTdVmI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ Independence Day
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799078.mkv&play_token=lwmnLm1M47&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGb7FcT1qhXMJYMLVTEjCrA0t9s.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ In Cold Blood
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799070.mkv&play_token=UlkhRjswYW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1FMq75irhsQBVGjXhPU4xA9SDo.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ Kes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793080.mkv&play_token=5BQZUCVzsB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eMnv1Oy7SalOEFbZOLFTwmk2bD.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ Kagemusha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793077.mkv&play_token=Bpwdpcq4P8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ JFK
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793051.mkv&play_token=YGD8K55u9i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbSdA1DmNA9IlfVoqJkIWYF2oYm.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ Labyrinth
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=791404.mkv&play_token=3lP9KWsSZC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ L.A. Confidential
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=791401.mkv&play_token=x9QwqGm8x2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/324BciV9fumywsWq0zGAmQgEmbH.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ Kung Fu Hustle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=791396.mkv&play_token=KUNjHpfwJg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99XSpD5ItqGbwECfpspHWQRkwXR.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ Kokoda
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=791389.mkv&play_token=hTOPC1Xz27&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpaW2gh0hjMPwoz30JL3gRKi2Ho.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ King Solomon's Mines
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=791382.mkv&play_token=ijEiCEWhrc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tafXZX0I6rso7EyoEzfygfTqxq6.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ K-PAX
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=791381.mkv&play_token=aqgE1Qz3bs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkQVmeI6MvyLVZGUwJnQa4KpxuI.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ The Traveler  Mosaferمسافر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=790176.mkv&play_token=1Pw21Mn3PR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg" group-title="┃IR┃ PERSIAN CLASSIC",┃IR┃ Close-Up  کلوزآپ نمای نزدیک
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=790139.mkv&play_token=ZqGjypOZ4p&type=movie

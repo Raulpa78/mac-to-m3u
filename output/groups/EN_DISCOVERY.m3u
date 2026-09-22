@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLVFvWHI3449klfOhR4nMxfHXzM.jpg" group-title="┃EN┃ DISCOVERY +",┃US┃ The King Tide
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851500.mp4&play_token=JZ93l1hRwk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbj18tjGhBELG6Rk9GELcJwEkdz.jpg" group-title="┃EN┃ DISCOVERY +",┃US┃ War Zone: Bear Grylls Meets President Zelenskyy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=562790.mp4&play_token=4BPlXXl60j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QIU2myBnVHPKXifIK48uhJutF8.jpg" group-title="┃EN┃ DISCOVERY +",┃US┃ Lions of Crocodile River
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=518775.mp4&play_token=JSY4QAuq58&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaGjeohZnuF73q18w7zSvNWyCva.jpg" group-title="┃EN┃ DISCOVERY +",┃US┃ Killer Daddy Issues
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=518752.mp4&play_token=CNPO6ByEIW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJjK71vO9pjH26pFtPD0cLj8zOh.jpg" group-title="┃EN┃ DISCOVERY +",┃US┃ Ancient Armageddon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=468618.mp4&play_token=vb6XLRQs5l&type=movie

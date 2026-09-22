@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSi3t1vydcAUlJKc8DfS27l3yjh.jpg" group-title="┃PL┃ FILMY DLA DZIECI",┃PL┃ Titeuf
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813873.mp4&play_token=E6G9WGydVj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM0Ksnnuc7NtRibMUhXGmAYAMrx.jpg" group-title="┃PL┃ FILMY DLA DZIECI",┃PL┃ StarDog and TurboCat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813864.mp4&play_token=tQB6Uy4k6G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kU6Xxg7Yxw6y2KyHvD4FHtfUsTV.jpg" group-title="┃PL┃ FILMY DLA DZIECI",┃PL┃ Sisters: The Summer We Found Our Superpowers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813860.mp4&play_token=Rz465pmIQy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHWPPDPvtUtLtzEPAKAut7QACxo.jpg" group-title="┃PL┃ FILMY DLA DZIECI",┃PL┃ Megamind: The Button of Doom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813840.mkv&play_token=5ftnPLnAGN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNVmJo3qIA4zXebaBSd7JjH5ycj.jpg" group-title="┃PL┃ FILMY DLA DZIECI",┃PL┃ The Lego Movie 2: The Second Part
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813834.mkv&play_token=Oirj1tcG1r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghbylpaqHeZcVaxxenx67jTva06.jpg" group-title="┃PL┃ FILMY DLA DZIECI",┃PL┃ Dounia and the Princess of Aleppo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800580.mkv&play_token=Gb5lcUZJwq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztbDWXWhJisasEU36HqDJ0PiotZ.jpg" group-title="┃PL┃ FILMY DLA DZIECI",┃PL┃ Nika
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799201.mp4&play_token=R1uouBXr0M&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61wwzp8gYPrTZCGtCPpXHOtOxve.jpg" group-title="┃PL┃ FILMY DLA DZIECI",┃PL┃ Psotnik in the Glass Trap
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796655.mp4&play_token=honCKq21ri&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NQljeavtfl22207D1kxLpa4LS3.jpg" group-title="┃PL┃ FILMY DLA DZIECI",┃PL┃ Nimona
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793641.mkv&play_token=7oA1GyAdjq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pF9Y5H5x94Tuo6xAZBCrGG8Wvq5.jpg" group-title="┃PL┃ FILMY DLA DZIECI",┃PL┃ Baby Shark's Big Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793636.mkv&play_token=bv6oXakFdT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kL4GDXHnwknt5oyD9eyyi693gbB.jpg" group-title="┃PL┃ FILMY DLA DZIECI",┃PL┃ Taz: Quest for Burger
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793144.mkv&play_token=R07ow3lXX6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gIHOuxO94QJ6Bg7e1kNuiHdKQ.jpg" group-title="┃PL┃ FILMY DLA DZIECI",┃PL┃ Chef Jack: The Adventurous Cook
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793132.mkv&play_token=gpu0InH5y2&type=movie

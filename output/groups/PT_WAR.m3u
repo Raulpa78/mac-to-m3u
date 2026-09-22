@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gps21uXxBmQDWEdIMnweXoSjdii.jpg" group-title="┃PT┃ WAR",┃PT┃ Anthropoid
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096069.mp4&play_token=DqAUDxWjep&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6VVgmwNdOWvLo8nlheLPQU5wr7.jpg" group-title="┃PT┃ WAR",┃PT┃ 1917
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095867.mp4&play_token=JcXj01UCta&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIlVtC22BDNiiAiCvSZoOS7FhY9.jpg" group-title="┃PT┃ WAR",The Water Diviner - 2014
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094651.mp4&play_token=FfKWQvoUaY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nx2lBgDBpKv97Vzi9hoQRWfBuUZ.jpg" group-title="┃PT┃ WAR",The Marksman - 1953
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094570.mp4&play_token=yAmN8yEcqC&type=movie

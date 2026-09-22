@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRn57WAbFDg7ItvvoKRnk9MBLEO.jpg" group-title="┃IT┃ SKY ORIGINAL",┃IT┃ Abigail
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1042852.mp4&play_token=HFQRx8RBBi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VxStGPKuixAEdF2imhW2zcu0hD.jpg" group-title="┃IT┃ SKY ORIGINAL",┃IT┃ A Quiet Place - Giorno 1
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1042829.mp4&play_token=IMplLbTEYU&type=movie

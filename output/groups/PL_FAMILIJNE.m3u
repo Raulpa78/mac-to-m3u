@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1X3dyNroWyPLJT4bPfVE9AXsvwM.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Zorro
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813877.mp4&play_token=L8uhbVCN54&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77dmCJelVTBPBwbTppiisQx0e82.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Cats & Dogs
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813855.mp4&play_token=Mle6hPNTwY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CIlbMFOfYDj0MP23hsIYhFGrL6.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Miss Peregrine's Home for Peculiar Children
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813849.mp4&play_token=kCFwxxTJIS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Megamind
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813839.mkv&play_token=dV3uzPgpx1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3ACos3t4YwXML8keTA0wKN8e36.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Max
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813838.mp4&play_token=qomvuK7bkM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8Zpskuba1lU2sTqqYKdzvxI9Pt.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Dakota's Summer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813830.mp4&play_token=z5bAEofPxc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMTm4I7P92sTJulpJLmzWwJscnv.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Flubber [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813811.mp4&play_token=xFVxg23SG0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmafmPYebZtpWXndYAVbUNqrCux.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Ella Enchanted
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813809.mp4&play_token=vRAEPYmrjy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIkcTCUdvc5fDyG2IxdCd26hRQ7.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Tooth Fairy 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813806.mp4&play_token=nfmhHN1GZk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRZvw3bPomtucIUtMHZ3qPIYtYs.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Tooth Fairy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813805.mp4&play_token=Hvs1koXcqG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Zu4SnJpcMrVlWcbBvdmtH6egCT.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ White Fang 2: Myth of the White Wolf
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813803.mp4&play_token=Bk4cev6t38&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dvxCBUfDG2cAdkA921rERxhtcp.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Show Dogs [DUBBIN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813751.mp4&play_token=yzxFTkJ4Uh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38ymaBYso6MJ5qqsG99Bh1lrIW4.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Water Man [DUBBIN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813750.mp4&play_token=wOR7rhVYfE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hm2P8pMoeJlETIaSP6OWR0Lu7c.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Teen Beach 2 [DUBBIN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813749.mp4&play_token=eFFdmiLWnF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKrGe5EmDSyVaWM0uj7rJDQHRjB.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Teen Beach Movie [DUBBIN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813748.mp4&play_token=KAHOi3ysMI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzOGGLfHJ5SI0QX8fUg1surA6s5.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ The School of the Magical Animals [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813747.mp4&play_token=IHUHZmkIYq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0AgiPF1qBObVDLK7pwncujVpuo.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Stasis [DUBBIN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813746.mp4&play_token=AZo821ho8L&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSixyosPFDZmeuOVutfAokYGpXS.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Peter Pan & Wendy [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813744.mp4&play_token=Ouna2NByvJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AbgA96GJUZIn8tFj3fa6WDiycD.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ A Doggone Hollywood [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813743.mp4&play_token=Re16Z6FNyI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Paddington 2 [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813742.mp4&play_token=haAbeTarMp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7lFcSKhFrcelocr2VFflJnVzIH.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Paddington [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813741.mp4&play_token=JkTP2FxPnS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iEc34Qje2V3FZnrSXKfZsbiHjW.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ The Sleepover [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813740.mp4&play_token=37m9A8scF1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVgRfuBvsFTU4mFvDt1Qlqo1CRo.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Prom Pact [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813739.mkv&play_token=WWSopWzkto&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bL2dvEDgFb8gUpllbBN9jexXANp.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Mary Poppins Returns [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813738.mp4&play_token=5gbbN6WQD6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DjJh0vwGwi6KugPZfDiliO25XP.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Mary Poppins [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813737.mp4&play_token=GF5HJzfaIV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RAzZoMGeoLrLInDQsuNMsFcTey.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Legend of the Guardians: The Owls of Ga'Hoole [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813736.mp4&play_token=fRSyP2t1yj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7e1tkbaf8l5G6SaAL0ESyYEoRo.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Christopher Robin [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813735.mp4&play_token=7FJ7souCFN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWlxe58BiopW4LwUqOhSddHh7Js.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Bad Cat [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813734.mp4&play_token=Yp69yfKTtS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lTfTZ8CDfXw09eAv3OOvsbCVgs.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Herbie Fully Loaded [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813733.mp4&play_token=WRdTDGTnW7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70RiLlSIi5q17Ybnq61rUt8JVoU.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ A Witches' Ball [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813732.mp4&play_token=UesiR02bwd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0vSLU0tsYuQsvMxsC52rJsd583.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ Stormbreaker [DUBBING]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813731.mp4&play_token=o4ocaSdF3I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQ9W8qd8hbsIKuuz9Xa6x4IKhoP.jpg" group-title="┃PL┃ FAMILIJNE",┃PL┃ 101 Dalmatians [Dubbin]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813730.mp4&play_token=Mu6jqkQndq&type=movie

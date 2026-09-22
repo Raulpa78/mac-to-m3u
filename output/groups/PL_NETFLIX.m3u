@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg" group-title="┃PL┃ NETFLIX",┃PL┃ Murder Mystery 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813876.mkv&play_token=qLvlheWBMR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBJt4GEm5TBAW4kcNQLtgGhUqXC.jpg" group-title="┃PL┃ NETFLIX",┃PL┃ Zabójca - The Killer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813875.mkv&play_token=KFLqVRz8cN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snl9dddlnu2yKXXix2ua7G8UWoe.jpg" group-title="┃PL┃ NETFLIX",┃PL┃ Mysteries of the Terracotta Warriors
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813712.mkv&play_token=agDcCbPCKH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61YLaenKRhABf4bNjHJxLBxW4JW.jpg" group-title="┃PL┃ NETFLIX",┃PL┃ Za duzy na bajki 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804802.mkv&play_token=UF8ohrKo6R&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itctXNhSAokPBITlz5WtqF64gxQ.jpg" group-title="┃PL┃ NETFLIX",┃PL┃ Kolory zła: Czerwień [Colors of Evil: Red]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=802426.mkv&play_token=2wU8nKMLuf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃PL┃ NETFLIX",┃PL┃  MAM DOŚĆ UMIERANIA
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800597.mp4&play_token=5OnQnTQBGh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃PL┃ NETFLIX",┃PL┃   KOD 8
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795261.mp4&play_token=LCjZFYXnRf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg" group-title="┃PL┃ NETFLIX",┃PL┃ Rebel Moon - Part Two: The Scargiver
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=794122.mkv&play_token=0Za5PMYR4O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lipzcJAVfRJsvXteDgvrjqjEL8D.jpg" group-title="┃PL┃ NETFLIX",┃PL┃ Amar Singh Chamkila
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793118.mp4&play_token=JrwdvZHmGx&type=movie

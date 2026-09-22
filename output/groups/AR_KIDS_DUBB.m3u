@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="┃AR┃ KIDS DUBB",┃AR┃ Swapped (DUBB)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1720377.mkv&play_token=QjLxqwbbZG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg" group-title="┃AR┃ KIDS DUBB",┃AR┃ Zootropolis 2 - (DUBB)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1603614.mkv&play_token=0LUGKIyV9k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8etkE8pdopoHx8B8PJrinU01Wz.jpg" group-title="┃AR┃ KIDS DUBB",┃AR┃ A Loud House Christmas Movie: Naughty or Nice (DUBB)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1493489.mp4&play_token=hJ7Jpyl9GC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg" group-title="┃AR┃ KIDS DUBB",┃AR┃ Elemental (DUBB)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319024.mp4&play_token=qegvzDgk6m&type=movie

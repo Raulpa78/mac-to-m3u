@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ امرأة في دوامة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398271.mkv&play_token=dUiG0IkP1t&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ أيام شبابي
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396554.mkv&play_token=ppamWzIihN&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",الظلم حرام - 1954
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391285.mkv&play_token=mZaargtouF&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ زقاق المدق
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391296.mkv&play_token=d61xCsWjFQ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ ذات الوجهين
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391295.mkv&play_token=wPfI7Ekszu&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ وادي الذكريات
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391294.mkv&play_token=YHXKo2qRtR&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ قلوب العذارى
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391293.mkv&play_token=OJA6e0jEuF&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ نص ساعة جواز
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391291.mkv&play_token=6cOkb7vVO4&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ مغامرات اسماعيل يس
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391290.mkv&play_token=nuOSdE99cm&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ حياتي إنت
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391288.mkv&play_token=N8ujFTmFRS&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",┃AR┃  اشهدوا يا ناس
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391287.mkv&play_token=FckXeGX9Wp&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",┃AR┃  امرأة في دوامة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391286.mkv&play_token=wg0BhC27WV&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ الزوجة ١٣
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391284.mkv&play_token=yNpCmGRn5W&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ الستات ميعرفوش يكدبوا
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391283.mkv&play_token=zwSbNS6kom&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtQ7unzazInmYjLZhN28Ar8jIY7.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ امرأة في دوامة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398271.mkv&play_token=u5kaGsqUkD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxhlV7YFmI79aOmFq9WdGTWuK9p.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ أيام شبابي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396554.mkv&play_token=wtA4mRUdWI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIRWGx4Wuk2voqa1fmFLPpYHYAs.jpg" group-title="┃AR┃ SHADIA | شاديه",الظلم حرام - 1954
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391285.mkv&play_token=xXYnqUncE1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQl7q6Bq9f06nx72F2tki27JTFC.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ زقاق المدق
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391296.mkv&play_token=tVVBWix0L2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oi8V2Q4BdePK5bykLHM6x3vZ4Gg.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ ذات الوجهين
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391295.mkv&play_token=iXU7HArU1x&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrl3GvqJfODy8ZxmfRJRMnCX5Xx.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ وادي الذكريات
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391294.mkv&play_token=tmy3cHVldS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBYOVOvTFD5LA9zbvh15LaPfxT1.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ قلوب العذارى
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391293.mkv&play_token=iDovqIkvvX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oa6MoJFRezeI08vQQdcOafENYNf.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ نص ساعة جواز
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391291.mkv&play_token=WfrCACFV23&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8T4R1OCaCEuDtCP2DUIWHuXwTJ.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ مغامرات اسماعيل يس
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391290.mkv&play_token=hZdYDF2io3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMePOso6sElnCRaz5zUsvrfgnZ.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ حياتي إنت
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391288.mkv&play_token=fOotJkf2rf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJZCT6NBHJHau336X80y8LX1Xwv.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃  اشهدوا يا ناس
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391287.mkv&play_token=JDXxvAF9u7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtQ7unzazInmYjLZhN28Ar8jIY7.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃  امرأة في دوامة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391286.mkv&play_token=fhZuuYyTIv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRujzLBfUc6LUjYbQbVuSk1siQC.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ الزوجة ١٣
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391284.mkv&play_token=tmfmudLSrP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44s7XYCfduadhrYQvI8yrZK2Tnb.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ الستات ميعرفوش يكدبوا
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391283.mkv&play_token=HnBgDR2Sr5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqROZKGOVBQKMXMbDYLzjinbFqg.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ اللص والكلاب
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391282.mkv&play_token=kIf78MEN5A&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391282.mkv&play_token=0SDcydFsyo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSvAnIbDvKjqddjngsXrvptCzWV.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ بنت الجيران
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391281.mkv&play_token=GEC97TVpMe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391281.mkv&play_token=vuRAyA5UPr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdJlMTsEOfZyXcPb8bggXajxfAM.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ عاصفة في الربيع
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391279.mkv&play_token=Wkg4yqgbIl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391279.mkv&play_token=n2XoFaCtdT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CpWPrrYLpYNGFJbEBVtecjXjJ7.jpg" group-title="┃AR┃ SHADIA | شاديه",┃AR┃ أمواج بلا شاطئ
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391278.mkv&play_token=CLgbaoneA8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391278.mkv&play_token=TeNoZc5TA8&type=movie

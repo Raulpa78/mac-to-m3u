@@ -1,57 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",ابن ذوات - 1953
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398296.mkv&play_token=uIACqErcrF&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ قليل البخت
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398302.mkv&play_token=T85AXMoeKk&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ جواهر
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398301.mkv&play_token=SantV2pW9e&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃  إسماعيل ياسين في السجن
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398300.mkv&play_token=XrrVRPBQeE&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ إسماعيل يس طرزان
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398299.mkv&play_token=3RKstP2UTv&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ إسماعيل يس في الطيران
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398298.mkv&play_token=f3JBCMcGv9&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ إسماعيل يس في البوليس
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398297.mkv&play_token=Rrbmv8CvCO&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ حلاق السيدات
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398294.mkv&play_token=mcfVwDjgri&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ الآنسة ماما
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398291.mkv&play_token=jtYba7Wd3y&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃  بحبح في بغداد
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398289.mkv&play_token=r1W4Wue9Uc&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃  بنت البلد
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398288.mkv&play_token=ZeudoTbPGq&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃  السعد وعد
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398287.mkv&play_token=ZDkAzJ41zn&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃  البنات شربات
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398286.mkv&play_token=LY1Mfj2gez&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ الدنيا لما تضحك
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398285.mkv&play_token=KoVdo5E3Fz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePF65F94YxuZpXNI9g8B6jp9mFb.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",ابن ذوات - 1953
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398296.mkv&play_token=1BahKB7Gly&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ps06fXyCdo3oKZPE2EbuDSoU5D4.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ قليل البخت
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398302.mkv&play_token=1aybgqei7z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WtW5bxZraDhiVEq9yNinhbokaK.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ جواهر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398301.mkv&play_token=9X3XyuDz1T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzZII7TsBRRKC04Qwf2BaOwaep5.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃  إسماعيل ياسين في السجن
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398300.mkv&play_token=CoTxPnkZHQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UAeKkNCFZMFluaRmjWLxIK758g.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ إسماعيل يس طرزان
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398299.mkv&play_token=5DeKB6RPdc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHDSmgBC636fl3lWY8F0VppBfEk.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ إسماعيل يس في الطيران
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398298.mkv&play_token=GW3u1tosl1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9o5sjersyBpcfiDF9Cw5bg0kxG.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ إسماعيل يس في البوليس
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398297.mkv&play_token=9qAwEVHNCG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BGDdtksFITevCG6jLvRkZOF40m.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ حلاق السيدات
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398294.mkv&play_token=Ii5mV0wo6o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4jXL8vCHqX8p4fWhF9Eb4ESBr7.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ الآنسة ماما
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398291.mkv&play_token=t52Q31eNL8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmKY4mZt350NF2FPDQqNCPOAAZh.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃  بحبح في بغداد
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398289.mkv&play_token=3wnzQTfgyr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jadkRTuBYutMGIF3mKA7evTeipZ.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃  بنت البلد
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398288.mkv&play_token=sbuMkpdsvT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGGzqxWZ3MRtYryP2JP2tKaA5st.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃  السعد وعد
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398287.mkv&play_token=8Uyspre3v8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3qA9XHENbRwqHOks8OwpuzBtys.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃  البنات شربات
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398286.mkv&play_token=Q05kAiXwoA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKBDttIUZW6kVXJ6qTbZw3vthO5.jpg" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ الدنيا لما تضحك
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398285.mkv&play_token=D71TRL0YOi&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ الستات ما يعرفوش يكدبوا
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398284.mkv&play_token=1SyAwOoctp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398284.mkv&play_token=3IUMNRt3Ui&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ المفتش العام
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398283.mkv&play_token=EbAeXKHigx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398283.mkv&play_token=KpH4AO6gZS&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ عفريتة إسماعيل يس
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398282.mkv&play_token=43pIzuKota&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398282.mkv&play_token=7aJccg2yRc&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ إسماعيل ياسين في الأسطول
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398276.mkv&play_token=93UvQ95aNA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398276.mkv&play_token=nNwfqVaAuu&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ابن حميدو
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398267.mkv&play_token=ZtXNryxGJD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398267.mkv&play_token=80xwI6v8ih&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃  الكمساريات الفاتنات
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398262.mkv&play_token=zRXqhVYgpP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398262.mkv&play_token=1uLTlSo3d8&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ ليلة الدخلة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1397374.mkv&play_token=Blvj8kQR80&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1397374.mkv&play_token=v6LBWEve7I&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ نشالة هانم
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396595.mkv&play_token=8skLSDUjzm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396595.mkv&play_token=WsP7F4w045&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ من أين لك هذا
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396594.avi&play_token=rk01GL3mRg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396594.avi&play_token=WVcpZzJKks&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ ليلة العيد
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396590.mkv&play_token=4V8frVmVpw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396590.mkv&play_token=6hmVCUhbKG&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ الستات عفاريت
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396585.ts&play_token=J7AjD0Vukx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396585.ts&play_token=05h4AHLBKA&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ بيت الطاعة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396581.mkv&play_token=rqhgFFOREC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396581.mkv&play_token=8Psd6DSn5Q&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ عفريت عم عبده
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396558.mkv&play_token=KVyv7tHqHe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396558.mkv&play_token=Z6WuTz4K3Q&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ISMAIL YASEEN |  اسماعيل ياسين",┃AR┃ بين قلبين
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391300.mkv&play_token=xFarfhsqMZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1391300.mkv&play_token=7Zfyk9XRIu&type=movie

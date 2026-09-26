@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ نادي الرجال السري
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403255.mp4&play_token=MMJwlfhVQW&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ واحد من الناس
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403254.mp4&play_token=69GHeXa4ZW&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ ولاد العم
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403253.mkv&play_token=V8hENSM8a3&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ الفيل الأزرق
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403251.mkv&play_token=z4brahvq0C&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ خارج عن القانون
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403249.mkv&play_token=7XXWHpP6Az&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ حرامية فى كى جى تو
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403248.mkv&play_token=tG2YmRlKRR&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ في محطة مصر
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403246.mkv&play_token=sFIbBlAJ5J&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ فاصل ونعود
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403245.mkv&play_token=r9QK34QmEH&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ الباشا تلميذ
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403244.mkv&play_token=WSUC6NE6wu&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ أبو علي
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403243.mkv&play_token=yQ4C2siAbw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hlAZ5F91buvY3bpV606zd8KN5j.jpg" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ نادي الرجال السري
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403255.mp4&play_token=uy9moWYIte&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aso7BXD0MWVz8XkRsNH2fnUvtRq.jpg" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ واحد من الناس
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403254.mp4&play_token=TvYclOBaTs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbIoIY6fvmY3QcaTWku3kv6Ppm6.jpg" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ ولاد العم
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403253.mkv&play_token=acQW4xVRDJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwbeL5DrDvcAutoftgERh2bnilb.jpg" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ الفيل الأزرق
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403251.mkv&play_token=YytL8EndBU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmjy8rX4lY2x1UCJIH24VvUtDXJ.jpg" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ خارج عن القانون
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403249.mkv&play_token=4gtAU7a9K1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1R5mHIv8jCB68XElhXCETaphB3s.jpg" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ حرامية فى كى جى تو
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403248.mkv&play_token=C9kCe2LSKd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjbdAIEDGPgu1Lod2I4G6hmvgcn.jpg" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ في محطة مصر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403246.mkv&play_token=EImVTzndkP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weyu8VJruWUN772yQnCEAIM3D1G.jpg" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ فاصل ونعود
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403245.mkv&play_token=INFheAx4ZF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjNsgAwUZ2h1gvB8pEkCksxbwjV.jpg" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ الباشا تلميذ
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403244.mkv&play_token=WW4nYFFKPP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3x9TNUeNuUtZ9dozgCuLWq39200.jpg" group-title="┃AR┃ KAREEM ABDELAZIZ | كريم عبد العزيز",┃AR┃ أبو علي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1403243.mkv&play_token=kaimQjsYrb&type=movie

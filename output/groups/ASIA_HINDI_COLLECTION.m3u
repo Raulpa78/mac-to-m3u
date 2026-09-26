@@ -1,645 +1,589 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃HINDI┃Navras Katha Collage (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827759.mp4&play_token=RKBS4PBJXx&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃HINDI┃Sameer (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827745.mp4&play_token=H8xw1mVuF7&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃HINDI┃Drona (2008)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1787349.mp4&play_token=orQNrMNMUa&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",Aliya Basu Gayab Hai - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760888.mp4&play_token=gCI0T2m1MI&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",Lord Curzon Ki Haveli - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741313.mp4&play_token=EEkxaGrU47&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃HINDI┃Aayushmati Geeta Matric Pass (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1685915.mp4&play_token=xFRQpBmopg&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃HINDI┃Radio (2009)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1660824.mp4&play_token=HXbxnmj3V0&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Hyderabadi Pheku (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602071.mp4&play_token=WFafPMt8vP&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Hyderabad Factory (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602070.mp4&play_token=rGTL22okAR&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Hotel Salvation (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602069.mp4&play_token=1FCd2euZP3&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Hey Ram Hamne Gandhi Ko maar Diya (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602068.mp4&play_token=p40w7DKeXT&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Haq E Sailani (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602067.mp4&play_token=QcMSvkJQRf&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Happy Phirr Bhag Jayegi (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602066.mp4&play_token=gJfG1gKiXg&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Happi (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602065.mp4&play_token=1He1aUbpOt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xufqFe1roAAWBc01hmKL3tGVJDQ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃HINDI┃Navras Katha Collage (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827759.mp4&play_token=YQbEy3NZ1c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEo0N7UWUqKIo1nIbrGgg6xvM8T.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃HINDI┃Sameer (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827745.mp4&play_token=Nwf6iWgqFk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7l5lejRwvkEnQ3s1dOLQ1qUXGRf.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃HINDI┃Drona (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1787349.mp4&play_token=CBNewb4ovP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPbLh3EuvcGrxhpOMfK5XIUT1az.jpg" group-title="┃ASIA┃ HINDI COLLECTION",Aliya Basu Gayab Hai - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760888.mp4&play_token=EpMqhh7XJU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Hvhy3cVYCTWXvHDSX4XlCFfrec.jpg" group-title="┃ASIA┃ HINDI COLLECTION",Lord Curzon Ki Haveli - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741313.mp4&play_token=SQDtLCVTTG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HergD0dsWXOCRobLXBUEN8IezY.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃HINDI┃Aayushmati Geeta Matric Pass (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1685915.mp4&play_token=0hVRfVyW6u&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whHPB7QsMbKVqyJwEKTMRiVKQXg.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃HINDI┃Radio (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1660824.mp4&play_token=chJiHDYBZs&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBmNzM1NTQtZjUwYi00MTU4LWJkNDAtYjJhNDQyZTRjY2U3XkEyXkFqcGc@._V1_QL75_UY281_CR15,0,190,281_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Hyderabadi Pheku (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602071.mp4&play_token=Wh7PFOuXIP&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/x1iZxdtqbBU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBeooH3n48QbMDrGM1xtBW_8zxXFA" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Hyderabad Factory (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602070.mp4&play_token=9Ti2youlOD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6IjizWfXAxwUXdwoUWyF4qrMss.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Hotel Salvation (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602069.mp4&play_token=GyiHxTXI6S&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehCwG0IcdiGD2sIjUKbITIvd0SW.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Hey Ram Hamne Gandhi Ko maar Diya (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602068.mp4&play_token=cJqXJFcAfx&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTM2NmQ1ZDQtM2U3Ni00YTgzLWI4YzItMTEwODllOTlmY2UyXkEyXkFqcGc@._V1_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Haq E Sailani (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602067.mp4&play_token=VQjmKR1aZ3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZGPJgK9qMlQopwfRBeL8t1yltX.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Happy Phirr Bhag Jayegi (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602066.mp4&play_token=mMZw0fbvKm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svyiLVtzVcanH8T3pVyaR7kp9Qi.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Happi (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602065.mp4&play_token=V5TSZuX3iD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUjpk0nTlCDqriGTYgi6kecaghF.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Guest iin London (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602063.mp4&play_token=5XMr1vWKzZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602063.mp4&play_token=152j7l6WMi&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDljYWI1YmYtZDkwOS00Nzk5LWJjMTctMjNlZmUzZDM2ZDBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Guddu Engiineer (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602062.mp4&play_token=ZSeSav6Omt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602062.mp4&play_token=OJlRl7Nd8r&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPzw28qOSVU5kfyczbcOJkInqxF.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Ghost (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602061.mp4&play_token=WtqjeHzTmt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602061.mp4&play_token=YqalThKjZj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdEJ2dgus9d0pAQjC8086SVcx2n.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Genius (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602060.mp4&play_token=zYI3oJuL4k&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602060.mp4&play_token=ddlliSKb2J&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZwBVIwRi0vAaBGeG31UIkx4ygQ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Gaddalakonda Ganesh (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602059.mp4&play_token=TWJXSa2LpL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602059.mp4&play_token=JaBsSiaRKe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AclYkwVFwS8yxMWj4riYqRaE0w0.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Fukrey Returns (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602058.mp4&play_token=CPtwPmAYeV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602058.mp4&play_token=08lzQUehoG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOyWwBgKgiceKLLWhJOLLSed2DO.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Fuddu (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602057.mp4&play_token=g0puLKluOi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602057.mp4&play_token=cNwwByKWHH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcRlp4siv0fBCynqTZ7XnTcQrK0.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Fraud Saiyaan (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602056.mp4&play_token=XJqcvvOZtI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602056.mp4&play_token=GeYkT5KUBI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joWrpC5KuoKEiSsxgzeg7zMuSZ3.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Flat 211 (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602055.mp4&play_token=6NsRe9rjYR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602055.mp4&play_token=leWq2cmmlL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9HdwvaEVjF6kQqDSbgkDeoFv1Z.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Family of Thakurganj (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602054.mp4&play_token=6BGx5iR8qw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602054.mp4&play_token=D6rgqC6t5f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EwN6KYPPuiOhuv6IwOnk6GAjPA.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Ek Tha Hero (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602052.mp4&play_token=Ys2MjNRvmK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602052.mp4&play_token=QZc539fONH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYevwq0VLai27AvODudalXzE6HM.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Ek Ladki Ko Dekha Toh Aisa Laga (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602051.mp4&play_token=Ry5OErbqiv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602051.mp4&play_token=8OZYRzucQn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tgbQw1KIbjO72kRp16lgCJJH1p.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Ek Gulelbaaz the Catapult (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602050.mp4&play_token=7UGPdMFr8F&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602050.mp4&play_token=94ro1JWdD2&type=movie
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/p9ASuEL8nT4/maxresdefault.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Dulha No. 1 (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602049.mp4&play_token=TqZyZTiz3f&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602049.mp4&play_token=7Xyi3s600F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cCDyozwYILUi6HTJKzQQjCJtZl.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Dil Jo Na Keh Saka (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602048.mp4&play_token=ArFdomEUmj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602048.mp4&play_token=0xLRmi4TqJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5mCcXlTjbtNE1ig3d3YrQ41F54.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Dhara 302 (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602047.mp4&play_token=MwIt6hwSDE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602047.mp4&play_token=Lkk7fXuKu7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIVKzzPA7hrSZpEwofB7Luo83kO.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Dhadak (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602046.mp4&play_token=lrrUN1pWEV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602046.mp4&play_token=t4a5FZJ7KK&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDAwMzE1YjEtMDU2YS00OTA1LWEwNWUtOWFkMTNkYWU2YTIyXkEyXkFqcGc@._V1_QL75_UY281_CR46,0,190,281_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Deceptive Diva (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602045.mp4&play_token=y3wMbEWlIW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602045.mp4&play_token=5sL8Zes5QF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QG6YdWYfUusAoOVzr8k5VOk99D.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Days of Tafree (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601684.mp4&play_token=6xJGql1pqo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601684.mp4&play_token=jQIH1xYHr5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9F2SirZBraz6GaNfyXCnz4r9Nmd.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Cypher (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601683.mp4&play_token=O5NEnqPSDY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601683.mp4&play_token=RDuSt4xTsI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oisyFeOWYp87cx1tHqepwBAs4Xo.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Chicken Curry Law (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601682.mp4&play_token=OvobCZUreA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601682.mp4&play_token=4iwSjdepWv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hv0LQmvyJaFC3HqENY4AY0eQf7V.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Chhoriyan Chhoron Se Kam Nahi Hoti (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601681.mp4&play_token=b7fsBzBm5c&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601681.mp4&play_token=n81hZEFlbw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGDPQtQ5igtPMt3oJ6BCAor6dFp.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Chhichhore (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601680.mp4&play_token=tMiTCWCCaO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601680.mp4&play_token=epDfbNbycd&type=movie
 #EXTINF:-1 tvg-logo="https://sandbox.stream4k.co/stalker_portal/screenshots/3928/392710.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Chennai Megafloods (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601679.mp4&play_token=1nUh6WT3Wy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601679.mp4&play_token=4la2HaqF5V&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOEwKik8is54Qdehuw5oYgl6Q2i.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Chauhar (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601678.mp4&play_token=d5fAzZjhBG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601678.mp4&play_token=Rr0mTJoAVI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/poKPqKRwXIAfY3gqlkQjKmquyui.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Cabaret (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601677.mp4&play_token=Tewc4PAd88&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601677.mp4&play_token=yg6XYyHvSm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acNsTt89a1NYRbnq5oDPaGJNUYd.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bypass Road (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601676.mp4&play_token=kWjuJI7ENe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601676.mp4&play_token=mrQr0hrPw0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kvr2gx6j3XjueQfkYsGPqvGSQ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Budhia Singh: Born to Run (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601675.mp4&play_token=Sik694IIph&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601675.mp4&play_token=Fs8lCPgtmr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAia8POGJHaSLL9RCdo99ZNClKG.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Buddha in a Traffic Jam (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601674.mp4&play_token=VKoU21ifhh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601674.mp4&play_token=PZpr90JKx0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0H3pgHolg2kGt0MUKBIeTMol4y.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bua Ji Ke Gehna (2013)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601673.mp4&play_token=uqCnNH6Ldp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601673.mp4&play_token=T21vBCZod0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFubh0L1Ok8AKZPi51MSuwk7DWQ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bollywood Diaries (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601672.mp4&play_token=po2I6VlH3M&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601672.mp4&play_token=mEzSeI8yex&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xfLBfBwPJfbZG9n15S9aF25VxZ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Blank (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601671.mp4&play_token=mOV5pygddU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601671.mp4&play_token=2bGf6abRLd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apt3peZIUjd56Rkt0HGxp6EaxKe.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Blackmail (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601670.mp4&play_token=6ZnkZ3FnHc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601670.mp4&play_token=0b9k3OIhkP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83gg2RiYh8HVoatxCFlv8NoDgEh.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Blackboard vs Whiteboard (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601669.mp4&play_token=buplfdNYwq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601669.mp4&play_token=6Su7EL8WeM&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzM2VhNTUtZWNmNi00OWJjLTk0NGMtNmY0OGFiZWRhZTRlXkEyXkFqcGc@._V1_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Biwi.Com (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601668.mp4&play_token=u4ueYGZE52&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601668.mp4&play_token=1mnXILm0w7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVh5RNjIcM3Wggp0Be3fGdLxz75.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bhoomi (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601667.mp4&play_token=HwAMxD6QdY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601667.mp4&play_token=ZoXQEzAg9Q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2dzIELXWls5Aqutha502ZyF8WN.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bhavesh Joshi Superhero (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601666.mp4&play_token=JhEoBVTBHe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601666.mp4&play_token=qDPTzAVjjA&type=movie
 #EXTINF:-1 tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2021/07/Bhaskar-Calling.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bhaskar Calling (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601665.mp4&play_token=fyfJnkrLX1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601665.mp4&play_token=tHNvN56yTB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aawdjzVsfKvRRIFu9Ni74wZyjc8.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bharat (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601664.mp4&play_token=j2ZQn5KPh0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601664.mp4&play_token=P5FrpSVNoh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAtHyXSSOamRI8StYcYZn6Uinuh.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bhanwarey (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601663.mp4&play_token=Q6y4LYaMR9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601663.mp4&play_token=xj1srMfvVW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVLwG9vXq4xf2VztiZtSXq1in3X.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bhangarh: The Last Episode (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601662.mp4&play_token=EZukPSgVid&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601662.mp4&play_token=5hPbrzfN31&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGHgk0IO68OH9G7oXtPqGb4IxDq.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bhaiaji Superhit (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601661.mp4&play_token=iDMEjTjZOz&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Beyond the Clouds (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601660.mp4&play_token=oTRBiAE0er&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Beiimaan Love (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601659.mp4&play_token=4UwhbKZ1yA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Behen Hogi Teri (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601658.mp4&play_token=zUYe7XqGVO&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Begum Jaan (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601657.mp4&play_token=9fRSbo1I7F&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bebaak (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601656.mp4&play_token=kxJgP8U3Ca&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Battalion 609 (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601655.mp4&play_token=LdlLIszCQG&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Batla House (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601654.mp4&play_token=FZKle6foZI&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bareilly ki Barfi (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601653.mp4&play_token=lPYQvyd2qk&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Banjo (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601652.mp4&play_token=jn00soF2UY&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Ballavpur Ki Roopkatha (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601651.mp4&play_token=2hoErMKrcC&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bala (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601650.mp4&play_token=H4xbt28OEC&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Badrinath Ki Dulhania (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601649.mp4&play_token=Qhe82rOREW&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Badman (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601648.mp4&play_token=MJsus36686&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Badla (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601647.mp4&play_token=FmeEhR6Rox&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601661.mp4&play_token=dlp0pLRql7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HvQ7UEngiSQ7Nxj1lH0HW8kOpj.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Beyond the Clouds (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601660.mp4&play_token=p1DiRE90un&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgNAJbjfaQE9mp8ffGY1TSot13G.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Beiimaan Love (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601659.mp4&play_token=XKlIiyBKRj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zdhiVMVrHFu5J2LarF5bHhSabM.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Behen Hogi Teri (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601658.mp4&play_token=BCVZ1jMuf0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spjYSwKazSQEkeMywBZIpnzilQp.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Begum Jaan (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601657.mp4&play_token=G1HfGLEjzH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzRFBE3gO5LUlrxBPkCssiOAAO2.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bebaak (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601656.mp4&play_token=ggoslY9B4f&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcDBV1cxbbDUgZBjCkpIctPKHt9.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Battalion 609 (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601655.mp4&play_token=PHnNotlxLO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpNeSjhImp2l9Yng3xzBmlEgW88.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Batla House (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601654.mp4&play_token=Xp3lOLssJZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gviYC7rpJ4HWbbEFs0ZW5u965Tq.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bareilly ki Barfi (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601653.mp4&play_token=pNkKRhlbKO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWJLsCVU7MckdprbbQi8g02wRYr.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Banjo (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601652.mp4&play_token=mDm0WcNqdv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IWVhKZSHd07mbtgMfPwNxMywPf.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Ballavpur Ki Roopkatha (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601651.mp4&play_token=2wSP2IoYUY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIDQRD4rPofIodn0b1Md2WyXzSD.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Bala (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601650.mp4&play_token=TOo45aYEcZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1tV7gYSF5iw8NPR78sUHNb3YLU.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Badrinath Ki Dulhania (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601649.mp4&play_token=3WFdsbXRQn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HWhsLtbtiKEaZjE0hzmvRQFHdM.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Badman (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601648.mp4&play_token=8SbcuHsCu1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKpzbERuhogYTwI3PwfVsAHXnuO.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Badla (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601647.mp4&play_token=LzmobaXnMM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmqyewAS2fbpXUKKEl5VehuxdfA.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Babumoshai Bandookbaaz (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601646.mp4&play_token=zJq0nEteA6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601646.mp4&play_token=OliRyQB0qF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uyLIf6AncBk0aEdJJn2yZvaOpB.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Baar Baar Dekho (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601645.mp4&play_token=4dj5B6QVmF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601645.mp4&play_token=cBiyiQohX2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Jb94F5C9JCVzu6a8qPSPjaD6P.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Baaghi: A Rebel for Love (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601644.mp4&play_token=VEb9aHN1Td&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601644.mp4&play_token=viLP02TKtG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkjkHg9yCpPDM7COGCXfDtUJa2X.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Baaghi 2 (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601643.mp4&play_token=HW00fOszes&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601643.mp4&play_token=ji0vKa8QgH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwvpI85cqfVfs3ioFHu4invTLeI.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Azhar (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601642.mp4&play_token=MqAZQrqQBD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601642.mp4&play_token=BdTdzXkyQd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDZdjffGyG4zvhQz1MZeHBrLzr.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Awesome Mausam (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601641.mp4&play_token=7b8nZGuL4V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601641.mp4&play_token=PHsnUnwBEs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhIvAau4q63iuldrNCE0QWpHpJG.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Ashley (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601640.mp4&play_token=SGHpJys6fR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601640.mp4&play_token=OIGCy8cZPz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNThnK5uJS4g63CANGi7FukLgLt.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Ascharyachakit! (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601639.mp4&play_token=g2w3dzv9Bv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601639.mp4&play_token=VCEOTQUyIm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egknEWNt2B0slG2OC0gSpLZdVHj.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Article 15 (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601638.mp4&play_token=UTdkUhdkbc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601638.mp4&play_token=xZEzHV6KHf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuPerJWV04xQMQUu9J6K6H4iFCB.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Arjun Patiala (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601637.mp4&play_token=TriRFrNUri&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601637.mp4&play_token=OjDq6SlFz2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbpLX38HvteTAYzMWWdJr2t3B9B.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Angrezi Mein Kehte Hain (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601636.mp4&play_token=vnyhD66sJr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601636.mp4&play_token=0hr36C2aPz&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM1ZDRmYzMtZWMxYS00ZTNmLTljZmUtYzA3ZjFhZjk3ODRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Anarkali Of Aarah (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601635.mp4&play_token=AZPi6l8CLH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601635.mp4&play_token=J73MBQyLvv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWk8mO3rUKK7YyFaQ2frnKFjyy4.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Pyaar Hai Toh Hai (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601515.mp4&play_token=cuzcsy6nXt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1601515.mp4&play_token=haNvW7tyeA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gC6DMV4eo9xPXaIUL63q1NyOJES.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shaadi Teri Bajayenge Hum Band (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599134.mp4&play_token=ZYjkn5Bid4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599134.mp4&play_token=IHV0x863dt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSpzMrohhzT7EQcvMIpXizP2hx4.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shaadi Mein Zaroor Aana (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599133.mp4&play_token=6F8FNv6Bu8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599133.mp4&play_token=q4m5GPzQOZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7904tdTu4O6EVX4UyesxtqF0xR.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Seven (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599132.mp4&play_token=EVbxaF9mQM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599132.mp4&play_token=IXRV1r7HPV&type=movie
 #EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sanjana-et00302377-15-12-2020-10-47-47.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sanjana (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599131.mp4&play_token=q8kuKJ1LwR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599131.mp4&play_token=AbsSuQQnAQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jKqSy87GVUsXdhwhcO7O1UqrjO.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sanam Teri Kasam (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599130.mp4&play_token=I76ozKUXde&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599130.mp4&play_token=RvqZijAk9m&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgZNHHZacK3iO18d7agg9iYQYWp.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sanam Re (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599129.mp4&play_token=zcGFga5lHf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599129.mp4&play_token=6cWXLRqt1N&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkv5bgozI4zTlMyQgwG6cKkqBQy.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Salt Bridge (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599128.mp4&play_token=z9RkySGEoi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599128.mp4&play_token=8KMX5TTDLK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcHI3hiqVGXoQ69KHZnURgiNvTF.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sallu Ki Shaadi (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599127.mp4&play_token=PwXYFRsZma&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599127.mp4&play_token=eCj25QkF9f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92mhRkrhOiQmtwDXGSkC0ULDS3Q.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Saheb  Biwi Aur Gangster 3 (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599126.mp4&play_token=ifYAStVJG2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599126.mp4&play_token=vNYc1aoMt2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZwPFL7wnwgHxbEoNrtDFWuNYs8.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Saat Uchakkey (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599125.mp4&play_token=LV7GH6GnyN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599125.mp4&play_token=MlFgc876Sd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvvg2mnpZ0ijguv2yUg1gvi21Jv.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Saanjh (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599124.mp4&play_token=fZxUlz8mwR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599124.mp4&play_token=MMZJkSqpzf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2W3FuqjIQO83ZQxcW8pM6HP7D7.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Saand Ki Aankh (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599123.mp4&play_token=g47zsNuOR9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599123.mp4&play_token=3QWx0Alxsz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abjWQwUakmBUecf73jiZDx5iex0.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Saaho (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599122.mp4&play_token=va5MEULwCS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599122.mp4&play_token=UOB2LH37eg&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU5NWE3MjUtZjIzZS00ZjYzLWFjYTUtYzQxYTE2NTg0ZjcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃S.P. Chauhan (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599121.mp4&play_token=bDpTkZwGE5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599121.mp4&play_token=mGLUPQzA2A&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwf74VcrHu1etzOsRVx7nckPPLR.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Rustom (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599120.mp4&play_token=15wDT1WDjq&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Rough Book (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599119.mp4&play_token=bpLnBQ1K9X&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Romeo N Bullet (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599118.mp4&play_token=0fp2KJoByP&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Rock On 2 (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599117.mp4&play_token=vzyjYvfHVI&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃2.0 (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599116.mp4&play_token=cYj8qzIrG5&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Risknamaa (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599115.mp4&play_token=ZLQT2N6ke6&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Love Ke Funday (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599114.mp4&play_token=QXTX3OQVWl&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Lipstick Under My Burkha (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599112.mp4&play_token=Tm2nMWEGHN&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Luv Shv Pyar Vyar (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599111.mp4&play_token=YjLTggclyA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Zero (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598804.mp4&play_token=W8UGlUcTA9&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tu Hai Mera Sunday (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598803.mp4&play_token=l2xu6CdT4K&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yeh Saali Aashiqui (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598802.mp4&play_token=2NGR7UQS4d&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yeh Ballet (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598801.mp4&play_token=Gw2OfKZbYJ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yea Toh Two Much Ho Gayaa (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598800.mp4&play_token=WgNBA7xiDd&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yamla Pagla Deewana (2011)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598799.mp4&play_token=W7s3zOsNyw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599120.mp4&play_token=o1z5HyDTzq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4DCGMXbgV8pdSwgrU8x5XbEAJQ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Rough Book (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599119.mp4&play_token=0Bk7mLUqz5&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1OWRhOGMtNGE1MC00ZmI5LWI3MzMtODMxMWZmZDgwOWFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Romeo N Bullet (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599118.mp4&play_token=pPepPkPBXO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHXLurduTMZByPwSUss3LbSsgiU.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Rock On 2 (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599117.mp4&play_token=q4KcXe8dju&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igWtprRqAQfJWoaUkjF0rm1nA66.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃2.0 (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599116.mp4&play_token=vvQGwAzmk0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibkwPRpoxAyElWPqnQ0QZmowT9w.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Risknamaa (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599115.mp4&play_token=Wy1MspAGy4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r1rNUCxyzvTKgsnp9ybhWViWsh.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Love Ke Funday (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599114.mp4&play_token=fTMaklsSdQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/watd7f9icZYuXd7ODenxw0tMAhE.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Lipstick Under My Burkha (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599112.mp4&play_token=6ZD5BLZ6t5&type=movie
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15170331_p_v10_ab.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Luv Shv Pyar Vyar (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599111.mp4&play_token=lBOhbLu8Wa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uLyqwq2swVns28TFPV2zUzBEd7.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Zero (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598804.mp4&play_token=ATZvD1wx0L&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCiLhBpJfqSAfHsjhUItxOZqcsi.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tu Hai Mera Sunday (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598803.mp4&play_token=CjtfwdREcj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z83KrUMwgXPZM442lhl0Mth0pPk.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yeh Saali Aashiqui (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598802.mp4&play_token=9z3dpnGnaV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gFRvSUJ3u7WFAY9TuE3gl6JTLo.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yeh Ballet (2020)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598801.mp4&play_token=4igQsYH9E9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iofK14oEszJaNwO7uXzEiqyv0D.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yea Toh Two Much Ho Gayaa (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598800.mp4&play_token=hMQfn14Xmk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Po2YSBz2vloFxjYbs3CNO7I1vf.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yamla Pagla Deewana (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598799.mp4&play_token=ky3senBjLl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVXAZw741pCDhN0es4ovFo0n2rQ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yahan Sabhi Gyani Hain (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598798.mp4&play_token=RxBt4GmgP5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598798.mp4&play_token=Q8aSfOlFdv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPD6xMUWs9NpAHo00nzNFtO6jFl.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃#Yaaram (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598797.mp4&play_token=x8AGJw2mLw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598797.mp4&play_token=vvPJ9I7mbW&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTEwNDI1ZmEtMzU4ZS00N2I2LWE0MTUtNzdmY2M3YmNjNDBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Wo Jo Tha EK Messiah Maulana Azad (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598796.mp4&play_token=n4ICgrBKMk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598796.mp4&play_token=gDBjpCGNZM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whA8QAylcQkJJX7Fo6ra2ZQtgbr.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Cheat India (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598795.mp4&play_token=VY5PiMHuYE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598795.mp4&play_token=DnwBDfqPR4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tp99eFRKDh63sYydektKMBDIbFR.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃White Shirt (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598794.mp4&play_token=l5pWH77pfI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598794.mp4&play_token=pwMfQEQsg4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnXjRJVPzHWttF78B5CrBR21qdY.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃When Obama Loved Osama (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598793.mp4&play_token=brbRw1pDWR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598793.mp4&play_token=LJzUNCbYpZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXaIkStIhXT63p4MRddzX3YVRvG.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃What are the Odds? (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598792.mp4&play_token=GyqQ9uIyPa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598792.mp4&play_token=aoef9dh5Hk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt89sa2AvfVwHRwxCnRhmKp4ZI6.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Wedding Anniversary (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598791.mp4&play_token=QQ6LNrjjxC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598791.mp4&play_token=9jIj1MOxRg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5I6rAFG3rLborOF8BCcjs4EBcx.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Wazir (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598790.mp4&play_token=vyYKWV8SCU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598790.mp4&play_token=w5MPg96guC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JeHrXR1FU57Y6b90YDpFJMhmVO.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃War (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598789.mp4&play_token=3DHEMAQF5l&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598789.mp4&play_token=oOz2RMjJ0I&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qclSSy97ED9uphHJXBi7MMIyNnq.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Wajah Tum Ho (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598788.mp4&play_token=rASPemCnWr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598788.mp4&play_token=duDPNZPELS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHCjjaVFMkwi5UuLlFMEGbqI70i.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Wah Taj (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598787.mp4&play_token=uguw18o6sO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598787.mp4&play_token=XLTD3c2Wux&type=movie
 #EXTINF:-1 tvg-logo="https://static.toiimg.com/photo/61286827.cms" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Waarrior Savitri (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598786.mp4&play_token=QD1Upf7gNH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598786.mp4&play_token=kVUPadRgun&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkwFas8xTRbCuGdWJxk3KfXOZQN.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Vodka Diaries (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598785.mp4&play_token=efktaPC0OF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598785.mp4&play_token=oYRKdWhj6e&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGMxYTEyNWMtNDljMS00ZGJkLTk2ZDQtNTA3MTQwNWMzYWY5XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Virgin Bhanupiya (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598784.mp4&play_token=6qSfWPe8cN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598784.mp4&play_token=MvCirZXxvd&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU2ZWVhYzktODE1Yy00OTBlLTg3OTctMjU1NWIyZmZlMDVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Vikas Ki Bahu (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598783.mp4&play_token=1tZfpIBEbh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598783.mp4&play_token=6bHF4WHGWE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dobloRJHFJWAASM14xugMbtXlYY.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Veerey Ki Wedding (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598782.mp4&play_token=xh08qvL2wT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598782.mp4&play_token=htIcmGf6ev&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezlNxMzaEPQFUKjsDTkjiUw6eRZ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Killing Veerappan (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598781.mp4&play_token=BH3Jszog4l&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598781.mp4&play_token=NG7MJUpb9B&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNySAgpAnWmPpYinim9E0tUzJWG.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Uri: The Surgical Strike (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598780.mp4&play_token=7oC5h2AKqt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598780.mp4&play_token=EHH9oElkU2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTmxmvjZvImdORr6GgdBwWlGBcC.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Union Leader (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598779.mp4&play_token=zCij3978Of&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598779.mp4&play_token=tEGWv8pU3q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7BXGhHwvK1AfDCmfPTtw5LsuIU.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Udta Punjab (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598778.mp4&play_token=ewON9YtcPM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598778.mp4&play_token=7GUbRPS0tg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTH70RA8ngTQnZKUvIc1n1tEjlp.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃U  Me Aur Ghar (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598777.mp4&play_token=UbJuRhjFRV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598777.mp4&play_token=kGCT2cj57Z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJnHH454fOswQmxgVijSCtW5Yjn.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Turup (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598776.mp4&play_token=VIP8U03aFE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598776.mp4&play_token=rp3424RXdY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApJyLoGxBffPwiWYe7qeLLUjObb.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tum Bin 2 (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598775.mp4&play_token=XgaeKhdBDN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598775.mp4&play_token=qPLN3a9UKk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkavKb2CIIJJqOx6Ta1QwBwUKqu.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Trapped (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598773.mp4&play_token=Q368lCxOLE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598773.mp4&play_token=k4FCbb8xxX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmufUYUXRapulEBNyn744oejb0A.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Traffic (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598772.mp4&play_token=MH1Is2WpXx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598772.mp4&play_token=0of1qOxpg3&type=movie
 #EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/tower-house-et00048090-20-10-2016-07-10-22.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tower House (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598771.mp4&play_token=oXvTdvrKsi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598771.mp4&play_token=xTHjZEaqSI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZeE0hQSVMNjkRCqyxkBrvnmzsr.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Total Dhamaal (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598770.mp4&play_token=pwNHaWERjA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598770.mp4&play_token=ncgbevt1v7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiG1YwNax0oTmNpbkdexY5rOBW7.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Torbaaz (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598769.mp4&play_token=kGlMvoJ0Sm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598769.mp4&play_token=ZIw0hEJQTs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YUBka56t4HcHLVMGnGA1WizpMV.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Toilet - Ek Prem Katha (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598768.mp4&play_token=2PuEB5a7F6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598768.mp4&play_token=nKvyE90jye&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hctOIeVkyir8ynv7dAOBQafnIsv.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tikli and Laxmi Bomb (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598767.mp4&play_token=nRseIRASyX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598767.mp4&play_token=lwF0M9cNSX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thBUSKdjFc6p2cMVCbOJZPxlxeF.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Thugs of Hindostan (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598766.mp4&play_token=xbd3KGYgvi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598766.mp4&play_token=1zWdVrmvyV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9IAgpt24oC78nBAKaGLTMdv8Eg.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Thodi Thodi Si Manmaaniyan (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598765.mp4&play_token=pvx4k2FeX5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598765.mp4&play_token=YepwR9AIxV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytLpoqycSAhMo5W7eHJyCXn8E2n.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Zoya Factor (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598764.mp4&play_token=lHDcmm8Hyf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598764.mp4&play_token=4xnQ2KBChv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIIERAso7BYRvfMU8zqmnYLpm8D.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Tashkent Files (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598763.mp4&play_token=VJYi5WUHW4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598763.mp4&play_token=lYTBGEUSRQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y0TR5RqVf1XevUQQa4EikKLc7C.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Sholay Girl (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598762.mp4&play_token=4h0ECBj3GM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598762.mp4&play_token=kT0MPPlxk1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtjtKTEDH4jfMnhRHpv3BlC5msA.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Shaila(s) - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598761.mp4&play_token=f58xAxSKcB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598761.mp4&play_token=eb7bmmR1OS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdBFGfljSxszT7q3n9d22G5G3fV.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Pushkar Lodge (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598760.mp4&play_token=Cfam857VLW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598760.mp4&play_token=PLLD26NLab&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDufn6arYDOcxvQUQEyh8bI7CuA.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Pickup Artist (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598759.mp4&play_token=1snsl3lE8x&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598759.mp4&play_token=t45Ylxqdp7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kvdF1w6VI0k6DZfF3AbXR1WKVP.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Past (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598758.mp4&play_token=jOyKBar3S7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598758.mp4&play_token=pJh5nD6i9w&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iikLBXIVNTF0pRFi7mmhWhEfp5I.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Lift Boy (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598757.mp4&play_token=4ps8OjqaGV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598757.mp4&play_token=Ln9CyECIA5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O5OZDpqRXw3ua4td2dzCBnVrTO.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Legend of Michael Mishra (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598756.mp4&play_token=tPLkjGuYU7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598756.mp4&play_token=JqrbvmWDyj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUJ7MW7t9xwrX030kniFi6Qq155.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Karma Killings (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598755.mp4&play_token=rOgBCssIvL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598755.mp4&play_token=fYedmlSXMB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHnSqBCy66AyjKQpJkfDX7LuxLy.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Hundred Bucks (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598754.mp4&play_token=0sv5vlGtcT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598754.mp4&play_token=bWBMJyORfW&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU1OTNiNTctMDZkNC00ZTIwLWI4MjYtNThmODkzYjFhMTMxXkEyXkFqcGc@._V1_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Grey (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598753.mp4&play_token=XaDcAyEyaW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598753.mp4&play_token=LNla9KgQ1l&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7lITQa1v7dZZgLIdE8vZRnPhOC.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Ghazi Attack (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598751.mp4&play_token=JdhapbHMO7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598751.mp4&play_token=0mc9rAgOIM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akPlSzhcx9Hz23ZlBbxMeTh4vcJ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Field (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598750.mp4&play_token=AE3v8kJH2t&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598750.mp4&play_token=zsult1Uq9O&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceEmtlyvbJh1khLpSkPUKAmpPA7.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Body (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598749.mp4&play_token=Fy3lFo5Fdb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598749.mp4&play_token=2PPPb49Ny3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ec6UmcBD4z76ZzlbZJWpHyr75yd.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Accidental Prime Minister (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598748.mp4&play_token=FXzhMLrjEe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598748.mp4&play_token=c6FjvZxjMF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfjEuYlASO9xoT8nLp8pVqKCtZN.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Thackeray (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598747.mp4&play_token=CzO6ugdza1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598747.mp4&play_token=3UVB1NS0P8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TEmVh8kmEZzmLTvX4g1JTiGU52.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Teraa Surroor (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598746.mp4&play_token=PeyPTFo1Cz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598746.mp4&play_token=rwBH9GqQVu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3qX3DfG8yjn4cMtwtTKyQzYgdO.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tera Intezaar (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598745.mp4&play_token=StJQy6uMkp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598745.mp4&play_token=egQR8fhzsl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSkghZtZygWBTmv6DQVKcn69mUZ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Te3n (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598744.mp4&play_token=qOUvpgiZTX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598744.mp4&play_token=mJm6CkLzRv&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU4NzlkYzQtN2ZjNC00ZDZkLTg4ZTYtMmEyYWE5NGQ1OGZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tap Tap (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598743.mp4&play_token=9Fqmnandnr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598743.mp4&play_token=l87BBEMN1J&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BBijnZCnDqSn97fixnTf36jRvi.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Syaahi (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598742.mp4&play_token=O81d7pPkkc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598742.mp4&play_token=Q8MwKkGUtD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gr6hQ8pG0EA5duWRGiLjKQqxk0Z.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sweetiee Weds NRI (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598741.mp4&play_token=ILI9XrbCqk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598741.mp4&play_token=MKlWaHK09s&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0LdZvEqZjnSQSHzzwryFBYjXk1.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Super 30 (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598740.mp4&play_token=lEUrURLJeT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598740.mp4&play_token=tIhkda4Zi2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzIyBs24SR18l9tHfdTp9YmkbaP.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sunshine Music Tours and Travels (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598739.mp4&play_token=Y3WP6aw1nj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598739.mp4&play_token=THn5JQ5KvA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPTYtKuV8X5uUd3SqnzO14W6Dti.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sultan (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598738.mp4&play_token=MHjQedsKDT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598738.mp4&play_token=k1pPo9OjtO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upy2LuSohFYnMGJQl3039TPnlmh.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Student of the Year 2 (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598737.mp4&play_token=e2l1HOTHeJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598737.mp4&play_token=lA298mWM78&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xLDWr72Wxc1JGmbxza2V8g26YH.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Stree (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598736.mp4&play_token=dtFQSSbdiZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598736.mp4&play_token=szeZQbo0pf&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQ1MTczZmItM2JkMS00OTQyLThhNTItY2E1ZDk1YzEwNzlhXkEyXkFqcGc@._V1_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Special Operations India Surgical Strike (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598735.mp4&play_token=fWNxeHXzPh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598735.mp4&play_token=kPGXEkUna5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYsnaratHwot04p2lNgs68X1m5x.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sound of Silence (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598734.mp4&play_token=o58Q9Mm6F0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598734.mp4&play_token=jLjmGpEAwu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ha1G0nKLNwvSohEpw0w3t2IRxW.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Soorma (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598733.mp4&play_token=x99dVDdgvP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598733.mp4&play_token=VIME719zb3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nsVHEVKOag8syzGtqnlYlbMQdh.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sonu Ke Titu Ki Sweety (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598732.mp4&play_token=UnFr8s3XPB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598732.mp4&play_token=zAG54akjHq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ygikeDbneOlUFIQyvAmMrvi3vJ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sonchiriya (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598731.mp4&play_token=A8E6tOjHQZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598731.mp4&play_token=tcqOXnEtrB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkikWPQazzv7KANP3OLmOF2hdc0.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sniff!!! (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598730.mp4&play_token=UDOu1PtYXn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598730.mp4&play_token=5uPu88A7rv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xlh1jh9Lxz4OzusFKeljqoRxjL.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sir (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598729.mp4&play_token=yWLQfmg4xg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598729.mp4&play_token=bevgUMRaB2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulQO4XJ1xlWdl4vX8Lr3SbWRfZw.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Simmba (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598728.mp4&play_token=dOycNgm0ze&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598728.mp4&play_token=05LuGdkU5E&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cH4OVTmfradmNBzcnvhctt574H.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Silvat (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598727.mp4&play_token=bjkmDPWkDT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598727.mp4&play_token=MyG71lVLJU&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRmNjA2NzktNzkxOS00NThjLWE1OGMtNzdiMzkxMTRmM2IxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Side A & Side B (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598726.mp4&play_token=6USjeIMY1o&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598726.mp4&play_token=F4leYg9j4z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnKBjBFxeUvVWvCwVWzucxO2GaA.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shuruaat Ka Twist  (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598725.mp4&play_token=56tRYfK6pR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598725.mp4&play_token=gKdE3pNMLD&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I1YmYxYjQtNTFlMi00M2ZmLWFiNzEtNzExYjVhODE3NWIwXkEyXkFqcGc@._V1_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shunyata (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598724.mp4&play_token=vJcTwTImXK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598724.mp4&play_token=al99NhYzkY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwr5xLdnodaLnGoNNLgnNn1S37W.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shorgul (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598723.mp4&play_token=yHHqGCbawZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598723.mp4&play_token=0qDwjQGvSI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tds47CqaE5COdMTDpHlhlCH1JRg.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shor Se Shuruaat (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598722.mp4&play_token=61BrDIokmm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598722.mp4&play_token=HFemfKF31W&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D8ofOR0Ad98ziNFZe2JzeRNoCu.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shootout at Etawah Safari (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598721.mp4&play_token=LfkqR0Brb5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598721.mp4&play_token=6hnnWtR7tX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nczGOLGsnk1yaP2ReUhASFyhDbR.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sharmaji Ki Lag Gai (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598720.mp4&play_token=5yireKBu1c&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598720.mp4&play_token=yD3anQmrAT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvAgPdh3y3JZ2AgIfium3QMFJRP.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Secret Superstar (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598719.mp4&play_token=x2xmPFGW8G&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598719.mp4&play_token=ixRs1ZSxwV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ4U4iV5IEFBGFmEC3pdKxIQJq7.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Satyameva Jayate (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598718.mp4&play_token=tSsNQIEzkg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598718.mp4&play_token=NgO0ymSCAw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJTWc13iJeLD0zWpjRBZMBGZwky.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sarbjit (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598717.mp4&play_token=OE32OF4RKI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598717.mp4&play_token=shNGQ2ZBmS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjzYPHUUlNQ5taFTnBN1iUHm3bE.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Santa Banta Pvt Ltd (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598716.mp4&play_token=llulbNBGEF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598716.mp4&play_token=yDTMK1L82M&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1wkN4VQuBTj1AeyTLLz2w6awMA.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sanju (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598715.mp4&play_token=V8OUjcSjIc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598715.mp4&play_token=ORfiwUds3e&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBLZ0ZPTYLnbSdJLPefJqr2WGfB.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Ammaa Ki Boli (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598714.mp4&play_token=m2QA7M5VFA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598714.mp4&play_token=BVPawoVX54&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPyEn5nH9FF8b7SpHwnyHMi7kBJ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Albert Pinto Ko Gussa Kyun Aata Hai? (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598713.mp4&play_token=v24rzZTYKB&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Airlift (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598712.mp4&play_token=AjZbEXpJ8m&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Agnipankh (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598711.mp4&play_token=caiUTAMQPX&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Aditi Mittal: Things They Wouldn't Let Me Say (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598710.mp4&play_token=b3pY4V0v4N&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃A Scandall (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598709.mp4&play_token=vdYhfK9uil&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃1921 (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598708.mp4&play_token=l0Ymdz9sL6&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃30 Minutes (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598707.mp4&play_token=Bq018NmQTX&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃22 Yards (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598706.mp4&play_token=BrXt9hOFR7&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃2 Band Radio (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598705.mp4&play_token=rgdBZJpV70&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Hamidabai Ki Kothi (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1572788.mp4&play_token=h7S8RdLDMA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Victim (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531566.mp4&play_token=vWeZCFGe7T&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yun Hua Toh? (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531110.mp4&play_token=fEvorZDBtI&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yeh Kaisa Khiladi (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531109.mp4&play_token=eCiH4BQLbi&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yatri Kripya Dhyan De (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531108.mp4&play_token=LqIKhnguiH&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yaari Ho Toh Aisi Friendship (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531107.mp4&play_token=L7SP5v9sCQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598713.mp4&play_token=QZWoPF0p0d&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyaxIm3kTWDQtcYQ45eN5sZ6WIz.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Airlift (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598712.mp4&play_token=oMyW5fdLEc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEXFwkK0gDAxnmM040adYi3bi0k.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Agnipankh (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598711.mp4&play_token=GwB1JaTCzy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ma9AmSvP5Wt455yIy1gbMwiw3dU.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Aditi Mittal: Things They Wouldn't Let Me Say (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598710.mp4&play_token=hTSDc6j8ZY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atU7qvZQvX1TRseuoTRH45xogXN.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃A Scandall (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598709.mp4&play_token=NKL5Tew2HD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEOwlojOgtbfdFrMANVwVohOqyY.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃1921 (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598708.mp4&play_token=SkldVIPznz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5hRtdr5ilNpdFO3mxaQ2lM6vM1.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃30 Minutes (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598707.mp4&play_token=Z9sUbtcI9A&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVzkEz7LxpDJirzYfh0UfGbT16O.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃22 Yards (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598706.mp4&play_token=7sdxB1HMED&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNUVacyvKl674RsmXXumtv7CM9M.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃2 Band Radio (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598705.mp4&play_token=zEXPTHikJq&type=movie
+#EXTINF:-1 tvg-logo="https://static.digit.in/OTT/v2/images/hamidabai-ki-kothi-174002.jpg?tr=w-600" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Hamidabai Ki Kothi (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1572788.mp4&play_token=Xto7lbwFdn&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE3MWMzYTUtYWUyZS00ZTIyLWFiODctZmMzMWU3ZWMwNDNmXkEyXkFqcGc@._V1_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Victim (2021)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531566.mp4&play_token=PloNVhCrIO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOFxNnyyIS3W3abYTul7axmu2kf.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yun Hua Toh? (2022)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531110.mp4&play_token=wtE3HV6Lbb&type=movie
+#EXTINF:-1 tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2022/03/Yeh-Kaisa-Khiladi-1.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yeh Kaisa Khiladi (2022)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531109.mp4&play_token=WvX5oPYsqT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52dTuNWLzT0cmeM8lxuGM7zehY5.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yatri Kripya Dhyan De (2022)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531108.mp4&play_token=4Gc8WNatfi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUvKyEV2UCzR9mIAg8EUP2veJNh.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Yaari Ho Toh Aisi Friendship (2021)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531107.mp4&play_token=bSEb4UHVVj&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGIwODFkY2MtZTFhOS00MWUzLWJmNTUtNzFlZThmYTVjMDAxXkEyXkFqcGc@._V1_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Wrongleela (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531106.mp4&play_token=BieDNv4Hng&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531106.mp4&play_token=TyGobZxbDL&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk4MTI2YWEtZDcyYi00MjExLWIyOTUtNmIzNTYyZDg5YmE3XkEyXkFqcGc@._V1_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Woh Pehli Baar (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531105.mp4&play_token=wKuf3jr0Zx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531105.mp4&play_token=lubGXCqwZ8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qOKzkfFzHKgEyWiXrp5NJCJEGv.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Woh 3 Din (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531104.mp4&play_token=0cVL14DdQF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531104.mp4&play_token=TBjkhi5KNy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qot3F3Wr6Nd6dRQ9u1exqIdtWWr.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Wo Meri Student Hai (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531103.mp4&play_token=1eL5WK0YZm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531103.mp4&play_token=o3r4SfQ2GF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHxrQVpILFdVT8Ulu1DPgeQuS77.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Waah Zindagi (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531102.mp4&play_token=tZXDBFacBM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531102.mp4&play_token=C3jUhZCTJr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkTxPGsWI9QC8ahnShQmMOIXbIg.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Vikram Vedha (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531101.mp4&play_token=SNdxFRE7Ja&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531101.mp4&play_token=JyOUly8hJe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhq3hWo4KwkoXb4BJ0sixZEWCn9.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Velle (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531099.mp4&play_token=G0K3Bnd3wi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531099.mp4&play_token=Wl7yx1wv8S&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gOAJGMyzgEqfZenwFB6Sawha93.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Vakeel Babu (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531098.mp4&play_token=x1jxKwAEkM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531098.mp4&play_token=9Hy49weQKo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgv1gGpX1Q9EjEiFYNJqC6nX1MF.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Vadh (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531097.mp4&play_token=cwKbtaDhav&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531097.mp4&play_token=K72W7obvOB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12jk7g9RHqMSkHyiqe4fR8IwY7X.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Vaasta (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531096.mp4&play_token=i5vUwpGFGO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531096.mp4&play_token=HYvI1eWXu5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHi2mgDN96PzKwIjsCveDWhhaWO.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Urf Ghanta (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531095.mp4&play_token=ujKOoVPtnz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531095.mp4&play_token=AuBOpeXopX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OpOKkUQhJPJsQTkmKPd8EtsRbz.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Udd Ja Re (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531094.mp4&play_token=v6kk9l74ID&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531094.mp4&play_token=zAY2RWmx4B&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ajxa9eE4vojurvYqSmRQVLSh6bt.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tughlaq Durbar (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531093.mp4&play_token=DNca5g2AfJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531093.mp4&play_token=Qo9lGiTOh3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLDNzs47njOJWgAEf5T1Fcjfrup.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tuesdays And Fridays (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531092.mp4&play_token=ggcRAXrDJ1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531092.mp4&play_token=fQO8osq5eU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OWTh12f8gmZ8uo4O2rE5TPKvzc.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tribhanga (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531090.mp4&play_token=SeiuUDDQWG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531090.mp4&play_token=tKiCiPKB9N&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV2PJoTJSD8s2vrpcqQRqksfvSg.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Track The Mystery (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531089.mp4&play_token=eGDVLKtDTL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531089.mp4&play_token=FZH9RHJWcK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PaISIVAwskxVRF47rFpKezk4FP.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Toolsidas Junior (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531088.mp4&play_token=yeLAcrZWN3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531088.mp4&play_token=V9pheRyI1g&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i193HFDFxHU1bJgW1AXs1Nm6aFV.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Toofaan (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531087.mp4&play_token=yJn5anl6z9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531087.mp4&play_token=etGDEoz6fi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxzaYYRAH6gZoyJlnajCvYeL6Ms.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃To Kill a Tiger (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531086.mp4&play_token=yTRKUtduXk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531086.mp4&play_token=GPCUSrgloZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMyM2AmGvVgY7aV2D2vvkJMtfzB.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Titu Ambani (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531085.mp4&play_token=EEd2NwbwkC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531085.mp4&play_token=KqeAat7kkO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfbDyv0H1eJkRS5gLUnRxs9XZti.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Time to Dance (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531084.mp4&play_token=PavVILtY7C&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531084.mp4&play_token=rJCFmyEGEU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QOmn3N0h9oIWQ788PvgXin1Ya3.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃This Town That Future (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531083.mp4&play_token=dXX5Zl1dou&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531083.mp4&play_token=0hOvyYUl6p&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmGc2FqBJpO02hkmZbSPMgkz3e3.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Wife (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531082.mp4&play_token=1pGM9Iwgnr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531082.mp4&play_token=HBWgTZDkZi&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzcwZGNlNWYtNzdlZS00MDZiLTlkZjEtZTI0OWY4YTQ4ZjUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Survivor (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531080.mp4&play_token=gSHVCnOp3f&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531080.mp4&play_token=I7BIGgoGyB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYAv0YUoXJzLxIdEirOken8Quwf.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Royal Treatment (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531079.mp4&play_token=hycwbgtuCA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531079.mp4&play_token=8oOsDMp9no&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0aVEjT1DWopUrJehACWZyqpO99.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Power (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531078.mp4&play_token=lNbIn6R3JI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531078.mp4&play_token=kTTe6Y4sEs&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDliNzQzODMtMjM4MS00YTJjLWEyZjgtN2JkYjIyMWI1ODk0XkEyXkFqcGc@._V1_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The List (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531077.mp4&play_token=LRnq8f8jxJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531077.mp4&play_token=YXmUphjaWL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ux626q6FCloEfIE5Sx61o8HLy0w.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Last Envelope (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531076.mp4&play_token=Ypov3p6FnT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531076.mp4&play_token=i2SlYWMDmb&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIzNDIyYzQtM2E0OC00Nzk5LTgyZDgtZWM1ZTQ3MGI2ZjlhXkEyXkFqcGc@._V1_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Knot (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531075.mp4&play_token=NoZckLwBvH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531075.mp4&play_token=ESjul2djKM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VvjJFDBFYkVgr89BjqbUl26QyW.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Kashmir Files (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531074.mp4&play_token=Uzn6Qf5BAU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531074.mp4&play_token=jgx2HCMOMP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAZSA7u5KdpgCppNCy4lc1SBT9o.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Interview: Night of 26/11 (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531073.mp4&play_token=GTYLGh94LI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531073.mp4&play_token=VMFQ6YWHgF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Zvov912Mm0mrjR5nEGbSujjnGE.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Girl on the Train (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531072.mp4&play_token=fdOsArCKkG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531072.mp4&play_token=4brP0CVtx5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1fewuRC8mLPsdgkBNPGgamBX02.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Daughter (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531071.mp4&play_token=Md9fRlLSa5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531071.mp4&play_token=NOXXGsISJq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDJPlxwHYO7Yl1xtdNq3PuGXkf.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Darling Wife (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531070.mp4&play_token=TFaSP1DxT1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531070.mp4&play_token=E9Wdkqdj0G&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heQLSiXbJ4OaEQAxbH3PYmjt3fu.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃The Cannabis Diary (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531069.mp4&play_token=BvckJnqZzZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531069.mp4&play_token=Td0CByj875&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PK1WRr8dOF7FG5G4VCal4GcnPT.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Thar (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531068.mp4&play_token=3MMzSaj2NA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531068.mp4&play_token=Q3kAhVeeBK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSOgDTClgfbIOBgv4Itf3GSEkWA.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Thappad (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531067.mp4&play_token=gk9DWKjsbX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531067.mp4&play_token=K6pvY7U5TT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxKtwP2Q4n3jfqMIqxoShX08UkH.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Thank God (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531066.mp4&play_token=nM9jWPJ95i&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531066.mp4&play_token=lGwmyUmlgj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYPis1a03mHIIUXDScAKLHvEfBO.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Thai Massage (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531065.mp4&play_token=yxb3dcXeLX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531065.mp4&play_token=bm2kLb31k8&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1MDljNTItMmE3Zi00ODdhLWE5ODctYzE5MGRjYTc4ZGQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Teri Khata (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531064.mp4&play_token=IwJcJVJu2W&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531064.mp4&play_token=ofXafhUcgI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHwDCjaDElxyDuzaIeO0yz18YDN.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tea and A Rose (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531063.mp4&play_token=JxWiNWSvYr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531063.mp4&play_token=rKOtpz3eJC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVAyhSiDpf5V20qetngvLTlQ3iX.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tathagat (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531062.mp4&play_token=R42vruDuKS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531062.mp4&play_token=LE4pOJ03oB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIf8Ya8gL15uO1A2VBdfIArsjct.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tara vs Bilal (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531061.mp4&play_token=kcgyWKDFlC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531061.mp4&play_token=ueAtcYxd2z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZJK2wxJfaFqwIjWPaJVao3LNT5.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tank Cleaner (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531060.mp4&play_token=5pakfHZ3kP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531060.mp4&play_token=WObP8yiFIe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZhgcUVwV7ocglL5XDq4ygsfXqD.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tanhaji: The Unsung Warrior (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531059.mp4&play_token=HZhpfBDQJO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531059.mp4&play_token=JaSN21eI6C&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6Ri4CZieXT2s1hJEfbxN1pk3Ve.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Taish (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531058.mp4&play_token=wGt42u7bMl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531058.mp4&play_token=uwUawUWuVs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cE9ZPnIJmct8URu61j19OTASNY.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tadka (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531057.mp4&play_token=VcjgXYfrE9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531057.mp4&play_token=xaGjJicmeJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nj0cMoZjLRrqN9SFW3wCXlSTYxd.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Tadap (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531056.mp4&play_token=vJqH7xxkiG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531056.mp4&play_token=sfp71oeLLH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iApjhcSpl8GVZXdILIDaqjLT8Cq.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Switchh (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531055.mp4&play_token=5moYbLKx5Q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531055.mp4&play_token=ikj6tERcXt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbwcuXBp554Ef6s9aFE1x5Wq1pV.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Suraj Pe Mangal Bhari (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531054.mp4&play_token=Niv1CICAEQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531054.mp4&play_token=XsM5P03yIA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFsy2mFRyMDfON5hP6huvAJLuNa.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sumeru (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531053.mp4&play_token=LdlepSVF1n&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531053.mp4&play_token=kO5nAqxXVS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ni7rfkGZLFd9EBcBJLoXeqD63v8.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Subway (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531052.mp4&play_token=kwMZV5BFgh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531052.mp4&play_token=Q3gCTuzUA7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89lTwkkA7PyZOK9h4NGATtrC1XN.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Subhagi (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531051.mp4&play_token=scdhKhMJYQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531051.mp4&play_token=GXxN3v1jGA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnsoKSS6EZNB7y2kEzXHdLm1U0E.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Street Dancer 3D (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531050.mp4&play_token=6MP8h9LkEA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531050.mp4&play_token=dDGzB5ebOv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taDdCIxgCMRCi2PBYuuWozoi6D2.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Squad (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531049.mp4&play_token=07oJAAYYGc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531049.mp4&play_token=5gGxZOt5g5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cE5C1FsgkW7alBGz36vfch5Bk9.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sorry Day (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531048.mp4&play_token=QdkCOHin0m&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531048.mp4&play_token=xnP9F836L6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOtB22T4EVa7v4htfbY2YvhDBiI.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sorry Bhaisaab (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531047.mp4&play_token=tv5a1pzL85&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531047.mp4&play_token=mHI6oT6kP3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDju75opcui9Ha0hxcjsOu5GI9i.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Social Mandiya (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531046.mp4&play_token=lwFcaCTzcc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531046.mp4&play_token=V44PfnQGsn&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGIzYmVkODYtMTlkZC00YzAwLTlmOGUtNTY5MjJiMjY4MGU2XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sloshed (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531045.mp4&play_token=8oC4CKq9Rh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531045.mp4&play_token=EykHX5Ur5j&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8yxFPOvNmhlfUXBqiNvvpMI4t5.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Skater Girl (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531044.mp4&play_token=TF4tgU841y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531044.mp4&play_token=oD7qstIWOV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHNeQhGvDubUb5cDR5yIaFlDHRL.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sitapur: The City of Gangsters (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531043.mp4&play_token=DF5hOMxiTq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531043.mp4&play_token=yQX5oYjd8Q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lxPuirAgtqHYG3JtIdfg7TucKn.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Silence... Can You Hear It? (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531042.mp4&play_token=Etw49AdtBD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531042.mp4&play_token=oltNXhXAMR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQgzg54exZjw7FOB0cpXWaCmM7H.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shut Up Sona (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531041.mp4&play_token=HLmChHOsGI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531041.mp4&play_token=jbAxaOIN66&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/il9y4odx9el9Imwz6VMQrz9BcNz.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shubh Mangal Zyada Saavdhan (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531040.mp4&play_token=fSFpCaxy9X&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531040.mp4&play_token=1LeqjqW1AN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dqnJvZpTB1YvuLbgEvBSjxo7BS.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shimla Mirchi (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531039.mp4&play_token=MvgLmlC7sK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531039.mp4&play_token=O9MmurUbI9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BKhBrgc69aIBG7e5SvXi9gIEsw.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shershaah (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531038.mp4&play_token=hwOTy35Tg1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531038.mp4&play_token=KkY6MjmDVe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSID1DRy6oOvC74oVzbc3rDuqF4.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sherni (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531037.mp4&play_token=kMFMRc8N6K&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531037.mp4&play_token=NvcX0qUt34&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV7kHlayv6kfrhHyi31GCWjj0hz.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sherdil: The Pilibhit Saga (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531036.mp4&play_token=CpXvyGSQ3n&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531036.mp4&play_token=QQYGssAXPT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gURlEdARaeEySYpohRyYpklTSZB.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sher Gujjar (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531035.mp4&play_token=DeFdpiC0cg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531035.mp4&play_token=N7h8JUKAdh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xve92SlbFCl4eEESx78eutq6rjo.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sharmaji Namkeen (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531034.mp4&play_token=IO9Q8mdOFb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531034.mp4&play_token=MOtmy7S98T&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rryN6GhaoovO3sM8IEqGyKgCmXf.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shamshera (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531033.mp4&play_token=AECo2omqYK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531033.mp4&play_token=toYRWs65rg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KBmoMHfdrjednxWAvkh7ARhrRJ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shakuntala Devi (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531032.mp4&play_token=s9a7yXQGYC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531032.mp4&play_token=qgiUwcQn3k&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqALmaIM9qKmJWJHjur7qUtNdc2.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shadyantra (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531031.mp4&play_token=Mqbthr4t65&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531031.mp4&play_token=YP0wyAYHdl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4T4LGIRErWK7bomHFlSJirGZ4T.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shabaash Mithu (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531030.mp4&play_token=ZpLOiZWpQo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531030.mp4&play_token=RVdiDzm9bE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joyzVpCIpSfj3e9ZUz6Okv8DZLK.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Shaadi  Dahej and Gangster (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531029.mp4&play_token=FadcvcSXnh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531029.mp4&play_token=Vy9ba1bNYt&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRiMDhiMDQtY2FlMS00ZDU0LTljMzktYmE3NTgwMDIzZmE2XkEyXkFqcGc@._V1_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Second Chance (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531028.mp4&play_token=KmaYS24aOz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531028.mp4&play_token=RsDO2J5CUL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOXOp6wHgBOtmfarFyzUo36KBEi.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Scotland (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531027.mp4&play_token=dOcNj2aKSk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531027.mp4&play_token=71BjOcPeXu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1ebOObyi97slwBTljIifE67PR5.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Satyameva Jayate 2 (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531026.mp4&play_token=ek2QDyCfax&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531026.mp4&play_token=p0yo6Ek1pr&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg4NjEyZTAtZjZkZS00Zjk0LWFjM2MtNmQzZWY1NTAxMTExXkEyXkFqcGc@._V1_.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Om Shri Satya Sai Baba (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531025.mp4&play_token=MlMo4GbxGY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531025.mp4&play_token=L2P95xURVT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj69QqhUlxRYn5HfE3Q4ZN5qw41.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Saroj Ka Rishta (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531024.mp4&play_token=Lfrv5XT3FV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531024.mp4&play_token=j7MhahcVfW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4fpJXhUNukd5XnzRO1XfWf7v88.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sardar Udham (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531023.mp4&play_token=C2BBNohZuZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531023.mp4&play_token=dMCiWhTOcK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlQFKybBpJrpKS65wd7lhiSpnkt.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sardar Ka Grandson (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531022.mp4&play_token=fyv6T0Ala2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531022.mp4&play_token=556w0eHZ8R&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsMSeABadrbK0xCFiK1iqxenYM5.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sandeep Aur Pinky Faraar (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531021.mp4&play_token=ZDrYg0Ow4p&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531021.mp4&play_token=j37kcSA4I1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg1Zd1HsK2YCZ5NFvWOiMocitos.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sanak (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531020.mp4&play_token=jsSuKswzp3&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Samrat Prithviraj (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531019.mp4&play_token=Y5rLZhiXPH&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Salaam Venky (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531018.mp4&play_token=zSLQDkzDSx&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Saina (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531017.mp4&play_token=FWaIVzevLv&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Sab Kushal Mangal (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531016.mp4&play_token=6lb56Jl85K&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Runway 34 (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531015.mp4&play_token=ozwFd4Wwqf&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Run For Life Bhaag (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531014.mp4&play_token=OK4qPF69k0&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃RRR (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531013.mp4&play_token=U3gqrMt3L6&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Roohi (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531012.mp4&play_token=ROS8G2NYuv&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Rohingya - People from nowhere (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531011.mp4&play_token=h8kqpO6gig&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Rocket Gang (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531010.mp4&play_token=S9WohF1k5G&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃RK/RKAY (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531009.mp4&play_token=hvfyAeFSwH&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Rizwan (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531008.mp4&play_token=WTaGaIkvUB&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Regards & Peace (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531007.mp4&play_token=TVHR2MucIQ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Rashtra Kavach Om (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531006.mp4&play_token=pYTpIM1ZVJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35rkqsyH5O1DpjZhSltZOISyMnF.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Rashmi Rocket (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531005.mp4&play_token=zXewORGFDS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isiZRJmqQ0Wu7ELJrBdqD8P2HI6.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Ramprasad Ki Tehrvi (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531004.mp4&play_token=AoBTppBMmq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5p1ceaanKLs3nzwKDmzukh2qdSp.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Ram Singh Charlie (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531003.mp4&play_token=LJCajInN6v&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLkSBwLwuHTqdWHg43u2Pn7pEMQ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Ram Setu (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531002.mp4&play_token=FOZGBkPIgn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykefXRqhM7HVnLWPtXWcWCcvBy6.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Raksha Bandhan (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531001.mp4&play_token=bdWfiOfScg&type=movie
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/HUNGAMA/MOVIE/68c93324f2fe7478abc2e716/images/PORTRAIT/124490928_350x525.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Rahasya Kaldar Ka (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531000.mp4&play_token=CcLR1JLY2b&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szAa23SWNIgJHsvSRyQrvyFT8ef.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Radhe Shyam (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1530999.mp4&play_token=rDZRoJ2WK1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6kZfTjuTK3P9ByRFTkBlUwdBRA.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Radhe (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1530998.mp4&play_token=xc2fGc5Juk&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NY8TLMJtYXQ2Rl36dSUzAlUK4H.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Raat Baaki Hai (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1530997.mp4&play_token=9NHvZCqn0b&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQPWcvQiv1D1xBlpnn5o0hepXkX.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Raat Akeli Hai (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1530996.mp4&play_token=SZEoSVuqtv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43BWgQ1lTr9fBBSAWL1ixup66oo.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Purvanchal Diaries (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1530995.mp4&play_token=z733FdehrW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sllA2crXs3rhTrLkVLJYMTlhrow.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Prema ishq kaadhal (2013)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1530994.mp4&play_token=Y6BrZ4TrOJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doojBAuoAY5OtJ3ZjHuxqjckadQ.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Pokhar Ke Dunu Paar (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1530993.mp4&play_token=CtNjocvEoa&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVZ7aCYKsoP3vca55znw37LQXUl.jpg" group-title="┃ASIA┃ HINDI COLLECTION",┃IN┃Plan A Plan B (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1530992.mp4&play_token=6rrrdYW2Rv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1531020.mp4&play_token=3jplK7pXHn&type=movie

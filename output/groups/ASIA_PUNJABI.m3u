@@ -1,281 +1,141 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃PUNJABI┃Canada Files (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1868754.mp4&play_token=J1SAFMfHr4&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃PUNJABI┃The Last Trip (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836330.mp4&play_token=bKH6FkntIP&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃PUNJABI┃Siddha (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836329.mp4&play_token=agjzDu8gSs&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Warning 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811113.mkv&play_token=4AApUUce3s&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sangrand
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811112.mp4&play_token=XWgmmZ9y6s&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Parahuna 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811111.mp4&play_token=EpRsh2zisw&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Oye Bhole Oye (PUNJABI)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811110.mp4&play_token=peTFLmSZ4t&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Munda Rockstar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811109.mp4&play_token=cxTNRbvnzH&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Jee Ve Sohneya Jee
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811108.mkv&play_token=uvz8eXHnM6&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Je Paisa Bolda Hunda (PUNJABI)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811107.mp4&play_token=Vv8Fk3HEbY&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Jatta Dolie Naa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811106.mkv&play_token=zxPLSfghe0&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Jatt Nuu Chudail Takri
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811105.mkv&play_token=ghHXxFjgYF&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Jaspal (PUNJABI)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811104.mp4&play_token=xNRJzGFxyt&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Boo Main Dargi (PUNJABI)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811103.mp4&play_token=84zzyoCLsV&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4r9k1zpHgyLu0QQZI0Mnu0oBMJOoStkWWCHSrRoAEXDAHeRRrvCG6ra0&s=10" group-title="┃ASIA┃ PUNJABI",┃PUNJABI┃Canada Files (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1868754.mp4&play_token=BPxNnJrRqk&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJITkfpEENPSVMXdRd4RXV8TaMuqjm9U6ZXfwHqZ_aQg&s" group-title="┃ASIA┃ PUNJABI",┃PUNJABI┃The Last Trip (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836330.mp4&play_token=JL6vCEV2aJ&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zQKZgIn9i-w/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAgoMCyl_u5nXQxQdsiMFAH24W1Ug" group-title="┃ASIA┃ PUNJABI",┃PUNJABI┃Siddha (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836329.mp4&play_token=0bwKNXFQXl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQHk7ydYdH0xem3CLPdRZUrKiNU.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Warning 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811113.mkv&play_token=dpUXrteXpJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzfqHQlkQzdSubbFGXYOKbMkDTb.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sangrand
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811112.mp4&play_token=TdiMz32oBe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgFPzLPsLddasXGbTy102NbfWnd.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Parahuna 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811111.mp4&play_token=O5LYToGVgq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HvD6h7FlXgSkoT8urSL8rK9xJ.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Oye Bhole Oye (PUNJABI)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811110.mp4&play_token=n4fu6Su1mr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvhoA8sst3jVnMPNBjepGJRZZAr.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Munda Rockstar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811109.mp4&play_token=hSosfshzhh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8WjCW7aJxMC3tRNlaObVhYi3gQ.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Jee Ve Sohneya Jee
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811108.mkv&play_token=Fey21BBCfr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUfHaRaEjZNvsNgpwYHZYf2QmXG.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Je Paisa Bolda Hunda (PUNJABI)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811107.mp4&play_token=OHbmYQR7W2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lau8OIxd29l3O4SKVLQYeg2LyTA.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Jatta Dolie Naa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811106.mkv&play_token=ckLZC6HLYT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqd42XgNcJVbGkVgMN2MhDbuZFo.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Jatt Nuu Chudail Takri
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811105.mkv&play_token=uHuZVf50ws&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laYt6QpFZAatU0ljZLawJEjsYME.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Jaspal (PUNJABI)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811104.mp4&play_token=IDPpfdd85c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLmBYNw5ZNkyAZna2atKFe62qrP.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Boo Main Dargi (PUNJABI)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811103.mp4&play_token=VKQaFAWoJg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA9dnAXj9NETERswgEiZlNTcE7Q.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Blackia 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811102.mp4&play_token=Fb6Wu2hKWq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811102.mp4&play_token=LVJqSsCW4b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tabaahi Reloaded
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811101.mp4&play_token=93YKYslAiP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811101.mp4&play_token=7JtnZewuJ0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdsuMdkYk7HS1IUYXou2iy0RZEl.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Jeonde Raho Bhoot Ji
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811100.mp4&play_token=8QWTpR223V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811100.mp4&play_token=lQrfgGoadt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fF2xXApETxZqyluokyJ1x4gIiTf.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃Raazi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798605.mkv&play_token=NBoHtftO6f&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798605.mkv&play_token=jGZ28bX13p&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fk6SzvqFuPMGCfnkUSDANtOxVD.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃  Mardaani 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798604.mkv&play_token=8yBWq0BfpA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798604.mkv&play_token=4M3YcB88wC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKHsiNOoOnFRBap5HSVO8kLhJGF.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃  Drushyam 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798603.mp4&play_token=r0joD0qJcR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798603.mp4&play_token=loz2UQguCO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfWoizkLad2nrFSmqNr3eFcbPi5.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Chal Mera Putt 3
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798602.mp4&play_token=kIEebetljm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798602.mp4&play_token=6lHN5iCesp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nz1EnqItS3KmeRnRiuWjONnrNVE.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Chal Mera Putt 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798601.mp4&play_token=vS0gQOxa53&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798601.mp4&play_token=P1nFAnfcx9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85hX4YfVeH1v6HWWMbbzvlSYnL7.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃  Chal Mera Putt
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798600.mkv&play_token=tdnVGcGQ7h&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798600.mkv&play_token=ulN8mPlm2W&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch6dE7bXJELXUM5QA48aoqx2ojH.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Ardaas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798596.mkv&play_token=vAZGKeqcSX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798596.mkv&play_token=yRj1LqItFS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Zulfaa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787386.mp4&play_token=oV7bkg1BT9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787386.mp4&play_token=Dw8GxJ13EO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Zindigi ik tamasha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787385.mp4&play_token=9SAuF8qCDo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787385.mp4&play_token=Bs958QNIPi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃Zara si baat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787384.mp4&play_token=j9n1JG59eq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787384.mp4&play_token=YuPv5f1SkI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃Zara mukhra dikha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787383.mp4&play_token=zEHxRMyNG8&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Zara jhoom jhoom iftikhar thakur
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787382.mp4&play_token=1Ybh8lBXVq&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Zara ghoonghat utta
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787381.mp4&play_token=r0zvx1pATJ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃Zara bach
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787380.mp4&play_token=j4dwLRvGNW&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Zaiqa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787379.mp4&play_token=5aWHO0bxid&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Zafri wohti da
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787378.mp4&play_token=QrSJqgB5LY&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Yeh baat aur hai full stage drama
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787377.mkv&play_token=3dYV9oU2Jd&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Ye mera dil
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787376.mp4&play_token=kLc76S9vHq&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Ye hamari party ho raii ha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787375.mp4&play_token=9lca8wmqVi&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Yasso panju lahore qalandar dolly
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787374.mp4&play_token=KZqBrNZZ1m&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Yaaran naal baharaan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787373.mp4&play_token=63fXmQhGPV&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Yaar paise de
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787372.mp4&play_token=1KggNNN9bM&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Yaar chan verga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787371.mp4&play_token=5YzM95kC4M&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Wohti da sawal ae
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787370.mp4&play_token=8401tCmfcA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ PUNJABI",┃IN┃ Wicket uray gi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787369.mp4&play_token=Ek2gi3L2JL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787383.mp4&play_token=KNZxmwTdgq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Zara jhoom jhoom iftikhar thakur
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787382.mp4&play_token=B6u3t4TeQX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Zara ghoonghat utta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787381.mp4&play_token=SQzUzOzFMX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃Zara bach
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787380.mp4&play_token=VRq8HO5c1J&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Zaiqa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787379.mp4&play_token=d3MjMMOIh4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Zafri wohti da
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787378.mp4&play_token=kXdUyqz98C&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Yeh baat aur hai full stage drama
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787377.mkv&play_token=9um3LE1ej7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Ye mera dil
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787376.mp4&play_token=pvIYT9KMaX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Ye hamari party ho raii ha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787375.mp4&play_token=FgqK7lbT4S&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Yasso panju lahore qalandar dolly
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787374.mp4&play_token=zV0KErYTX4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Yaaran naal baharaan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787373.mp4&play_token=2wiUHgifFf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Yaar paise de
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787372.mp4&play_token=rWUoTwQzjR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Yaar chan verga
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787371.mp4&play_token=THPUNFKNoB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Wohti da sawal ae
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787370.mp4&play_token=tsFF0BKiKX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Wicket uray gi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787369.mp4&play_token=sGKgbM79FR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Wellcome manarva
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787368.mp4&play_token=53yPlZknkQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787368.mp4&play_token=qEAqzNg6jz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Wellcome gulfam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787367.mkv&play_token=M3CBq5pzaO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787367.mkv&play_token=JF84QwBRGb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Weldone chinyoti
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787366.mkv&play_token=io49dNRTmG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787366.mkv&play_token=JOTOgLjqTB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Welcome meri jaan 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787365.mkv&play_token=kTysHGs02Z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787365.mkv&play_token=T8HSD1q5QU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Wahley nikamay
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787364.mp4&play_token=gYm2GVC9Th&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787364.mp4&play_token=mJEBXEJ9Pq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Wah tera joban
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787363.mp4&play_token=zA56WaYRLP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787363.mp4&play_token=kvaeV70D2b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Wah re wah
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787362.mp4&play_token=XrHsDlCBYX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787362.mp4&play_token=wFB1rHigL4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Wah ray guddu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787361.mp4&play_token=alE74FMrnT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787361.mp4&play_token=gs390mwbzm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Wah ni tera nakhra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787360.mp4&play_token=oAKXTyVluX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787360.mp4&play_token=NI0CHQXUsH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Waaja bank
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787359.mp4&play_token=jQJfDW71yn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787359.mp4&play_token=0S6d5xzOfu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Urdi baba
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787358.mp4&play_token=UzeqyD5j4T&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787358.mp4&play_token=UUvWOS20un&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Ungli
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787357.mkv&play_token=XId5y8ckmP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787357.mkv&play_token=ZTMKeX2Pzp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Uddi uddi ja
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787356.mp4&play_token=1Q6559nUqj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787356.mp4&play_token=o5JjQwuLMX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Udaarian
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787355.mp4&play_token=3Wxza7bhHJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787355.mp4&play_token=SbJea2LA77&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Ublay anday iftikhar thakur and agha majid
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787354.mp4&play_token=iDqV4KfxWq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787354.mp4&play_token=2ziTtFIEBz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tutti frutti
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787353.mp4&play_token=J2NxHDm23Z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787353.mp4&play_token=CGjHnyxptJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tunn ke rakh
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787352.mp4&play_token=zbV4Lec7y5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787352.mp4&play_token=lUwmqVxWXL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tu hi mera pyar mahiya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787351.mp4&play_token=JCxXYGGaip&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787351.mp4&play_token=GbOhXLXfwN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tofaan mail
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787350.mp4&play_token=1lHDiWg9Ef&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787350.mp4&play_token=G578fyPm0l&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCv8sH7Zv02aS47MqynNw5Tlx3G.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ TIP TIP PANI
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787349.mp4&play_token=nWOhduxjKo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787349.mp4&play_token=pPBhamoBr5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2d1OynctfyKMMYWfSPcK8uCz8J.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Time Pass
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787348.mp4&play_token=lJ8ni77H5G&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787348.mp4&play_token=mdi8AeCIBy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tikka boti
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787347.mp4&play_token=qXQ9wxbNrh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787347.mp4&play_token=n4rpH4Zfw6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Thug badmash
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787346.mp4&play_token=xVzmFav0eP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787346.mp4&play_token=nWjIhuJ4Ff&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Thora thora chan waikhiya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787345.mp4&play_token=J4YtXmaLlJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787345.mp4&play_token=7uc8S561X5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Teri meri jori
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787344.mp4&play_token=JKUO3zAYN7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787344.mp4&play_token=KLa9KT6Cm6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Teri meri akh lar gayee
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787343.mp4&play_token=Uy7W2tlcoI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787343.mp4&play_token=dVeMhLWDYx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Teri mast nazar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787342.mp4&play_token=49aGZ5Ojyc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787342.mp4&play_token=vxvTNALWpo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tere sang yaara
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787341.mp4&play_token=hON0YtKRj1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tere nakhray hazaar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787340.mp4&play_token=XFQu6C1D2s&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tere hussan ka jadu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787339.mp4&play_token=c6cVqOlynq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tera ve jawab nahin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787338.mp4&play_token=5LkiBtWliR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tera te mera pyaar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787337.mp4&play_token=JZ0Vjig6r4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tera jawab nahin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787336.mp4&play_token=mi3E6jRi9W&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Teer nazraa daa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787335.mp4&play_token=B9xaKgNJmu&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Taza dry fruit
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787334.mp4&play_token=scmbIvl7vp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tax taxi aur chalan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787333.mp4&play_token=NpEZ9L3Tti&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqgAIATNaYgCwPqnpXZM1FxhAL0.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tasty
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787332.mp4&play_token=vZgxH2qf0Y&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tann mann pyassa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787331.mp4&play_token=UAKEZVxWTA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tandori badshah full comedy play
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787330.mp4&play_token=ZRgaIuCeSv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Tamaasha ishq da
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787329.mp4&play_token=5n9er5Kulk&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Takki ja dholna
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787328.mp4&play_token=oOvqJkWRGV&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Suroon ki maala
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787327.mp4&play_token=uHsAwcjPoW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sun ri sajniya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787326.mp4&play_token=q8TiTf7TMW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TjArDUoGSLusxptjD4OzY69F0m.jpg" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sui Dhaaga - Made in India
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787325.mp4&play_token=zY8RjglawR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sohni kurri te pagal munday
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787324.mp4&play_token=EAHRCq4xdb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sohne log
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787323.mp4&play_token=Pfgmeyw6Hp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sohna yaar aaya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787322.mp4&play_token=RTDe06xqx2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sohna puttar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787321.mp4&play_token=C82jnWUnaS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Soda khara khara
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787319.mp4&play_token=GD3esQjm0O&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sochan wali gal ae
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787318.mp4&play_token=HC7HpVO8rn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ So gaye ho
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787317.mp4&play_token=lDiVawGb17&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Siyasi hospital
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787316.mp4&play_token=geDktY65Sw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Siyane bewaqoof babbu braal and shoki khan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787315.mp4&play_token=2ktVGddsRy&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Siyaasi muhabbat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787314.mp4&play_token=Xs8b5ASOlF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Shughal e azam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787313.mkv&play_token=ThdAt35heR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Shoukan iftikhar thakur and amanat chan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787312.mp4&play_token=YqqQN8oCDO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Shokhi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787311.mp4&play_token=xeZZumLkdy&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sheran di jori
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787310.mp4&play_token=pJXGbGVH7t&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Shartia jhoothay
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787309.mp4&play_token=lDqNyzbrUP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sharmilay nainu wali
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787308.mp4&play_token=oYT4SvbZS9&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sharmila mahi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787307.mp4&play_token=wJzXR6gB5d&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Shararti larkian
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787306.mp4&play_token=NoqnC5tw6i&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Shakeera
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787305.mp4&play_token=zhWNCumww3&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Shahensha qaiser piya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787304.mp4&play_token=xx0MExaaCr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Shadi magar aadhi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787303.mp4&play_token=DubU9Ncodb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃Shadi 70 kilometer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787302.mp4&play_token=2aUt6vB5il&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Shabab chowk
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787301.mp4&play_token=1BE1dW3qak&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Shaadi mere yaar ki
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787300.mp4&play_token=YiBpqBKnCn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Selfie queen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787299.mp4&play_token=loj1AIVtuh&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Selfie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787298.mp4&play_token=xCBTOyxSgK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Seeti bajy gi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787297.mkv&play_token=IZJKcWnXdJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Seeti bajay gi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787296.mp4&play_token=e63Cz7BAnZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sassti muhabbat mehnga petrol
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787295.mp4&play_token=c7SjL9JsHB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sassi chali susral
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787294.mp4&play_token=JdkyggESl2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Saroor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787293.mp4&play_token=l9KWS60hct&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sardi mein garmi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787292.mp4&play_token=x7TRpYfz7k&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Saray run mureed
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787291.mp4&play_token=z7sbFnnrtR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Salam wohti jee nargis
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787290.mp4&play_token=TgkJtK9HUE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sajh gaya punjab
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787289.mp4&play_token=2EisPEb9Yc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sajan dihari baz
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787288.mp4&play_token=djBXHaIceD&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Saj gaya pandal full stage drama
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787287.mp4&play_token=Qi2FLRNWVh&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sadqay jawan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787286.mp4&play_token=1g7PGbLopu&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sab tu sohni
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787285.mp4&play_token=E4vxoMEdWc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sab to sohneya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787284.mp4&play_token=GNXjxeCxj1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Sab theak hai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787283.mp4&play_token=Atg8a36lII&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Saali nakhray waali
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787282.mp4&play_token=8Du4gnukUU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Saajan chale sasural
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787281.mp4&play_token=EKSU4ucRA5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Roop suhana lagta hai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787280.mp4&play_token=92NtE7qgBh&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃Ronkan lag gaiyan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787279.mp4&play_token=jCUypLttMH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Rolay botay de
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787278.mp4&play_token=lGDmnS3Kqt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Rok sako to rok lo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787277.mp4&play_token=K4z4aOnQxv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Raunak mela
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787276.mp4&play_token=lZtiDqjAFP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Ranjha ranjha kardi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787275.mp4&play_token=NEfOA5ZDYO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Rangeen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787274.mp4&play_token=DMWsYmfacG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Rangeele
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787273.mp4&play_token=d78gVomsz4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Rangeelay stage
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787272.mp4&play_token=PoK4vzU06O&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Rang barangi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787271.mp4&play_token=YiizeW7kAj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ PUNJABI",┃IN┃ Rang baazian
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787270.mp4&play_token=DhvWW1Zmhe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787341.mp4&play_token=JwbtCbReOy&type=movie

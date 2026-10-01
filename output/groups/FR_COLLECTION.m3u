@@ -1,77 +1,77 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Enola Holmes - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781759.mkv&play_token=kheCnuKV0D&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Enola Holmes 3 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781758.mkv&play_token=93uth2SWxc&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",Enola Holmes 2 - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781757.mkv&play_token=scxUSL3LBs&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Destination finale 5 (2011)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1606065.mp4&play_token=vUhIBePEd3&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Destination finale 4 (2009)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1606064.mp4&play_token=9xBMfPaMjv&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Final Destination 3 (2006)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1606063.mp4&play_token=zYPVZuDAtq&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Final Destination 2 (2003)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1606062.mp4&play_token=2f9pUmleUd&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Destination finale (2000)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1606061.mp4&play_token=ZbVOFY5CL4&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ The Descent (2005)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1606060.avi&play_token=ozIc5yraWR&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Big Mommas: Like Father  Like Son - 2011
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597963.mkv&play_token=pul1gXRNSN&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Big Momma's House 2 - 2006
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597962.mkv&play_token=aLwVK9IZNh&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Big Momma's House - 2000
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597961.mkv&play_token=jIcoyVqvv4&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ A Nightmare on Elm Street (2010)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597959.avi&play_token=aen6B1ih8F&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ A Nightmare on Elm Street (1984)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597958.avi&play_token=YTKMBXMKFy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Enola Holmes - 2020
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781759.mkv&play_token=CTcBpUe80V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Enola Holmes 3 - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781758.mkv&play_token=AiIoBtIjzl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="┃FR┃ COLLECTION",Enola Holmes 2 - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781757.mkv&play_token=ii33tXUu91&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8lYhiXBiDKpE07iacJv76TX1gA.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Destination finale 5 (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1606065.mp4&play_token=ERse0SzBkx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5WuHcfoQTP0ZT9p9qipDYk7b9I.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Destination finale 4 (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1606064.mp4&play_token=GUi8ozpVUH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jP2pfzQlvixYAbBkoXGPkjCLVRj.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Final Destination 3 (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1606063.mp4&play_token=nCipW3MZAA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dT4lecoyrfEuSHmcFs5Kqef3giJ.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Final Destination 2 (2003)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1606062.mp4&play_token=rl7ie85KaX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooTB3486ybRLrIr46vdjEhoYcsy.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Destination finale (2000)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1606061.mp4&play_token=qsBk1Akt3W&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUZbZj7yb16tokai802DmawqUxE.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ The Descent (2005)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1606060.avi&play_token=3I6IRWFgrn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNDkirr9v9MSTSyjq2T3h8UE6Sm.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Big Mommas: Like Father  Like Son - 2011
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597963.mkv&play_token=WOj5ibpOJn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlbov6pkgySqYZilZcO54f29Dg1.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Big Momma's House 2 - 2006
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597962.mkv&play_token=346cULIr07&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kq49mM5nqERAO2T9QyJccR7STZT.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Big Momma's House - 2000
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597961.mkv&play_token=Ynl03HhDsS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZvNC2uA7wASIVs8jUd4t5GO5Rl.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ A Nightmare on Elm Street (2010)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597959.avi&play_token=ECiOQJPNQv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aqj5iaJYbgUWaBxpLhgydrkKri5.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ A Nightmare on Elm Street (1984)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597958.avi&play_token=EAzavOM4kV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOFiArC4gxjQCzgXp6NZ6RwXVFc.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ A Nightmare on Elm Street: The Dream Child (1989)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597957.avi&play_token=Xpg8owofZO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597957.avi&play_token=RCUm4M4VZh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPjjwIuQ7NtDBn292u1o7Kk4T8W.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ A Nightmare on Elm Street 4: The Dream Master (1988)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597956.avi&play_token=Z0JPpWqrAD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597956.avi&play_token=OO2KTxnsil&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRNa4aMDe8Iqs8cO4PxuZTdDaCX.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ A Nightmare on Elm Street Part 2: Freddy's Revenge - 1985
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597955.avi&play_token=XLH5VPbSPM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597955.avi&play_token=SX1Gy7SYVX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zNufcJuwlZiGmT7Rr3yq0NK1nU.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Freddy's Dead: The Final Nightmare (1991)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597954.avi&play_token=T3VmfQQkJK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597954.avi&play_token=sPhHFyBDva&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sm3zUoISuGXJG4FaM23kdl0aKI7.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Freddy vs. Jason - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597953.avi&play_token=Hhn9BG7agy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597953.avi&play_token=j1ice9arxj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHTDAuadMvuiiTi5EPBLYz1GazE.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ A Nightmare on Elmstreet 7: New Nightmare - 1994
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597952.avi&play_token=hh9FkLHpOY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597952.avi&play_token=5jdJl56FLc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kXz5vZatuRX9oitq5z5KOnJBPv.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Chucky 3 - 1991
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597858.mkv&play_token=KTzyCXcRWu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597858.mkv&play_token=MTWiatbFM8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpLJGkLakktx17mQcvYbS956Bhu.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Child's Play 2 - 1990
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597857.mkv&play_token=iIRFZ9WBDn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597857.mkv&play_token=ULjk9FWTLg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82vMljlbJxra2PnGQ2OoIFe7NHm.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ La Malédiction de Chucky (2013)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597856.mkv&play_token=6UZDYC31Ce&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597856.mkv&play_token=IHFrX0kZ9A&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVeg4c1XQMYeXXrXl2259qCDXUw.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Saw 3D - 2010
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597843.avi&play_token=YfRQUNlNYn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597843.avi&play_token=tbCAI5F2DX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4g097vnfnpWjKHTT0DuRKIihArj.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Saw VI (2009)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597842.avi&play_token=exijHaV0e7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597842.avi&play_token=vzxQT6pvDp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOmwqSCNnz1isYCc9fc5NMchspf.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Saw IV - 2007
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597841.avi&play_token=K2tFUy74cE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597841.avi&play_token=bEMP0M6mPv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tz8Dfep4Vz142fZ9GdRGdhjVrI2.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Saw II - 2005
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597839.avi&play_token=pTgx3ElqrM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597839.avi&play_token=pIHrSL7JMp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fhUaMnlY72GGuBlzEeKA4brZAb.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Saw - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597838.avi&play_token=jSa1o62kgK&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Saw V (2008)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597837.mp4&play_token=QsoarCBOxy&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Relieken van de Dood - Deel 2 - 2011
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597781.mkv&play_token=9le9n09hTN&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Relieken van de Dood - Deel 1 - 2010
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597780.mkv&play_token=ouvEC9q90U&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Gevangene van Azkaban - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597779.mkv&play_token=y1wB1hkysk&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Halfbloed Prins - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597778.mkv&play_token=4hmSZ13b3G&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Vuurbeker - 2005
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597777.mkv&play_token=G88ngH4IFE&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Geheime Kamer - 2002
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597776.mkv&play_token=3w2AlgOEbx&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter et l'Ordre du Phénix (2007)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597775.mkv&play_token=XkRvKPpD3w&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Steen der Wijzen - 2001
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597774.mkv&play_token=YwGkWE3RpP&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃FR┃ COLLECTION",┃FR┃ Fast & Furious X (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597722.mp4&play_token=L4hjcFQgaQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597838.avi&play_token=l42I6n2GLg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rA8w4g4eg0GcD0P8mZZR11r7r4X.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Saw V (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597837.mp4&play_token=Vw3ueue0rt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alQOPmKEPHkH4BLMEla1vTNYrUr.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Relieken van de Dood - Deel 2 - 2011
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597781.mkv&play_token=BvqRu5zFNT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJm61MmTMjOmNXxPxdoaIkdqnOm.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Relieken van de Dood - Deel 1 - 2010
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597780.mkv&play_token=52zQSN2N5A&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4P2079IyK19njHDP2GwQrKdvzd.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Gevangene van Azkaban - 2004
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597779.mkv&play_token=Lynw12k4zw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4WWOzWUASfUeESXxduQxVmoD7t.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Halfbloed Prins - 2009
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597778.mkv&play_token=0aaPgoCWPM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBak1pn5pbI4ycAbrgMMn1YI7P1.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Vuurbeker - 2005
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597777.mkv&play_token=x9zb17rUTR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KpHRokGpiaqEGpjYe0rpywtvUx.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Geheime Kamer - 2002
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597776.mkv&play_token=GLz4P8nIuu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZfpCVNx0y8jpColnnfdA1HI4Zb.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter et l'Ordre du Phénix (2007)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597775.mkv&play_token=36dl4LSSBQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbxQ44VRdM2PVzHSNajUseUteem.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Harry Potter en de Steen der Wijzen - 2001
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597774.mkv&play_token=pTqidizHX9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1467wvoQIXlVY5MtAqt3PUtOdH.jpg" group-title="┃FR┃ COLLECTION",┃FR┃ Fast & Furious X (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597722.mp4&play_token=esGjPSE3MF&type=movie

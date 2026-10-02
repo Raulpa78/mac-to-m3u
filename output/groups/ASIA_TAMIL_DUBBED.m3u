@@ -1,225 +1,309 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The End of Oak Street (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030227.mp4&play_token=5zYZn2F5xg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYfu1SIE1wViNVPT0zdlqTwpPeb.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Mahendragiri Varahi (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030226.mp4&play_token=CuTvfqSAZf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Bethlehem Kudumba Unit (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030225.mp4&play_token=DGjyqO1Ctj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Widower: 'Til Death Do Us Part (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030209.mp4&play_token=j9YKJzL31D&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6rHcQFiYcczLQPrmxXPAicm54E.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Hokum (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030208.mp4&play_token=4GZGDRU7eu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAlHUjHwLWMV5mg4epGR9WSIfiy.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Unbroken (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029783.mp4&play_token=vMyPg0HZGA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocasYrRgkfKBdabKNPl8ttZuu7x.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The India Story (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029782.mp4&play_token=2DcL6MHJQV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8NASLkwMuWJMzncvNViscP6hgj.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Romanchakam (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029781.mp4&play_token=ARTT22nIrq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Ip Man: Kung Fu Legend (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029780.mp4&play_token=Ta73CzKb1Y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDpHlnupMglK84UZWQfXfRQ6kfb.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Unmadham (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966272.mp4&play_token=XFWlEQySYR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966272.mp4&play_token=uRlfgbjCiU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHei97aPYCCsh4vicz9X0wmdFV.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Gandhari (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966263.mp4&play_token=eEafWTwvUH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966263.mp4&play_token=a6PFnZcsQa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Backrooms (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966192.mp4&play_token=54EWsw65eN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966192.mp4&play_token=wAZI5tVztM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK8TdIPdyJaaFMHlUV3JEZKFONJ.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Vadala (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957501.mp4&play_token=Y386HzTP1d&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957501.mp4&play_token=wsyUnyaoMW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Runner (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957500.mp4&play_token=jWrBGPBSsW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957500.mp4&play_token=FyQl3ejLHp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZsHYS3ckPoSUBnEB5J3CiE3oBV.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Pallaburusu (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957499.mp4&play_token=Agxl1bcSqj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957499.mp4&play_token=rUfqMyeCqo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8C8fPFuDaV9bnN6rM9h173voQ1a.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Jimmy (2013)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957498.mp4&play_token=AXjvc3vcn3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957498.mp4&play_token=XqCyq6rtmE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZUjbtUS8qxXp4mj90evnqPJqX7.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Get Smart (2008)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957497.mp4&play_token=hnJ6G7kwMe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957497.mp4&play_token=ol9ZGVBXJn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEV2G1oXTJVSFZLgMdUwVLTvWZE.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Orphans (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1950091.mp4&play_token=YW5tclBjwZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1950091.mp4&play_token=t0gXHUFJ6f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deVwN1G189jS89OSR5gLgg38zs3.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Halla Bol (2008)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1950090.mp4&play_token=llFTNFwUzR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1950090.mp4&play_token=OYHEjXGoqv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX9idXDqRUxE5ffww3n3RV5gL55.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃American Gangster (2007)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1950089.mp4&play_token=hHGVX26pDk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1950089.mp4&play_token=jCqCmrXlI5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BCEYcclrfWWLcsTzhweSVFb8tO.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Monster Island (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1947618.mp4&play_token=DwBN2yP0LD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1947618.mp4&play_token=gAE8lGinN8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijhuSRwHwocOfGEV9hiAnQCOdmw.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Godari Gattupaina (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1947617.mp4&play_token=4ay0cVZhWM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1947617.mp4&play_token=yfS9MMKLv9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DyAgM340pP402ABl1Jt0uQ7tgZ.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃DC Down (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1947616.mp4&play_token=hkZNFMB8zy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1947616.mp4&play_token=drCrt36mIc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljSqZTl5oophHsH1Qtyv7AF2BW6.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Calendar Girl (1993)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1947615.mp4&play_token=xTpxwa2hQN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1947615.mp4&play_token=dho332aOXU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Bay (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936615.mp4&play_token=l4kn2hXFlL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936615.mp4&play_token=HQ2XmZvPj4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Whisper Man (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1929985.mp4&play_token=2AHaTibY1K&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1929985.mp4&play_token=BjkJkFyye5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qQGjs2u9EIm05SATNYzGC1SKKG.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Newton's 3rd Law (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1926550.mp4&play_token=7kBwtUNzgf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1926550.mp4&play_token=ZFDXTw7Bex&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1AGDayKh45gCc00ZiDpWd1XzI7.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃KJQ (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1926549.mp4&play_token=h6g7jAnpeR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1926549.mp4&play_token=z7eLSDTgLS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Toxic : A Fairy Tale for Grown-ups (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912952.mp4&play_token=MK84oPCW7x&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912952.mp4&play_token=DNoSK6xoB0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Last Sunrise (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912951.mp4&play_token=kBvhGlJHdV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912951.mp4&play_token=pyJHSdmpkg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84wIp36RZ1zpVBoJTjwzGjZVRxD.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Breed (2006)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912950.mp4&play_token=VgMxFbXaTu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912950.mp4&play_token=3hrYXFjZuD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mGPYOwrCR8KBbtT3PEGPgq2xIz.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Mister Middle Class (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912949.mp4&play_token=FM80pcWrh4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912949.mp4&play_token=w8hcfRUN5F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLd1aJmAaNvLM8SwkD3cGVYIrTO.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Ghost Mansion (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912948.mp4&play_token=X5DPyP7oSc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912948.mp4&play_token=uLvP3NW2FY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TBx99VdB7uMF7Dyqdy4jUElkD9.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Land That Time Forgot (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911058.mp4&play_token=ZecgqjIuTA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911058.mp4&play_token=7qG6A9UQMy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃I  Nobody (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911057.mp4&play_token=iNE0rRosJG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911057.mp4&play_token=4rrddZxRq1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsSFcPJPRtlROpLKLHvLqZrILPO.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Dekh Tamasha Dekh (2014)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911056.mp4&play_token=Cap5uskvBc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911056.mp4&play_token=2Y8xSFJx8B&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OHZNAjrZCAgNXjMFMNQLJdDjYE.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Udanchhoo (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1906366.mp4&play_token=ZYzgDin1BO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1906366.mp4&play_token=6DT9THaC5x&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Evil Dead Burn (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1906365.mp4&play_token=sbMrtOcG0L&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1906365.mp4&play_token=bFy0pwPvB9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGKdrPQDkDS8xsv0ogLasgQVyGs.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Kill Mode (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1900468.mp4&play_token=Nj5RnSoIEI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1900468.mp4&play_token=MSH3Gvsg9A&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2VHb9HmaaI0VxraGlA3Ot4NNh5.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Irumudi (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1900467.mp4&play_token=Nu5JgjomuK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1900467.mp4&play_token=gXhDNRBZDI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ecBMVWe2xRhHKcTcRkuqLk85jq.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Gladiators (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1900466.mp4&play_token=TELKJ3kn10&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1900466.mp4&play_token=aBxAM0K0cy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9EMdR6xz4pxYmJ4nfCzB0zeIzq.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Accident On Hill Road (2009)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1900465.mp4&play_token=sOamJPPquJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1900465.mp4&play_token=HhmWnYBLtA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTwwCsmWvHxj2olhCB2VEGcDUXD.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Bury the Devil (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1895152.mp4&play_token=GeGZ788uzC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1895152.mp4&play_token=AtIUiGRxcQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Town (2010)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1886538.mp4&play_token=oLylfYNket&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1886538.mp4&play_token=jAwdgPna8X&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Insidious: Out of the Further (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1886537.mp4&play_token=E6nCMtgvxI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1886537.mp4&play_token=Yx4r8LEdNT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmphewalX6Npa5Aedimxq3yvYk0.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Snake 5: Monster City (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1876240.mp4&play_token=ik4MvdUDlg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1876240.mp4&play_token=CoJOGlaluC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hACM25xigqIYeRgylB0epf34hmk.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Chennai Love Story (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1876239.mp4&play_token=aHd2hXdamm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1876239.mp4&play_token=YEZTNQuNdQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cN6igPJlKFuk5rTrAipQU4qUkWW.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Srinivasa Mangapuram (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874392.mp4&play_token=qwYqWOI0V1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874392.mp4&play_token=gd3uUl1zhL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCtL3UBgCoZzd7XTVGhvl6XY75E.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Ghost in the Shell (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874391.mp4&play_token=5QWn4Jbsvy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874391.mp4&play_token=holMj39BPN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diDNHFfccBZxw0CmQoVQkSuJIri.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Agent Zero (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874390.mp4&play_token=C6CEY8sqnm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The End of Oak Street (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1868757.mp4&play_token=GEcFZ1XFup&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874390.mp4&play_token=H6AQvN2gjZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZlNXEHZsBp7unqw009MeBbMv87.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Stolen Girl (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1860092.mp4&play_token=NX3hOduJgz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1860092.mp4&play_token=J0z16wHfQ7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy9aH0CfTTFLM4tGXgciHz6yoQx.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Moda Kavida Vaatavarana (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1860091.mp4&play_token=hlzJRBdMgf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1860091.mp4&play_token=cK2gwHksf9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Lenin (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1860090.mp4&play_token=XCWB1kySQC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1860090.mp4&play_token=RBcxGrRWSg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFzo2Ss4PQfNUlrzeTfwoVp5ajE.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Gandhi  My Father (2007)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1860089.mp4&play_token=LNF1mJdoqx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1860089.mp4&play_token=yZwFtAx65g&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3MC1eYoW1Se9fQzCOZ5tfyMatl.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Sheena (1984)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1851651.mp4&play_token=OP2JTW33H7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1851651.mp4&play_token=3ICj92ztzv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92Tsfx7SFafOqWsotvrlJbHyehd.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Death of Robin Hood (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1845282.mp4&play_token=ajzZqSWTJU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1845282.mp4&play_token=M8EsL5VdIX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Interstellar (2014)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1845281.mp4&play_token=KYjaMtCvam&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1845281.mp4&play_token=vaNAK3y0Df&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1jtS5Im8RCJJt4WXSZBBnMXgEe.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Top Gunner: America vs. Russia (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1842568.mp4&play_token=U7JHehdqTt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1842568.mp4&play_token=ezxLeukWT4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hdIs2D3w8QrCYYQwVwy6aAe1t6.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃To The Max (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839522.mp4&play_token=ffw89LGTTf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839522.mp4&play_token=vZdFObSYJE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Don't Say Good Luck (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839521.mp4&play_token=8IyRoz5TcO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839521.mp4&play_token=i2g9hogmxW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOGdCCuLdlEaAI8iFHseeLvoJUm.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Close to Me (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839520.mp4&play_token=tJKPAju8i6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839520.mp4&play_token=MExgaUsUpE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLDuHm2QgsNHuENoBvOlDKRwMyF.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Aroopi (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839519.mp4&play_token=Pqwz16YJNU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839519.mp4&play_token=VuwsX3Y1FV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53FATyQirV8BuBcrsQMGPvGKgCu.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Kattalan (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836335.mp4&play_token=kB6hhczVQV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836335.mp4&play_token=wfaBCCoo1U&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃In the Grey (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836334.mp4&play_token=DGEs28Jo1p&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836334.mp4&play_token=69aonqDErF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pH5QDBV55imyvC31MMdxTtHUT6t.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Achyuta Avataaram (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836333.mp4&play_token=5DIwChD7mn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836333.mp4&play_token=wA3CXICTuj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4J33Qf5LsFbateO8T9x4uxyabso.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Happy New Year (1987)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834298.mp4&play_token=104AbCGWmg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834298.mp4&play_token=WeVHs0uVs4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A76Kz32h7Q6uFdQOCBHi4JEg1yO.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Sabina: Tortured for Christ  the Nazi Years (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832579.mp4&play_token=UhYpgYTAxH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832579.mp4&play_token=vxbERUbTyK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBwLtvk9H5HnfbVD8hbss4NSHqw.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Last House (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831952.mp4&play_token=4HovCsJjgY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831952.mp4&play_token=t7u6K4nNNy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/da4A5ZurNsFZPxlBXoNNJu04wpr.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Oh..! Sukumari (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831951.mp4&play_token=IYzzh9dfTU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831951.mp4&play_token=RI1UxFeX8G&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNf3kFRSO7ojLDJUA5iOtHYPLQF.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃M.R.P (Neekentha Naakentha) (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831950.mp4&play_token=VQcW2tUu7R&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831950.mp4&play_token=DvOR29VM1b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKjGI2AAg5UHaBvVVR7oI865Zth.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Things Change (1988)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831856.mp4&play_token=2IPyKuLIAZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831856.mp4&play_token=8B8zYEbwnP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqAOKXYy3P03j2meEpcVMiOEnZY.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Sharafat Gayi Tel Lene (2015)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831855.mp4&play_token=68kFel6YLz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831855.mp4&play_token=jf4SpgLytQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBhM7HadGVfVyUp7UaEsutCEtYu.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Girl Who Believes in Miracles (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1829581.mp4&play_token=ygmL0QiVyd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1829581.mp4&play_token=6iJvxE5Mvf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45D153Bk0bNwonV1w5IBBvqssPV.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Need for Speed (2014)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1829580.mp4&play_token=3NA3NZiXwj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1829580.mp4&play_token=r3XM5RnBjZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN1nAE5WgSY0HauFlgty4sOAcnd.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Unidentified (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827772.mp4&play_token=zpqbdFthw6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827772.mp4&play_token=ZFMxIZd4pM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Apm7IbwR26Q1kl1yUckPPmAZEUZ.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Rishtey (2002)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827771.mp4&play_token=bYoXw7xDfg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827771.mp4&play_token=SQQsJ5xEqy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QkUCZep8cWBcu3982OrYitb9L1.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Deewana (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827769.mp4&play_token=nUPzDBO3Ly&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827769.mp4&play_token=il4j1eL3LF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7a8pmpoEvyK5EwiMumcekxWCu0.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Crossing Lines (1970)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827768.mp4&play_token=RhU5ztn2VM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827768.mp4&play_token=NoTSByQToj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Big Chicken: A Fast Food Conspiracy (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827767.mp4&play_token=VFIHUaiahy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827767.mp4&play_token=CuidLBnaAn&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyEgT9koL0VfMvCsINuA4JKPDBuc5TEMAGgn9MzDUt8g&s=10" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃7 1/2 Phere More Than a Wedding (2005)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827766.mp4&play_token=FlFqbCZXZe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827766.mp4&play_token=ceyqc8A97b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEo0N7UWUqKIo1nIbrGgg6xvM8T.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Sameer (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827751.mp4&play_token=zr8X6pEHqw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827751.mp4&play_token=K6hqSI8xe5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5szPceoDBlWf5T1LEJSY0WRX3BM.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Planetquake (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827750.mp4&play_token=NAUFEMPf7x&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827750.mp4&play_token=5rPgeonNBL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Uyir (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827705.mp4&play_token=fVqompE19z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827705.mp4&play_token=358dRrBr8j&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Storm on Sesame Street (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827704.mp4&play_token=H03mQPZXuN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827704.mp4&play_token=wWLs9YqDX7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Rao Bahadur (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1818530.mp4&play_token=EyzGs13l7o&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1818530.mp4&play_token=EoibJBrsJZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKUYfLzpb6nIxz2OnzoAmxIMFFX.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Chum (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1818529.mp4&play_token=tvH7cnXk0r&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1818529.mp4&play_token=lVmctrM0Pm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Balan - The Boy (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1818528.mp4&play_token=bEPTR3yUl8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1818528.mp4&play_token=RYbAPdwMTQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPOn6DinuVyLY17YM9mKuPofV08.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Spider-Man: Brand New Day (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1817511.mp4&play_token=QXxfAcQEKG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1817511.mp4&play_token=HtFAG6rzPr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Devil's Mouth (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816906.mp4&play_token=VZhBpm5D8Z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816906.mp4&play_token=ttGsMlbCcQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnJW78GCymF5ZfJ5i1q0cRcugA1.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Jurassic Domination (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816227.mp4&play_token=8r8ed7jQ8V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816227.mp4&play_token=8oQEJwGd9i&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ifY8XwrWv4gAgFiJyMcqdYNJ0m.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃In God's Hands (1998)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816226.mp4&play_token=CNqTA8wNCh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816226.mp4&play_token=XbcJOfkAim&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IM2OXyozpmi9dLpx46XYQXxOTd.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Chinna Chinna Aasai (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816225.mp4&play_token=jVOLfAp90N&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816225.mp4&play_token=o5EdUz2Qwx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niSvU02l2BONH9ivubV6K1a5QiK.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Supergirl (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1814601.mp4&play_token=HMRYViCElS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1814601.mp4&play_token=cbdkyCXpzz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yA0pvH3YnlvONPbAdRl0neYpMCo.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Ankhon Dekhi (2014)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1814600.mp4&play_token=nSlw2GzupM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1814600.mp4&play_token=cUpNXnRlhB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khV9zPcvgOjrqwlk3dI1lGojZib.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Dancer  Texas Pop. 81 (1998)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1812867.mp4&play_token=wF1HS5vQnG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1812867.mp4&play_token=s3kDsMdaSf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Truthers (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811623.mp4&play_token=YN1mR8wA71&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811623.mp4&play_token=RnlDpPTdIo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Protector (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811622.mp4&play_token=eXMKZCDJJE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811622.mp4&play_token=4B8iqM1aRU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃72 HOURS (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811621.mp4&play_token=1hx1O6SYiD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811621.mp4&play_token=8RJrzEob3X&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Nagabandham: The Secret Treasure (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811026.mp4&play_token=kgmqW1DIGN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811026.mp4&play_token=zAfwhz1s7v&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26lQ3OJqv5NRDpd38eU54zAfLxr.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Sing (1989)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810677.mp4&play_token=bxDNhNeQUO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810677.mp4&play_token=GIEiDQOm5B&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEzXdyJhdWc2msM0oBC9N8pKtMY.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Pallichattambi (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810676.mp4&play_token=2qHJPm8ZCI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810676.mp4&play_token=ddoQ6emvGw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWwaW9Nt3u4zs61AnKiktgrD2jU.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Ice Storm (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810675.mp4&play_token=wEjuSinZUX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810675.mp4&play_token=7nZFZ54UOs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8URM569W1ETAeGd33CPkrc6KF1O.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Euphoria (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810674.mp4&play_token=C4m2cVjufn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810674.mp4&play_token=VKvFhALFHb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Crazy Rich Asians (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808865.mp4&play_token=eJ5AiakXnP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808865.mp4&play_token=XG1q14DGI4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Masters of the Universe (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808866.mp4&play_token=lpgot4l8JZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808866.mp4&play_token=wK6M4Xoa9C&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EFhIT8QzlID8oGACtepaAxiwOU.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Shark Warning (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808867.mp4&play_token=kEuoeiTgti&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808867.mp4&play_token=hDdajEWCCo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tky5hpVgeOuA9cel0sDSZkFdqYP.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Rubin & Ed (1992)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1807498.mp4&play_token=zCPvd106yP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1807498.mp4&play_token=lVOreGEjXP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZXHG1FoeDL54MqnxtamDXAUGih.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Ballerina Assassin (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806591.mp4&play_token=xW8f3Gv2BT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806591.mp4&play_token=ZfRIYSFiR8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLEenJ0I1XqySVezRdETf2n2w7H.jpg" group-title="┃ASIA┃ TAMIL DUBBED",하이재킹 - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1805187.mp4&play_token=ettY8o6kdL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1805187.mp4&play_token=F4V9sE2sfD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃The Odyssey (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803501.mp4&play_token=teDmhzIVI5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803501.mp4&play_token=kPe4o5JbHN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfKiYtELXgSGUl9QjPQGxU7KU6.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Razor Ruckus - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803500.mp4&play_token=5pflYw5zea&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803500.mp4&play_token=2H7BvMxlw0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CHaHGqw4DaQppjxKDzOzGJCdv7.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Sannidhanam P.O. - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802524.mp4&play_token=nlx4R9jlnM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802524.mp4&play_token=cFnm9JGyP2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OPwNfFyYCj76OjKZ3NZsJzWx7u.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Maa Inti Bangaram - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802523.mp4&play_token=5G8sqUpRPl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802523.mp4&play_token=HFGHJtV0Xc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Desert Warrior - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802522.mp4&play_token=gAf50RLzEV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802522.mp4&play_token=Y0L6TcY8LT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg" group-title="┃ASIA┃ TAMIL DUBBED",23 000 Leben - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802521.mp4&play_token=lqXvXItay5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802521.mp4&play_token=NLxUfZLwqC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weGYcQIjFplav4GHGQlvpPoozJ6.jpg" group-title="┃ASIA┃ TAMIL DUBBED",13 Jours  13 Nuits - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802520.mp4&play_token=WLnYCkYpwE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802520.mp4&play_token=QKbsfnhw47&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yA9LoOXHl5gTxfizEpl4407phT.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Rocket Gibraltar - 1988
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1800780.mp4&play_token=pK9uhaazUl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1800780.mp4&play_token=9jVIN5S1D4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZn71TZDhV5c58cmWmOLyZGQ6U9.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Ek Din (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1799327.mp4&play_token=GIeHOd0fs2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1799327.mp4&play_token=MvY9BjTFLV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chLoHQjsw484y6nUYTtSgr5BKBF.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Housekeeping - 1987
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797966.mp4&play_token=BjtTAJvcmE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797966.mp4&play_token=s1sY6HY9tB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBPqCP5kuQ3Nzhf0KornLbhQFHK.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Arctic Armageddon - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797965.mp4&play_token=vK37j1Ft6W&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797965.mp4&play_token=U07qQ6OqHq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjGrjHNjsR0klih0bkGBHbukMdX.jpg" group-title="┃ASIA┃ TAMIL DUBBED",The Trip - 2011
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797003.mp4&play_token=5gUQWdE37i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Ztg1Z2c2r8YsRH10H8oM3LUIK.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Snow White and the 7 Samurai - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797002.mp4&play_token=muTOgdAYn7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HsHurlnTOyU6yUS14gY6BQCyRs.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Sherlock Holmes: A Game of Shadows - 2011
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797001.mp4&play_token=opvNQVcWSI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6Ga1AUGPe3GwlpX3qDYrD9y3EZ.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Hollow Man 2 - 2006
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797000.mp4&play_token=gev5UUkivm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQQ9oRO273ImFTAmY4RR3kPTkff.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Attack on Titan - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1796999.mp4&play_token=wLjAROhuCt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbdfhYD5MiNQBp4krWRyM30Efni.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Falling from Grace - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1796012.mp4&play_token=q7X7doIbYm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL DUBBED",That's Life - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794814.mp4&play_token=BvSWU8dxjU&type=movie
+#EXTINF:-1 tvg-logo="https://www.pixelbb.com/images/2026/07/10/LWJhMDc.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Peter (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794813.mp4&play_token=WGmib93SwB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/db5IkOJu9UHktrKroNktw1Z8ARY.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Only the Brave (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794812.mp4&play_token=wkTYVZdWzr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOBhDCSoC9F10DlBj8Bis6odG5v.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Desert Bloom (1986)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794811.mp4&play_token=IxgMZqDch4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJxkfS8LhymGFgwmfChHla5wZcZ.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Bawri Chhori (2021)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794810.mp4&play_token=rNZsipjWEo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8ExDio1HExjFVHwSYr5xVcdSEk.jpg" group-title="┃ASIA┃ TAMIL DUBBED",मुखबिर: द स्टोरी ऑफ अ स्पाई - द मूवी - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792745.mp4&play_token=Olw4dqVB0I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp5EAKE8nTx402n1fWz55QsuYY9.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Ikka - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792744.mp4&play_token=09KmiJi0I5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twQSpDQxukOGmSGOX6RCvK3Dn0u.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Dose - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792743.mp4&play_token=uUyl6BcrOU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c10lFyPXqQfoN0UgY1w58YsdDI6.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Trikala: Script of God - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1791386.mp4&play_token=tWT4dSBM2S&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Kbw7Ms77c4OCQF4NIw4lLxa7kU.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Tera Mera Ki Rishta (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1791385.mp4&play_token=ZIsytVDnTV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83jbWhsxnvirk0QKTIczYYT578A.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Peddi (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1791384.mp4&play_token=BdwcxQ2XoX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8SXr3SCtHESHkmO2mFqzqlJ09L.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Baltimore - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1791383.mp4&play_token=g4oPD5ZZC7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgvYPByEcOBAP3PLIFATQ3ApvaM.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Bait - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1791382.mp4&play_token=tYLfT7PF5J&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UVWJ0zkPzuUlKHs7ZaTfQ2GLpk.jpg" group-title="┃ASIA┃ TAMIL DUBBED",సింగ్ గీతం - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1789917.mp4&play_token=oXCHLyvyYq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYQmXiKEooImScqysi2HbjjRrgC.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Nothing to Lose - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1789916.mp4&play_token=YI5xuEZHcz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Donnie Brasco (1997)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1789915.mp4&play_token=alnfZMnerZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o26avHeCyBUHDoHBYCaflWT6heZ.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Shiver Me Timbers - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1788616.mp4&play_token=2Afrgy6B36&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7l5lejRwvkEnQ3s1dOLQ1qUXGRf.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Drona (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1787350.mp4&play_token=WfSuWuyTV0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg" group-title="┃ASIA┃ TAMIL DUBBED",മോളിവുഡ് ടൈംസ് - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1783013.mp4&play_token=fpbQVNmFka&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxnD6Npyv8SkMdrLpkbu2Uegm2l.jpg" group-title="┃ASIA┃ TAMIL DUBBED",കറക്കം - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781884.mp4&play_token=0JDQUkGmBE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Zeoj60KpLlGDn4VEyvypsB3GUW.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Road Wars: Max Fury - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781223.mp4&play_token=LbsOdBFK2V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRcGnwShS9wpqlTc6KvK4WUY55A.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Hunting Jessica Brok - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781222.mp4&play_token=mZgUvQN0Rl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sZSRb0t4zXLv0NZdkghcpShYgf.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Great White Waters - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781221.mp4&play_token=d9N79m7q5O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Enola Holmes 3 - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781220.mp4&play_token=bCkGZAs4f5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWfX0rQlsEIbvKL1HQVCvPvV9jd.jpg" group-title="┃ASIA┃ TAMIL DUBBED",Continental Split - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781219.mp4&play_token=YFAMOYifFj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNOEUXsb3LMdBLDafaWYziLCQbO.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Bossa Nova (2000)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781218.mp4&play_token=Xk2Kz2ctL4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqbTQNqjITTElmEWnBrM0uRJbSp.jpg" group-title="┃ASIA┃ TAMIL DUBBED",┃TAMIL┃Bajatey Raho (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781217.mp4&play_token=dD3Sx9HWzW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC892vhMsNwcIUX5UfrsTSy9IL9.jpg" group-title="┃ASIA┃ TAMIL DUBBED",The Last Breath - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766493.mp4&play_token=oBs8dEObKg&type=movie

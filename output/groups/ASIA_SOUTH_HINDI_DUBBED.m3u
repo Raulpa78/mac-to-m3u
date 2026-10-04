@@ -1,807 +1,815 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paKX1n7qw8VfoombF6HhjJAaIk8.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Paatki (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042824.mp4&play_token=zHCU3V8APQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ya02k26E0yYj4Sru1FNZQndOH9l.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Vishwaguru (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030224.mp4&play_token=l51pyj3Hrs&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Bethlehem Kudumba Unit (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030223.mp4&play_token=A6ZQ7NnTCv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGo0XltwTLbCvPO7VvtirXlbKny.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Sardar 2 (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029779.mp4&play_token=MdGR3zHaMl&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8NASLkwMuWJMzncvNViscP6hgj.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Romanchakam (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029776.mp4&play_token=5SD3kJ839H&type=movie
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2RiZWM5ZmMtZjJiYy00YjhlLTg5NjMtMjdiZWY4NjA3YWI1XkEyXkFqcGc@._V1_QL75_UX154_.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Angad (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029775.mp4&play_token=sA4MVOdBQR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cl35nsSE0zDvIrvFewLtM748SBf.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Korean Kanakaraju (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1967056.mp4&play_token=VoqIk84xdX&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃G.D.N (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1967049.mp4&play_token=hBIH4pD9au&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDpHlnupMglK84UZWQfXfRQ6kfb.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Unmadham (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966191.mp4&play_token=fCsY5mmYTx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Vadam (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051224.mp4&play_token=Tqw32T1ghO&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Toxic (2026) (Cam)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051223.mp4&play_token=brwvcju30f&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Partner (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051222.mp4&play_token=Tx3QKkio1h&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Paradha (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051221.mp4&play_token=ehvS0nGF0d&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Crazy Fellow (2022)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051220.mp4&play_token=g6SWYWisSu&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Paatki (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042824.mp4&play_token=ExY1FkLXoD&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Vishwaguru (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030224.mp4&play_token=0bnrg3ePVQ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Bethlehem Kudumba Unit (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030223.mp4&play_token=oWK0v2ZB2x&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Sardar 2 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029779.mp4&play_token=W9DYNWcJ2E&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Romanchakam (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029776.mp4&play_token=BPBr5nX2UH&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Angad (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029775.mp4&play_token=byrGHBMli3&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Korean Kanakaraju (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1967056.mp4&play_token=AnNHivEIIC&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃G.D.N (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1967049.mp4&play_token=DVdjwusmO3&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Unmadham (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966191.mp4&play_token=A9b9fQee7b&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJkOTUyNzctYzUyZS00YTNlLTgzYTItNmM0OTRiYzUzMDNlXkEyXkFqcGc@._V1_SX300.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Aarata (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957496.mp4&play_token=kAqnx1kqyy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957496.mp4&play_token=hDn8HRyqEh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7zwiuC1HTw5XGZ5JrOwF9uFqRy.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Raakaasa (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1947614.mp4&play_token=HQRGtyIYuI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1947614.mp4&play_token=Kjxm14WApm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYfkUX61GyyWxxzGve5dQlWJl4c.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Srirastu Subhamastu (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1939539.mp4&play_token=hJ2uDzEQ1I&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1939539.mp4&play_token=cbTTQqI9gb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qQGjs2u9EIm05SATNYzGC1SKKG.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Newton's 3rd Law (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1926548.mp4&play_token=5AA7k1Eqxi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1926548.mp4&play_token=DFvq5Zt6yd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsiQ0twZbmbLo0F2CDUt44riRxL.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Nagabandham: The Secret Treasure (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1926547.mp4&play_token=72CKuqbTEL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1926547.mp4&play_token=DmFTiprYae&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/201CEvG6ayNj71iSLxxEk7pUv0N.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Anbe Diana (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1926390.mp4&play_token=YJFUaP8OGw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Toxic : A Fairy Tale for Grown-ups (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912947.mp4&play_token=M8i36HRgQ5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1926390.mp4&play_token=n3v9NYtjcA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4RBmd46UWfTRudGkYOnvFLbtX3.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Surrender (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912946.mp4&play_token=vKe349soQM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912946.mp4&play_token=qbh5ScveyW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃I  Nobody (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911055.mp4&play_token=9FuBVbxn44&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911055.mp4&play_token=pm5H3jEgSW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yscCuJsNYDh2vHc6VrASnZcbaDw.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃CSI Sanatan (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911054.mp4&play_token=zdl72a6yfz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911054.mp4&play_token=FfSxJA0qux&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Pyaar Prema Kalyanam (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1886536.mp4&play_token=RB8XEm8xhY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1886536.mp4&play_token=IrW5BMMQr3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Lenin (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1886535.mp4&play_token=CimWYA2LZD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1886535.mp4&play_token=W1b7ItJ1gZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hACM25xigqIYeRgylB0epf34hmk.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Chennai Love Story (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1876238.mp4&play_token=O9kMvh6Txl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1876238.mp4&play_token=ZYwK8lODtJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cN6igPJlKFuk5rTrAipQU4qUkWW.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Srinivasa Mangapuram (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874389.mp4&play_token=m8Bi3oC8nV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874389.mp4&play_token=KTTMHhwNl2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFGujFFdclNXyqr9Yq2bpUxnLVP.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Dream Girl (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874388.mp4&play_token=49T5et1qLZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874388.mp4&play_token=51L3sODlAU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2T3SryIvH8999SKBZCfJvyWUAL.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃College Kalavida (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874387.mp4&play_token=UzigVAU6kw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874387.mp4&play_token=P6eemG1UyF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/df5IaJtB0dmUkDfOCbr0xkPTXDc.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Dheeram (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1868755.mp4&play_token=rne4Ooshho&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1868755.mp4&play_token=0JxTDLSsaJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Heartin (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1860088.mp4&play_token=DkivEHGKlu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1860088.mp4&play_token=tx6GSo1dmI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDN3gBR8h5BKDCCHP57CvwBONKH.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃The Birthday Boy (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1847987.mp4&play_token=aFneYAyA2p&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1847987.mp4&play_token=gTz4vipyCp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqTh7TYdAnZTHLfgyHPPUSXwXMw.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Bagha Jatin (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1847986.mp4&play_token=Qqz0orDHen&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1847986.mp4&play_token=DonFonXSTC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2268tC1Udy7FkZ0Zm2bANUBXBRt.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Ranapati Shivray Swari Agra (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1845280.mp4&play_token=T37LOCL1K6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1845280.mp4&play_token=8lgKtOj9IL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nW2F8OAO3cTBsbvPhhd1YC0OAcw.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Sahasam (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1842566.mp4&play_token=BstSyxgis8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1842566.mp4&play_token=olaK9S4I8F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8URM569W1ETAeGd33CPkrc6KF1O.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Euphoria (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1842565.mp4&play_token=kOFfqmfDNt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1842565.mp4&play_token=BRcANFQtZb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Maa Inti Bangaram (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839518.mp4&play_token=nRmu7bqOLe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839518.mp4&play_token=WP21eHLZDE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Balan - The Boy (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839517.mp4&play_token=QM0OaLT1O5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839517.mp4&play_token=iE8pXFfXQ7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLDuHm2QgsNHuENoBvOlDKRwMyF.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Aroopi (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839516.mp4&play_token=XFVmdPiwqx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839516.mp4&play_token=p6tC8ObJv8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃G.D.N (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836332.mp4&play_token=aQWVXHl1yt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836332.mp4&play_token=UBtnLr8vaq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pH5QDBV55imyvC31MMdxTtHUT6t.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Achyuta Avataaram (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836331.mp4&play_token=VOghJyfWGC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836331.mp4&play_token=it22KIwdrh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTytEdLczbyuvKR4UewNQ9ExvpL.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Sugarless (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834297.mp4&play_token=ue6TKb2BqK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834297.mp4&play_token=R5dx2vSCdC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZcxH4Fxr9l0FzPmaTy1Lc3XjZ6.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Ramana Avatara (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834296.mp4&play_token=cWSEpTnutO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834296.mp4&play_token=SZWCTfwTJr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7WWFGMpvfWozed5XlmmKeeAhRf.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Godari Gattupaina (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832410.mp4&play_token=iOv9R8yvqe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832410.mp4&play_token=IkGqidoHwj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIQLFOdvrdrjHI31DazP06tp9zp.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Pongala (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831949.mp4&play_token=kCDEJyOyqg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831949.mp4&play_token=TJsAjda8N3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNf3kFRSO7ojLDJUA5iOtHYPLQF.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃M.R.P (Neekentha Naakentha) (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831948.mp4&play_token=HIWnylNrFR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831948.mp4&play_token=J6KkgaAsB7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gfs5OsGINENFAl0h1XZPNup9lI.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Idhayam Murali (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831947.mp4&play_token=c8veMgGenI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831947.mp4&play_token=oEjOs4TOMN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1SlMiY354kg9YFYktWKeRyrXSF.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Paramapadha Sopanam (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831854.mp4&play_token=SAx46GuXuI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831854.mp4&play_token=TbMkoaMKJu&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSYNPUTx9-iVcMKXQ5aHgtZ6jVFcmyTSs1J8KcuWVwOg&s=10" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Moda Kavida Vatavarana (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831853.mp4&play_token=ZxfvBFCR1z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831853.mp4&play_token=Sb9hwgZ4XU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5QAeVHpqSedMEvIpbUle6aUn5q.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Oru Durooha Saahacharyathil (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1829579.mp4&play_token=bFJ52j5LAd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1829579.mp4&play_token=0Z9Dy6abuR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDTygZ6uAwaknc2isXZcz8YMvE.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃45 (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827765.mp4&play_token=DvecZrPOEW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827765.mp4&play_token=ZxV92LobS1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Uyir (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827703.mp4&play_token=6lpmsLC1xo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827703.mp4&play_token=GW6wwHMhaQ&type=movie
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Devil_%282025_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃The Devil (2025 (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827702.mp4&play_token=ZHhjaWRVd0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827702.mp4&play_token=WBElHFgEG0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBOmXwI1NfSgArELWwZvi44K8Il.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃The Malabar Tales (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1819981.mp4&play_token=RkTwtvZBZt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1819981.mp4&play_token=epyMi79f0k&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxXU3sVg8A93BqUCKcs9L243i6AL3agwRk83yCPIAxYRsvQHLwU3HPlbM6&s=10" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Mavuta (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1819980.mp4&play_token=OZgSVWeHkX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1819980.mp4&play_token=L6FWtYsPai&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Rao Bahadur (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1818527.mp4&play_token=J314Tv6fiY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1818527.mp4&play_token=7cJUARtIFY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Gatta Kusthi 2 (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1818526.mp4&play_token=YfQxWFAKtE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1818526.mp4&play_token=uJldEypyyP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Peddi (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1817510.mp4&play_token=3cj2UYz4Tv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1817510.mp4&play_token=cE5yeWmBvw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGWIOTnoO2yP09mFBxLnItkaLSN.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃The Rise Of Ashoka (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816224.mp4&play_token=Nqv3LBs1vb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816224.mp4&play_token=EK1iARtwvI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IM2OXyozpmi9dLpx46XYQXxOTd.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Chinna Chinna Aasai (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816223.mp4&play_token=LNQ0H8h5WE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816223.mp4&play_token=Fwu5lGwh5a&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Con City (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811062.mp4&play_token=BOp68g2jnP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811062.mp4&play_token=P28mBUQLUq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEzXdyJhdWc2msM0oBC9N8pKtMY.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Pallichattambi (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810673.mp4&play_token=Whq7SSNMpL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810673.mp4&play_token=y1v2QSa7Rt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hMS3qklkbhSNGd3eo4NMTasytD.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Fighter Shiva (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810672.mp4&play_token=6gi3bSX6IY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810672.mp4&play_token=yYuJQ7iE4L&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCt5k3coJbOF02hwXVT9gV59a2W.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Honeymoon Express (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808863.mp4&play_token=XGoufG9198&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808863.mp4&play_token=GBVwt1Ramp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMgzWlTtp0J0Fk1XTNb2IJcf75B.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Thirumbipaar (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808864.mp4&play_token=W4dSvZGQox&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808864.mp4&play_token=yqrZbCdyT0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afwvI8D1SLSMqINJbq0Wi9eCBWt.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Double Occupancy (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806590.mp4&play_token=wvB7F3zfW1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806590.mp4&play_token=bgoY3DMMo9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aR2nyTzFcKmWQ3JzlMeI5coz336.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Tula Pahta (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803499.mp4&play_token=aD3oQvn04k&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803499.mp4&play_token=meTM3TGbdJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grGslpP4Qro6Yq8AiizswnxkcCl.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",Shanmukha - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802519.mp4&play_token=AdwAVyf8Nh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802519.mp4&play_token=7O8sAqVVzx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGq5pbus5jAEaf345Speuhch2Ne.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",REWIND (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1799325.mp4&play_token=qPgZm8JJAb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1799325.mp4&play_token=WGPGlDeCjj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpABxZgT5oSeafsAL0rvNbLzjIl.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",Royal Runaways - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1799326.mp4&play_token=rqUM0FjbmR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1799326.mp4&play_token=LCcu4gISBG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SwTmgdHdHIda0DhREnhbBwuxNd.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",EMI - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1796011.mp4&play_token=W9xfF8ghgW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1796011.mp4&play_token=RvJsDXzW94&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN2TOTKin83av7hwYnwAKSd3EG8.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",பரிமளா & கோ - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792742.mp4&play_token=y37MlM9ml8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792742.mp4&play_token=TvvKpP2n6k&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twQSpDQxukOGmSGOX6RCvK3Dn0u.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",Dose - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792741.mp4&play_token=cn5k4inLNT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792741.mp4&play_token=DvY1i2hYpM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8SXr3SCtHESHkmO2mFqzqlJ09L.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",Baltimore - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1791381.mp4&play_token=R3xWQdMVAX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1791381.mp4&play_token=CpkVcxcxxL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRyz56Fubfwmre6F5QiYyIzKmnT.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",அங்கீகாரம் - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1791380.mp4&play_token=70jRFbfkPG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1791380.mp4&play_token=8ARrhBX7PE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYCJihP5IQwUw9RMSmeGg7yU1FP.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",എഴുതിയതും സംവിധാനം ചെയ്തതും ദൈവം - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1789914.mp4&play_token=GsROxWInAb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1789914.mp4&play_token=1zeEwe2fha&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UVWJ0zkPzuUlKHs7ZaTfQ2GLpk.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",సింగ్ గీతం - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1789913.mp4&play_token=flbRirDLTP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1789913.mp4&play_token=QiovS27sYX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bjQQnjTiNDbk94wJKHDZBusIIz.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",Evidence - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1788629.mp4&play_token=h1A7qvTIMd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1788629.mp4&play_token=GLxZXoDtMz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",അനന്തൻ കാട് - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1788628.mp4&play_token=8Dib9JGI3H&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1788628.mp4&play_token=RLrJBfJEHt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfKiYtELXgSGUl9QjPQGxU7KU6.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",Razor Ruckus - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1785081.mp4&play_token=vxfyDqLidj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1785081.mp4&play_token=M0WtcWfHWL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/456FlpiU1iOBnaOxSd783QhZKWw.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Drishyam 3 (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1785080.mp4&play_token=6EuMNxW6x1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1785080.mp4&play_token=PGSdjrrl58&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6UBMJQisGuoIEoh8VRlFsRuRJN.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",Mario - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1784225.mp4&play_token=IQSknI4VwZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1784225.mp4&play_token=WURU6dr6Dc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",മോളിവുഡ് ടൈംസ് - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1783012.mp4&play_token=wsjiGJpX6l&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1783012.mp4&play_token=HDPjXdIlEU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxnD6Npyv8SkMdrLpkbu2Uegm2l.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",കറക്കം - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781883.mp4&play_token=NkMFVeqs34&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781883.mp4&play_token=epGocEoD9O&type=movie
 #EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/ravanapura-et00428803-1736746580.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Ravanapura (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781216.mp4&play_token=aSvL41cQa5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781216.mp4&play_token=SGRWd6UEcq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAjHDlaGHHWVZ0OcnadHPm8YIE.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",Pendulum - 2027
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781215.mp4&play_token=uEYNF4Igam&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781215.mp4&play_token=sTxQQDHgba&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CjXfBkDHv1ESLBuTIlbRaRvaGB.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",Pelli Kaani Prasad - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781214.mp4&play_token=xxvwp1JJuY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781214.mp4&play_token=oPaxG6RdRz&type=movie
 #EXTINF:-1 tvg-logo="https://cdn.district.in/movies-assets/images/cinema/maylanji-poster-9c451600-096b-11f1-8723-d734d3d8e9ab.jpg?im=Resize,width=400" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Mayilanji  (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781213.mp4&play_token=gnoyKpgWG5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781213.mp4&play_token=RvyKOHBJoP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBpK2iiq6FBWGO6LrQhB5BBOqXn.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",மதுரை 16 - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781212.mp4&play_token=31QK7v6B0u&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781212.mp4&play_token=Bvjw3HlQ9u&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kL6M9mkDxZ0ofBwVYk8ubX9xTf4.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",Kayilan - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781211.mp4&play_token=Bg9teQ699i&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781211.mp4&play_token=9Nfo6rlNgB&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTY1ZmMyNWUtMDg1Mi00NTZkLWEwMTYtZjAwMTdhNGVlNTI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Ambuja (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781210.mp4&play_token=iOUwKrKpkZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781210.mp4&play_token=F7rgjESt3i&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrtwQG0Mqb2KQ0xj9nnJYm8wsxl.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Abhyuham (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781209.mp4&play_token=t7eUZO1cJt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781209.mp4&play_token=4E9ktw9ic8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZAbPoVTMYrxFUSGG9hwaOUsZnW.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",Tavvai - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781204.mp4&play_token=PFOq3haqdh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781204.mp4&play_token=QVG2qfon1r&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cgwiPHZ57NjI0RKb2yIu8mUnNs.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",ಕೆಡಿ - ದಿ ಡೆವಿಲ್ - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766491.mp4&play_token=BeYxs6ZJxS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766491.mp4&play_token=5BDbHJU64P&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXNuxvpzCkw22wnO9Uvjn7KmV1I.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",ஐ பி எல் - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766490.mp4&play_token=q9SqKvMyjI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766490.mp4&play_token=e263pbIe6W&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e2Wc6sbeU1YdBWLJIDyMcEWrN2.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Raja Shivaji (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765803.mp4&play_token=s9knjCWL2y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765803.mp4&play_token=EXcNGt0M7B&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82X4cXmEYncGDDv7cvogdoYsAo4.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",ഇനി ഉത്തരം - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764606.mp4&play_token=nIXzaB6HD6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764606.mp4&play_token=qEws1gRT7I&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Blast (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764605.mp4&play_token=K7Z8HXBx3V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764605.mp4&play_token=bweYkO5kLS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KQMmKP76xJs2aZyTQIJ1Xm2gny.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",熊出没·重启未来 - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764602.mp4&play_token=PXGibyqK9X&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764602.mp4&play_token=7pCP2ezo2x&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8agxJ2Wv8EitO1xwF2HgxnyloCI.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Blue Star (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762729.mp4&play_token=FVv4XJl8Hz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762729.mp4&play_token=kWrRl6V5fv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",ബാലൻ  - The Boy - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761948.mp4&play_token=UgkiMwLjhK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761948.mp4&play_token=ImIcw7UO9i&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9aEFdp3LNzU9MOTPsmY4hUttM9.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",Junior - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760207.mp4&play_token=yTttfxMH55&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760207.mp4&play_token=NynY7Gsigo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIpFXUmtl39UXHRD95ar1EHuEAY.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Mareechika (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1759345.mp4&play_token=uiruCGukwk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1759345.mp4&play_token=rtyxU3Y40t&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yN9yaUH2LPHpjWbSUXYbldO5f38.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",M4M: Motive for Murder - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1759344.mp4&play_token=Xa3mxzHcuw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1759344.mp4&play_token=pkzLDCujov&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swU1gHR88apVPthor7RVv8AOa1j.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Anali (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1759343.mp4&play_token=k7Xco1X0Dn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1759343.mp4&play_token=BSBDFsAxlX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbYoC9wmfo2w7EDVXYrnX4PRBWr.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Athiradi (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1757853.mp4&play_token=2p1xrsxI9H&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1757853.mp4&play_token=ocVcvm9Mms&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29gHoVhYl8IohfOh3bB5h3Qt0WM.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",Second Case of Seetharam - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1755153.mp4&play_token=cwbWOoD9uq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1755153.mp4&play_token=ILjAppXBfG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jFuUoddURp94ZvL7haeunK7fsm.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",கெணத்த காணணோம் - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754438.mp4&play_token=SJhgcXghz8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754438.mp4&play_token=zIAnXmq3qp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTgiNXkrg9LS6Qjvrnksev7ztIo.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",சட்டென்று மாறுது வானிலை - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754334.mp4&play_token=NPy3oG81DB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754334.mp4&play_token=wOmDrNOYR9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8URM569W1ETAeGd33CPkrc6KF1O.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃HINDI┃Euphoria (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754333.mp4&play_token=50EmvQyifn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754333.mp4&play_token=x5YSELrmUz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKfu7bU8zR2m8a57GNNFBpolTaR.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Driving Licence
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1104193.mp4&play_token=ohiS9lkQi8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1104193.mp4&play_token=1eWzzGguVQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iTIJDgIUi4oIUw5bfhqqyGTShA.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Sivaji
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1099841.mp4&play_token=ij0MZ28tpk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1099841.mp4&play_token=MovIhy82s3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqrbCMSAYJOZrRri2BarSvCefGn.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Back Bencher
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=900693.mp4&play_token=nfC1MECNrI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=900693.mp4&play_token=a5FJZBlr2O&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAci50FwevkdWIUzQWpdz7kSKHe.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Thangalaan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=891518.mp4&play_token=2Lirsl6xZ6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=891518.mp4&play_token=V7FmkJ6T2s&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdaob8wA5SkeGnKA0LrpWb14TFy.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhimaa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=891517.mp4&play_token=IfPFM4HnaV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=891517.mp4&play_token=j967dfKirZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OClpEeRlHK3DrFO7QtWXtpDIOK.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ A R M
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=890822.mp4&play_token=nplIaj2rJL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=890822.mp4&play_token=R2qXVkoWWS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbvuxe8yR3HuAOlenoetP8NIBCw.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Marichi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=889881.mp4&play_token=9KlKEonBDl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=889881.mp4&play_token=BjuJHfQCWV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrlXEuW40Mq6n9ESvGCU0oxaxfj.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ The Greatest of All Time - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=886552.mp4&play_token=nASVg6B3Wf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=886552.mp4&play_token=zo9OS9MRq6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdRsJD1EYxJpFi25RrWYCEkGacm.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Music Shop Murthy - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=886551.mp4&play_token=2VhYvE4tI3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=886551.mp4&play_token=xG36VvUOPs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSXJsSvVozQh7AFZlyVwtgZ0l6t.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bheema
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=885511.mp4&play_token=Blvd3N1DpD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=885511.mp4&play_token=gXYBTO9CEp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21llDripC24N3UkfNT5wpsjyDBb.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Singapore Saloon
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=882288.mp4&play_token=dSTpzODfPA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=882288.mp4&play_token=LbMczYEy0e&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gW4Ef6YMbPriPqktUzfQIALtGLo.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Hiranya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=882285.mp4&play_token=3vWRS1sJ78&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=882285.mp4&play_token=4lfvCH8BFm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txhupb8IIqlfLFabu58REhkC6k0.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Mark Antony
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879725.mp4&play_token=Q0PQWdiDqw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879725.mp4&play_token=w3j2ZwtANM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHMbqpG7vZk1iEJaEkCCyixFbos.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Raayan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=878817.mp4&play_token=dHZKGHOShw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=878817.mp4&play_token=wlrc0juyKk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Kalki 2898-AD
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=877539.mp4&play_token=HEVJG3xUIb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=877539.mp4&play_token=bi5dwb31CK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7I0VTzrqJ4erQHNjrwwhAA5rOTv.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Satyabhama
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=871196.mp4&play_token=mdnhnwwqfp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=871196.mp4&play_token=OPdjjfidLX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9KYzEg6VRqKBvL5yek4v96FRi7.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃  Love Me If You Dare
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=870220.mp4&play_token=gx182bi22K&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=870220.mp4&play_token=XY9IbJaSTV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzrKYjzKYuvKfscc6gaf4gXPj50.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ullozhukku
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=867407.mp4&play_token=A5fIretoID&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=867407.mp4&play_token=11oNNdDoyN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZxBWGqdoQ3lX7oPjtI41Yby59j.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Mangalavaaram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=866443.mp4&play_token=vqvr0h0Hc5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=866443.mp4&play_token=eww5tbyYlW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4GpEsQAc9LslfEmBlOwlChxpyx.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Grrr..
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=866031.mp4&play_token=55qI6zF5BJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=866031.mp4&play_token=d7WQt2mz9f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNPUb6bsBgv6dpnQ7PEF74skR2L.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃  Turbo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865693.mp4&play_token=oSeqb4QTj8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865693.mp4&play_token=UfTVuiFIfF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jec4waiqnRR7fpDYxKlv4fjfRF0.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Conjuring Kannappan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=864359.mp4&play_token=UhvsekD4Tm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=864359.mp4&play_token=EI9jIwc6Bj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrV2C8c5N3wv4lgrCGpl0XK6gRI.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃  Bairagee
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851836.mp4&play_token=nqCUCA1qL2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851836.mp4&play_token=oHblFkHZA3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xwNsmT0XPFF0Ssa7kB6FR1MZRz.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Naa Saami Ranga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851607.mp4&play_token=jzSpUDkGCc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851607.mp4&play_token=N4Ot9NjDMQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxofVmNULRo3920pEW8zn2HYzdU.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Harom Hara
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=849668.mp4&play_token=19sPBeNv1q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=849668.mp4&play_token=euMlXNWcoQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Nata Ratnalu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848612.mp4&play_token=KQqZzpz70q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848612.mp4&play_token=kTQerPQKFe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y72DvP0CbSEH753exvasEFgMB3K.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ White Rose
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848410.mp4&play_token=8NyHnXx1r8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848410.mp4&play_token=nnwgImoCWw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nz6ecOmTt1CAKLBFIhjb3w1z0gd.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃  Mauli
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848409.mp4&play_token=qF4WON8aiC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848409.mp4&play_token=XFE1sMXMg7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0m4TM1XRAftQStgKpw024RvkJo.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃  Maharaja
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846086.mp4&play_token=cFs6pIm7vp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846086.mp4&play_token=EPIUQGaVwU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPoiIfqmVfNYZRVUtfTSyuAj8Tw.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Indian 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846085.mp4&play_token=uWhz7X3kia&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846085.mp4&play_token=8GrPV4qvUd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oNUkuyRSLf2dBErtNIH6C9osJ3.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Naach Ga Ghuma
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842936.mp4&play_token=MEHiSdPFJH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842936.mp4&play_token=BQ7rYD16qn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RUoduIDFJmiRfSmxJSSxJI67xT.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Inga Naan Thaan Kingu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842935.mp4&play_token=Vhmfk3QzqK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842935.mp4&play_token=vAygbaIYGW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8DAlpi299IqfJ7u0P6j0OLgZl7.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃   Election
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842934.mp4&play_token=yUuQFqjpH4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842934.mp4&play_token=JmhBRH1yAU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPqtaVDJI2E8SheBhCgtktyBw6a.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ooru Peru Bhairavakona
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842326.mp4&play_token=tyGGfje0hM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842326.mp4&play_token=lFavUidCf4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxRjn6c5d1QgcRpM5v3JYY5iTSC.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Gangs of Godavari
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=839024.mp4&play_token=Q6I0cmMnP1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=839024.mp4&play_token=rncvYlXdAs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOqYSsuaDi9D6dh0GRF8gj2ilJQ.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Malayalee from India
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=838962.mp4&play_token=TIoLtGuIHW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=838962.mp4&play_token=DSACuSy6Nw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nKzJVNRwEJ6T8aQiuRnXc276OC.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Pagalariyaan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=837782.mp4&play_token=SgNflpiTjE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=837782.mp4&play_token=bGnhskcRSV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DlAaAJC0hMDWfNJVpFmjCkwhly.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Krishnamma
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=837781.mp4&play_token=aUGCk48kuf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=837781.mp4&play_token=JrZsUa0Uqf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfHYHHUZGPZoWhdcdMdQecRUuD4.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Kaazh
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=836694.mp4&play_token=DwCPxBaJDg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=836694.mp4&play_token=MJ9pOxIFuf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Guardian
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=833590.mp4&play_token=uDAbssSmgc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=833590.mp4&play_token=gdIhIVTKeC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Kalki 2898 - AD
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=831347.mp4&play_token=KgrBZ6Au7b&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=831347.mp4&play_token=2AeIOYduPl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mLyHeWwU0Ocv9Jvk72IDqZqT7G.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ The Family Star
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=830998.mp4&play_token=2qITKo9c6b&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=830998.mp4&play_token=L9AXey1VIm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aavesham
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=830996.mp4&play_token=lo8lZzzCmd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=830996.mp4&play_token=Wm2uCqyX1Z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AIUTwX24cBYWSxEnSltal4MC14.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Pathu Thala
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=829561.mp4&play_token=2ET07lAjzU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=829561.mp4&play_token=O0Xu1jrsM1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSvozKQkYDJELZccJwUyLrbSzpa.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bootcut Balaraju
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=829560.mp4&play_token=T5XXn7joAO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=829560.mp4&play_token=fZ2P2pjQBz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4PISjJhQGThTOulxr66moCBo9T.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Saindhav
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=827835.mp4&play_token=YQSCgkut0W&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=827835.mp4&play_token=zMfb6euCAG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Election
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764912.mp4&play_token=GUzEoj8G2r&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764912.mp4&play_token=x3euSMVTDV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ekkadiki pothavu chinnavada
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764911.mp4&play_token=96OBUUGKhV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764911.mp4&play_token=FmeK2MEFxN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ek zakhmi romeo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764910.mp4&play_token=ejey5iN0tW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764910.mp4&play_token=CIgNNzB6J4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ek yodha shoorveer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764909.mp4&play_token=SNbU8Br1b8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764909.mp4&play_token=d9BJ6T1Jit&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ek hi raasta the power ek niranjan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764908.mp4&play_token=EHEB2a9gQC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764908.mp4&play_token=PyJQwkHCn5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ek hi don
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764907.mp4&play_token=uauPYvOgg6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764907.mp4&play_token=1ZBubfbGkT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ek aur vinaashak
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764906.mp4&play_token=BsuIFS1SqE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764906.mp4&play_token=LRBOdE2lHZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ek aur singham
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764905.mp4&play_token=0F1OUlSgn7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764905.mp4&play_token=ODWXaozo1P&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ek aur rakshak
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764904.mp4&play_token=bifykWjTKp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764904.mp4&play_token=JPv6ODv7eb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ego
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764903.mkv&play_token=we6urVIJxn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764903.mkv&play_token=aoEFGDvbYX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Eganapuram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764902.mp4&play_token=66QniwcbRP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764902.mp4&play_token=A31ZOthgne&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Eesh
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764901.mkv&play_token=JJU7ymwqcE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764901.mkv&play_token=H1JJxnaa4E&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Eega
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764900.mkv&play_token=tuG34uPhUm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764900.mkv&play_token=NiTIqT8q40&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ee varsham sakshiga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764899.mp4&play_token=tqt3qXcOQu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764899.mp4&play_token=Tmm4tHVu2a&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ee kalarava
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764898.mp4&play_token=EHHM9Q6xFA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764898.mp4&play_token=6NQK7HXzbH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Eduruleni manish
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764897.mp4&play_token=IFFuGmuYFW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764897.mp4&play_token=DdwWn8YxOD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Echarikkai idhu manithargal nadamadum  idam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764896.mp4&play_token=kRQqmsuJUi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764896.mp4&play_token=EJqptHFMfh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Echarikkai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764895.mkv&play_token=Z4kuisBlqE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764895.mkv&play_token=BeGeTTm9NQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dumdaar the dynamic hero
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764894.mp4&play_token=JKGK9tZfEo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764894.mp4&play_token=8BZFsuOsJQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dum 2 thirumalai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764893.mp4&play_token=98QK6N3UDX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764893.mp4&play_token=Dj5xzqMmxZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dubashi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764892.mp4&play_token=i5R2csigcB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764892.mp4&play_token=lpENuQG6GT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Drona
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764891.mkv&play_token=nRhRYvanGH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764891.mkv&play_token=IlhXDaT7i1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Doosukeltha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764890.mp4&play_token=ctCFVqJnA9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764890.mp4&play_token=AX1tzYx5ON&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Doctor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764889.mkv&play_token=R5hude2Kdn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764889.mkv&play_token=fLz2pkPOGl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dj till
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764888.mkv&play_token=ahWCnVxlUN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764888.mkv&play_token=hf99Xqbrat&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dillunnodu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764887.mp4&play_token=5oaGrhGnIz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764887.mp4&play_token=Uvo1FkYWW2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Diljale the burning heart
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764886.mp4&play_token=dO9b4uXeu5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764886.mp4&play_token=4I8DCZFCFG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dil ka kya kasoor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764885.mp4&play_token=8M3AO776zX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764885.mp4&play_token=KmmjsEpfNK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dieyana house
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764884.mkv&play_token=3XnRLhsA2y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764884.mkv&play_token=UEYpLHQjoh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dictator
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764883.mp4&play_token=5w1ZFwNZLv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764883.mp4&play_token=YdFGerDp4V&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dhuruvangal pathinaaru
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764882.mp4&play_token=rFsF48qgXK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764882.mp4&play_token=LoKstsHdBb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dhruva
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764881.mp4&play_token=KNgPt7TCUY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764881.mp4&play_token=0QTtLqGI2H&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dhoomam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764880.mkv&play_token=RgBa2MT7UZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764880.mkv&play_token=9urAq4vVka&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dhaaga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764879.mp4&play_token=uX8STsO98b&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764879.mp4&play_token=k3SR5VJOJs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Deviyin thiruvilayadal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764878.mp4&play_token=i87xZ4Cx6A&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764878.mp4&play_token=KCHm06MRLJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Devi putrudu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764877.mp4&play_token=g0oRoGvfhO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764877.mp4&play_token=bn7wuQtLVw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Devarattam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764876.mp4&play_token=XzYpSeTbym&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764876.mp4&play_token=Vstihppmcn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Devadasu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764875.mp4&play_token=F8sjxQI4YB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764875.mp4&play_token=cRpkeZxGkc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Desamlo dongalu paddaru
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764874.mp4&play_token=R2w4rsiU0d&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764874.mp4&play_token=8vpWfOT9E2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Deewaar man of power
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764873.mp4&play_token=0BquQOB4zQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764873.mp4&play_token=zWUIomHo3D&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Deepavali
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764872.mp4&play_token=m0gupaNk3c&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764872.mp4&play_token=9yYsaivEHB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Decent love story
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764871.mkv&play_token=M9V7Njuqut&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764871.mkv&play_token=UVpzcqr7gq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dd returns
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764870.mkv&play_token=MX5zFj7HRc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764870.mkv&play_token=9Km9tl1OMz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dashing detective thupparivaalan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764869.mp4&play_token=Mnm6QaZmaG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764869.mp4&play_token=ilfypi3gHJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Darshan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764868.mkv&play_token=0OX4Cqb8Ga&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764868.mkv&play_token=i08AheZgRx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Daring rakhwala
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764867.mp4&play_token=NuqhSv12QY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764867.mp4&play_token=Si0CZvxKwH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Daring raajakumara
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764866.mp4&play_token=H6DmuPSwWk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764866.mp4&play_token=QC8K5DoWP0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Darbar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764865.mkv&play_token=aeujLY8L26&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764865.mkv&play_token=OsLXB9qIbg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Darbaan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764864.mp4&play_token=oXpPuTHQKw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764864.mp4&play_token=yNczhUTFKK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Danny
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764863.mp4&play_token=IAFbmfPrrB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764863.mp4&play_token=grYarpsYlV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dangerous khiladi 7 saravana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764862.mp4&play_token=vb7hxwdLX4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764862.mp4&play_token=9TVYMHDVHT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Damayanthi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764861.mp4&play_token=mD5zGLQxKl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764861.mp4&play_token=QuN8Otb5kB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dagadi chaawl
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764860.mp4&play_token=Ja1ugptgNr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764860.mp4&play_token=RMzpVOelO3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Babu bangaram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764859.mp4&play_token=F9yajZCJe7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764859.mp4&play_token=IisCwu8J7c&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aravind sametha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764858.mkv&play_token=2HBmPPBpuB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764858.mkv&play_token=vEpqFFdngM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9JNFwuy86q0jutO8qXP758k5sN.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃  Appan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764857.mkv&play_token=qGbrTzBLZ0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764857.mkv&play_token=m7QphxNy58&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Anjani puthra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764856.mkv&play_token=sZnKWP53dD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764856.mkv&play_token=iCjr3p0T0q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JGFU4ABPbPaHQOYphy2W5lyD8c.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃  Aake
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764853.mp4&play_token=F6Zs7iHJlN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764853.mp4&play_token=39C6e3Xoxn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ylRcJsUu1AtXj8ad2JOnjro9.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃  Bharjari
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764850.mkv&play_token=4BiYzmmIei&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764850.mkv&play_token=fLDRjA0Wl7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Baazi mere haat mein
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764402.mp4&play_token=6QmXX9fmst&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764402.mp4&play_token=uQQirMMKEV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ayyo rama
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764401.mp4&play_token=q2Elx1uYlR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764401.mp4&play_token=3kR6yfQOzH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ayyanar veethi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764400.mp4&play_token=Oq2NZxTUiP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764400.mp4&play_token=rj61Cco0cs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ayogya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764399.mkv&play_token=pbNkjlBNnR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764399.mkv&play_token=MiUrCNWY4t&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ayan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764398.mp4&play_token=dmxlA58Fvo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764398.mp4&play_token=stwptgJDvR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Awe
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764397.mp4&play_token=qpBhvtRjPZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764397.mp4&play_token=bwkeXxpkt3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Avval beta
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764396.mp4&play_token=qSzoC7a6BC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764396.mp4&play_token=aaJVObdOpI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Avunu part 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764395.mp4&play_token=EzWDsg05Ia&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764395.mp4&play_token=kq1yER9ta6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Attu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764394.mp4&play_token=VzLX0QWePX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764394.mp4&play_token=YMCyl4n1Qd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Attack
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764393.mp4&play_token=cAadDFtcTN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764393.mp4&play_token=hNKusPXo4v&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Athiradi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764392.mp4&play_token=C7V1cErZhP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764392.mp4&play_token=duqVjAlziB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aswathama
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764391.mp4&play_token=hi4Do0lEr4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764391.mp4&play_token=TIewg9kRZX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Asuravadham
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764390.mkv&play_token=eYfKQ0OCZ5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764390.mkv&play_token=NtWgBkOfU6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Asura guru
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764389.mp4&play_token=7tWgdSZ37a&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764389.mp4&play_token=VQvdSliQHi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Assamese
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764388.mp4&play_token=VIoEOc1H4T&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764388.mp4&play_token=tIEmNBpfgA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Asli sarkar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764387.mp4&play_token=1oa8FWB5Tf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764387.mp4&play_token=pghN0La3oW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ashram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764386.mkv&play_token=w6PidUlJBY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764386.mkv&play_token=mJZl0AMTuP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aroopam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764385.mp4&play_token=pj5Q0rJipb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764385.mp4&play_token=0clH0pbMI0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Arjuna phalguna
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764384.mp4&play_token=7MCVXwOIII&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764384.mp4&play_token=EBijBMSgN1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Arjun reddy
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764383.mp4&play_token=isL2mplEER&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764383.mp4&play_token=SwBcYaqkZd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Arjun ek yodha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764382.mp4&play_token=wssLCxX9dA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764382.mp4&play_token=rKMEPqgLZF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Arddhanaari
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764381.mp4&play_token=40Xpg4lrxf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764381.mp4&play_token=KBXLKTqynP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aravindha sametha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764380.mp4&play_token=U8WZJYJsOX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764380.mp4&play_token=HSJEBlZsEj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aranyakanda
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764378.mp4&play_token=7FUzJQwNBt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764378.mp4&play_token=y1tky9IfEp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aramm
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764377.mp4&play_token=vIxxXZfnvu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764377.mp4&play_token=c7jWfSUXEY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Appudu ala eppudu ela
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764376.mp4&play_token=ryJPdYfm1t&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764376.mp4&play_token=ZeXTUmtsfy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aparichit
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764374.mp4&play_token=nSY9PsGnfN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764374.mp4&play_token=HXPy5jPKbK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Anth
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764373.mkv&play_token=UPOL07eXkC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764373.mkv&play_token=xY4rSiTran&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ante sundaraniki
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764372.mkv&play_token=cnXzHT9TIp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764372.mkv&play_token=KX9i4ihTos&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Anniyan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764371.mp4&play_token=jk1gXlzIzf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764371.mp4&play_token=vrX7CMvNDG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Annabelle rathore
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764370.mp4&play_token=qfxj0sixjK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764370.mp4&play_token=GXaDKUbpcy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ankahe raaz kahaniyan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764369.mp4&play_token=AEH33F1Qnh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764369.mp4&play_token=a3ym0PDzLX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Anjaniputra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764368.mp4&play_token=LA2nW0iDoY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764368.mp4&play_token=bDBdi20M6S&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Anjaneya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764366.mp4&play_token=bEeC3FAqPe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764366.mp4&play_token=ZngB9DoJNs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Angry ganesha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764365.mp4&play_token=1SpPHNfyL3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764365.mp4&play_token=dHCDO3DLiw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Angels
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764364.mp4&play_token=AnIBGlEizh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764364.mp4&play_token=kNj9ZkVqdE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Angel
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764363.mp4&play_token=s3RzTkqkFF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764363.mp4&play_token=ccVetXhPwi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Angaare
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764362.mp4&play_token=eLPzCGu6oX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764362.mp4&play_token=YHmagHB2P0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Andhadhi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764361.mkv&play_token=CheQYUwtMs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764361.mkv&play_token=WaUb8gu2rg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Anaganaga o premakatha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764360.mp4&play_token=gK1cRhYSQM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764360.mp4&play_token=5aXzMr22J9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ammu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764359.mkv&play_token=iDFKQ973TN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764359.mkv&play_token=E9iRu3erke&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Amigos
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764358.mkv&play_token=7KE5nxNZVl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764358.mkv&play_token=XOhtO1JzRq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ambala
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764357.mp4&play_token=0S4PteW6eS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764357.mp4&play_token=TcIH2yjaKv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Alone in cinema hal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764356.mp4&play_token=5DrIhgBqpL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764356.mp4&play_token=rjtP7vJ4GL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Alone
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764355.mp4&play_token=beIHMljo1z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764355.mp4&play_token=7f2fPJXVpV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Alludu seenu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764354.mp4&play_token=dUe6AZj9wX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764354.mp4&play_token=69tLVspe11&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Alludu adhurs
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764353.mkv&play_token=dcYM3Jw22d&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764353.mkv&play_token=xXtV9WSmB5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Alladu adurs
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764352.mkv&play_token=pFOLFDJYZh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764352.mkv&play_token=A8AuzWkn6n&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Akshathe
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764351.mp4&play_token=shziLx3lHg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764351.mp4&play_token=h9qkdQ6bae&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Akhil
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764350.mp4&play_token=cVH8FLlcdv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764350.mp4&play_token=B7EufPONrc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aivarattam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764349.mkv&play_token=AGo8yoGK1h&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764349.mkv&play_token=rTz32REqN4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Airaa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764348.mp4&play_token=97j0KqxUzC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764348.mp4&play_token=MPzkJFtbOr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Agniputra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764347.mp4&play_token=eqWwDwTTGt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764347.mp4&play_token=DWqAhOPZfk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Agnatham
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764346.mp4&play_token=PChLHFraXr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764346.mp4&play_token=ycNRo8CeSV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Agent hasina
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764345.mp4&play_token=afl5MtQKSZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764345.mp4&play_token=adQdXITQ41&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Adwaitha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764344.mp4&play_token=NiF94d408r&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764344.mp4&play_token=rOSSdnnQbp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Adhraveppom
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764343.mp4&play_token=Irhp3g8Y5H&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764343.mp4&play_token=ReUCKlJRjS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Adbhutham
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764342.mkv&play_token=Z7lYgiGzXM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764342.mkv&play_token=dEeNahrm9n&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Adanga maru
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764341.mp4&play_token=XIDxur6hOO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764341.mp4&play_token=DES5PAYACi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Achamindri
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764340.mp4&play_token=kFXT7Zh5P2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764340.mp4&play_token=wws2jklAmV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Abhimanyu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764339.mp4&play_token=OgqnaSlC4T&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764339.mp4&play_token=wQQYmA1uqW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Abbai class ammayi mass
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764337.mp4&play_token=meQdSiY4Td&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764337.mp4&play_token=j1UyZjBVlj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Ab insaaf hoga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764336.mp4&play_token=wpPK3NfTGh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764336.mp4&play_token=xweaiQF7MW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aaye hum barati barat leke
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764335.mkv&play_token=OCK5zyJ30r&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764335.mkv&play_token=FWlB5g4k8U&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃Aata
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764334.mp4&play_token=azx4tqFS46&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764334.mp4&play_token=FjWYdAlM8S&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃Aarya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764333.mp4&play_token=7Fac1FECf7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764333.mp4&play_token=tNvbzlBje3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃Aaru
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764332.mp4&play_token=qnR0QBFq6m&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764332.mp4&play_token=lHvlhXy9JZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aaraattu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764331.mp4&play_token=KhyLeV7zPR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764331.mp4&play_token=hu7HxaAeuR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aao pyar karen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764330.mp4&play_token=0Q5tAuqzng&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764330.mp4&play_token=Ob6Uuq9Fb0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃Aandhi aur toofan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764329.mp4&play_token=7RYoix4zGf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764329.mp4&play_token=1JuvPAVG9V&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃Aana manah hai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764328.mkv&play_token=j2KIhyaiMn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764328.mkv&play_token=cNzv88kBDN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aakhri shastra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764327.mp4&play_token=2t5BhdZ0uS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764327.mp4&play_token=6IrVPleS7o&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃Aakhari baazi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764326.mp4&play_token=TQXXZfnowA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764326.mp4&play_token=yGMvdR4ewM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aakatayi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764323.mp4&play_token=5AkvplsWJ0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764323.mp4&play_token=skniXq7RhZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aakasha ganga 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764322.mp4&play_token=xQgQId4Ibf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764322.mp4&play_token=CdrLQloVKC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aaj ka naya khiladi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764321.mp4&play_token=9FNH2RAVeD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764321.mp4&play_token=LXqcZQtYRi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aaivu koodam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764320.mp4&play_token=HVlO7d5VgY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764320.mp4&play_token=ztz87MTfj7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aag se khelen ge
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764319.mp4&play_token=sQLHsds7rc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764319.mp4&play_token=TyClYzHcHw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aag aur chingaari
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764318.mp4&play_token=bJVRzEiqIT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764318.mp4&play_token=CuHjS0gqLr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aadyaa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764317.mp4&play_token=xc3tCTwfRg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764317.mp4&play_token=jNVuxO4OJz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aadi the daring
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764316.mp4&play_token=oa89OFOkDs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764316.mp4&play_token=EPP0VQVWJ6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aadhi raat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764314.mp4&play_token=gvkWjmX0YV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764314.mp4&play_token=MSNrOXJ8dQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Aadhi naath
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764313.mp4&play_token=sfBb2QPIgF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764313.mp4&play_token=87Bc5vozak&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ A legend
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764312.mp4&play_token=JIPYABF2CX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764312.mp4&play_token=5zRdWw0se4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃  A1 express
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764311.mp4&play_token=wuPVIwpkxj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764311.mp4&play_token=yf2JttRXYL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ 7 hours to go
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764310.mp4&play_token=AsQbNYiBo2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764310.mp4&play_token=5vOQTSPrwG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ 7
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764309.mp4&play_token=mFKAhYk7AJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764309.mp4&play_token=xb64FW8G3D&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ 3rd class
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764308.mp4&play_token=NJpmK1jKAG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764308.mp4&play_token=IARTDpJaWS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ 369
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764307.mp4&play_token=alg7Fk0zxQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764307.mp4&play_token=gzU16hPgnO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ 24
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764306.mp4&play_token=3isuVIxku6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764306.mp4&play_token=bh0NKD0jVk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ 1  nenokkadine
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764305.mp4&play_token=xal1ur7mly&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764305.mp4&play_token=LCRizH0WDt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ 1977 the history re written
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764304.mp4&play_token=kAScT22bn4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764304.mp4&play_token=SUwYIkN2yQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ 10 endrathukulla
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764303.mp4&play_token=8VRcWF6l2u&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764303.mp4&play_token=2fSK5CqtQQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FGBBT761M6bTu1rm5lb5ZmCybt.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dagaalty
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763990.mp4&play_token=BJ1A2EVIC7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763990.mp4&play_token=oot1PwbIJf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dadagiri wardiwale ki
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763989.mp4&play_token=ZyJbhMWZ6R&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763989.mp4&play_token=0PXENYSQhd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Dadagiri
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763988.mkv&play_token=IDUWtMzUFY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763988.mkv&play_token=O3U2i3NMHJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Daava
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763987.mp4&play_token=NxxdyqIiSW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763987.mp4&play_token=XmumqpFPj6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ D company
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763986.mp4&play_token=juRSdjKtq3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763986.mp4&play_token=xrnth7UqjL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ D block
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763985.mp4&play_token=Hqn4Ehu5cI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763985.mp4&play_token=AMwSwyreLN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Crocodile love story
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763984.mp4&play_token=eSspCoxdjy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763984.mp4&play_token=hn1iOumVLl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Cousins
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763983.mp4&play_token=2Al0KDrt9p&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763983.mp4&play_token=iqHe8r1hHs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Courier boy kalyan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763982.mp4&play_token=Pen8zJu8P9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763982.mp4&play_token=PQmp79C44y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Corporator
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763981.mp4&play_token=YauqkFV6PH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763981.mp4&play_token=NAAeP28ZU0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ coolie no
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763980.mp4&play_token=uFHsHPHiQU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763980.mp4&play_token=VZp3wT55DW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Contract
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763979.mkv&play_token=lr9OUlxyp8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763979.mkv&play_token=VptXNwY0r3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Comali
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763978.mp4&play_token=5UnqWWNqgr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763978.mp4&play_token=8oWrpXLJjI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Columbus
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763977.mp4&play_token=qrB3zhVRuS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763977.mp4&play_token=0fbQ0xLVxx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ College romeo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763976.mp4&play_token=RVZVy3lgsp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763976.mp4&play_token=gzySAvzFqx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Climax
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763975.mp4&play_token=R7IVnlF6Ka&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763975.mp4&play_token=6ITqS8kHIc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Citizen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763974.mp4&play_token=5eXAxxAefU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763974.mp4&play_token=qLdpzm8qTE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Cid
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763973.mkv&play_token=2pOP00BaLE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763973.mkv&play_token=hIa359Pfie&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃Christopher
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763972.mkv&play_token=XT9jJJqoO3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763972.mkv&play_token=dyzeSefe4w&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃Chowrasta
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763971.mp4&play_token=RxLrBZ1WoO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763971.mp4&play_token=YMq8GLwi26&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chor ke ghar chorni
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763970.mp4&play_token=h2rnH3ZDk9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763970.mp4&play_token=tnXSR5aRHX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chor bazaar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763969.mkv&play_token=sau72iZORz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763969.mkv&play_token=aF1c2USyho&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chitram bhalare vichitram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763968.mp4&play_token=6apTHJjPfm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763968.mp4&play_token=txoo37LqxB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chithiram pesuthadi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763967.mp4&play_token=WfdeAFs7Dq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763967.mp4&play_token=sNnqx2fd5G&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chithha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763966.mkv&play_token=dvZZLfPcqz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763966.mkv&play_token=PFbum9rHKN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chiru
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763965.mp4&play_token=nZ6gVI0pdO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763965.mp4&play_token=65iEtAA545&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chennaiyil oru naal 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763964.mp4&play_token=TGIgWdpzSx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763964.mp4&play_token=yi9ONiAOkz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chenna kesava reddy
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763963.mp4&play_token=YcUqEffFmm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763963.mp4&play_token=Lq2q8ZzH01&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Check
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763962.mkv&play_token=aaAfJE5cGj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763962.mkv&play_token=Ip3OS9Q3nc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CsPXPjieIuSXrrLne7wi9MRE4o.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃   Chaurya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763961.mp4&play_token=B7zSN7da1G&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763961.mp4&play_token=do4YVTwQvz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chaukhat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763960.mp4&play_token=6Y00skIkfE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763960.mp4&play_token=3mqJnRm8ER&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chandramukhi 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763959.mkv&play_token=aJcQDdKVPo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763959.mkv&play_token=BpSIaQdIge&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ chand sa roshan chehra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763958.mp4&play_token=J539qQK5EA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763958.mp4&play_token=7aau4JUu8l&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chanakyatanthram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763957.mp4&play_token=XJ0TEz1zaX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763957.mp4&play_token=vESj0fC7uE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chanakya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763956.mp4&play_token=mTkZPUWdKn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763956.mp4&play_token=nfGEWcDdSU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chalte chalte
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763955.mkv&play_token=rGlBWZ58z7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763955.mkv&play_token=hNeS1u68CG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃Chalo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763954.mp4&play_token=ThcVM7yzcP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763954.mp4&play_token=t6QAOXzpkV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chakravyuham the trap
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763953.mp4&play_token=hi8t0EbVVr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763953.mp4&play_token=NAYh7KSWzV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chakra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763952.mkv&play_token=qM4DYBbBYy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763952.mkv&play_token=FXiftYOsz0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chaaver
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763951.mkv&play_token=w7LNZJCDQs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763951.mkv&play_token=MGSalVE1PN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Chaarulatha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763950.mkv&play_token=kJqqlNFwGG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763950.mkv&play_token=54JIKNFYwI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Cbi officer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763949.mkv&play_token=pwUEmLmMPo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763949.mkv&play_token=AOP0XNgP4L&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Captain
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763948.mkv&play_token=3ZMAaSICIa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763948.mkv&play_token=yIYWqNiyZC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃  Captain
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763947.mp4&play_token=KGalQ1b0c5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763947.mp4&play_token=0kIcliGhzq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Cameraman gangatho rambabu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763946.mp4&play_token=dzmpRbOhVT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763946.mp4&play_token=1scw0MNrCz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Cadaver
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763945.mp4&play_token=bkeXH4QoFd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763945.mp4&play_token=pXmvMffNEi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Burra katha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763944.mp4&play_token=80Xy5bgXI1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763944.mp4&play_token=RQAlwQOI4b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bundal baaz
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763943.mp4&play_token=urLgDtCZ6m&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763943.mp4&play_token=9OG1GwQLTC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bujjigaadu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763942.mp4&play_token=P4GqWyd2C3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763942.mp4&play_token=fe7oSHkYRK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Brahmana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763941.mp4&play_token=hYE8YUPiKE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763941.mp4&play_token=ghicwVTVPa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Boys
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763940.mp4&play_token=h56pxZmYa3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763940.mp4&play_token=z1m4fAJkjc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Boomika
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763939.mp4&play_token=Q2rrs0dzsX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763939.mp4&play_token=46sWbKSCYG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Boomerang
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763938.mp4&play_token=c4SNSuCdir&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763938.mp4&play_token=g7Nk2k7Vfh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bongu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763937.mp4&play_token=Gi8DFmps7O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763937.mp4&play_token=uOP6WInCi0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bommai nayagi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763936.mkv&play_token=sgrBQRdX4E&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763936.mkv&play_token=OkQbieFZgG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bold shankar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763935.mp4&play_token=ncnuvucb92&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763935.mp4&play_token=ktwOwOyh1c&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bogan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763934.mp4&play_token=xT60V20O6l&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763934.mp4&play_token=2pfhL6GA9P&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Black
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763933.mp4&play_token=Mp5YV0PwTZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763933.mp4&play_token=Omf280owZn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Birju pandit
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763932.mkv&play_token=I7m5XjxOob&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763932.mkv&play_token=gR5vneJn2J&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Billa 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763931.mp4&play_token=ahgVDnuyud&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763931.mp4&play_token=odEiLCHNF2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Big dhamaka
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763930.mkv&play_token=Kl8b2qJ3Ws&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763930.mkv&play_token=9YugNIMpaJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhupathi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763929.mp4&play_token=8UIFEe1QME&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763929.mp4&play_token=MZhgW48Bgf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhootni ek rahasya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763928.mp4&play_token=zxPSEfdVrF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763928.mp4&play_token=EnWWAcQggP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhoot returns
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763927.mp4&play_token=QfyPjv3Gon&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763927.mp4&play_token=zNf21vbKwv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhoot gudia
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763926.mp4&play_token=v4AZCODDC2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763926.mp4&play_token=FjE9FG7C1Y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhola shankar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763925.mkv&play_token=EdnBzOmkAd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763925.mkv&play_token=YrVDNQGwI3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bheeshma pratigyaa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763923.mp4&play_token=DyijwVRP7V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763923.mp4&play_token=C8No6VHRPb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhavani ips
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763922.mp4&play_token=tS5XvD0OM9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763922.mp4&play_token=qceYzM04cW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhaskar oru rascal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763921.mp4&play_token=XEQpfhAHIh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763921.mp4&play_token=kfliBXcVSU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bharjari
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763920.mkv&play_token=NAkJj1tYKh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763920.mkv&play_token=5M77tCU2eq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bharat ane nenu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763918.mp4&play_token=9zm8bbSiQa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763918.mp4&play_token=m7GpOvJ5JM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bharani
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763917.mp4&play_token=mw6Ekzwi8b&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763917.mp4&play_token=WyBGCkwMVj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bharaate
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763916.mkv&play_token=ibakX9HV62&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763916.mkv&play_token=KhL7yYtV47&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhale manchi chowka beram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763915.mp4&play_token=GTxx7WrVvY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763915.mp4&play_token=zz7hHzFCSR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhale bhale magadivoy
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763914.mkv&play_token=mUifv6SXgi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763914.mkv&play_token=iWFOIxBe2a&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhakt prahlad
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763913.mp4&play_token=VO93svaGOm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763913.mp4&play_token=uNFLy6sd4H&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃  Bhairava
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763912.mp4&play_token=o0RVcpxlWl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763912.mp4&play_token=MLqyniCiUV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhagmati returns
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763911.mp4&play_token=P6LvfPwHWP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763911.mp4&play_token=PV66Qt7Mfw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhaagamathie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763909.mp4&play_token=EGYXupZU38&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763909.mp4&play_token=AWby4OyIwl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃  Belli
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763908.mp4&play_token=A7k3lHeyTh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763908.mp4&play_token=IDqQOMkhED&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bekhauff apradhi dandupalyam 3
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763907.mkv&play_token=VZN7xLLCr7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763907.mkv&play_token=Q9qGoI1kNu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃  Bazaar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763906.mp4&play_token=IPWeMlbbbb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763906.mp4&play_token=usipsZOsl3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bayama irukku
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763905.mp4&play_token=OEnvvMgX4i&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763905.mp4&play_token=Y9dYpZyCUm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bayam oru payanam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763904.mp4&play_token=LIIdliSiyg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763904.mp4&play_token=YnDDwuermK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Batwara
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763903.mp4&play_token=9I8oawtMOG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763903.mp4&play_token=2oKHBqvcgU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Basanti
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763902.mp4&play_token=p8xRdpUSjv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763902.mp4&play_token=t3ohlY2t3c&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bangaram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763901.mp4&play_token=7xMzYcLX6S&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763901.mp4&play_token=FlQzFinJTW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bangara s o bangarada manushya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763900.mp4&play_token=GygiKOo74q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763900.mp4&play_token=LpqMo7pbdd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bangaaru kodipetta
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763899.mp4&play_token=QiDQBj4QLM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763899.mp4&play_token=wYTneFpqN6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bandhe haath
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763898.mkv&play_token=ZuIcrIXn01&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763898.mkv&play_token=UQ8axscBzh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Balwaan badshah
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763897.mp4&play_token=KrAh887n0c&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763897.mp4&play_token=vV2K3DmBMY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Balloon
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763896.mp4&play_token=rOYUtGdVmV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763896.mp4&play_token=i2UJ4Btk5g&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bajrangi 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763895.mp4&play_token=3UHoIqE23C&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763895.mp4&play_token=LukBh4QDqn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bajatey raho
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763894.mp4&play_token=N053C0aHXH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763894.mp4&play_token=fy6wWzfG67&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bahuparaak
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763893.mkv&play_token=gi6Ixq8yc3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763893.mkv&play_token=i18203yNlY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bahubali the beginning
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763892.mp4&play_token=yJgtMKBO7b&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763892.mp4&play_token=2RXQEWjOrW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OGrP2nUK6n55tmtclxb1RHRKQq.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bāhubali 2: The Conclusion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763891.mp4&play_token=2gZiB8Ig2x&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763891.mp4&play_token=ul14YLDlYF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Badla khoon ka
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763890.mp4&play_token=PO8WADnr2j&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763890.mp4&play_token=0NB0DX9M2E&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvADrBoLJgyrxMYl8QyQW2125xv.jpg" group-title="┃ASIA┃ SOUTH HINDI DUBBED",┃IN┃ Bhagavanth Kesari
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763910.mkv&play_token=RzIO5y5VWy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763910.mkv&play_token=8G3HGkBIGw&type=movie

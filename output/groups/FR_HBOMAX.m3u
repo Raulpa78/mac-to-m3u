@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfoxYHHpSOadhOFCmNbtLG2WcUy.jpg" group-title="┃FR┃ HBOMAX",┃FR┃ Une bataille après l'autre (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1826480.mkv&play_token=dQR32iSDws&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUaavx7aSBnJEaF0lDFusIinivw.jpg" group-title="┃FR┃ HBOMAX",┃FR┃ Smashing Machine (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1826468.mkv&play_token=xHzM32AKwc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmJFkjI05zT5WZXr0hRvBhM7pU6.jpg" group-title="┃FR┃ HBOMAX",┃FR┃ La Famille McMullen (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1826440.mkv&play_token=mRUckfxhNX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2V5yM949DuTjhZw7yk3lMls6As.jpg" group-title="┃FR┃ HBOMAX",┃FR┃ 5 centimètres par seconde (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1826423.mkv&play_token=hIJr6SkNlM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXAjEubjAjPPIMY2J438ElXUbR4.jpg" group-title="┃FR┃ HBOMAX",┃FR┃ Navalny
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1037994.mp4&play_token=j67r2xhKYQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9JGg10CW1DzXEdWL54ewkUko6N.jpg" group-title="┃FR┃ HBOMAX",┃FR┃ The Batman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1036497.mp4&play_token=J7WknpiBuo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igFLHxab9zG0M89OmEpnOM6TPXn.jpg" group-title="┃FR┃ HBOMAX",┃FR┃ Shazam! La rage des Dieux
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=572920.mkv&play_token=FiJbfjsjHS&type=movie

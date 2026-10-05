@@ -1,29 +1,57 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j41mOkikzGCqTi4HrS1W5eQN4AT.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ De Noorderlingen - 1992
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732273.mkv&play_token=MTKukpIFtj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732273.mkv&play_token=8Io1DLEIM4&type=movie
 #EXTINF:-1 tvg-logo="https://cdn.nieuwdezeweek.nl/media/cache/55/1e/551ed51daef2579c7cfcbc522f74b07e.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ De Cafémoord
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430224.mkv&play_token=gilNtVMsd1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430224.mkv&play_token=PWjlK4OC7h&type=movie
 #EXTINF:-1 tvg-logo="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/ae/96/80/soldaat-van-oranje-de.jpg?w=1200&h=-1&s=1" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ Soldaat van Oranje: De Musical
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416468.mkv&play_token=1c9B0Foq8O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416468.mkv&play_token=FzAa6uOPEu&type=movie
 #EXTINF:-1 tvg-logo="https://redactie.rtl.nl/sites/default/files/content/images/2025/10/28/RTLverkiezingen_uitslagenavond_THUMB_0.jpg?itok=c2vUu9Ux&width=2048&height=1152&impolicy=semi_dynamic" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ RTL De Verkiezingen De Uitslagenavond
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416466.mkv&play_token=yENDvCZrFM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416466.mkv&play_token=jOJVXLNAe7&type=movie
 #EXTINF:-1 tvg-logo="https://images.vrt.be/orig/2025/08/04/ad237905-fda2-488f-bdd8-022c03df9fd7.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ Het Duivelskoppel
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416460.mkv&play_token=ebhOJxbJ6O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416460.mkv&play_token=65b623PDI5&type=movie
 #EXTINF:-1 tvg-logo="https://cdn.nieuwdezeweek.nl/media/cache/7d/33/7d337dcd6fbb6fe42d87452ab27ae9d8.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ De Wonderbonenmoord 2025 CRIME
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1402060.mkv&play_token=gWA2AYbpxi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1402060.mkv&play_token=BiyJHAMYPH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyv4sZApxmNgmzykYHFn2xM8wij.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ Uilenbal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1361824.mkv&play_token=bdgtFtsg3f&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1361824.mkv&play_token=F1gBfSq1m4&type=movie
 #EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/covers/original/146000/146942.jpg?v=1&width=400" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ De Studentenmoord
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1361136.mkv&play_token=yST2DJ0noK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1361136.mkv&play_token=RPXdAn0mZ4&type=movie
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsSR7bMS/Screenshot-2025-09-26-at-11-20-14-De-Scalpelmoord-film-Film-Vandaag-nl.png" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ De Scalpelmoord
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1324155.mkv&play_token=5wYjmfVwZh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1324155.mkv&play_token=iUnEmSZFmZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/li4qNgNeiuJMkzzaRpEH3JUyarm.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ Dunya & Desie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1278353.mkv&play_token=CLFPLNY9Eb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1278353.mkv&play_token=b7w30lm9Hf&type=movie
 #EXTINF:-1 tvg-logo="https://images4.persgroep.net/rcs/1cDI6lQIlTkjopEKwFF4Uc27s0c/diocontent/258449750/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ True Crime Belgium De Villamoord
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1203603.mkv&play_token=33m36JFXKn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1203603.mkv&play_token=c5QYNStM8u&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arNazNFhowQSF1VJKomaEkjO9SP.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ Schatjes!
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200549.mkv&play_token=duoYctmyCl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200549.mkv&play_token=uwJ8LH8XkF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUnHdDQmRHzz0PWFVmjmtDmY8kW.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ Brammetje Baas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170288.mkv&play_token=v367DxAqJc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170288.mkv&play_token=EYWUwUDfQp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlJTIFUbTBCqpOuLltLC8nlqkvL.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ App
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170285.mkv&play_token=IRHp6sinTk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170285.mkv&play_token=ZNsseGWUny&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/finlEpYDbdVVYYzTd5mYxe7PDjP.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ Anne+
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170284.mkv&play_token=fmNh0iOWMQ&type=movie
+#EXTINF:-1 tvg-logo="https://images0.persgroep.net/rcs/aUkPDvgYqDWnDu4RRtn2RVlc1lk/diocontent/256161043/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ True Crime Belgium Vermoorde Onschuld
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1164134.mkv&play_token=29NtJM1BxG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywfOSmEsMnBHN6jmLBkYMcmmcYI.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ De Storm
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1158534.mkv&play_token=QgIzUdYsCD&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzllYWQyZTAtNmNjYS00YmNiLTlhN2EtOTJmZDZkMzRhMzZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ True Crime Belgium The Murder Of Jade Ward
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1140609.mkv&play_token=Q7wKAGMJU9&type=movie
+#EXTINF:-1 tvg-logo="https://images4.persgroep.net/rcs/yaOz_xtRPTLxpSQmsswdahuDB8g/diocontent/255072389/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ True Crime Belgium Moord Op Den Dam Deel 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1140608.mkv&play_token=rx7PM7NlsM&type=movie
+#EXTINF:-1 tvg-logo="https://images4.persgroep.net/rcs/yaOz_xtRPTLxpSQmsswdahuDB8g/diocontent/255072389/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ True Crime Belgium Moord Op Den Dam Deel 1
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1140607.mkv&play_token=w2mDK0xpEJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vacf4DeGQ54Pg2nYxReLRkh1HN.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ Siv gaat logeren
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121768.mkv&play_token=4YPKj1XrRE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ladELgO8NTryMMfrNcCUnlzgjoo.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ Piepkuikens
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121765.mkv&play_token=2iLhNhDmll&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0wlmX9tMW8hgASpIKFNmBjaehz.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ Het Bombardement
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121760.mkv&play_token=Y3LejJYiu8&type=movie
+#EXTINF:-1 tvg-logo="https://images2.persgroep.net/rcs/FQ0e1xtzUDEB4u17QoSMqG4CbNA/diocontent/254406495/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ True Crime Belgium De Fatale Klap
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1104457.mkv&play_token=ScifSTkY6W&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hny36DoAgvjpkBS3zdhIiSu8kY0.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ Trip-Tych
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1098000.mkv&play_token=cxxVTl0BvT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qP4A0ivvWzGJjeOkQ7tBHW1eOE.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ Meskina
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097990.mkv&play_token=ml35SAWNnf&type=movie
+#EXTINF:-1 tvg-logo="https://images3.persgroep.net/rcs/pCDbQUsfEZzAmNifHa_k-wJTs6U/diocontent/252505512/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ True Crime Belgium De Rioolmoord
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1056831.mkv&play_token=PfCzjWDDcp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZoGWYs9DeeShScJFygPW1PjNhB.jpg" group-title="┃NL┃ VIDEOLAND NL GESPROKEN",┃NL┃ Zwart
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1042721.mkv&play_token=Ka3OhuOZ7g&type=movie

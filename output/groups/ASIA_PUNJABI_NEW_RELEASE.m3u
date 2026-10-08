@@ -1,69 +1,75 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3INKn3qhatQylvI9yonF1PhxFuN.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃The Last Treatment (1970)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2093596.mp4&play_token=dL33XjkI9r&type=movie
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/chaupal/500/750/content/common/portrait_image_23/movie/images/movie-portrait-image-23-id1m9fq5gns.jpeg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Baali (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2093593.mp4&play_token=FOMj9KaUpQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNynHdFiEmQNUGpcjJtfzsGcGyV.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Dastaar (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2093022.mp4&play_token=aqu1Nkxjsv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbXs2xtg85QaUx823bjhUhBIDZV.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Mitti De Putt (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2057275.mp4&play_token=gt4NAAa35N&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2057275.mp4&play_token=3TtEYDopWK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhiYc0RgRm0rXe0BepfJEdRnYG7.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Basant Kaur (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030222.mp4&play_token=PZnVpBo3GU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030222.mp4&play_token=8e9lLPU6eb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AAXgFL4G164yxpQhNBMtrS0N3x.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Yaar Jigree Kasooti Degree (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029774.mp4&play_token=43l0Z5CAhp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029774.mp4&play_token=n8fcisMLIB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25Vh6KKZwgTWf9A5fTBM2JysR8y.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Duja Rabb (1970)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966182.mp4&play_token=aVRn9vZt50&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966182.mp4&play_token=4yUwsSDTLs&type=movie
 #EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/munda-pangebaaz-et00461638-1757312822.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Munda Pangebaaz (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1950094.mp4&play_token=DITThqmizv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1950094.mp4&play_token=hNnudhIj6L&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PvOjsvPdULtKRnfcS3zvg0ZeRe.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Sarpanch (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911053.mp4&play_token=nb4KcvNbsR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911053.mp4&play_token=wtzQlRPoYR&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNHx7rjdaZIvaVUcj-a3fZCT36Kvr9iV7RPl2pu7lbKQSz6WPQ1XiuulM&s=10" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Rajwant (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911052.mp4&play_token=aOOG3Ccf56&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911052.mp4&play_token=3X7hIYiroZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lJGU8MpKLY0PtKwM4ruSr3vDW5.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Mehkma Chhadeyan Da (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911051.mp4&play_token=qyZtpcga3F&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911051.mp4&play_token=I8hVrLiFOr&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0kIX8RRfP9Nktbo7PToFSeMv-cSJIr-IQUETN9fur3_cZ1esIfiidPE&s=10" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Bardaasht (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911050.mp4&play_token=lyIrUNLV5c&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911050.mp4&play_token=OO06vMyIrX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRhiGS2mR7803BbJzghV7GGKJfy.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Judaa (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1906364.mp4&play_token=FleJQIfKfX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1906364.mp4&play_token=p5QIBcMAi5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qgjO10RA9Jd7ffXbYeqQAwf1WF.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Shera (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874386.mp4&play_token=ofyb35wpQk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874386.mp4&play_token=L93Sc0FB8i&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/V8x1fGYI2hu7ofUrmKJAzRiwvi.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Kudiyan Shehar Diyan (1970)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874385.mp4&play_token=q6BLYe4uuW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874385.mp4&play_token=2px4eo1REm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftGotnuSroCGI2R0EgzwMX3tmAt.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Oye Bhole Oye 2 (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836328.mp4&play_token=R0hnA6f3xW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836328.mp4&play_token=O7kiu3KFff&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3QLgWdla4VV4Me1bwhYTgvEHTO.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Dama Dum Mast Kalandar (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831852.mp4&play_token=iiZsaqwJUz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831852.mp4&play_token=fjN8IKRsE3&type=movie
 #EXTINF:-1 tvg-logo="https://static.toiimg.com/photo/133093992.cms" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Ishq Parindey (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1829578.mp4&play_token=RW82Fv5VTz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1829578.mp4&play_token=0jlKoKqDhL&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROa2HEAnTcCzSoC2-qT9vicewBDB3CV9GsPkehGWHmQA&s" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Kissa Safar E Shahadat (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827764.mp4&play_token=Tf00yVwhJH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827764.mp4&play_token=ZsClxEFHiN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkadGHWqcOPCkQy82eU8J2zMlvI.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Yaar Jigree Kasooti Degree (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827749.mp4&play_token=Ugm5Xpd3Xy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827749.mp4&play_token=o0aAWg06o4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a68I3uiB8HkpTIugUeUhpCLnStL.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃The Great Punjab Robbery (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827748.mp4&play_token=7jPbSnmYa8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827748.mp4&play_token=QdS1BDrgwD&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvy0ZXSL-QGmJjNGRIxJ-zPqS1yVHivt8TKu8EAHdLvw&s" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Chor Jugadi (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827747.mp4&play_token=vi8r3kxQQx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827747.mp4&play_token=jKYsv0cKhS&type=movie
 #EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kankaan-de-ohle-et00499691-1785326278.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Kankaan De Ohle (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1821000.mp4&play_token=Qk7AKboATL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1821000.mp4&play_token=VJ2wtJhnzr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9iBBjh3DvOZB91aNU8l8Gf1zfx.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Chal Mera Putt 4 (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1817509.mp4&play_token=1LuujwE0s1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1817509.mp4&play_token=Ut5oKEwCEe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrZ4dXr4teT8gqwQfUMdQMRZInH.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Ishqnama (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816222.mp4&play_token=Ggc5SkcNgY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816222.mp4&play_token=9BTFm7ZPwV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNynHdFiEmQNUGpcjJtfzsGcGyV.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",Dastaar - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803498.mp4&play_token=13SF3v27K9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803498.mp4&play_token=M9OuDQZixq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S58eWt1O8SqQi5oSlIUyu0xkIf.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",Maiin Haan - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1800779.mp4&play_token=V8WNS87065&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1800779.mp4&play_token=Hnu25vT4Ks&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KnKMVxVagO9BcOzcv5YrRXakhh.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",Khushkhabri - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1800778.mp4&play_token=t8aXYULIv3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1800778.mp4&play_token=XIvcTrRt3w&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8ExDio1HExjFVHwSYr5xVcdSEk.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",मुखबिर: द स्टोरी ऑफ अ स्पाई - द मूवी - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792740.mp4&play_token=2dN3dWASDO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792740.mp4&play_token=0fdNxpGvov&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yw8IUngqShf9eEZRnstwhxGzgK.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",Kaka Jamm Peya - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1791379.mp4&play_token=FRskyMLi1H&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1791379.mp4&play_token=zcw7sser8G&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tsDVq8mCoWJHQCzBinl9sEmMXV.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",Paani - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1788627.mp4&play_token=AoeHjwYprt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1788627.mp4&play_token=qekUaEzt1U&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Od5Q1BorNHblZ8eAkxCDmR8Eia.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",What a Kismat - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1788626.mp4&play_token=rYt0BdandC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1788626.mp4&play_token=o6AwrvGoYc&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_exSgcX_WMAYvMPoW7Bher_4aFQ2ungqkSgqmKgFDXyVx4jrGv5zUsqjp&s=10" group-title="┃ASIA┃ PUNJABI NEW RELEASE",┃PUNJABI┃Shama Paiya (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1767075.mp4&play_token=0jAPLvjlo8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1767075.mp4&play_token=ZFXHgI0Cn4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQv0gvbF7LAveK8Xk8c0SeHyNBW.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",Carry On Jatta 4 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1767074.mp4&play_token=4X41xsXZWk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1767074.mp4&play_token=KmAHZQtbPQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oz8IvAKgWnxF6bkNClF5j9bh0c0.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",Chaali Din - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760892.mp4&play_token=2Qt9yGW6ga&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760892.mp4&play_token=G2UoQWOuaQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXgnaogJMjzNs2pnZkcGM1EulOa.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",ਰੱਬ ਦਾ ਰੇਡੀਓ 3 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753952.mp4&play_token=C8GqlvkW3A&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753952.mp4&play_token=L5BDaVrzcV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SaPCG63K1A3K2qGBgxb5BMsJDH.jpg" group-title="┃ASIA┃ PUNJABI NEW RELEASE",Oye Bhole Oye 2 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753951.mp4&play_token=HER1jWw6Us&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753951.mp4&play_token=Fj0dJFDRPh&type=movie

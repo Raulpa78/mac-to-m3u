@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg" group-title="┃AL┃ WESTERN",┃AL┃ The Good  the Bad and the Ugly (1966)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644288.mkv&play_token=s6S4c1ziD3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iTOIgLNaSccOj4v0sf7DNXszSu.jpg" group-title="┃AL┃ WESTERN",┃AL┃ Wanted (1967)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1626220.mkv&play_token=o9X8f7fnb5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg" group-title="┃AL┃ WESTERN",┃AL┃ Django Unchained
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1354222.mkv&play_token=yVuvqueMmG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ji3ecJphATlVgWNY0B0RVXZizdf.jpg" group-title="┃AL┃ WESTERN",┃AL┃ The Revenant
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1140847.mkv&play_token=cZrCGeWIKd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5g8mqTWrudxBYXyB3B8cVSnxjp.jpg" group-title="┃AL┃ WESTERN",┃AL┃ Jane Got a Gun
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1140785.mkv&play_token=BNWpAMKYcM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fd70jRBVBj5EVlqP9jYB9KvSfK.jpg" group-title="┃AL┃ WESTERN",┃AL┃ End of the Rope
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=805430.mp4&play_token=SdtcHOP2CM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhgumkmlK1sivgXtT1C3wquXkhy.jpg" group-title="┃AL┃ WESTERN",┃AL┃ The Settlers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=770067.mp4&play_token=nvYRIaiBmo&type=movie

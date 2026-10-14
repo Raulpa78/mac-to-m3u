@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x232u7aIvGHzGqoBMUvEdimUyS3.jpg" group-title="┃AL┃ FESTIVE",┃AL┃ A Biltmore Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=671554.mp4&play_token=6i4WRQEG4U&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BRR5JcbB151b9y1hlgZiNaMyGV.jpg" group-title="┃AL┃ FESTIVE",┃AL┃A World Record Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=666789.mp4&play_token=B40VEEKAwn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51n4cU70MRlcAzxr8G8yqcaBohK.jpg" group-title="┃AL┃ FESTIVE",┃AL┃ A Merry Scottish Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=664236.mp4&play_token=VJJiLilqYO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg" group-title="┃AL┃ FESTIVE",┃AL┃ Dashing Through the Snow
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=654566.mp4&play_token=NqRMjnQHL5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiF3aoTlQYPATEjO6oWArQbAAov.jpg" group-title="┃AL┃ FESTIVE",┃AL┃ The Great Christmas Switch
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=653054.mp4&play_token=cmVoluia99&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Z7wlsvuY9PfzWzm31M8pssuG27.jpg" group-title="┃AL┃ FESTIVE",┃AL┃ The Claus Family 3
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=649491.mp4&play_token=50AH9O5F9r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg" group-title="┃AL┃ FESTIVE",┃AL┃ Home Alone
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=642003.mp4&play_token=fdCBfFVYmC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHpZwErpGPnRzfY2BKd7amT8zCU.jpg" group-title="┃AL┃ FESTIVE",┃AL┃ A Christmas Mystery
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=389727.mp4&play_token=jOiCFZC57i&type=movie

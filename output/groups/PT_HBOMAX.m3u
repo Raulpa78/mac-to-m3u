@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eYl2GyxCAwVJMlBiJVWnZYkEKr.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Jason Isbell: Running With Our Eyes Closed
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094429.mp4&play_token=nihzdCa9HU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWxxVsKW5rKXvQbFKyyyZKN2O1C.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Eyes on the Prize: Hallowed Ground
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093595.mp4&play_token=gNboWRi2sN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Harry Potter en de Steen der Wijzen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024772.mp4&play_token=mwUUNx5BDE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvAiniDPs5sxucbRC0stls4yNdY.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Tony Hawk: Until the Wheels Fall Off
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1022345.mp4&play_token=WnVyrxz9U0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hw58moGnPB0RCoMSc3fCylyvNeC.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Revolta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1022216.mp4&play_token=EoSA1LEQl7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNXc3hNltmfYyXrfpq7QrDrnTSg.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Perpetual Planet: Heroes of the Oceans
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1022190.mp4&play_token=yDDcbRRrB1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMYPMCPVlGj2BVkN4nb1aNcQS08.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Kipchoge: The Last Milestone
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1022109.mp4&play_token=vidFhxtzUL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyvXFueDJqa4WWm5yjegxP6guOT.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Icahn: The Restless Billionaire
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1022079.mp4&play_token=zJpWUOE5LK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6605qfGpSGqNcUNY0nUgeE5z01v.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Father of the Bride
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1022032.mp4&play_token=282ol6sVon&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNxONX7C2sIpyj9bRfprdeFgKCs.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Fantastic Beasts: A Natural History
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1022029.mp4&play_token=Y3YlvLfLPB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y59jpk9FtEJTmNHTvToR7hd17Wo.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Craig Before the Creek
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1021637.mp4&play_token=Iu099L8blO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41ywUbgGvxKsoWBm4dS8Bbb2Af5.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Caddo Lake
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1021621.mp4&play_token=TwXEnP2fkS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v33dHteDj03HLtAgUb9CFgA2to1.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Beetlejuice Beetlejuice
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1021600.mp4&play_token=9sFjTJNx8C&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBVE7JVzEvegJs2JDd1BdoqdBSS.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ James Acaster: Hecklers Welcome
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1021262.mp4&play_token=u9Wva1sicx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moDpgrc6xOnfWPqfRokhbc9mvnU.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ Wonka
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1020479.mp4&play_token=kI7TJUUjjh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3Ngi39RT9kxTPyGN5CwK2XEZrk.jpg" group-title="┃PT┃ HBOMAX",┃PT┃ They Called Him Mostly Harmless
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1020439.mp4&play_token=cS0D4P45Bo&type=movie

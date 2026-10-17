@@ -1,29 +1,519 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/covers/original/147000/147737.jpg?v=1&width=400" group-title="┃NL┃ NPO START",┃NL┃ De Dassen 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133554.mkv&play_token=bwYQ52OBmB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXjkyglNgpy9o3axF9wDbBEfKvB.jpg" group-title="┃NL┃ NPO START",┃NL┃ Toppers in Concert 2026 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2131962.mkv&play_token=ortJ97HJxI&type=movie
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v388/upload/l/livebloggoudentelevizierringfoto2026.jpg" group-title="┃NL┃ NPO START",┃NL┃ Gouden Televizier-Ring Gala 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113825.mkv&play_token=br6MZjp2tq&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYdufdSfFKsY6GSNPlSAT0pck2g5G_Fw0p3M1mwIzQnutRkaIS7skbRjT&s=10" group-title="┃NL┃ NPO START",┃NL┃ NPO Doc De Man Met De Glimlach 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1976588.mkv&play_token=ruxi4KyPAP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1976588.mkv&play_token=k8CL1fz1dI&type=movie
 #EXTINF:-1 tvg-logo="https://assets-start.npo.nl/resources/2026/08/19/ab9da99d-19e7-4451-982f-d75e7654401e.jpg?dimensions=1200x627&resize_fit_method=cover" group-title="┃NL┃ NPO START",┃NL┃ De non en de wegwerpkinderen - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1932611.mkv&play_token=zBXC32rZc6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1932611.mkv&play_token=3MRccaZ0If&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Zara.Larsson
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915907.mkv&play_token=yg2aS3mojY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915907.mkv&play_token=efhqwqrAHn&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Yungblud
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915906.mkv&play_token=XU7o13Qmgs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915906.mkv&play_token=CRPYrKnmxF&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.White.Lies
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915905.mkv&play_token=Sso0ESsppy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915905.mkv&play_token=AGj8WL2e0Q&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Wet.Leg
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915904.mkv&play_token=mBN16VLe42&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915904.mkv&play_token=uHzaG0eY60&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Twenty.One.Pilots
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915903.mkv&play_token=sywoTzmKiC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915903.mkv&play_token=8a9LUPbPsY&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Triggerfinger
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915902.mkv&play_token=C9gzw4n94W&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915902.mkv&play_token=wtQEopCREU&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Tom.Morello
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915901.mkv&play_token=JBg0T9WV3s&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915901.mkv&play_token=AVsW3XdPYT&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.The.Vaccines
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915900.mkv&play_token=hMgES3gzU1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915900.mkv&play_token=wd3y49gWHq&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.The.Pretty.Reckless
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915899.mkv&play_token=E8u6LJps2A&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915899.mkv&play_token=vpjB0tD0lT&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.The.Haunted.Youth.
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915898.mkv&play_token=OhE7tGY1nI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915898.mkv&play_token=qsNzCKa7d8&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.The.Cure
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915897.mkv&play_token=L1Z6sqyg74&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915897.mkv&play_token=ZggYTlGi2z&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.The.Beaches
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915896.mkv&play_token=IC41x4UcQQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915896.mkv&play_token=KNXgG3Hjq7&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Teddy.Swims
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915895.mkv&play_token=HBNGDn3kvm&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Suzan.en.Freek
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915894.mkv&play_token=ujrG5zCfhv&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Sofi.Tukker
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915893.mkv&play_token=K5tDtSQUos&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Royel.Otis
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915892.mkv&play_token=Jb8o72q3gA&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.My.Baby
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915891.mkv&play_token=UDcVJhBY7o&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Lauren.Spencer.Smith
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915890.mkv&play_token=IEc15sbRRB&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Kingfishr
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915889.mkv&play_token=LGX0UjjuqS&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Jehnny.Beth
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915888.mkv&play_token=iwOxV4df6A&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Jade
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915887.mkv&play_token=qQQRV195fw&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.IDLES
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915886.mkv&play_token=Rhf33Z5q8A&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Hoogmis.van.het.Zuiden.
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915885.mkv&play_token=YCiJPXINNA&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Hang.Youth
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915884.mkv&play_token=qfIsVYMaqR&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Giant.Rooks
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915883.mkv&play_token=A2m68U7bQr&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Franz.Ferdinand
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915882.mkv&play_token=u5SOvoUzwI&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Foo.Fighters
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915881.mkv&play_token=Wp7jtiE0YH&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Electric.Callboy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915880.mkv&play_token=lnOKnzKuxH&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Editors
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915879.mkv&play_token=7TlKxx5nDE&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Di-Rect
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915878.mkv&play_token=zfWyBYv5ln&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.De.Herfshane.Band
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915877.mkv&play_token=tuok47oSfS&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Bente
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915876.mkv&play_token=cko7IjR5Hv&type=movie
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Balu.Brigada
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915875.mkv&play_token=ZHEiUlhplE&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Zimmer90
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915415.mkv&play_token=k4LPeuct6K&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Wunderhorse
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915414.mkv&play_token=gAa3z5otzt&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Willem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915413.mkv&play_token=z9PiaGvK3N&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Viagra.Boys
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915412.mkv&play_token=0W0rBlmqmx&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Turnstile
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915411.mkv&play_token=CvMkwNT9vc&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Steel.Pulse
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915410.mkv&play_token=SOTIVp3cLh&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Sophie.Straat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915409.mkv&play_token=rFM7zhSanH&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Sombre
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915408.mkv&play_token=sqVTFTem4a&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Skye.Newman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915407.mkv&play_token=5nc2XFD0k3&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.S10
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915406.mkv&play_token=e1lf9CeYCx&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Royal.Blood
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915405.mkv&play_token=I3s9e3J26b&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Ravyn.Lenae
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915404.mkv&play_token=qjMHW2k4qW&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Parcels
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915403.mkv&play_token=kFi90Maz4t&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Pale.Jay
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915402.mkv&play_token=3QtBNaha6I&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Nusantara.Beat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915401.mkv&play_token=euFTMKi0fS&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Nu.Genea.Live.Band
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915400.mkv&play_token=Q8KKlx40sd&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Noord.Nederlands.Orkest
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915399.mkv&play_token=K4pkl3Bvvt&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Nia.Archives
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915398.mkv&play_token=GP2VTnMtPe&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.New.Wave
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915397.mkv&play_token=qehKGblDOc&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Milolaathetlukken
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915396.mkv&play_token=PfJ5znWFlG&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Merijn.Scholten
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915395.mkv&play_token=eYUvwLlEIN&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Maribou.State
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915394.mkv&play_token=JXafSZ0dR9&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Major.Lazer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915393.mkv&play_token=1wi8AMiE2L&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Leisure
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915392.mkv&play_token=p37t97yh7E&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Kneecap
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915391.mkv&play_token=naH2SfTo5U&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Keo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915390.mkv&play_token=YxKxfBi2AW&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Jpegmafia
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915389.mkv&play_token=kXHhZwJ0v5&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Jet.van.der.Steen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915388.mkv&play_token=XJGtlCc6xV&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.IJsland
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915387.mkv&play_token=0PJDfVM4bq&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Hermanos.Gutierrez
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915386.mkv&play_token=4CucTl68gH&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Geese
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915385.mkv&play_token=CbK8Q9wfaI&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Eefje.de.Visser
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915384.mkv&play_token=SE3tPXsntv&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Clipse
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915383.mkv&play_token=8l9m87DSuR&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Celeste
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915382.mkv&play_token=H6u87JjEAM&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Blood.Orange
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915381.mkv&play_token=jQjFyDScKl&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Antoon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915380.mkv&play_token=RBHCCNqKY2&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Amyl.and.the.Sniffers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915379.mkv&play_token=1qq5Znvl57&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Pvzx9SLAtCx0DHjnJAa2040P1D8CQ8gdHuyOEGJTr3pFjgeW6uM4Sj8&s=10" group-title="┃NL┃ NPO START",┃NL┃ Lowlands.2026.Adela
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915378.mkv&play_token=BlROBtlio4&type=movie
+#EXTINF:-1 tvg-logo="https://image.winq.nl/?imageId=314385&width=1200" group-title="┃NL┃ NPO START",┃NL┃ Npo DOC Mijn broer 2019
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873105.mkv&play_token=cCWIFJ9aPS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSVcYWupySkG1Dw5ylCvN7aclcd.jpg" group-title="┃NL┃ NPO START",┃NL┃ Niemand in de Stad - 2018
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873104.mkv&play_token=2qmfziFkpN&type=movie
+#EXTINF:-1 tvg-logo="https://www.filmvandaag.nl/api/og-image/movie/154137-harrie-jekkers-in-mijn-liedjes-kan-ik-wonen.jpg" group-title="┃NL┃ NPO START",┃NL┃ Harrie jekkers in mijn liedjes kan ik wonen 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873102.mkv&play_token=BsLNYp8XJ6&type=movie
+#EXTINF:-1 tvg-logo="https://images1.persgroep.net/rcs/7XtJUzidZzvUHN4mo3XVLHKmPrs/diocontent/265928092/_fill/720/405?appId=da11c75db9b73ea0f41f0cd0da631c71&desiredformat=webp" group-title="┃NL┃ NPO START",┃NL┃ NPO Doc_ Hotel Amerika 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754329.mkv&play_token=8uR9FXTTel&type=movie
+#EXTINF:-1 tvg-logo="https://assets-start.npo.nl/resources/2026/05/28/1e32709d-f148-4a48-b2db-e1b24390a2e5.jpg" group-title="┃NL┃ NPO START",┃NL┃ Curaçao en het wonder van het WK (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1752642.mkv&play_token=cMniTpWfCT&type=movie
+#EXTINF:-1 tvg-logo="https://images.cdn.nos.nl/6/u/L/B/k/3/3uy2znfA1hH6JMi53hEsgf3tECZTLPcRaNecg1/595x414x2908x2181-768x576.webp" group-title="┃NL┃ NPO START",┃NL┃ NOS FIFA WK Voetbal 2026 Openingsceremonie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1750740.mkv&play_token=69Ykq9mBDm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmnNRxISngb1KSvfSNa4uid74XA.jpg" group-title="┃NL┃ NPO START",The Making of De Jeugd van Tegenwoordig - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1743890.mkv&play_token=0jRxxltkWo&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-lJlIshBe3i9mH9iNcl3Vo4HCu4fRQEh33Q&s" group-title="┃NL┃ NPO START",┃NL┃ Npo DOC Marijn Kuipers.2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1733706.mkv&play_token=IJJzywaCVJ&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FWbBvkNHl9k/maxresdefault.jpg" group-title="┃NL┃ NPO START",┃NL┃ Eurovisie Songfestival 2026 Finale Vervolgd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732605.mkv&play_token=JssUck22fR&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FWbBvkNHl9k/maxresdefault.jpg" group-title="┃NL┃ NPO START",┃NL┃ Eurovisie Songfestival 2026 Finale
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732604.mkv&play_token=EaNxHafrQm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oE0lLMw5qJtGux4NiRijYdowH5a.jpg" group-title="┃NL┃ NPO START",┃NL┃ Het Grote Songfestivalfeest - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732275.mkv&play_token=EV77UgeZEJ&type=movie
+#EXTINF:-1 tvg-logo="https://songfestivalweblog.b-cdn.net/wp-content/uploads/2026/05/esc26semi2.jpg" group-title="┃NL┃ NPO START",┃NL┃ Eurovisie Songfestival 2026 2de Halve Finale Vervolg
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1731303.mkv&play_token=NwPm1hjQ07&type=movie
+#EXTINF:-1 tvg-logo="https://songfestivalweblog.b-cdn.net/wp-content/uploads/2026/05/esc26semi2.jpg" group-title="┃NL┃ NPO START",┃NL┃ Eurovisie Songfestival 2026 2de Halve Finale
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1731302.mkv&play_token=HcgDsRfQ6v&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8gE24hOEec4faB3h1mcmA_dvxCrbLIPjANQ&s" group-title="┃NL┃ NPO START",┃NL┃ The Passion Hemelvaart 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1730507.mkv&play_token=NyJ3hvWEBL&type=movie
+#EXTINF:-1 tvg-logo="https://www.theater.nl/assets/Uploads/393-Musical-Awards-2026__CompressedW10.jpg" group-title="┃NL┃ NPO START",┃NL┃ 25 Jaar Musical Awards 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1730504.mkv&play_token=hiWuyVPM60&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/eurovoix.com/wp-content/uploads/2025/08/Eurovision-2026.webp?resize=800%2C500&ssl=1" group-title="┃NL┃ NPO START",┃NL┃ Eurovisie Songfestival 2026 1ste Halve Finale Vervolgd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1729673.mkv&play_token=zwa1IyLYeg&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/eurovoix.com/wp-content/uploads/2025/08/Eurovision-2026.webp?resize=800%2C500&ssl=1" group-title="┃NL┃ NPO START",┃NL┃ Eurovisie Songfestival 2026 1ste Halve Finale
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1729672.mkv&play_token=Mo1fWzXmc1&type=movie
+#EXTINF:-1 tvg-logo="https://cntrading.nl/wp-content/uploads/2025/09/Koningsdag-2026-deoranjeartikelenshop.png" group-title="┃NL┃ NPO START",┃NL┃ Koningsdag 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715971.mkv&play_token=LNtP4xZEOl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7uNfK1xaoJsyxCxIn1K2R1X61z.jpg" group-title="┃NL┃ NPO START",┃NL┃Win/Win (2010)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1712470.mkv&play_token=jdJeX86L0y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/godghFcXPZfvL7fheVVDNGpQpO2.jpg" group-title="┃NL┃ NPO START",┃NL┃ Triangle of Sadness - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1712468.mkv&play_token=NGLzatynx9&type=movie
+#EXTINF:-1 tvg-logo="https://i.regiogroei.cloud/ead077e1-756f-3c84-ba8c-654b85e7a9f1.jpg?width=1000&height=1250&aspect_ratio=1000:1250" group-title="┃NL┃ NPO START",┃NL┃ The Passion - Dwingelo 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1693179.mkv&play_token=lhBiEYwuTR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov0xbc5zCGDf2piqLFLf10A9zJw.jpg" group-title="┃NL┃ NPO START",┃NL┃ Micha Wertheim: Nergens Anders - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1653716.mkv&play_token=mbQd4QBXeD&type=movie
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/covers/original/150000/150059.jpg?v=1&width=400" group-title="┃NL┃ NPO START",┃NL┃ Bureau Special Buitenland  De Dag Dat Trump Meer Dan Groenland Opeist 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1650217.mkv&play_token=pfYejdb7ZQ&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hN4JZfAjLlA/sddefault.jpg?v=697c92ae" group-title="┃NL┃ NPO START",┃NL┃ NOS Kjeld Nuis Missie Milaan 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1605801.mkv&play_token=y83FKy79PQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wppBu8BnTn5rMdneNJ21c9xH926.jpg" group-title="┃NL┃ NPO START",┃NL┃ Rundfunk: Schau - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1582269.mkv&play_token=AVngqpHzml&type=movie
+#EXTINF:-1 tvg-logo="https://festileaks.com/wp-content/uploads/2025/04/froukje-s10-819x1024.jpg" group-title="┃NL┃ NPO START",┃NL┃ Froukje en S10 Ziggo Dome 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1582266.mkv&play_token=K0LRB9eUcu&type=movie
+#EXTINF:-1 tvg-logo="https://www.filmvandaag.nl/api/og-image/show/17356-volendam-25-jaar-later.jpg" group-title="┃NL┃ NPO START",┃NL┃ Volendam 25 Jaar Later 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1520730.mkv&play_token=xhS2knpWxi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/9wJ2BYKaMk1xiApBGBWzsOh3RhT.jpg" group-title="┃NL┃ NPO START",┃NL┃ Secrets of the Female Orgasm - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1520675.mkv&play_token=kC1B4CwqYt&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81uFZ6YJl-L.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_PIRIOFOURANDHALF-medium,BottomLeft,30,-20_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNTAiID4xMjc8L3NwYW4+,500,900,420,420,0,0_QL100_.jpg" group-title="┃NL┃ NPO START",┃NL┃ NPO DocTaylor Swift 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1518652.mkv&play_token=GGNZ6J2vAQ&type=movie
+#EXTINF:-1 tvg-logo="https://images.poms.omroep.nl/image/s1100x619%5E/c1100x619/2364352.jpg" group-title="┃NL┃ NPO START",┃NL┃ MAX Muziekspecials 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1518651.mkv&play_token=qRsVIZar7S&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6KQzm0MFt4vqsRTc0FT3ikpAfUGkUzzi_PA&s" group-title="┃NL┃ NPO START",┃NL┃ Toppers In Concert Deel 2 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1518648.mkv&play_token=WVCnzBCqsc&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6KQzm0MFt4vqsRTc0FT3ikpAfUGkUzzi_PA&s" group-title="┃NL┃ NPO START",┃NL┃ Toppers In Concert Deel 1 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1518647.mkv&play_token=vZvB7HMCm7&type=movie
+#EXTINF:-1 tvg-logo="https://cas-events.nl/wp-content/uploads/2025/11/Muziekfeest-van-het-jaar-.png" group-title="┃NL┃ NPO START",┃NL┃ Muziekfeest Van Het Jaar 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1518644.mkv&play_token=f11GDkaVWv&type=movie
+#EXTINF:-1 tvg-logo="https://cldnr.prod.webx.talpa.digital/talpa-network/image/fetch/f_webp,c_limit,w_3840,q_auto/https://images.prd1.talpatvcdn.nl/posters/HCcpZcpCP2C/10c7a3c0-5699-44da-90f2-c1d844280b1e/Editorial_Landscape.jpg" group-title="┃NL┃ NPO START",┃NL┃ De Quiz Van Het Jaar 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1518641.mkv&play_token=ZVwP47sTqn&type=movie
+#EXTINF:-1 tvg-logo="https://www.avrotros.nl/cms/assets/7cb980dd-0c39-42e0-b1d5-f99bbabc5d5b?format=webp&quality=65&withoutEnlargement=true&transforms=%5B%5B%22resize%22%2C%7B%22width%22%3A2517%2C%22height%22%3A1416%7D%5D%2C%5B%22extract%22%2C%7B%22left%22%3A701%2C%22top%22%3A0%2C%22width%22%3A863%2C%22height%22%3A1416%7D%5D%5D" group-title="┃NL┃ NPO START",┃NL┃ Bij Van Boven Thuis Eindejaarsspecial 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1518640.mkv&play_token=ap0zHbjmq8&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGpAtKmBnBQbxawi3ejsWlSODmGWVDFGG-dg&s" group-title="┃NL┃ NPO START",┃NL┃ Peter Pannekoek  Oudejaarsconference (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1518497.mkv&play_token=MNE8jx6jnF&type=movie
+#EXTINF:-1 tvg-logo="https://thestreamers.nl/app/uploads/2025/12/StreamersStrijkers_2025_Spotify_Aankondiging_Carrousel_1080x1350_Slide3.jpg" group-title="┃NL┃ NPO START",┃NL┃ Streamers En Strijkers (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1506298.mkv&play_token=XxL8DLvH7K&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ25hRb-xy8dvgx-RjNC1icd6_lvN5orLH44A&s" group-title="┃NL┃ NPO START",┃NL┃ Paul En Vrienden 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1506296.mkv&play_token=LwdJaURih0&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/notLM-qQoO8/hqdefault.jpg" group-title="┃NL┃ NPO START",┃NL┃ Openingsshow Top 2000 - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1506294.mkv&play_token=9YHvpPh8NX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4F6JS3mcuH1jLvIhER5GPnQL5z.jpg" group-title="┃NL┃ NPO START",┃NL┃ Scrooge Live 2022 Dordrecht
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1499907.mkv&play_token=ff15SbvbYI&type=movie
+#EXTINF:-1 tvg-logo="https://www.andrerieu.com/site/assets/files/4723/image009.jpg" group-title="┃NL┃ NPO START",┃NL┃ Kerst Met Andre Rieu 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1493944.mkv&play_token=0Gh0raWjL9&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_qOibEFPz2QuiY_neE2vyNhtUID7fojFbg&s" group-title="┃NL┃ NPO START",┃NL┃ Oogappeltje voor de Dorst -2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1488215.mkv&play_token=SCyRMQw8ZO&type=movie
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/covers/148000/148590.jpg?v=1&width=240" group-title="┃NL┃ NPO START",┃NL┃ De Kerststal Van Nederland 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1488106.mkv&play_token=vFGWjHvcVp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCReE9q9S9q38guEUE2NxEHpGCu.jpg" group-title="┃NL┃ NPO START",┃NL┃ Jesse's strijd (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1485362.mkv&play_token=1Zfy51bjTV&type=movie
+#EXTINF:-1 tvg-logo="https://www.officialcharts.com/sites/default/files/styles/content_column_mobile/public/2024-10/WHAM%20LAST%20CHRISTMAS%20NUMBER%201%20UNWRAPPED%20BBC%20PROGRAMME%20music.jpg?itok=c91oREWo" group-title="┃NL┃ NPO START",┃NL┃ WHAM The Story of Last Christmas - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1477004.mkv&play_token=huApFFrYUT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXynLUjYMiXSC3gA5PCaB4FeaDR.jpg" group-title="┃NL┃ NPO START",┃NL┃ Mariah Carey: Merry Christmas to All! - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1476998.mkv&play_token=QdylDPHkX3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/263SLgg9hzfUYgA9Q2aN1MzDSuX.jpg" group-title="┃NL┃ NPO START",┃NL┃ Sint en de leeuw 2025 - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1469424.mkv&play_token=zc1JHkPGLU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZzlrLWHV8rwEegsyhUzhJwsRl0.jpg" group-title="┃NL┃ NPO START",┃NL┃ Red Bull Stalen Ros 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1402991.mkv&play_token=X4lPrboNhS&type=movie
+#EXTINF:-1 tvg-logo="https://images.nu.nl/m/7o2x36na9kj0_wd854/0/0/6000/3375/zo-zag-bekend-nederland-eruit-bij-het-gouden-televizier-ring-gala.jpg" group-title="┃NL┃ NPO START",┃NL┃ Gouden Televizier Ring Gala
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386661.mkv&play_token=HyvCO87Rdk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAvEFNFStFnghSqWt7w2wf9dTqY.jpg" group-title="┃NL┃ NPO START",┃NL┃ Rundfunk Wachstumsschmerzen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326484.mkv&play_token=sAG0GWrl2G&type=movie
+#EXTINF:-1 tvg-logo="https://prinsengrachtconcert.ams3.cdn.digitaloceanspaces.com/website/optimized/http/website/images/home-page/eduardus_lee_harold_de_smet_pgc2024_021-%282%29-%281%29-%281%29.jpg/bcc4277edbcd9a7865916bc1b8e1bbc9/eduardus_lee_harold_de_smet_pgc2024_021-%282%29-%281%29-%281%29.jpg" group-title="┃NL┃ NPO START",┃NL┃ Prinsengrachtconcert
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1272459.mkv&play_token=DOvVjebjne&type=movie
+#EXTINF:-1 tvg-logo="https://www.fietsverhuurzeeland.nl/wp-content/uploads/2024/12/CAS-logo-600x600.webp" group-title="┃NL┃ NPO START",┃NL┃ Concert At SEA 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1272455.mkv&play_token=VSyY2ot4jA&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (21)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1242212.mkv&play_token=H68nc6CM4B&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (20)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1241912.mkv&play_token=lalY5cxNDk&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (19)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1240574.mkv&play_token=aTCszKKYks&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (18)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1240199.mkv&play_token=bDNboLkhJA&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (17)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1238974.mkv&play_token=iFehPCjQ12&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (16)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1237813.mkv&play_token=sUWUbGS1H4&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (15)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1237631.mkv&play_token=JS3O71hvlk&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (14)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1236620.mkv&play_token=cciNiiovDj&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (13)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1233989.mkv&play_token=9AfrfrzFQn&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (12)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1232750.mkv&play_token=EM9GwyDSp6&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (11)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1231757.mkv&play_token=m46TRuc22T&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (10)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1228744.mkv&play_token=S1Vy2sbkWR&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (9)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1228743.mkv&play_token=k984ROw5bh&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (8)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1228742.mkv&play_token=uYExPZWW6U&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (7)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1228741.mkv&play_token=y0nDLaYgZx&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (6)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1228740.mkv&play_token=yZ7UwYlXAU&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (5)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1228739.mkv&play_token=zJaR5pMl9R&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (4)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1228738.mkv&play_token=D8NZPJVwsi&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (3)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1228737.mkv&play_token=yK2ST9ZW6o&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (2)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1228736.mkv&play_token=Cam5IyTKIZ&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzh6FzRZ4epmi8CJLy3NTrZfWjAZd4QLPj9f0QcrPnaShygYgX1F5_fsaRRboZxNepxM&usqp=CAU" group-title="┃NL┃ NPO START",┃NL┃ NOS Tour de France 2025 (1)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1228735.mkv&play_token=oKrEF1d9FY&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShp0S0b9MMTRWOxHD_MIxtjtjZldSA41CZ8w&s" group-title="┃NL┃ NPO START",┃NL┃ The Tribute Live In Concert
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1213356.mkv&play_token=zyY9Zmggx9&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.tickaroo.com/mediagw/image/c_fill,w_1280,h_720/f_webp/https://i.ytimg.com/vi/-nIJh6u74Og/maxresdefault.jpg" group-title="┃NL┃ NPO START",┃NL┃ Eurovisie Songfestival Finale De Uitslag 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1176921.mkv&play_token=joDGJ2Otlc&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.tickaroo.com/mediagw/image/c_fill,w_1280,h_720/f_webp/https://i.ytimg.com/vi/-nIJh6u74Og/maxresdefault.jpg" group-title="┃NL┃ NPO START",┃NL┃ Eurovisie Songfestival Finale 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1176920.mkv&play_token=5ibNAVwO2m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oE0lLMw5qJtGux4NiRijYdowH5a.jpg" group-title="┃NL┃ NPO START",┃NL┃ Het Grote Songfestivalfeest 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1176916.mkv&play_token=QvXyZY6mAE&type=movie
+#EXTINF:-1 tvg-logo="https://songfestival.be/wp-content/uploads/2024/04/puntenblad2024_semi2.png" group-title="┃NL┃ NPO START",┃NL┃ Eurovisie Songfestival Tweede Halve Finale De Uitslag 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1176915.mkv&play_token=dLGiKdYdi1&type=movie
+#EXTINF:-1 tvg-logo="https://songfestival.be/wp-content/uploads/2024/04/puntenblad2024_semi2.png" group-title="┃NL┃ NPO START",┃NL┃ Eurovisie Songfestival Tweede Halve Finale 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1176914.mkv&play_token=roo2q2AHrJ&type=movie
+#EXTINF:-1 tvg-logo="https://eurostory.nl/wp-content/uploads/2025/01/Semi-final-allocation-draw-751x422.jpg" group-title="┃NL┃ NPO START",┃NL┃ Eurovisie Songfestival Eerste Halve Finale De Uitslag 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1173304.mkv&play_token=EQ4NpUMJMn&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/i_ifeS48Y2g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDBmyim1CgfSnEzln4lG71GjLbQZw" group-title="┃NL┃ NPO START",┃NL┃ Eurovisie Songfestival Eerste Halve Finale 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1173303.mkv&play_token=VHZQFYckQI&type=movie
+#EXTINF:-1 tvg-logo="https://visie-eo.cdn.eo.nl/1s9egxcs5uj7/w_680/vuurwerkramp-enschede.webp" group-title="┃NL┃ NPO START",┃NL┃ De Middag Van 2000
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1173262.mkv&play_token=gfC1PkrCIL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNmwdLGstfzWeg9SJXDmA9DdPXa.jpg" group-title="┃NL┃ NPO START",┃NL┃ De Onbekende Soldaat: Erik Hazelhoff Roelfzema
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1161793.mkv&play_token=Ax64WCQYky&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1J9vcthjGVCdAaljI01ISrv2Pps7ICEMPLw&s" group-title="┃NL┃ NPO START",┃NL┃ 538 Koningsdag 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160462.mkv&play_token=1RxhcSJ91J&type=movie
+#EXTINF:-1 tvg-logo="https://allyourz.nl/_next/image?url=https%3A%2F%2Fapi.allyourz.nl%2Fstorage%2Fmedia%2F059ff204-945f-41fa-84e8-6c4e94b50c72%2Fa33d85b6-2b84-4c96-838d-7e0f3d858d1f.jpg&w=3840&q=75" group-title="┃NL┃ NPO START",┃NL┃ The Passion 2025 Terneuzen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1146500.mkv&play_token=Eqv09tyjAI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fU4HrbqvWYOX3j1nOaBEWX0SHyt.jpg" group-title="┃NL┃ NPO START",┃NL┃ De Vlucht van Ronnie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121755.mkv&play_token=eVEjcqM3yY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiN38dRPXeMBew5VyfstUkg5Hvy.jpg" group-title="┃NL┃ NPO START",┃NL┃ Als Ik Mijn Ogen Sluit
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121748.mkv&play_token=YwbX8i6PMl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9G2OLGSewszaGtCKzuWnx8sq9Ru.jpg" group-title="┃NL┃ NPO START",┃NL┃ Alleen thuis met een dienstwapen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121747.mkv&play_token=Pmy69C7ojA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0ARPIejaQGvQ9jxg7nyFIbGY9S.jpg" group-title="┃NL┃ NPO START",┃NL┃ Alleen tegen de Staat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121746.mkv&play_token=wC2mc00Iqi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8jJJZwDOAK4uvuQYqDh4roo54i.jpg" group-title="┃NL┃ NPO START",┃NL┃ Wheelie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1100260.mkv&play_token=ktbYzfoOOF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ NPO START",In Memoriam: Dieuwertje Blok - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1092992.mkv&play_token=C0NvRIXvOX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x58H5imZ9KhUTWevkHr5bbE3xRJ.jpg" group-title="┃NL┃ NPO START",┃NL┃ Pinksterprins
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1045717.mkv&play_token=1BZiCkwAst&type=movie
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/covers/original/142000/142219.jpg?v=1&width=400" group-title="┃NL┃ NPO START",┃NL┃ Het Geheim Van De Meestervervalser
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1002947.mkv&play_token=lIVHfmaeef&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXjHIDjJWSfkLmF8mNn4zPNajOg.jpg" group-title="┃NL┃ NPO START",┃NL┃ The Streamers: Live in GelreDome [Deel 2]  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1001188.mkv&play_token=8ksRhQMJus&type=movie
+#EXTINF:-1 tvg-logo="https://generieke-content-eo.cdn.eo.nl/w_1920/6z5hvktsot97-040125-prinses-kate-een-leven-in-beeld-kate-6.jpg" group-title="┃NL┃ NPO START",┃NL┃ Prinses Kate een leven in beeld
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1001177.mkv&play_token=Kt2nCScMKr&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkgRq-i-7ssk14oRpdbRbReWl6Z9iPqvztQ&s" group-title="┃NL┃ NPO START",┃NL┃ Postcode Loterij Miljoenenjacht & Uitreiking PostcodeKanjer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1001176.mkv&play_token=8GSKcxtbyL&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQuR6RQziXBZvbR1Qw8sYuGEnQdu1MUc_KBg&s" group-title="┃NL┃ NPO START",┃NL┃ Andrea Bocelli 30th The Celebration [2024]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=995980.mkv&play_token=7UkCljKCz4&type=movie
+#EXTINF:-1 tvg-logo="https://www.filmvandaag.nl/api/og-image/movie/141859-goudappels.jpg" group-title="┃NL┃ NPO START",┃NL┃ Goudappels
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=995536.mkv&play_token=9sWhx47x0H&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WPs_trToO3s/maxresdefault.jpg" group-title="┃NL┃ NPO START",┃NL┃ Jan Smit viert kerst in Rome
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=994499.mkv&play_token=ovwmPr7b6U&type=movie
+#EXTINF:-1 tvg-logo="https://content.presspage.com/uploads/1196/7b73f4d1-74bf-41b7-9fbe-6be67bcd5ebc/1920_mmidk-kerstgala-2024-setvexy-svb-3248.jpg?10000" group-title="┃NL┃ NPO START",┃NL┃ Het Kerst Muziekgala 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=994463.mkv&play_token=O56yYAKEZU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUJYKLV4BWepNxf2i1kdYlUASRD.jpg" group-title="┃NL┃ NPO START",┃NL┃ Kerst met de Zandtovenaar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=993018.mkv&play_token=FYEhNwh67J&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPxmj44ISb7Drd0jtYT8jHyTIZr.jpg" group-title="┃NL┃ NPO START",┃NL┃ Adam & Eva
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=987834.mkv&play_token=qY0GDib8Dn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBgAQovOGavknIJnUaQILJNPOQS.jpg" group-title="┃NL┃ NPO START",┃NL┃ In Oranje
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=987177.mkv&play_token=JufyvbAYTv&type=movie
+#EXTINF:-1 tvg-logo="https://www.filmvandaag.nl/api/og-image/movie/141539-ik-ben-niet-oud-jeroen-krabbe-80.jpg" group-title="┃NL┃ NPO START",┃NL┃ Ik Ben Niet Oud Jeroen Krabbe 80
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=980932.mkv&play_token=CsuXIfdH9c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/em8QJHaEHJJFPRl7QxRWoFgGSf0.jpg" group-title="┃NL┃ NPO START",De Zevende Hemel - 2016
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961968.mkv&play_token=bnlPQxlbCR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coeTvXKAYZlrcIfsCfYV5Hw1npu.jpg" group-title="┃NL┃ NPO START",┃NL┃ Zero Dark Thirty
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961999.mkv&play_token=O7eFohem8D&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTZhyNCWp9J6z9HQZfF0YUpeSfa.jpg" group-title="┃NL┃ NPO START",┃NL┃ Terug naar Oegstgeest
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961992.mkv&play_token=4ZuqMVTYIE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMHj637MBPrn1U0tB30WE7Fxx2w.jpg" group-title="┃NL┃ NPO START",┃NL┃ Pippi zet de Boel op Stelten
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961988.mkv&play_token=1FbeHSvSFh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLsj3zmIT3qoBVECQye4VFKkDAZ.jpg" group-title="┃NL┃ NPO START",┃NL┃ Pippi in Taka-Tuka-Land
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961987.mkv&play_token=tKiCxZQoCa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBKT0v5zGj04S7L3YDLExfeKGRP.jpg" group-title="┃NL┃ NPO START",┃NL┃ Pippi gaat van Boord
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961986.mkv&play_token=baTZPkAOpN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm0vjg0jdBmyN9wP5kpS62wTc74.jpg" group-title="┃NL┃ NPO START",┃NL┃ Pippi Langkous
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961985.mkv&play_token=g6rlsvBuIw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUTLjiYHTOdudFGLdiFY966WKG3.jpg" group-title="┃NL┃ NPO START",┃NL┃ Lek
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961978.mkv&play_token=OlE2jLcljY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfSIn8tC2JV5JnBHpfUDhhX1AkZ.jpg" group-title="┃NL┃ NPO START",┃NL┃ Hoe overleef ik... mezelf? (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961972.mkv&play_token=njeu6ycles&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYp5C3oIHV98E5NnObCuadLyOml.jpg" group-title="┃NL┃ NPO START",┃NL┃ Dear Santa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961964.mkv&play_token=pRdvNN4zYi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtBThqO8jhDniSTNLG4DunWI3I0.jpg" group-title="┃NL┃ NPO START",┃NL┃ Beautiful Boy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961961.mkv&play_token=OKHzYvg4ud&type=movie
+#EXTINF:-1 tvg-logo="https://www.theater.nl/assets/Voorstelling/Thumbnail/Kim-Schuddeboom_Foto-Manon-van-der-Zwaal-v2__ScaleMaxWidthWzE1MDBd_CompressedW10.jpg" group-title="┃NL┃ NPO START",┃NL┃ Kim Schuddeboom Ongeschreven
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=959167.mkv&play_token=Uxj3iEZU45&type=movie
+#EXTINF:-1 tvg-logo="https://assets.veronicasuperguide.nl/250739009/webp/fill/1200x4-3/0.4721x0.37514" group-title="┃NL┃ NPO START",┃NL┃ Van Kooten & De Bie 50 Jaar Simplisties Verbond
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953164.mkv&play_token=hYpc39n9jv&type=movie
+#EXTINF:-1 tvg-logo="https://www.ahoy.nl/files/images/events/2024/finale-junior-songfesival-2024-sep-2024-rotterdam-ahoy.jpg" group-title="┃NL┃ NPO START",┃NL┃ Junior Songfestival Nationale Finale 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=899593.mkv&play_token=I4qTYOe9IY&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.maxvandaag.nl/2024/09/start-nationale-herdenking-ANP-377642308-1200x667-1.jpg" group-title="┃NL┃ NPO START",┃NL┃ NOS 80 Jaar Bevrijding Nationale Start 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=890075.mkv&play_token=8Sz8dmxVdj&type=movie
+#EXTINF:-1 tvg-logo="https://nieuwdezeweek.nl/media/cache/b2/11/b211aea0235c94667e709cdf0d50c444.webp" group-title="┃NL┃ NPO START",┃NL┃ Freek De Jonge 80 Jaar Het Kistje
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=882188.mkv&play_token=uQJAqLxTXM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJkdiRSKnWUWueoRYww0JiWVMfC.jpg" group-title="┃NL┃ NPO START",┃NL┃Paulien Cornelisse: Om Mij Moverende Redenen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=853940.mkv&play_token=F5fFzN2ApD&type=movie
+#EXTINF:-1 tvg-logo="https://nieuwdezeweek.nl/media/cache/10/b4/10b4d4f60069b4dfae8a8008f4e401a0.webp" group-title="┃NL┃ NPO START",┃NL┃ Andre Rieu op het Vrijthof 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=852645.mkv&play_token=QKJ5ugicA3&type=movie
+#EXTINF:-1 tvg-logo="https://tvblik.nl/afbeelding/uitzending-groot/tv-monument/wieteke-van-dort.jpg" group-title="┃NL┃ NPO START",┃NL┃ Tv Monument: Wieteke van Dort
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=849313.mkv&play_token=2zyZ055kjp&type=movie
+#EXTINF:-1 tvg-logo="https://tvblik.nl/afbeelding/programma/de-geknipte-gast.jpg" group-title="┃NL┃ NPO START",┃NL┃ De Geknipte Gast Wieteke Van Dort
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=849312.mkv&play_token=XP9ho9XVMj&type=movie
+#EXTINF:-1 tvg-logo="https://nieuwdezeweek.nl/media/cache/31/91/319126665b91d0c6638b74769001e866.webp" group-title="┃NL┃ NPO START",┃NL┃  Concert At Sea 2024 Deel 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846504.mkv&play_token=ZAFJtYLZlv&type=movie
+#EXTINF:-1 tvg-logo="https://nieuwdezeweek.nl/media/cache/31/91/319126665b91d0c6638b74769001e866.webp" group-title="┃NL┃ NPO START",┃NL┃  Concert At Sea 2024 Deel 1
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846503.mkv&play_token=bRA4mEe9No&type=movie
+#EXTINF:-1 tvg-logo="https://assets-start.npo.nl/resources/2024/07/12/f32107e6-6029-4da0-926a-08196007e4fc.jpg?dimensions=375x375" group-title="┃NL┃ NPO START",┃NL┃ Achter de schermen na MH17-ramp
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846062.mkv&play_token=yxVDaCbwfD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYHPAYTug87IpVNtVo3SDsSgXmH.jpg" group-title="┃NL┃ NPO START",┃NL┃ Rampvlucht  de documentaire
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=814384.mkv&play_token=tgCOcikTTK&type=movie
+#EXTINF:-1 tvg-logo="https://nieuwdezeweek.nl/media/cache/32/7a/327a0b8c9a8df34a1cb973e674f96a25.webp" group-title="┃NL┃ NPO START",┃NL┃ De familie Boef [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811183.mkv&play_token=6q4MB0yu97&type=movie
+#EXTINF:-1 tvg-logo="https://cms-assets.nporadio.nl/npoSterrennl/_articleHeaderM/muziekfeest-van-oranje-terugkijken_2024-07-01-134123_yygx.jpg?v=1719841288" group-title="┃NL┃ NPO START",┃NL┃ Muziekfeest van Oranje
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809888.mkv&play_token=JrfFLtXIVA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFeEolSQnfV47cNPN6i3bAkW8AE.jpg" group-title="┃NL┃ NPO START",┃NL┃ Karo wil goed dood
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807853.mkv&play_token=T5lGUsCahQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcvQdc0ypDThPeXX7Lak5Dgvl3n.jpg" group-title="┃NL┃ NPO START",┃NL┃ Youp van 't Hek: Met de kennis van nu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807068.mkv&play_token=oYc0MMqg5U&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qX4MmXf3LNDuJmzhHkjbSaRCQ7.jpg" group-title="┃NL┃ NPO START",┃NL┃ Eindeloos gepest - het verhaal van Daan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=805986.mkv&play_token=46J6cysNKV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHQ1JMlAgAxOABzzbaZ9IBQqh60.jpg" group-title="┃NL┃ NPO START",┃NL┃ ABBA: Against the Odds
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795059.mkv&play_token=4jtx8qVovf&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxewCxMkLL_RNXyXY2Z5StErza5B5BMZQ8siofVM&usqp=CAE&s" group-title="┃NL┃ NPO START",┃NL┃ De Oorlogswinter van Roermond
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=788330.mkv&play_token=Xg92TL4QoU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WO3QkU3KUwIRC3enAubqHWr7tV.jpg" group-title="┃NL┃ NPO START",┃NL┃ De Overloper (Flikken Maastricht)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=783016.mkv&play_token=MgbwPfBTWL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tz9FUNJCUSJKDArZgLAlbgJUs40.jpg" group-title="┃NL┃ NPO START",┃NL┃ Happy Palace
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754377.mkv&play_token=acNZhu2G7N&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tK3cE8QTsbc0hwmoAccosAUe6P.jpg" group-title="┃NL┃ NPO START",┃NL┃ Casting Call
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754376.mkv&play_token=vMpfzihiHP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7rQGQugo9eDx5da7PjmSdhQalu.jpg" group-title="┃NL┃ NPO START",┃NL┃ De Vaandeldrager Vijf
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=714363.mkv&play_token=85bqYKmc4w&type=movie
+#EXTINF:-1 tvg-logo="https://assets-start.npo.nl/resources/2023/12/13/39649bd3-c10c-40bb-8a16-0b9d94ce0361.jpg?dimensions=375x375" group-title="┃NL┃ NPO START",┃NL┃ Rad van het Jaar Oudejaars
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=671744.mkv&play_token=ruZXQWXwat&type=movie
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/shows/original/6000/6562.jpg?v=1&width=400" group-title="┃NL┃ NPO START",┃NL┃ Kerst met de familie Meiland
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=671742.mkv&play_token=vV0dVPYzVA&type=movie
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/covers/original/125000/125775.jpg?v=1&width=400" group-title="┃NL┃ NPO START",┃NL┃ André Rieu: Kerst in Maastricht
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=670319.mkv&play_token=4POtFv4bGU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqFvNSFx16klpvzcY0z6EHplZxV.jpg" group-title="┃NL┃ NPO START",┃NL┃ Dertigers: De Kerstfilm
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=663264.mkv&play_token=yaMP8yECNR&type=movie
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/covers/original/132000/132892.jpg?v=1&width=400" group-title="┃NL┃ NPO START",┃NL┃ Nick & Simon Het afscheid
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641216.mkv&play_token=W5y9m5jijB&type=movie
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/covers/original/131000/131583.jpg?v=1&width=400" group-title="┃NL┃ NPO START",┃NL┃ De nacht van '53
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=630228.mkv&play_token=iiVmI5eMXj&type=movie
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v344/upload/h/het-beste-van-de-jaren-80-445855951.jpg" group-title="┃NL┃ NPO START",┃NL┃ Het Beste Van... De Jaren 80
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=617137.mkv&play_token=ni1voaYZjs&type=movie
+#EXTINF:-1 tvg-logo="https://nieuwdezeweek.nl/media/cache/52/5d/525dbcdf047f58a5a86da8224d3bebb9.webp" group-title="┃NL┃ NPO START",┃NL┃ Kerstduetten: Het kerstverhaal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=616948.mkv&play_token=CcJRwpkYCV&type=movie
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/covers/original/118000/118978.jpg?v=1&width=400" group-title="┃NL┃ NPO START",┃NL┃ Avond van de Korte Film
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=616936.mkv&play_token=O4OOQJQtJc&type=movie
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v344/upload/s/gd/samen-voor-marokko-samen-voor-marokko-2-7068777072-SI-24m.jpg" group-title="┃NL┃ NPO START",┃NL┃ Samen voor Marokko
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=599392.mkv&play_token=ohryQerB80&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eXtJ7Jh4yOyZJgaBnFVG85ND2f.jpg" group-title="┃NL┃ NPO START",┃NL┃ Pieter Derks: Uit het niets
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595494.mkv&play_token=GLt6hwTpvm&type=movie
+#EXTINF:-1 tvg-logo="https://i.regiogroei.cloud/270135f6-615d-36ad-97fd-d3c8e29f1b8b.jpg?width=1104&height=620&aspect_ratio=1104:620&cb=81c3cd14d4e36686a942cf01359e6f44" group-title="┃NL┃ NPO START",┃NL┃ Achter de schermen bij Dagboek van een Herdershond
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595490.mkv&play_token=iY1PJ8C7j5&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJZ5XGUwahQYWg0pI1jw2lnpulvv1zUJG_Q&s" group-title="┃NL┃ NPO START",┃NL┃ Van Duin Op Zijn Best Compilatie Part04
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=594952.mkv&play_token=eS6CTKHiLB&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dWFzxBvV1Lc/sddefault.jpg" group-title="┃NL┃ NPO START",┃NL┃ Van Duin Op Zijn Best Compilatie Part03
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=583179.mkv&play_token=xurwRzFlY7&type=movie
+#EXTINF:-1 tvg-logo="https://cms-assets.nporadio.nl/npoRadio1/_articleHeaderS/Still-Argos-radio-Het-geheim-van-de-spreekkamer.jpg?v=1694434434%2C0.7031%2C0.484" group-title="┃NL┃ NPO START",┃NL┃ Het Geheim Van De Spreekkamer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=583146.mkv&play_token=cHmBnZLqdV&type=movie
+#EXTINF:-1 tvg-logo="https://content.presspage.com/uploads/1799/e17436de-3a34-4001-bedb-e96e8970acef/1920_posterhorizontaal.jpeg?10000" group-title="┃NL┃ NPO START",┃NL┃ Amstergwen Op Twitch
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=578279.mkv&play_token=zbKHUQRkGy&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RQU9U5lCvcE/hqdefault.jpg" group-title="┃NL┃ NPO START",┃NL┃ Van Duin Op Zijn Best Compilatie Part02
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=576119.mkv&play_token=6K0kyPSkQ2&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/foFkRjmE8Fk/sddefault.jpg" group-title="┃NL┃ NPO START",┃NL┃ Van Duin Op Zijn Best Compilatie Part01
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=564753.mkv&play_token=y0eaUItwmk&type=movie
+#EXTINF:-1 tvg-logo="https://festivalfans.nl/wp-content/uploads/2023/01/279911884_10159443120650485_3523646357080162825_n.jpg" group-title="┃NL┃ NPO START",┃NL┃ Koningsdag 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=564746.mkv&play_token=GGu7MGJ6bo&type=movie
+#EXTINF:-1 tvg-logo="https://media.indebuurt.nl/tilburg/2022/04/14145911/tilburg-zingt.jpg" group-title="┃NL┃ NPO START",┃NL┃ Koningsnacht Concert 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=562398.mkv&play_token=AWYqrXylcI&type=movie
+#EXTINF:-1 tvg-logo="https://media.indebuurt.nl/tilburg/2022/04/14145911/tilburg-zingt.jpg" group-title="┃NL┃ NPO START",┃NL┃ Koningsnacht Concert 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=562397.mkv&play_token=5G9HO59t2a&type=movie
+#EXTINF:-1 tvg-logo="https://media.s-bol.com/R66mx01xJAKz/550x456.jpg" group-title="┃NL┃ NPO START",┃NL┃ Het beste van...de jaren 80
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=562387.mkv&play_token=roOMpmtNPf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGaA4xf1D4eItbRucDEBcOlf81f.jpg" group-title="┃NL┃ NPO START",┃NL┃ Nietsnut en de Bergkoning
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=518104.mkv&play_token=jPY0P5QBXY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHEDqandy8QX7FNJ7kWmSlMk1GY.jpg" group-title="┃NL┃ NPO START",┃NL┃ Askeladden - I Soria Moria slott
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=518103.mkv&play_token=IixOKLS0ZH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ImRHDvihBXzGuFpleDViM7oE1x.jpg" group-title="┃NL┃ NPO START",┃NL┃ Spookuil
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511894.mkv&play_token=KB0208MQfo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYwwW0ujH6v9YF6pkreFruh5Uzc.jpg" group-title="┃NL┃ NPO START",┃NL┃ Ride Like a Girl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511845.mkv&play_token=Z4YAjtglaM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5o1cvBtMmeuGmeLiPTUeS4TSNzA.jpg" group-title="┃NL┃ NPO START",┃NL┃ Commando's
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509750.mkv&play_token=49NE4uUqH9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaO32eUL5afgRatlwavssNPU2zN.jpg" group-title="┃NL┃ NPO START",┃NL┃ Britt-Marie var här
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509698.mkv&play_token=SnK8mOG4ld&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NPxC7YFcnLI/maxresdefault.jpg" group-title="┃NL┃ NPO START",┃NL┃ Van Kooten En De Bie s Moeders De Vrouwen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=428544.mkv&play_token=tpvMx9vrgz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bcjUFyvpUOdDTP7oSmIN4s4Azt.jpg" group-title="┃NL┃ NPO START",┃NL┃ Dames 4
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=389859.mkv&play_token=OMp01kqryu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vix37Kc7EUURMC5Rgd6Z6KaEj5n.jpg" group-title="┃NL┃ NPO START",┃NL┃ Volver
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=379172.mkv&play_token=Tul8Dt4WUB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiiAXDU4X0aZkaSg1iEKpRFycKR.jpg" group-title="┃NL┃ NPO START",┃NL┃ Julieta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=379170.mkv&play_token=u298BjT1Ao&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NSD7TDnv8CZHJTAttyLkcgshN9.jpg" group-title="┃NL┃ NPO START",┃NL┃ De Platoschool
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=379169.mkv&play_token=E99ElP124x&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MNuonmf074NuCRuVVnUMexhnyn.jpg" group-title="┃NL┃ NPO START",┃NL┃ Cold War
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=379168.mkv&play_token=g7Tu4ovo2A&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0y5EnAqICSVy15xZ9D4c3FX9NT.jpg" group-title="┃NL┃ NPO START",┃NL┃ En helt almindelig familie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=379167.mkv&play_token=PxGg8LeIOO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHm3XSakZBhYry8riSHXSxyHGcX.jpg" group-title="┃NL┃ NPO START",┃NL┃ (R)Evolutie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=379166.mkv&play_token=17hwQVrhBQ&type=movie
+#EXTINF:-1 tvg-logo="https://nieuwdezeweek.nl/media/cache/44/71/4471c77ad29f5697c22e083028f1b0be.webp" group-title="┃NL┃ NPO START",┃NL┃ Hitler Heeft Mijn Roze Konijn Gestolen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328889.mkv&play_token=RuPEFknUww&type=movie
+#EXTINF:-1 tvg-logo="https://media.s-bol.com/vQ5R9rXDLZMM/1200x1093.jpg" group-title="┃NL┃ NPO START",┃NL┃ The Cats Nog Een Keer Samen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322869.mkv&play_token=0Womi4nLHx&type=movie
+#EXTINF:-1 tvg-logo="https://nieuwdezeweek.nl/media/cache/a9/3a/a93adaff4bc0891c39d3ebe63db4e78d.webp" group-title="┃NL┃ NPO START",┃NL┃ Stralend Kerstfeest 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322837.mkv&play_token=Z09VUhLsdV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rRCzDEalpslboltRjmfqn7Vqwx.jpg" group-title="┃NL┃ NPO START",┃NL┃ Barbie in A Christmas Carol
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322720.mkv&play_token=SBpvr9vfsW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dXnt49T0i2Vzzos0Nlr4PnzcH3.jpg" group-title="┃NL┃ NPO START",┃NL┃ Nederland Fraudeland
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322714.mkv&play_token=FDdOHKsGlu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zciMQCjQG5qdo67VMK1ISSQE7su.jpg" group-title="┃NL┃ NPO START",┃NL┃ Het nieuwe Soestdijk
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322035.mkv&play_token=DiEyn9WvuU&type=movie
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FvHMgRqfdFvsh64ndu1lDWK8xxQd.jpg" group-title="┃NL┃ NPO START",┃NL┃ Beste Meneer Boeterse
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=318989.mkv&play_token=pSQWjIiJDz&type=movie
+#EXTINF:-1 tvg-logo="https://nieuwdezeweek.nl/media/cache/97/ed/97edd42ef1b773049b3cf4e204fa62c5.webp" group-title="┃NL┃ NPO START",┃NL┃ De lijst van Mengelberg 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=312469.mkv&play_token=CRBun8cVKv&type=movie

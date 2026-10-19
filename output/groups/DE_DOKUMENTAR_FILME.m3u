@@ -1,415 +1,415 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Tomorrow's Power - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1718799.mkv&play_token=7gzqYtPlDm&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Les yeux ne font pas le regard (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1711204.mkv&play_token=1e8eI82wrl&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ The Rise of the Red Hot Chili Peppers: Our Brother  Hillel - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1688182.mkv&play_token=rxRGss9JjV&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Glaciers - Enquête sur une disparition - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1665950.mkv&play_token=7JrXITiYx7&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Prekid vatre (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1665949.mkv&play_token=vk6xjiTE4K&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Donbass - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1626274.mkv&play_token=cBAgwDcMTB&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Die traurigen Mädchen aus den Bergen (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1624559.mkv&play_token=VCnAFYs0Ym&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Weil du nur einmal lebst - Die Toten Hosen auf Tour - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1624558.mkv&play_token=bIy46ErKIT&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Dear Santa - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1605951.mkv&play_token=qVSdePMAuq&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Days of My Youth - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1605946.mkv&play_token=9sA1qNaFmA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Das bessere Leben ist anderswo - 2012
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1603052.mkv&play_token=uAICfwbKfr&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Danger Close - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1603047.mkv&play_token=CjkkdDn0C1&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Le Dernier des Injustes - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1594438.mkv&play_token=ARzfyaezv2&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Everything Is Under Control
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1421636.mkv&play_token=VWFDNbKb73&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fchs0L3OoHtQmz4y6wuHmGhpGBP.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Tomorrow's Power - 2017
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1718799.mkv&play_token=h7ZQSPJsJ8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbSbxbPKL7JJlJCmu4LTBcoZFZc.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Les yeux ne font pas le regard (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1711204.mkv&play_token=B5LPF2S4m0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9hHoO3eB7l3ZjYUZoJUJpZW22V.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ The Rise of the Red Hot Chili Peppers: Our Brother  Hillel - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1688182.mkv&play_token=kd9JvySVgv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kx2Wh5evhLjhmXbhdeYemrdZhwC.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Glaciers - Enquête sur une disparition - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1665950.mkv&play_token=DJcSbPFmwB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auUx70mkJ3ayD6r0eUau58IO2cN.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Prekid vatre (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1665949.mkv&play_token=TXtZ2jz9qO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSAw4wtVw4258CGbWdbDNewWywK.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Donbass - 2016
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1626274.mkv&play_token=hBmHqplkIr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE8x0I4RizMNg6krNlH17oIWVe2.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Die traurigen Mädchen aus den Bergen (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1624559.mkv&play_token=X95Vb8JYSJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvOTIEc4kXme0tSTAwvzrQNVd7w.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Weil du nur einmal lebst - Die Toten Hosen auf Tour - 2019
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1624558.mkv&play_token=rAdGcRYL95&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAjWEE2edtMuGKfFZHgwr8M0MMn.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Dear Santa - 2020
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1605951.mkv&play_token=F9rgoERb3q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbjxWeCmF5bvRMCCgUzpN223kyG.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Days of My Youth - 2014
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1605946.mkv&play_token=z9oNpT0qZ4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcavRjFF04a2GI8Ykx9xUiqAOL9.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Das bessere Leben ist anderswo - 2012
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1603052.mkv&play_token=1WzzouWcbV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c40HSdwVN2G2h9yEnadOWRrUebu.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Danger Close - 2017
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1603047.mkv&play_token=KO3iOeibIU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsjFxMYdOMpzrIhzPaulzZgr8Ze.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Le Dernier des Injustes - 2013
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1594438.mkv&play_token=grfSEqv4za&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcqy7m52DVnWEcVpue7H28xSS8M.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Everything Is Under Control
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1421636.mkv&play_token=Kc9hdjAId0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bHJ7A28q3KytS5nKAmYHtEnGIo.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃The Making of the X Files Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1417196.mkv&play_token=MUtlms2CRH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1417196.mkv&play_token=PQBlk1Mr5w&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jprquSROhLbm9ZsPWXaVROuBcie.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃A Reindeer's Journey
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1417182.mkv&play_token=OPdrTA6W1N&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1417182.mkv&play_token=6AlsvO9OxE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBv5LCbWxPB8iU77dwurSGMVZ3N.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Religulous
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1378692.mkv&play_token=TiXJWe1YgK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1378692.mkv&play_token=74dBRAsHsG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24bh2SaydGoP9Jsi7eP2TkWGkLd.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Pumping Iron
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1378685.mkv&play_token=YhLj4Beif8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1378685.mkv&play_token=einn4WQF6i&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9bi0EQ9WsPjrsP3oTA4GuZ3pxP.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Freak Out!
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1365017.mkv&play_token=YhsGrfPwit&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1365017.mkv&play_token=NFxmnTvS1R&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u58DYme4zwZ6fJVkm28gjGmVlrb.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Elvis and the Girl from Vienna
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364996.mkv&play_token=dvjEK4Myy2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364996.mkv&play_token=rCcMIgcLvO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZQCNGb1II5eWASBhEgJBGxOPUM.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃The Dawn Wall
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364978.mkv&play_token=dGTxEqozRJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364978.mkv&play_token=XJJW0qQlbA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miodcVtQv2YxpKjjHJWcV0EDfSP.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃The Cove
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360953.mkv&play_token=13yaJuaaLr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360953.mkv&play_token=nTXWSczpmr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vy3FHNnMc1nyfjhWsPZ0FY9OvbW.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃The Congo Tribunal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360901.mkv&play_token=gKDbgvn6Nv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360901.mkv&play_token=DfLblyuAw3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4T6Wqh7ZXzf30odR2Yo2dLWdZ.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Chasing Ice
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1359717.mkv&play_token=n0V6vLtLVC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1359717.mkv&play_token=C4nHV6TQbV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cBBdGPEa2LMBN8fqjgR5o9Tu1x.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Bliss
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356865.mkv&play_token=qnNS7OzIbX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356865.mkv&play_token=OTdJJBlq41&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃American Animals
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356777.mkv&play_token=cRcgl0Ib4F&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356777.mkv&play_token=3C2xExKLQM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIT3G7QoV1vatMCL8TAA3xnkO2V.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃oceans
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345480.mkv&play_token=c3aQs2qxG6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345480.mkv&play_token=Uz1ifYFt4o&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oA5eXc6fefFxlKAxKEJWqACEu2V.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃The Boys: The Sherman Brothers' Story
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345473.mkv&play_token=6KTwQyu5PN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345473.mkv&play_token=gjcIroPQwr&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Das Rätsel der Monsterwellen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345435.mkv&play_token=k2XadQWSK8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345435.mkv&play_token=qRPSNDQCWM&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃The Negotiator
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1320245.mkv&play_token=jGjjIAiH7b&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1320245.mkv&play_token=rYyOfBCc2B&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Queenmaker: The Making of an It Girl
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303859.mkv&play_token=3zJTOl6ZZ0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303859.mkv&play_token=93p9HmXffF&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ You Can't Kill Meme
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1240233.mkv&play_token=iu4btpk414&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1240233.mkv&play_token=pKBThHRwfM&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃  South Park: The 25th Anniversary Concert
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1235770.mkv&play_token=koWdOuWbBX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1235770.mkv&play_token=UDk2MjVBUB&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃  Dolores
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1233874.mkv&play_token=SRaSflw2IK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1233874.mkv&play_token=MtiFe8fDSC&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃  Birdman
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1225727.mkv&play_token=twonI0Kpvb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1225727.mkv&play_token=PUi5YvcjHX&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃  Das Geheimnis des Tempelschatzes
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1216459.mkv&play_token=PPjxpWpZkq&type=movie
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/06/19/17/656926141.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Iconic - Dem Wahnsinn verfallen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1208609.mkv&play_token=ENSxZnIVE6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KfcIU30tZkXeyAP0sIUhV6UvDP.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Boston
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1204389.mkv&play_token=MDTVutiWVl&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t11mBtF6xd3KnaSGfoP3Q0TnnoE.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Untold: The Fall of Favre
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1192873.mkv&play_token=6K3U6twQ8f&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCm7OWJaoQi3cEKbGWwHZzwnUFr.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃  Endlich Nichtraucher! Das große Gratis-Coaching
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1192855.mkv&play_token=U8I40GPD4y&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LtJBBY1Phu1GYcW3AMivO17KXj.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Nadal: King of Paris
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1186937.mkv&play_token=NI8owJhnRb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KfcIU30tZkXeyAP0sIUhV6UvDP.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Boston
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1185671.mkv&play_token=ogGtTSWI7P&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1216459.mkv&play_token=ohgsvN23QH&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Iconic - Dem Wahnsinn verfallen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1208609.mkv&play_token=LdmX9WaHHB&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Boston
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1204389.mkv&play_token=zaF7wXd6Be&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Untold: The Fall of Favre
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1192873.mkv&play_token=l7D8X5lVcm&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃  Endlich Nichtraucher! Das große Gratis-Coaching
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1192855.mkv&play_token=NeZTanMREI&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Nadal: King of Paris
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1186937.mkv&play_token=SmTrMSxOmj&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Boston
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1185671.mkv&play_token=GWKLBoNENF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsJtBhMxNDGzW5KcQ9qz3EQGnEt.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Air Force Elite: Thunderbirds
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1184395.mkv&play_token=vsj7k7KBfq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1184395.mkv&play_token=ExhKiJern0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nzDOXgTkm5r2PAptWciTtYOF7q.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Chase
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1179932.mkv&play_token=M4jjCGEYGQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1179932.mkv&play_token=mcmqaaLfBy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo5AK0aXVRYI50k7TuaZtwK2AHG.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Unschuldig - Der Fall Julia B.
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1177152.mkv&play_token=UMTIlFZ5T6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1177152.mkv&play_token=VbigfG1dzY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0uHmmZC5wciCmoHRZ3i7Tp3hne.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Libido Mania - Alle Abarten dieser Welt
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1176099.mkv&play_token=hsWFy3Qu4C&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1176099.mkv&play_token=L3NkGqikNT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qwnWQSM3HBsw4TvXTcIkNtjZWi.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃Die mysteriösen Ringe vor Korsika
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1175037.mkv&play_token=KuFhK1Dz9x&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1175037.mkv&play_token=5Bdney4EkA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHzD9Zj3y27GucKJJnJpbWGqnlM.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Body Parts
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1171894.mkv&play_token=CijBdmtfUp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1171894.mkv&play_token=YjgnJuWYvM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkowBtEvbLDDgGFpXwzbZYenTGc.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ The People  United! A Cinematic Diary
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170742.mkv&play_token=59ANlWJzVk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170742.mkv&play_token=pKdDVorlIQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLwoKiOMQAuwA6XWnCPZZFwHNzP.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Flintoff
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170737.mkv&play_token=mKfhcbu5KE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170737.mkv&play_token=xjlBZ3D4i0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CTS3J3XxsMzzSLjssCjY0OisaY.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Kung Fu Killers
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170727.mkv&play_token=zIooPsucIb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170727.mkv&play_token=Aw8AvkSZ12&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oha8AiXXdVDZFvy5kDiPvYZIlfb.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ The Healing
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1152720.mkv&play_token=kPWRzHCPAN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1152720.mkv&play_token=9hOrkinDqo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kr8F5aAnMKQ0DdSV0tZlFIRjyLl.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Die PARTEI
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1112767.mkv&play_token=BbX4C62Otk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1112767.mkv&play_token=Sp2MGl8Pl2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0lXGwtVw8yg5aZJH6kHxgSbdUs.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Feiern
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1111543.mkv&play_token=1FY5a1Cn4W&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1111543.mkv&play_token=yWAHWzIj93&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BTuBDZu0vBvQ0cbgL1UpMzQsfl.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Architektur des Untergangs
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1110243.mkv&play_token=EyXztSF1nb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1110243.mkv&play_token=J3UOMj0srr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUUntEGHF6aoX43SO0rNR2C1NMS.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Jackass
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1102176.mkv&play_token=FhAXt2U2dq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1102176.mkv&play_token=NkOmUNeeOC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab93cFiDQ3Iw0FmWiB0yQBFu4rw.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Die Ungewollten – Die Irrfahrt der St. Louis
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1092551.mp4&play_token=YXAXXXOR11&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1092551.mp4&play_token=gbAXzJOv6j&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vn25e7kuTTe6nZhfCdDF0pW6jAJ.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Dark Star: HR Gigers Welt
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1067785.mkv&play_token=EpLsC3cVph&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1067785.mkv&play_token=DsP4KbUPnv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atOxNYZC1ABVbskdidI8NXD4flY.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Revolution of Sound - Tangerine Dream
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1055947.mkv&play_token=SuStxnfxn8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1055947.mkv&play_token=0SqTAZ7xRn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JcrRuBOsCYKVnLpLo0OBeJaa6D.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Konrad Adenauer - Hours of Decision
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1055930.mkv&play_token=5aB5cOLGzS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1055930.mkv&play_token=icAcbP0OHw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAC1FOLjDXaWEgNBJXtWYGq9SRE.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Bitcoin: Das Rätsel um die Kryptowährung
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1039910.mkv&play_token=9JjJ7FPv2k&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1039910.mkv&play_token=ny9orlwfci&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkGujKin4DI6vmsFmaPK6zgKowP.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ HAND
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894236.mkv&play_token=6Dk3owQb3g&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894236.mkv&play_token=h2log2SBiu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLHNTz4VMvr8DcYrmtImBjNlL3b.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Black Far West - Nicht alle Cowboys waren weiß
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879190.mkv&play_token=0HvWQ1rvD3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879190.mkv&play_token=I9bZfeg6oS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Freuds Krieg - Vom Elitesoldaten zum Nazijäge
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=868896.mkv&play_token=4qwCt5QOjS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=868896.mkv&play_token=WQY6DZUfjo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCgt3Ru3j2sDVhQpn8aH9UIX0M8.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Auf Messers Schneide - Eine Geschichte der Chirurgie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=854996.mkv&play_token=pY7BvqMD6G&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=854996.mkv&play_token=v5uTBloKQm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwSssSim2k3Z2IzElph2DCCKg5e.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Im Regenwald der tropischen Ameisen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842227.mkv&play_token=0z7JqoMJWr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842227.mkv&play_token=KSv2n5LV74&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU3YjnRIErb6H99H41Wq3uXMguf.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Annie Lennox - Popikone mit Engagement
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842226.mkv&play_token=UFhinSVP54&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842226.mkv&play_token=47JtVOlbiC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrRU14cUAZh1cxJ70HPmDGWsYBN.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Feminism WTF
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=835189.mkv&play_token=qNjEn175Vz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=835189.mkv&play_token=ZpfnejHUsd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAS2e9hUwu6Ydsx7byXj16H00Ai.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Die wandernde Erde 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811426.mkv&play_token=o44wDwZ0vu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811426.mkv&play_token=7Eso5uX1Fm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5uojWzwJTCHBIV3rmGPTmQG7TF.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Lover  Stalker  Killer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=808902.mkv&play_token=lPBQRytJYM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teXcC9Rh6xVIBBvQQ924Oi9GRzN.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Let the Canary Sing
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=808680.mkv&play_token=qYmvLFmRp2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD8e14pNWTLhppwJJA9jBEcENKN.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Russland  China  Iran: Front gegen den Westen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=805410.mkv&play_token=RVztpxa9mY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Inside Ultras – Mehr als Fußball
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=805409.mkv&play_token=wOB9j8JHJO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Horst Hrubesch - Ungeheuer erfolgreich
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=805408.mkv&play_token=InO2gS7BZh&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Der Parkhausmord - Wer tötete Charlotte Böhringer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=805407.mkv&play_token=uAmc09zrlE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGc8MJ7cFbzFFMLtszYp4XgWhcB.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Heavy Metal Kingdom - Wie britische Bands den Rock aufmischten
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798466.mkv&play_token=e51u63m5ie&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8s03nWfvoh3dxVVLD0GPMLOz6dO.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Harvey Keitel - Between Hollywood and Independent Film
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793713.mkv&play_token=iK4odKzy44&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdnZO4C0EGJ46jRbYbt5OLnreyd.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Lex Barker - Westernheld und Playboy
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792503.mkv&play_token=GH6PmzK62d&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWXKiBIXgBMccXIOJsEUQoNPgKi.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Joan Baez: I Am a Noise
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792339.mkv&play_token=J6RBkcFrgK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xY6FIHtgpXG7lunQzQJZBJ6xv3K.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Holy Shit
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=786670.mkv&play_token=QqHwUJEGEY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JnegXpSsxbghd7suwovP2PdDqv.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ As We Speak: Rap Music on Trial
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=772860.mkv&play_token=buJzZGNRfL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ To End All War: Oppenheimer & the Atomic Bomb
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=760541.mkv&play_token=O33ngzhcnS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbyHfrkqMqryMXq6XT0vVPwTs7z.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Ellen DeGeneres rettet die Gorillas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=744885.mkv&play_token=WoIO8uFv3S&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gm2uEpNCSnRosH8utVwRLpK1Edg.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Becoming Nawalny - Putins Staatsfeind Nr. 1
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=737320.mkv&play_token=ns9N50nkiX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=808902.mkv&play_token=BcInOHACy2&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Let the Canary Sing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=808680.mkv&play_token=FCt2B0UEFc&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Russland  China  Iran: Front gegen den Westen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=805410.mkv&play_token=a47eFeADKP&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Inside Ultras – Mehr als Fußball
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=805409.mkv&play_token=KCiQC99RPw&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Horst Hrubesch - Ungeheuer erfolgreich
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=805408.mkv&play_token=XLZH91XGrx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Der Parkhausmord - Wer tötete Charlotte Böhringer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=805407.mkv&play_token=inJwXq8v8r&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Heavy Metal Kingdom - Wie britische Bands den Rock aufmischten
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798466.mkv&play_token=E9V3hvXv5S&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Harvey Keitel - Between Hollywood and Independent Film
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793713.mkv&play_token=s8h7x7JNXT&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Lex Barker - Westernheld und Playboy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792503.mkv&play_token=tZ5fVPbKRQ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Joan Baez: I Am a Noise
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792339.mkv&play_token=t4xdK7qHOt&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Holy Shit
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=786670.mkv&play_token=KG4X7CyLHv&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ As We Speak: Rap Music on Trial
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=772860.mkv&play_token=kfLkcjbdj6&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ To End All War: Oppenheimer & the Atomic Bomb
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=760541.mkv&play_token=OVPNOoo79T&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Ellen DeGeneres rettet die Gorillas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=744885.mkv&play_token=e6UqOHV2mG&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Becoming Nawalny - Putins Staatsfeind Nr. 1
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=737320.mkv&play_token=247VZD1wIp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQVsDHZ2JZ4dEtAZVMmZqfH4xpG.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Zappa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=621509.mkv&play_token=HdyhCtbdwU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=621509.mkv&play_token=cpUF25K89O&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Shooting Stars
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=621506.mkv&play_token=TBx5Lwb6nU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=621506.mkv&play_token=30v1REfKGR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyECVwOybdYKuyuAoZJCf9E6Ln0.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Ein sehr langes drittes Date
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=608111.mkv&play_token=qsyzc3w5US&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=608111.mkv&play_token=9ph8DP9OhP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcSUfClvHWFzdypbuZUzmOCmb19.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃  Streuner - Unterwegs mit Hundeaugen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607582.mp4&play_token=IC6frAP2Vl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607582.mp4&play_token=KjY2V6yPkx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hM3H0yDpnnc4SKFgzWX2h3UCPg.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃  Das Phänomen Blade Runner
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607429.mkv&play_token=BPo8vbLeLd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607429.mkv&play_token=32XrNfqEl2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwMZiuoucmdVxZmj4HjYSLwAFJh.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃  Biggie: Das ist meine Geschichte
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607380.mp4&play_token=xQ9mWeuO8v&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607380.mp4&play_token=DlrZmBsvYC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ofXyfi0Ec10jTgvLd3X9ecEWYB.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Mutter
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=606413.mkv&play_token=Olbt5Sn5jY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=606413.mkv&play_token=4nqCoNYWCk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WC1pBBTiUIvj2jfUI82Z3XheZK.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ In Luft Aufgelöst: Der Letzte Große Banküberfall
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=606248.mkv&play_token=rcKfY3IVCp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=606248.mkv&play_token=lw5bCijdVW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLcm3V8tjybWZVbE0MIwJfvmv0g.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ The Secret - Das Geheimnis
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=605790.mp4&play_token=4x9aZjzw5O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=605790.mp4&play_token=4BhEer2HcY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14HQB76qkJUKHu0MkXPre6sWS6k.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃  Peninsula
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=605737.mp4&play_token=Q1PiWODkXr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=605737.mp4&play_token=pI6soKljrA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1RXyJOmyMiMSWS2tD4fv4UtPLX.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Untold: The Rise and Fall of AND1
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597489.mkv&play_token=V3no0YuQFt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597489.mkv&play_token=NBlvndaKez&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLBz9fyEQz0xarOsOqwhRNEYhZZ.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Untold: Deal with the Devil
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597487.mkv&play_token=uDHSXTi3dE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597487.mkv&play_token=LeyHFap5IX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btDcN50v0wlFthX3zaIBIVgxU84.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Nowitzki - Der perfekte Wurf
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597484.mkv&play_token=W4SCBqn2Ag&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597484.mkv&play_token=UuF8Dajl3C&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49TwWrtOnJjVrMAUvkgrX6WWf11.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Nawalny
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597483.mkv&play_token=cafJ45fwEn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597483.mkv&play_token=EW620PXiwY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkdQ3z1YyJvoy9pCLQzvWh68Nea.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Mord an der Costa del Sol
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597482.mkv&play_token=pzPA8SFXp8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597482.mkv&play_token=Ab22xven2F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2LroBlpT6uRTuGybRT1dwMirVW.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Könige des Betrugs
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597480.mkv&play_token=tFxPaSIsZZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597480.mkv&play_token=3taeSfnNCD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p20gx6gOPL3s67I3nqXcQKNTBVO.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Harry: The Interview
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597479.mkv&play_token=f5cfVmfAqx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597479.mkv&play_token=sYBz2M8MzC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Av758PktOlmKVlCzkhKBJqwpFcN.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Ghislaine Maxwell: Stinkreich
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597477.mkv&play_token=OLbwg8ZyoW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597477.mkv&play_token=c3xWXE9fR6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZS3wL2hks7B9jrdRKGMtSSUddf.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Die neue Air Force One: Eine fliegende Festung
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597476.mkv&play_token=QCm0Sg5EDr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597476.mkv&play_token=lUCCbvjlDP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch3rHjFc61tLpbgsXbhKFz9kEFN.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Der Schneeleopard
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597475.mkv&play_token=QrKCE3b1B9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597475.mkv&play_token=OGpuHWGIYF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c20UjO1kF74DySlDup3jodnRYzV.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Zlatan - Ihr redet  ich spiele
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597468.mkv&play_token=lSSNtaL1F7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597468.mkv&play_token=QkqtLnyWZi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ2Sf3UI68bcSLnygIYacN737aa.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Willow: Behind the Magic
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597467.mkv&play_token=NVDfDTs0zd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597467.mkv&play_token=AjlmKnp570&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Weapon of Choice
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597466.mkv&play_token=Tz45gBO15Q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597466.mkv&play_token=oWIT4ldn9a&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSbp3YBF3yyD2Hnby49ucHoCYUH.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ VAXXED 2 - Das Ende des Schweigens
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597465.mp4&play_token=V1DGscxUY1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597465.mp4&play_token=0N7w0qst7b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCXMSbr2UoFA60apngPwVmomdDH.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Unser Verein: "Eisern Union!"
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597461.mkv&play_token=IYqmCfjM3w&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597461.mkv&play_token=vigZgSzdU0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zrgid8f6c2ODn2T94jKfopOF4C.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Tony Parker: Der letzte Wurf
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597457.mkv&play_token=tZ4W2cXpUT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597457.mkv&play_token=ftXtDVeFdk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/namFh1FM7BkCkiljALtgMXOoANI.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Tony Hawk: Until the Wheels Fall Off
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597456.mkv&play_token=oPPpbtYqTD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597456.mkv&play_token=787JfZ5BgE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5k4edlPT6TeBnYzicIQSbprQIC.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ The Art of Flight
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597455.mkv&play_token=1lFSGxmAMR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597455.mkv&play_token=HVYLglc8rs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcaM6V2tCtu6iMHDsGLBUbaYgYp.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Das Dilemma mit den sozialen Medien
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597454.mp4&play_token=6iCyoYlEYR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597454.mp4&play_token=j90kBGyd8m&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uUmXmS1BNXieflgr884NnjYRFK.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Searching for Sheela
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597452.mkv&play_token=p5ZLEyoaaa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597452.mkv&play_token=BPWtejcwbr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqPZwu7tkheack5ZVNT6CArANSd.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Schumacher
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597451.mp4&play_token=Qf5fQ3Fhnk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597451.mp4&play_token=9qtv3h3XWM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wikrtZZZoThwnHulB7klQek4Ai.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Pray Away
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597449.mkv&play_token=yaKQ2oie3H&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597449.mkv&play_token=0g2QiO6KrW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0sIhCySZLmBm8cjk961Qx4pbeZ.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Obi-Wan Kenobi: Die Rückkehr eines Jedi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597446.mkv&play_token=pYh1IeicA2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597446.mkv&play_token=sWS8OFw9Ha&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vjephttoBH1ujOZcsqWlftLbhg.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Mosul
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597445.mp4&play_token=pdAasFUIIw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597445.mp4&play_token=a80GyM0VU1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1foXpKnMMAL1OzBrCS3CcwnHO7S.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Minimalismus: Weniger ist jetzt
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597444.mkv&play_token=a2K3f6RLOb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597444.mkv&play_token=G7VL2wh2EK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ksdt70xD3TnGmRdm7f9A3vFzDb.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Mikrokosmos - Das Volk der Gräser
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597443.mp4&play_token=vA7Cw5c8lw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597443.mp4&play_token=0FRljo5bwT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcHJIR7pp2tvjZgF434ATMw2Db6.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Merkel – Macht der Freiheit
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597442.mp4&play_token=BcXoRm7d7p&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597442.mp4&play_token=tkP85G4x6Y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQfhjQKYR3CAh0c5fHAsnIdchoa.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Jennifer Lopez: Halbzeit
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597439.mkv&play_token=azGfWdoTKV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597439.mkv&play_token=3VNcsK8hah&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLn6GMOlFcPmxmCU5snbX9oPR4r.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ I Am Zlatan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597437.mkv&play_token=5AffwjA8SG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597437.mkv&play_token=XB3EloNxwl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4QfYZMACODlWul9doN9RxE99ag.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Free Solo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597430.mkv&play_token=bYF0qWJdGq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597430.mkv&play_token=y3c4gFw8uD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gC16PvzYrAkoZ4aCdZJgJfotZzM.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Fifty Shades of Fetish Model
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597428.mp4&play_token=T4wnDpBGd8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597428.mp4&play_token=bbwsRpQ9l9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTAZFb79cum6bfU41C96DwMCp6Y.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ My Scientology Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597427.mkv&play_token=3lKhMjRovy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597427.mkv&play_token=LqW4wqBSWL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5bSSed8QVBPyko52CvMJ6ELZvS.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Eintracht Frankfurt - Eine Traumreise durch Europa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597426.mkv&play_token=d12YNdXPLO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597426.mkv&play_token=Ts9t74MMzV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ji4BiiCN4PwaVAp0oPvvZOeWgyU.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Ein Hells Angel unter Brüdern
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597425.mkv&play_token=BfS1aaj4J3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597425.mkv&play_token=slWMUuop18&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZQCNGb1II5eWASBhEgJBGxOPUM.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Durch die Wand
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597424.mkv&play_token=PhfE86BC5G&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597424.mkv&play_token=507Uf9u0ow&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuJmswUneNrlCUYpZ8NDU7FHjIG.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Die Speedcuber
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597422.mkv&play_token=AVyj55laV0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597422.mkv&play_token=VsSxhlX9Rh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yIdreRt2UVPmQpjoP90tRP4uk8.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Die Keanu Reeves Story
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597419.mkv&play_token=96MtqOLyXT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597419.mkv&play_token=LHoTkqvcQm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sb1eUhXF1D78OEMsN3kybd1WgaK.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ The Acropolis  Secrets of the Ancient Citadel
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597418.mkv&play_token=omEmFlAKxh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597418.mkv&play_token=QlXyzmJSzj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnwxG7Y5uK19D2e692dhSSrIzea.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ The Great Reset and the Rise of Bitcoin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597416.mkv&play_token=KzjnEuTf4r&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597416.mkv&play_token=r4ukGiw5s6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnXR4blfoukv2Ryh4wZ28mxV7yS.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Clean
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597410.mkv&play_token=CB23H3LRzD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597410.mkv&play_token=ytcGAl0kx6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJwLrbHeQbyn5QKgiQUv1xNmQj3.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Blackfish: Der Killerwal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597409.mkv&play_token=l9DZS4S9Hy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597409.mkv&play_token=X8NYCTIUOP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bozqwpI9nO3t8Z5yeiF023Q18n.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Apache bleibt gleich
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597403.mkv&play_token=lhaioodpO9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597403.mkv&play_token=FYX2hWLOAR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c62odansbfa1zQ01lnyN4tIu6Dc.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ 137 Schüsse
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597402.mkv&play_token=FHSToHlb97&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597402.mkv&play_token=45KZC6hgw2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Die Quentin Tarantino Story
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597420.mkv&play_token=cCrqJHDPfW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=597420.mkv&play_token=3XdvRepqCv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WEMXeJMfXLCG0Tx1kgf1VRydkE.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Tagebuch einer Biene
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345855.mp4&play_token=7n83W2QvW6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345855.mp4&play_token=Kn7RhvFeNt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2J2OilMcbUPgZfyyAhGKrBSd0Fk.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Searching for Cannibal Holocaust
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345831.mp4&play_token=lVpK8NqnTU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345831.mp4&play_token=y42Z8DF5kX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJyibxiHsjgCoVPQNqTBgeREjpb.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Heimat Natur
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345695.mp4&play_token=O9DflUCntK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345695.mp4&play_token=d8Dl2526jp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkuhA2aoPCiohSwMoLOMf72r4L2.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Sex at 24 Frames Per Second
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345675.mp4&play_token=YYnSEnWHlB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345675.mp4&play_token=QmPvGfo0Rm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goEb22NOo1TuSFUPUxa5hbDAU1d.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Final Account
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345668.mp4&play_token=mlcaxYHusx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345668.mp4&play_token=iS79DcwKPH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soRSTwNGv7c58SAEy9JFQYf9cMD.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Extremis
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345662.mp4&play_token=6O5a03LIqr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345662.mp4&play_token=bATSmaHZSn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jayBQcxhSsivkJNzy6FD6aLRrRB.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Das Glück der Anderen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345630.mp4&play_token=CoAXps5ruS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345630.mp4&play_token=cgr9UXtOZH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNNP8IYV1VZKsS5CRavRpRDWV06.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Cartel Land
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345605.mp4&play_token=MaLqPnmM0F&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345605.mp4&play_token=IWUyR9bgFL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBPE50w7CfPLKzxDDFYXknIVPnI.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Bull's eye  un peintre à l'affût
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345597.mp4&play_token=o4jWYdllqy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345597.mp4&play_token=vZg8uFOgdz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1CHzVnwuEa4qi6U2hCsVdVSTus.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Cannibal Island
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345599.mp4&play_token=UqnNdpddW7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345599.mp4&play_token=zsTDrQJ25K&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVyB98snGHx0aziowRq18Pl7Fgq.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Wall Street Journal——2047: The Fight for the Future of Hong Kong
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345509.mp4&play_token=Bb81MMzLXU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345509.mp4&play_token=w712igswNR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49IMDELdD1LakVrnfVAi4qSfq4I.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Untold: The Race of the Century
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343428.mp4&play_token=K0yjGdyBQz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343428.mp4&play_token=6XHAGADcvP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pArr12pr825SWb06ihiWesJsuR0.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Untold: Operation Flagrant Foul
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343427.mp4&play_token=lJOZjRSeKu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343427.mp4&play_token=0s9lgWN4Nz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKXmY2UYtCrhBZfzgmDgpteWyV4.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Untold: Crime & Penalties
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343426.mp4&play_token=NTPAxXNoCG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343426.mp4&play_token=iBUXVo1MGP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSOXqj8HLTMzdifHOOQnbjgVEVr.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Untold: Caitlyn Jenner
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343425.mp4&play_token=clUO7PRrwm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343425.mp4&play_token=MYFl1s89EZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9f1R4pXy1D7ysafdarcbaMlNzo.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ The Troubled Times of AKB48
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343403.mp4&play_token=0b8T4qWIxM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343403.mp4&play_token=35T9mmBSlx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmihpJaqCHoNetmQMaxQkdp2qoa.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Sovdagari - Der Händler
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343368.mp4&play_token=SULYjPVknq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343368.mp4&play_token=mkFoIVPkW2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XRp09XNemlViOHcPIjW8amUFVv.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Gottes wilde Schöpfung: Wasser
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343345.mp4&play_token=NC53VjGhVd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343345.mp4&play_token=m9vUutwt2h&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciw1epKpAGUtoW8wHw1JZ95nHKd.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Die legendäre Kokain-Insel
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343286.mp4&play_token=Wp0rO6ZOPZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343286.mp4&play_token=CToyUBrxlV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AlRhCFKzWVybFP0mh8hTGHR6G.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ The Dreamlife of Georgie Stone
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343240.mp4&play_token=Vm31DkqeNK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=343240.mp4&play_token=Q7EixEEvDR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYnQ9BYyi9mpEKqsP6TOA7YPwgX.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Street Survivors - Die wahre Geschichte des Flugzeugabsturzes von Lynyrd Skynyrd
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340399.mp4&play_token=Q74NWxVp8I&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340399.mp4&play_token=B27ZGMMe6X&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etQ3kqeOCSyICR4rxwzqLSOt04D.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Der Bundesstaat von Alabama gegen Brittany Smith
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340394.mp4&play_token=vIUBukVZK6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340394.mp4&play_token=IaepI3EdbY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XVFKgCseqUmGCrXTw2I4jgeffi.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Spaceship Earth
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340380.mp4&play_token=hEGCr3J6Xk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340380.mp4&play_token=ql0AWSjhl8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/was5Id6QbvQuUHdiYt2mwaP764k.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Skandal! Der Sturz von Wirecard
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340349.mp4&play_token=CKQxonNhJ4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340349.mp4&play_token=tptzU2WCtF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNRbKzh8Xkz96j70P6KnjRf7WM4.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Drei Schwestern auf der richtigen Bahn
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340347.mp4&play_token=rl9qsSfNTB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340347.mp4&play_token=fYPAxTNFuw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLWysyvUQTDy0UqNKtueo7aYGJJ.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Pussy Riot: Keine Angst vorm starken Mann
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340276.mp4&play_token=BIulm9nztP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340276.mp4&play_token=QZupZpMg8p&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8lsiLjNuEED3yxlmp89s4WAlOp.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Recovery Boys
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340260.mp4&play_token=eSv9EwGAHb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340260.mp4&play_token=OrCmet19jm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14HQB76qkJUKHu0MkXPre6sWS6k.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Peninsula
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340234.mp4&play_token=tG9QVjDt16&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340234.mp4&play_token=0nIhJszHi2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqI3XQ1nmvxFpBus1BescRrRBAj.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Orgasm Inc: The Story of OneTaste
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340215.mp4&play_token=Hcyg3vRgkw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340215.mp4&play_token=kvi3Yxca0r&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZJuctnatinO0OpnruGOWaT4Bga.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Operation Varsity Blues: Der College-Bestechungsskandal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340214.mp4&play_token=VzkMRdNZkL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340214.mp4&play_token=zXbcFwGxu3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3nHzIlpC2zc9di0ZtVlf9e74an.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ One Man and His Shoes
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340209.mp4&play_token=jt4j7mVoeP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340209.mp4&play_token=WXaeYi59IX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Nicht ganz koscher
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340183.mp4&play_token=qM6vkyWWnw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=340183.mp4&play_token=kjvT8LzHpM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sfmqtBvCvI9s3uMRLTLMo6QtVi.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Dennis Nilsen – Memoiren eines Mörders
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=339620.mp4&play_token=hqmgXnV5pz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=339620.mp4&play_token=4EiiSTmPcC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y4wZhIkDOnO1pdYszjzwYPq89.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Loving Highsmith
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=339590.mp4&play_token=b0pMEXy0dW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=339590.mp4&play_token=c96NAHERkk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4JKfRdgJgGTFRq11QXfl1HDf8n.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Lorena  la de pies ligeros
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=339568.mp4&play_token=PYsKzFcCFN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=339568.mp4&play_token=yoH6fgdxVP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dErQAS70XcmoenEyiFTlnqnArd.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Little Miss Sumo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=339564.mp4&play_token=CKyZJyj2G9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=339564.mp4&play_token=oXEJnWcIO6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdeKTPotIrwt4qSAr6rC7VAsPqs.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ In die Tiefe: Der Mord auf dem U-Boot
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338733.mp4&play_token=HAPHa5un1i&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338733.mp4&play_token=zL9Du2P3AB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5b2G1junuUkQn5MtMDXobzHUbDZ.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Leonard Cohen: I'm Your Man
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338721.mp4&play_token=U6gxfdrvIz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338721.mp4&play_token=LT61dXW9fJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efAxEHMvlgE4qterU0FWwovxkOa.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Atem anhalten: Die Eistaucherin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338427.mp4&play_token=NpnfmiF0yw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338427.mp4&play_token=UbibQ7NW6v&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rweSROB7BEo8cI1EHcoTKBNw5m9.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Heroin(en)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338419.mp4&play_token=4m95Th2oht&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338419.mp4&play_token=sJrWTONBhh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8Oxbl6vSyXszDSDly2QDHN8Phm.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Gladbeck: Das Geiseldrama
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338391.mp4&play_token=7Bq0oseweX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338391.mp4&play_token=ZH0qVUDoBt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6dnirDUhvWuHy91QECqGSYmOpa.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Das Mädchen auf dem Bild
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338390.mp4&play_token=R4W4fiunBY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338390.mp4&play_token=81CD2rtvZd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyfDg5RTdBUZ3kC5Ft43ZmXqhMr.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Der smarte Umgang mit Geld
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338384.mp4&play_token=mVDZxzzstY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338384.mp4&play_token=6vWWUBhQBS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjLWPQFMBzsPk9ZURWJ5X6fptLQ.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Carlos Ghosn: Kuriose Flucht Aus Japan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338379.mp4&play_token=47CR41O7yx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338379.mp4&play_token=09wILoZaHx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YOAC5MveLmEi2w3uL7qVsBUzjT.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ William Friedkin - Hollywoods Enfant terrible
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=337655.mp4&play_token=YOF3t2XYj3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=337655.mp4&play_token=AMZWMLKiNH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28LNd4KEpqt9i8sgXrVcrdr2kgI.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Eine geheime Liebe
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=337636.mp4&play_token=RFYD3evZgk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=337636.mp4&play_token=jDX3nHky62&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LRPi6b6gpDyKuveut38S8R38NI.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Absturz: Der Fall gegen Boeing
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=337610.mp4&play_token=OYNBS5oGiB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=337610.mp4&play_token=lisjXchMpu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXkELm9DENmIOuMgveR1RzjCctD.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ The True Story of Dolly Parton
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=337597.mp4&play_token=FWDQ024gQh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=337597.mp4&play_token=0CPSpea0qr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqLloC5n66fLvhlWtZBr8h4SVF6.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Der Axtschwingende Anhalter
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335686.mp4&play_token=oZahCyW6XD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335686.mp4&play_token=cEOCsjm8Zr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ David Attenborough: Mein Leben auf unserem Planeten
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335658.mp4&play_token=77L6Stys34&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335658.mp4&play_token=K3QGG15ceR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ahxrxamkf12I760TpkC4ps5xBf6.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Das Gelände
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335650.mp4&play_token=hjbMs7KOCg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335650.mp4&play_token=s1BDtyEG4V&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVKWtkgwCd34wT10v0Bwg1NYYcc.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Crack: Kokain  Korruption und Konspiration
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335614.mp4&play_token=AKJM1OVYWC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335614.mp4&play_token=POWbXLamQW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1y9uIazgq9gKawFqXuO71Xjs44Z.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Console Wars
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335602.mp4&play_token=otYhtWII2w&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335602.mp4&play_token=0Cb4rKda42&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvRHRqI4ahmEwscylU10iaNo5RY.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Chasing Coral
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335560.mp4&play_token=LnU0keR93G&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335560.mp4&play_token=bbTdJynCCo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PsrOtijUu3RnhSgcJwKatcQRjK.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Charles Bronson - Hollywoods härtester Kerl
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335421.mp4&play_token=BJI4n9hYMJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335421.mp4&play_token=gGujHmxTGf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaCrnl1WMev7mKSuxOakOToYsv7.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Bertolt Brecht - Bild und Modell
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335412.mp4&play_token=aU11G6oIJ0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335412.mp4&play_token=vppoqM6qOR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jov3rCzNT8u5b7A56c0XKCkP5Dc.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Bob Ross: Glückliche Unfälle  Betrug und Gier
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335390.mp4&play_token=1zlqQxmmOO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335390.mp4&play_token=oOqU0ddk9I&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qzgxaWtAtl19YwHvtQ1E8Kju6P.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Bikram: Yogi  Guru  Raubtier
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335354.mp4&play_token=q299HH5Ybn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335354.mp4&play_token=J6VZ5oRfu2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1stPXd2XGAGDZNbWiJXxjycuKae.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Civil: Ben Crump
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335331.mp4&play_token=GYXAbFhphL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335331.mp4&play_token=Bx9rOoO8Qz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0vo1yoEVlbpJ0Fkn0FgU7dTrO8.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Becoming - Meine Geschichte
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335320.mp4&play_token=i1R8zGnxPx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335320.mp4&play_token=2ZPtSN8f0S&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0TXl9RsDjstEZJnlYNLK54EBFC.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Den Eisbären so nah
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335313.mp4&play_token=vgbWOS1Ian&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335313.mp4&play_token=howeN69xPk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyARw7klUsztYZh0r6UEpzfRmK5.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Banksy and the Rise of Outlaw Art
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335300.mp4&play_token=9wtErsilXd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335300.mp4&play_token=nrLgExlciQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUVbqKcDgcLSS5s4UV82XUkMKlU.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Athletin A
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335271.mp4&play_token=BR8Q439bb7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335271.mp4&play_token=11KfaKQTVl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3g1aKbi0OygLj2QNb4XzlCaVHf.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ At Eye Level
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335269.mp4&play_token=BH3ZKgTYLl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335269.mp4&play_token=NTxWNxsgoo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywwj8lhQETaF3ult5bsaNVNZEqQ.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Sheep Among Wolves: Volume II
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335223.mp4&play_token=NY09g51Cne&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335223.mp4&play_token=3Np1vz7Pah&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNhwtG2UPsZJuohqvlCdaYuSPIJ.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ All in My Family
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335202.mp4&play_token=O5uLZNtLEN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335202.mp4&play_token=EhEvJCTlRd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Zdf6oYrj1tXsoh2IEZCgJ2oOVP.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ Katharine Hepburn: All About Me
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335195.mp4&play_token=l1B1zDK6BZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335195.mp4&play_token=OpFbRp9x8B&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24EXccaDuDEMYp7eVvsCicj5K41.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ A Trip to Infinity
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335160.mp4&play_token=q5gS6VvlBl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335160.mp4&play_token=2MVBlMxpyl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saGMNCD6ayFqmOb9mX2MkkMmW7w.jpg" group-title="┃DE┃ DOKUMENTAR FILME",┃DE┃ 14 Gipfel: Nichts ist unmöglich
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335135.mp4&play_token=fBn8DFOU5o&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335135.mp4&play_token=ypns7xYfyc&type=movie

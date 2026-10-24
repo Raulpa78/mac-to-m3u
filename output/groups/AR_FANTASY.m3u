@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃ Practical Magic - 1998
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716143.mp4&play_token=SiC4JLa8nf&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃ The Knight of Shadows: Between Yin and Yang - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1486263.mkv&play_token=Wc9juvL0V7&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃ X-Men: Days of Future Past
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328691.mp4&play_token=Wf75VVwfYV&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃ The Haunted Mansion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328681.mp4&play_token=ZysDw8MrsV&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃ The Amazing Spider-Man 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328666.mp4&play_token=HEx2mEEdVp&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃ Into the Woods
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328640.mp4&play_token=uXcoPa0ijs&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃ Haunted Mansion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328637.mp4&play_token=PQzjhC8MdF&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃ The Kid Who Would Be King
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327361.ts&play_token=q5FqIEaAI0&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃ Maleficent
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326191.mp4&play_token=RbT7nyKSNj&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃  Before I Wake
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199554.mp4&play_token=AlakuWH1JG&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃ The Medallion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199435.mkv&play_token=oMRpA6mauQ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃ Solomon Kane
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1016113.mp4&play_token=Nxg0EfmupJ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃ Wings of Desire
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=981642.mp4&play_token=ACSL3CXuPe&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FANTASY",┃AR┃ Aquamarine
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=981615.mp4&play_token=kVcNzNc0cR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg" group-title="┃AR┃ FANTASY",┃AR┃ Practical Magic - 1998
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716143.mp4&play_token=VKjkMHrcKW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2n0On0tEvlPiXVqajPYbPYJtn0.jpg" group-title="┃AR┃ FANTASY",┃AR┃ The Knight of Shadows: Between Yin and Yang - 2019
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1486263.mkv&play_token=iTSQVbWKTt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYfijzolzgoMOtegh1Y7j2Enorg.jpg" group-title="┃AR┃ FANTASY",┃AR┃ X-Men: Days of Future Past
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328691.mp4&play_token=vaprykGleP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGi5yio4pdDz5PkSeZCbnMQz5vK.jpg" group-title="┃AR┃ FANTASY",┃AR┃ The Haunted Mansion
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328681.mp4&play_token=bFu1IPTeVU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGjoPttcbKR5VWg1jQuNFB247KL.jpg" group-title="┃AR┃ FANTASY",┃AR┃ The Amazing Spider-Man 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328666.mp4&play_token=ui8GsKt60w&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pf0TdnITu380Zp8DMQx0jcwDsAS.jpg" group-title="┃AR┃ FANTASY",┃AR┃ Into the Woods
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328640.mp4&play_token=OcZxJDLSYi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg" group-title="┃AR┃ FANTASY",┃AR┃ Haunted Mansion
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328637.mp4&play_token=cKLxi4o2mh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBuvLX6zynQP0sjyqbXV4jNaZ4E.jpg" group-title="┃AR┃ FANTASY",┃AR┃ The Kid Who Would Be King
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327361.ts&play_token=5NuglcxEDI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg" group-title="┃AR┃ FANTASY",┃AR┃ Maleficent
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326191.mp4&play_token=tPvn78X75P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sI9neTbF3ECdpf2MpC88EMGJH13.jpg" group-title="┃AR┃ FANTASY",┃AR┃  Before I Wake
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199554.mp4&play_token=sRWZvpvPKI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbjFWKfe8WdS8Pj6WVPlyEKeVEo.jpg" group-title="┃AR┃ FANTASY",┃AR┃ The Medallion
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199435.mkv&play_token=BwaeB7tsGg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwwVNuGRUBXcudG6wOKP9U60BzU.jpg" group-title="┃AR┃ FANTASY",┃AR┃ Solomon Kane
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1016113.mp4&play_token=uYbcf2djOD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg" group-title="┃AR┃ FANTASY",┃AR┃ Wings of Desire
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=981642.mp4&play_token=tmbH7LByg8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2Hvucs1Q1nir3pyIXuIwo66uFV.jpg" group-title="┃AR┃ FANTASY",┃AR┃ Aquamarine
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=981615.mp4&play_token=9Vq6idDaKM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqvhxcowBfckO8RWtaMMVc4QFeB.jpg" group-title="┃AR┃ FANTASY",┃AR┃ Inkheart
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=945087.mp4&play_token=nw5OjYhCWX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=945087.mp4&play_token=UU9LEGM4Y8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f0Du4l7nIaN2E9OvoA0m4jAjYQ.jpg" group-title="┃AR┃ FANTASY",┃AR┃ Hansel & Gretel: Witch Hunters
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=925151.mp4&play_token=gHSg1DnyOu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=925151.mp4&play_token=mbiHms1fgG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZubjDI5Z3om36eCI20OAUbaamn.jpg" group-title="┃AR┃ FANTASY",┃AR┃ The Master and Margarita
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=891523.mp4&play_token=RIKUlzLtrd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=891523.mp4&play_token=GXkISlmz1P&type=movie

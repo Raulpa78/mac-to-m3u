@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DDr6m0OdVdPc5A82JvTtzolO5N.jpg" group-title="┃IT┃ STORIA",┃IT┃ La rosa dell'Istria
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1107210.mp4&play_token=7qrEgSWoVI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS1HZPYAZMgOsrXsBhxfZiQeYOo.jpg" group-title="┃IT┃ STORIA",┃IT┃ La seconda via
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1044743.mp4&play_token=gOUhuhqQpH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg" group-title="┃IT┃ STORIA",┃IT┃ Apollo 11
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1042969.mp4&play_token=GIRPZ3J4Bh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgLAX0TCI7JHuE5Q4ihXpW1eDPP.jpg" group-title="┃IT┃ STORIA",┃IT┃ La Balena
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041599.mp4&play_token=H1qEepjNbB&type=movie

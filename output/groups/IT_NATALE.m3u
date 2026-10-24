@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃IT┃ NATALE",┃IT┃ Out in the Open
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=751741.mkv&play_token=gOI4ochUVD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9rOT7fNTGN74FdLe4S9i8saluw.jpg" group-title="┃IT┃ NATALE",┃IT┃ Una canzone per Natale
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=751740.mkv&play_token=qDqAxm4nJr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doZO8WGaEfuh5ZxPpQWyfN0aXDR.jpg" group-title="┃IT┃ NATALE",┃IT┃ Voci d'oro - Golden Voices
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=751739.mkv&play_token=gAyqan39Cb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh9iUFpPkbS30bJFaek34JLDkls.jpg" group-title="┃IT┃ NATALE",┃IT┃ Un desiderio sotto il vischio
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=751737.mkv&play_token=XmZm8L8pXZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3zMgAU9hppKmInnQgsmWUqaNqt.jpg" group-title="┃IT┃ NATALE",┃IT┃ Un duetto per Natale
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=751734.mkv&play_token=u5G10uYeVL&type=movie

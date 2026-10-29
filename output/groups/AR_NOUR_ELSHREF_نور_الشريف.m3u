@@ -1,59 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ زوجتي والكلب
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395555.mkv&play_token=jEjP56rZgH&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ يوم الأحد الدامي
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395554.mkv&play_token=anAAiBbeGq&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ يا ما انت كريم يارب
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395553.mkv&play_token=vFx4viOqEm&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃  ضاع العمر يا ولدي
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395552.mkv&play_token=vfSnqfJhJU&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ تحدي الأقوياء
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395550.mkv&play_token=v9YBfeCyst&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ شوارع من نار
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395549.mkv&play_token=Q5QPk99QSI&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ عيون الصقر
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395548.mkv&play_token=VwOhPbeHKg&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ مدرسة المشاغبين
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395547.mkv&play_token=tPBevUYtPV&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ مدينة الصمت
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395546.mkv&play_token=Qm9lOOIlIl&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ ليلة ساخنة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395545.mkv&play_token=JQLeS7a43t&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ لن أغفر أبدا
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395544.mkv&play_token=8WrId2tViD&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ جري الوحوش
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395543.mkv&play_token=jSeHOwNV8X&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ همسات الليل
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395542.mkv&play_token=8NlVwpXYmc&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃  غريب في بيتي
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395541.mkv&play_token=GuOFP0mWVH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtxgXVwO0Wq57Lv5kI6L9iWpo8t.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ زوجتي والكلب
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395555.mkv&play_token=tV3m3NRcaF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDxtRWZfLwFfocxc39ESBZNB6bc.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ يوم الأحد الدامي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395554.mkv&play_token=10dTbncAv9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byf1pORW0UDnq2mkHYqVK6vpvq.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ يا ما انت كريم يارب
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395553.mkv&play_token=R6KJTSV7YK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhnCXeedA1Ov73z4JTMDNzef19c.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃  ضاع العمر يا ولدي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395552.mkv&play_token=s4B75m53Cg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTtLyZ1fLkNtv9jY5XQVtuyKlHe.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ تحدي الأقوياء
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395550.mkv&play_token=hG0kLGtXRN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pW6K4e6ptcFdHCpdS8CqHEpLOKC.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ شوارع من نار
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395549.mkv&play_token=WcA2YZA8t4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8J9O2R5NJCVOMbaLiEgyTzYfQrG.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ عيون الصقر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395548.mkv&play_token=uURVsC4NiC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNj6cAALnYOveLcfe4v396DtOA4.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ مدرسة المشاغبين
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395547.mkv&play_token=p6i1GNdZDK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSDNirVOHgB5SrPckv9mRQx0Ln7.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ مدينة الصمت
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395546.mkv&play_token=odA8ef7Wk6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctm5nxLP4hjW8PFTHIrQEomADmI.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ ليلة ساخنة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395545.mkv&play_token=mn4Ij4T6lM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umqhSmzBzkvMLUZM0tIb9fBDek5.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ لن أغفر أبدا
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395544.mkv&play_token=28b7En1nbR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYNT65e0x0Jkkqc20thymq0FXC0.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ جري الوحوش
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395543.mkv&play_token=7l3SF8NpGN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZpM1tL0qWIrxdAH7AidlhKUN7Z.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ همسات الليل
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395542.mkv&play_token=6OdBogsOjq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx1T3DIO1k3YtkfyXWYxDYvU1Rm.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃  غريب في بيتي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395541.mkv&play_token=DXuEtT7vLi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LYi4sskCewJOYEtSgn0BbBcEoY.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ غدًا يعود الحب
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395540.mkv&play_token=gih1ELzvth&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395540.mkv&play_token=vTa1kpp5M2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEs8GPlb6swPYaFawm96Kbc0T6K.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ امرأة حائرة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395538.mkv&play_token=VbS2vl6Zhw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395538.mkv&play_token=dnt2Ey6NNv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3WS5x8BDK8E1WX6c3bkEpptb4h.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃  الظالم والمظلوم
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395537.mkv&play_token=XW9LH6JUkN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395537.mkv&play_token=g7TAq8XX7Q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hDJjBnWAI05SCiLCdKQq2yzzUz.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ بائعة الحب
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395536.mkv&play_token=EZrEkpIfyL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395536.mkv&play_token=bJFtU82gxo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amk6vCqgbbt1Z20RAN1W1la2kjQ.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ آنسات وسيدات
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395535.mkv&play_token=xzUV3jcQgR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395535.mkv&play_token=nCa8palKYc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0UiXsD5Pp9lWrp00IfbKtqrQDA.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ الوحل
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395534.mkv&play_token=59hB0BqA8H&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395534.mkv&play_token=EdCLynK6xn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLfQZ25IgWXyYCKEBS3A7sb5onK.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ السراب
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395533.mkv&play_token=1e8ae8Q7Lz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395533.mkv&play_token=iL1uvRaVxh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1Rq77Tasp6QTfYDt7ALixtJ00t.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ المنحرفون
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395532.mkv&play_token=wb2NvezOLi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395532.mkv&play_token=m8oxGTzGYf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0qpiEx7fYs618p8y8cZQviUpGO.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ ألو.. أنا القطة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395531.mkv&play_token=QidJnmm8F8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395531.mkv&play_token=TETcazUphN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iouSeMBZXG9xdZWncFYY0NX3AfT.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ الحب والصمت
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395530.mkv&play_token=OFMvamjYDv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395530.mkv&play_token=lKN5zq5l88&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPV9f9OHknQVAp8d0E8Sjsw4CBj.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ البريء
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395529.mkv&play_token=30nUARNwZA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395529.mkv&play_token=2xjaRCOLqI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epO0lrc3ezDp6zMAjIEBlMPm09x.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ العار
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395528.mkv&play_token=3daNsXoK9V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395528.mkv&play_token=jFgEu0Zz9n&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ck25SfUSs88PJ4vG3GkZlIi8F.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ آخر الرجال المحترمين
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395527.mkv&play_token=zkNbN8C4hY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395527.mkv&play_token=34852cAclH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryM77Cqqk8x1pnoisDfPWC2yyAk.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ عفريت النهار
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395526.mkv&play_token=lWpjHAFX4E&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395526.mkv&play_token=kRNb03h4CA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swJf8a5YDp7ZZv1mk5ts6ikgQzW.jpg" group-title="┃AR┃ NOUR ELSHREF | نور الشريف",┃AR┃ عش الغرام
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395525.mkv&play_token=8O4VgnemmC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1395525.mkv&play_token=T91LsBHtL5&type=movie

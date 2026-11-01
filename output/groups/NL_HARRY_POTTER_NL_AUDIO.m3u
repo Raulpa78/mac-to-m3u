@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1j0gTWElSC0Hxqhe3bqpLzvKSfG.jpg" group-title="┃NL┃ HARRY POTTER (NL AUDIO)",┃NL-AUDIO┃ Harry Potter en de Relieken van de Dood - Deel 2 - 2011
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1459247.mkv&play_token=JkdQljvXI1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/el9v9pRFzERDPcuqJoQE9KpLLMr.jpg" group-title="┃NL┃ HARRY POTTER (NL AUDIO)",┃NL-AUDIO┃ Harry Potter en de Relieken van de Dood - Deel 1 - 2010
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1459246.mkv&play_token=zW6TsmEe1s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5rnKXVyNatFMa4S5FjAuBig8BS.jpg" group-title="┃NL┃ HARRY POTTER (NL AUDIO)",┃NL-AUDIO┃ Harry Potter en de Halfbloed Prins (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1459245.mkv&play_token=qZfnXntb4h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0Ec665FZBEifZpgFUkol74V6L4.jpg" group-title="┃NL┃ HARRY POTTER (NL AUDIO)",┃NL-AUDIO┃ Harry Potter en de Orde van de Feniks (2007)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1459244.mkv&play_token=Or7gDuZXNy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39juXThF3x1yVRrUtyjVvfIZ458.jpg" group-title="┃NL┃ HARRY POTTER (NL AUDIO)",┃NL-AUDIO┃ Harry Potter en de Vuurbeker (2005)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1459243.mkv&play_token=olaCFtiUww&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59Hf5wr27k3rFsICBdHvLdx0gpx.jpg" group-title="┃NL┃ HARRY POTTER (NL AUDIO)",┃NL-AUDIO┃ Harry Potter en de Gevangene van Azkaban (2004)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1459242.mkv&play_token=inVMhYQPog&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ntPmqtaG2V9z4GNB0vo5XcxblH.jpg" group-title="┃NL┃ HARRY POTTER (NL AUDIO)",┃NL-AUDIO┃ Harry Potter en de Geheime Kamer (2002)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1459241.mkv&play_token=TriuBgpHyg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dkJn5VQjrlFesrZas6rvmdzo1C.jpg" group-title="┃NL┃ HARRY POTTER (NL AUDIO)",┃NL┃ Harry Potter en de Steen der Wijzen (2001)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1459240.mkv&play_token=xrmQAJ7RlE&type=movie

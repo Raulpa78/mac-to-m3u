@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uotd3AsRypDGESEdt0gu2Hl70gz.jpg" group-title="┃NL┃ BET+",┃NL┃ Sin
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1304939.mkv&play_token=swwcMSk3MF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HSecv1dWlIuNMiRumtvNaXeSpN.jpg" group-title="┃NL┃ BET+",┃NL┃ Fighting to Be Me: The Dwen Curry Story
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1092991.mkv&play_token=0Dh77ecXp3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aueUTOvA8Y6A4eteDwhgo8ReX8.jpg" group-title="┃NL┃ BET+",┃NL┃ Miss Juneteenth
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511484.mkv&play_token=m4edkHUKUK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43bshXm9QCZkcfHQIzDjv05dNO2.jpg" group-title="┃NL┃ BET+",┃NL┃ Foster Boy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511098.mkv&play_token=GIkWUCpLN7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAnncQfXVFC0ZcYyphCdgcVUsWt.jpg" group-title="┃NL┃ BET+",┃NL┃ Saint Seiya: Warriors of the Final Holy Battle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322884.mkv&play_token=RCVabZ1P6o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mL8KGa010k4em51TYEHpDHgNPlf.jpg" group-title="┃NL┃ BET+",┃NL┃ Red Winter
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322781.mkv&play_token=PA1n0WsJ61&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGS9iKGGRjM049ZGK4J8TvQeBHg.jpg" group-title="┃NL┃ BET+",┃NL┃ Dave Chappelle's Block Party
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=319000.mkv&play_token=Rm65IGl1Tq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPctPddohJtP5H1i30cqjCbtymz.jpg" group-title="┃NL┃ BET+",┃NL┃ Blackjack Christmas [Bet+]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=318998.mkv&play_token=iA89eHBhaV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yh9lPLoFhMEpsV6ykIWnAOtqek1.jpg" group-title="┃NL┃ BET+",┃NL┃ Dutch
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=312504.mkv&play_token=cfYzzkOxnB&type=movie

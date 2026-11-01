@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXnAHRUcbGZu5hkzPxRG0Xihtb6.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Gizli Gerçek
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398763.mkv&play_token=o7XHIFgDOs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FdwLvnBc3QlLWpyWd533CiKKJ8.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Konuşan Kadınlar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398762.mkv&play_token=SDT5pLWKmL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Weird: The Al Yankovic Story
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398761.mkv&play_token=m0o2hYXf7r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amsoIidEfolwl1L945WrbVrx1Gl.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Transfüzyon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398760.mkv&play_token=PzyZ25SXN1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KIKEWXAbR4vGww70rL5YdhcauG.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Sistem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398759.mkv&play_token=OBTd9OfMAY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a88ArTe039MWZNMi6cEbl9zvwpz.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Suskun İkizler
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398758.mkv&play_token=H4Rwo5uM0Q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hijcRVWGqOiZW9mjuIfjAgomd3y.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ The.Orphan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398757.mkv&play_token=G3ZyX7JZWs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kDF1tUuW7e04mP13xXHrTPG0NO.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Terrifier 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398756.mkv&play_token=zIXhKaN1xe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJaYwqClkIXtJHSvWUBZPb2QGyr.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Sonsuzluk ve Bir Gün
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398755.mp4&play_token=eZr75jxHti&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJgCmwkf2ytEHYHv8vH3QtRGVPW.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Prancer: A Christmas Tale
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398754.mkv&play_token=TF8l6c2WeZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Pathaan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398753.mkv&play_token=XwJmjlgFEn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ PK
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398752.mp4&play_token=xswg9S7vCv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1XaPpaVHcIwnmhmFaEw6cLqYw3.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Evdeki Düşman: Başlangıç
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398751.mkv&play_token=cfGxl1gZ2T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jihfdqmZXG509pQSxXgsnflJtJ.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Servet Operasyonu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398750.mkv&play_token=f8RLNnmFg6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzTi96NCicZfwh7vFdoOq7zU988.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Nosebo Etkisi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398749.mkv&play_token=pTCqGnHvnE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDVKxnYc7bsj9thoz8DZGORLe70.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Belki Evet  Belki Hayır
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398748.mkv&play_token=eGdLi3nEP8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzL5n5kvWMhEtYWYSZOo3f4tIMq.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Manyetik Vuruşlar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398747.mkv&play_token=lVbs1eKa4P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Magic Mike: Son Dans
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398746.mkv&play_token=LEDORhAa7i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giOHwzXYzvaXIuNqv0meYHIreq9.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Savaş Tanrısı
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398745.mp4&play_token=fuNzseS5Jy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1PQ3F6G2MtDDJ3h1QrASpU6G7e.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Lamborghini: Efsanenin Arkasındaki Adam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398744.mkv&play_token=l3SoxtCUGG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw01w7eMLP3DiX5IyW5IE2thAvi.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Gigi ve Nate
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398743.mkv&play_token=NNCN1KmfST&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l24XHPKJfSuzwJ2zRGBV0OckR53.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Duvara Karşı
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398741.mkv&play_token=J7UMXu0fXg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDBn0o3SjGch0EnlS40G7iyndaD.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Cennetten Gelen Çocuk
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398740.mkv&play_token=oaqVAxH4hp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jROLolTGKmAAeiPndRO0DpiUWNy.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Buried in Barstow
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398739.mkv&play_token=qurxYzMqOa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJTC92PAdq33sKkaO1eThS6ukFG.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Kankalar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398738.mkv&play_token=hK6jpzmkbq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10JpiLmpbeAkCxnV2nEM0kxkNa9.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Bootlegger
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398737.mkv&play_token=f0zOnB2FKZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bco9P1bzXuMZhz34ZeUKfmOM7fn.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Oranges sanguines
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398736.mkv&play_token=TNZletcFKL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1D1AflIA4jjhHE9QrZ7XDjkyanX.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Canavar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398735.mkv&play_token=wbeEtfRDFu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3og1mlPzJW8xcBQR7qg8mwNjfoM.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Auf der anderen Seite ist das Gras viel Grüner
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398734.mkv&play_token=zaXDa5MBIu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QjtDMS7PB4SMj0nAJQiE86Lo0w.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ Ambush
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398733.mkv&play_token=ecsYjZ1abM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPoqkrwv7RoYz1brXQrllYvnOY8.jpg" group-title="┃TR┃ ALTYAZILI",┃TR┃ À propos de Joan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398732.mkv&play_token=DEe4keAn6F&type=movie

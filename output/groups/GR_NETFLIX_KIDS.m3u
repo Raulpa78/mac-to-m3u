@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JU7E8Vv2M11egkctWVOScxWR75.jpg" group-title="┃GR┃ NETFLIX KIDS",┃GR┃ The Last House (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1825598.mkv&play_token=YkHMr1IfBd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg" group-title="┃GR┃ NETFLIX KIDS",┃GR┃ Storm on Sesame Street  (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823632.mkv&play_token=LJI8RUJI6K&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bX6dx2U4hOk1esI7mYwtD3cEKdC.jpg" group-title="┃GR┃ NETFLIX KIDS",┃GR┃ That Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=983250.mkv&play_token=m2tE74M9M4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFSIygDiX70Esp9dheCgGX0Nj77.jpg" group-title="┃GR┃ NETFLIX KIDS",┃GR┃ Spellbound
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961884.mkv&play_token=JCNwYXACJ0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fa92FnbWJ1yBEpJwjdqCHII5D1.jpg" group-title="┃GR┃ NETFLIX KIDS",┃GR┃ Thelma the Unicorn
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796543.mkv&play_token=RUWHqY9VT8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg" group-title="┃GR┃ NETFLIX KIDS",┃GR┃ Leo [Metaglotismeno]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=643496.mkv&play_token=WvIRd1RSLP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi2pg2mtAZwhq3qVuAs6PztjnHT.jpg" group-title="┃GR┃ NETFLIX KIDS",┃GR┃ The SpongeBob Movie: Sponge on the Run
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=367674.mkv&play_token=HyzKAO0zD6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1eq7A9NArBbwZP9YYVJEZ2pvY.jpg" group-title="┃GR┃ NETFLIX KIDS",┃GR┃ The Mitchells vs. the Machines
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=367670.mkv&play_token=VlDIsQe4Mp&type=movie

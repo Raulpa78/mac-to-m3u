@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4s4uGqz9maWSiiIpeHl1oOBTQZ.jpg" group-title="┃TR┃ EXXEN",┃TR┃ Tosuncuk
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=575218.mkv&play_token=iamwccooVh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrdrO29u3JO9Yeqmgf5rpbxNHWt.jpg" group-title="┃TR┃ EXXEN",┃TR┃ Son Süngerci
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=575217.mkv&play_token=aroC0w1QTo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6a3HjO3jG3n09wu4Gy1ZMj2Aqu.jpg" group-title="┃TR┃ EXXEN",┃TR┃ Nusaybin Cinleri
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=575216.mkv&play_token=l4p7UAgCyh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY46M4ZFjX1ggwtGnmG3egXd76g.jpg" group-title="┃TR┃ EXXEN",┃TR┃ Kovala
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=575215.mkv&play_token=2bjO81JWqL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQ4xBtp0vgUxwh59NUL8xeQzWgi.jpg" group-title="┃TR┃ EXXEN",┃TR┃ Derinlerden Yansımalar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=575214.mkv&play_token=XMsqLKpu6T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Gc3M7DFkoatEkQrxPdOFnjvffD.jpg" group-title="┃TR┃ EXXEN",┃TR┃ Cam Yeniden Cam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=575213.mkv&play_token=uOmYM9etvu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kzhJtZFCPOIKxLXMjnDMEzLpWa.jpg" group-title="┃TR┃ EXXEN",┃TR┃ Arda
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=575212.mkv&play_token=dJ4F8TFBL6&type=movie

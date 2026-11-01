@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7AIITQ624sfldI4SsX4htXPH1f.jpg" group-title="┃NL┃ BRUCE LEE",┃NL┃ The Way of the Dragon - 1972
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595394.mkv&play_token=Y2BGQFCSrR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjOgTrBRFHZ344tuORpbUKCxghU.jpg" group-title="┃NL┃ BRUCE LEE",┃NL┃ The Big Boss - 1971
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595393.mkv&play_token=LPemnBVoOE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prh18GkkfrOrvvYJHfZIIcsaBTQ.jpg" group-title="┃NL┃ BRUCE LEE",┃NL┃ Game of Death - 1978
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595392.mkv&play_token=f1cv8Rqono&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWMfzwgrlg17vOzyHsWk93xhSaH.jpg" group-title="┃NL┃ BRUCE LEE",┃NL┃ Fist of Fury - 1972
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595391.mkv&play_token=igptvSJVfu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg" group-title="┃NL┃ BRUCE LEE",┃NL┃ Enter the Dragon - 1973
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595390.mkv&play_token=jhGFWklIzv&type=movie

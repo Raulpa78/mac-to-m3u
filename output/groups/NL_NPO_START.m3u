@@ -1,57 +1,29 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.filmvandaag.nl/api/og-image/movie/155701-sterren-in-concert-jan-smit-live-in-volendam.jpg?v=0" group-title="┃NL┃ NPO START",┃NL┃ Sterren In Concert Jan Smit Live In Volendam 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179438.mkv&play_token=6tUq2xqLCu&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJjJ85iISkDpQPzFq8le79bblTfb11w-liDq8-CgxzLswRphkfos-ndyaJ&s=10" group-title="┃NL┃ NPO START",┃NL┃ The Streamers Live in Ziggo Dome 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148583.mkv&play_token=mwKIUA24zj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148583.mkv&play_token=CJO3H1veV9&type=movie
 #EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/covers/original/147000/147737.jpg?v=1&width=400" group-title="┃NL┃ NPO START",┃NL┃ De Dassen 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133554.mkv&play_token=L1xXq3t9Xw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133554.mkv&play_token=bEcjjtedTX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXjkyglNgpy9o3axF9wDbBEfKvB.jpg" group-title="┃NL┃ NPO START",┃NL┃ Toppers in Concert 2026 (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2131962.mkv&play_token=MMnaWORJ8f&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2131962.mkv&play_token=YRFtt3JOzj&type=movie
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v388/upload/l/livebloggoudentelevizierringfoto2026.jpg" group-title="┃NL┃ NPO START",┃NL┃ Gouden Televizier-Ring Gala 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113825.mkv&play_token=sBQeYtn5dx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113825.mkv&play_token=mIv5VMcUvT&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYdufdSfFKsY6GSNPlSAT0pck2g5G_Fw0p3M1mwIzQnutRkaIS7skbRjT&s=10" group-title="┃NL┃ NPO START",┃NL┃ NPO Doc De Man Met De Glimlach 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1976588.mkv&play_token=3FYv5Ql6Gw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1976588.mkv&play_token=aF7vDgtbys&type=movie
 #EXTINF:-1 tvg-logo="https://assets-start.npo.nl/resources/2026/08/19/ab9da99d-19e7-4451-982f-d75e7654401e.jpg?dimensions=1200x627&resize_fit_method=cover" group-title="┃NL┃ NPO START",┃NL┃ De non en de wegwerpkinderen - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1932611.mkv&play_token=EYjF1LCPsO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1932611.mkv&play_token=k339E4RCoM&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Zara.Larsson
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915907.mkv&play_token=GNue3SX0zQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915907.mkv&play_token=424iqQLbwX&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Yungblud
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915906.mkv&play_token=S6sQSBCxe4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915906.mkv&play_token=8yqrMz6uaw&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.White.Lies
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915905.mkv&play_token=uEBY6N7cuH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915905.mkv&play_token=NyagmhnOFT&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Wet.Leg
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915904.mkv&play_token=dU5z5Rj17j&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915904.mkv&play_token=sB7dZ19VFP&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Twenty.One.Pilots
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915903.mkv&play_token=L8zNGgou0v&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915903.mkv&play_token=JQsnSIdTSo&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Triggerfinger
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915902.mkv&play_token=fV73LV2FNW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915902.mkv&play_token=hPwBvrEMul&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Tom.Morello
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915901.mkv&play_token=j8nKu1OIRq&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.The.Vaccines
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915900.mkv&play_token=IbV6ZLUBgZ&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.The.Pretty.Reckless
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915899.mkv&play_token=9uACgVgy4p&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.The.Haunted.Youth.
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915898.mkv&play_token=sXw9CIuVjw&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.The.Cure
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915897.mkv&play_token=Kq8jGJgXtR&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.The.Beaches
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915896.mkv&play_token=FRtOdRWUQq&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Teddy.Swims
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915895.mkv&play_token=0he2gCQiJ1&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Suzan.en.Freek
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915894.mkv&play_token=YHoBh7f3Pe&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Sofi.Tukker
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915893.mkv&play_token=S8CMDoZseZ&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Royel.Otis
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915892.mkv&play_token=QZQjMZvBts&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.My.Baby
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915891.mkv&play_token=xuk1Xkj05H&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Lauren.Spencer.Smith
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915890.mkv&play_token=Rob6KL9A2u&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Kingfishr
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915889.mkv&play_token=pKy0m7uvHa&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Jehnny.Beth
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915888.mkv&play_token=t1sHqcWEyS&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.Jade
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915887.mkv&play_token=GsZHzJEzJX&type=movie
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c073d77bd525d21cf03fdecea" group-title="┃NL┃ NPO START",┃NL┃ Pinkpop.2026.IDLES
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915886.mkv&play_token=evjzHF6ciw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1915901.mkv&play_token=Ok9E1BKfWr&type=movie

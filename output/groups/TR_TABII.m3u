@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRVkRA3OFqFnoMtkQWS6VmFFFLi.jpg" group-title="┃TR┃ TABII",┃TR┃ Gündüz Apollon Gece Athena (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739853.mkv&play_token=iRcja9XwVL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNGEWPfE3vUGPz6yzFHeI2loVm3.jpg" group-title="┃TR┃ TABII",┃TR┃ Hind Rajab'ın Sesi (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735743.mkv&play_token=nGpjDoJwSW&type=movie

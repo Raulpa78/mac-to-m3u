@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Biy7R9LfumYshur3YKhpj56MpB.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃War of the Worlds (2005)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1989934.mkv&play_token=xF4IQTUqQ1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHStfRjQGstuqtUz4Q22lbFU58M.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Push - 2009
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1720673.mkv&play_token=xTKFDxl3sS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ The Secret Life of Walter Mitty - 2013
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595379.mkv&play_token=SLT8pjAfPu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3ACos3t4YwXML8keTA0wKN8e36.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Max - 2015
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595371.mkv&play_token=gfncnttT8l&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Interstellar (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1462496.mkv&play_token=7C5GL3lUgd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZZ5IikYOp3VlyrzyJs4hxSHHXi.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Big Game
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430223.mkv&play_token=4OujRxfONk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uqXGOH4BQ2CLJWkDJZ0PzbUzOn.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ 9 - 2009
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1361129.mkv&play_token=EzINK7raIb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OkkMYofIrEY4yARDlMjjgR8EhD.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ The Rundown
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1308022.mkv&play_token=okd7fu0FEw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJJt55m14FIOM305lgMukhGCbDy.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Arthur & Merlin: Knights of Camelot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1306566.mkv&play_token=KzkP8jw7pV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyQcRGvdW3VtxHR4fSDgPOePEip.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ The Peanut Butter Falcon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1293097.mkv&play_token=oeIZtP820R&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3fQZvcbppNFz4tfA1LyrBkmIpZ.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ The Phantom Movie Part II
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1284804.mkv&play_token=uN5Vzn6Ii9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TUNjdcpPCOEHqJRyzpSyLdWtzH.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ The Phantom Movie Part I
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1284803.mkv&play_token=EYjeFxtZ3B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8k8RSMkmGR9Lp6FbKtithM3KIQb.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ The Phantom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1284802.mkv&play_token=cPUvWzU7s7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Monster Hunter
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1260095.mkv&play_token=1oIUQZACEE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Mortal Engines
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256597.mkv&play_token=sWeQkcJjPi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otjBqNDpZ3C9mzfDOI4kaiib3Qd.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ The Warriors Way
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1237747.mkv&play_token=gsfqTtAjWQ&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU3MjgyMDg0Ml5BMl5BanBnXkFtZTcwODYzNTA2Mw@@._V1_.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Jules Vernes Mysterious Island
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1226762.mkv&play_token=mfxTRDtmDk&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFlMDcyNDMtMmFiYS00NWY1LWFkMTktOTkxZmMwMDkwY2ExXkEyXkFqcGc@._V1_.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Jules Vernes Mysterious Island Part 1
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1226761.mkv&play_token=8vGfW4txmK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Nf0xeDuToLHysdkWj3aT5r42rC.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Crocodile Dundee II
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1222298.mkv&play_token=SrfSspc2Rn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pduPduL1ub5kok3lPYT15ryC9L6.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Crocodile Dundee
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1222297.mkv&play_token=QKLUvllCaX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DTH9poR8RAw859L6OuokT7z993.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ The Golden Compass
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1215774.mkv&play_token=sv8qWK9GxW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNaBe4TwbMef71sgscqabpGKsxh.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Kingdom of Heaven
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1209558.mkv&play_token=l0957Jznp5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ A Knight's Tale
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1209539.mkv&play_token=7ppGm8GACr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzomO8VLkvnoudDwwz409OcOQb6.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Captain Nova
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170290.mkv&play_token=ICzwXRHKRC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwwVNuGRUBXcudG6wOKP9U60BzU.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Solomon Kane
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160568.mkv&play_token=uue76Iw48q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27wg0rVZW8hX7nWeHCwTf9DygGc.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ White Fang
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1158566.mkv&play_token=vlTDm4iERV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RBZsOKMMxnp8L6UmOiylKOw4yo.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Race to Witch Mountain
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1158559.mkv&play_token=dkB9wDtTGX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yykDEtHk6DMtZK8EaxW88YyQ054.jpg" group-title="┃NL┃ AVONTUUR",┃NL┃ Joe Dirt
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1153306.mkv&play_token=ofavfMfQi9&type=movie

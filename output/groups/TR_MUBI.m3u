@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmBo2VGGEHInN8rfsbSzvxEr99c.jpg" group-title="┃TR┃ MUBI",┃TR┃ Faruk
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=886463.mkv&play_token=w0DPuvpkah&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RkmQnWuoVEYFefezv2Go6Ydf7s.jpg" group-title="┃TR┃ MUBI",┃TR┃ Sirayet
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879315.mkv&play_token=5dbWv5PvVc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3r6QGO2pIIm8YPjdo7fVmAoOUxE.jpg" group-title="┃TR┃ MUBI",┃TR┃ Im toten Winkel - Kor Noktada
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=820204.mkv&play_token=ie1ZMB6G76&type=movie

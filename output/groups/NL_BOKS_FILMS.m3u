@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GyHL4TftI4SKVA8Jj9JpthhIu6.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ The Champ
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1304738.mkv&play_token=ZZWbepdOnx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iyvjDZgbbMTgoAbsVk7B4GvTjR.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Kid Galahad
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1304737.mkv&play_token=n2kg8ftyQn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/su9WzL7lwUZPhjH6eZByAYFx2US.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃  The Harder They Fall
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1304683.mkv&play_token=Os99oruKp3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMorkoCdZJ1xmKv0VAXcpUax6Ar.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ The Fire Inside
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303779.mkv&play_token=3NqYxViRoS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LhcDE89zgbzW5gFtbG3Yv1N38a.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ The Hurricane
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303778.mkv&play_token=PV2ELgzZ43&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kndxR9TRK0kJ5hxzDprRSS80F2W.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Bloodsport
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303777.mkv&play_token=Y0yh18jEe2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Raging Bull
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303775.mkv&play_token=V6FAeOni2i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzEOkUn5708fQvF0bOPB5bLLRNk.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Kickboxer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303774.mkv&play_token=qijBxHvt84&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9suFyXDE1MhZ8I8tuhmTd0fJ7G8.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Kickboxer: Vengeance
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303773.mkv&play_token=uTrZyDWu0k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4ps3xsfaLrzbeSbuwelteMLKVE.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ The Boxer from Shantung
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303772.mkv&play_token=7Ir58fL91H&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZWJ20tGWZ5xO9CrTCVavmDRy7J.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ The Survivor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303771.mkv&play_token=Ksa7ebpPwd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xP1uogi5Gjnf6ybSN10lyDpqDlW.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Fighting
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303770.mkv&play_token=XUZkEi7G8u&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QGdIJWWTkPhVjpQ0zA6z69khod.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Boyka: Undisputed IV
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303769.mkv&play_token=4wW2dVy3R0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8KB77SPA7SyU8eid6TAEpt9skU.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Undisputed III: Redemption
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303768.mkv&play_token=aTGnV2mnk1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gMCokqpIJoh6u5o06LlOZWsI3k.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Undisputed II: Last Man Standing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303767.mkv&play_token=yJRwZ3cxuf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVPuUYpAQTH01Hko5VUnZKkkcPt.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Mike Tyson: Undisputed Truth
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303766.mkv&play_token=jE2ZRmTDkQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgnCABtbMDaDqn9bt3ZFJTnpA3e.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Undisputed
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303765.mkv&play_token=NQ0IXZ26rD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Cinderella Man
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303764.mkv&play_token=IdRJNSg4lp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Million Dollar Baby
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303763.mkv&play_token=I9kbpsopBg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Rcd0boJnakIDLzJmFdo7IApEGD.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Warrior
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303762.mkv&play_token=qK8pPqTbFV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Rocky V
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303760.mkv&play_token=vW5YhGzMSU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MHUit4H6OK5adcOjnCN6suCKOl.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Rocky IV
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303759.mkv&play_token=Yw9yKZcvA2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jS3wG3cNSEu8sVUFAFQ8exyaaH.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Rocky III
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303758.mkv&play_token=x8u6JDPpTN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Rocky II
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303757.mkv&play_token=3bHUBXeFBu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byBlJvZwCqgtIwrZNv0pyE974jC.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Rocky Balboa (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303756.mkv&play_token=yr6ZtpIt5B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Rocky
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303755.mkv&play_token=Q8uBV5JudO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KPndgExptxRUG7GuvwZoJb5C21.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Creed III (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303754.mkv&play_token=ggEHTSRVBf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg" group-title="┃NL┃ BOKS FILMS",┃NL┃ Creed II
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303753.mkv&play_token=5qnYWB14Ls&type=movie

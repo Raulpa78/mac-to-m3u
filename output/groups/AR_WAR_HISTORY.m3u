@@ -1,45 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Battle Over Britain - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562817.mp4&play_token=xUsqQhJYY4&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Battlebox - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562816.mp4&play_token=9dW0Lw1Rjk&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃ The Legend of Hercules
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326205.mp4&play_token=poKMmB2vVR&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Hercules Reborn
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326180.mp4&play_token=WswqMQ4S5R&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Hercules
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326179.mp4&play_token=08O2M6fvh3&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃ American Sniper
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326163.mp4&play_token=1dPEAMMAGA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Diaz - Don't Clean Up This Blood
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200979.mp4&play_token=qdERBaNgC4&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃  Back to Black
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200976.mp4&play_token=FcM8Q6iTH0&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃ 20 Days in Mariupol
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200974.mp4&play_token=3yLKZbvxpa&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃  Benediction
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199570.mp4&play_token=g3afIGDgVz&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃  Ben-Hur
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199566.mp4&play_token=gktmHDkLy6&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃  Belfast
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199563.mp4&play_token=54Xdmoj9a2&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃  Battle for Saipan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199534.mp4&play_token=m7yRce0S9X&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ WAR | HISTORY",┃AR┃  Battlebox
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199533.mp4&play_token=jtBgIPWjkK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8htJ7keZTwa08aC9OKyiqaq1cNJ.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Battle Over Britain - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562817.mp4&play_token=TRX7iahcB7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDeqyKwEtms2IFtT8SDvURZWqAF.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Battlebox - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562816.mp4&play_token=qhkYhYOtbz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAnRHLq50AbGWEibXHjmLbp2Tze.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ The Legend of Hercules
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326205.mp4&play_token=EhrnPxuHu1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zustI9EStTWz2PxVmy8KvWVpJTP.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Hercules Reborn
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326180.mp4&play_token=ro5w08dDw4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x02VMg4z7frtezt7bGSAw37mHqg.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Hercules
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326179.mp4&play_token=RIk8vxLaaV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1U46OwMc6vlm7OoSUKfqUH615e.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ American Sniper
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326163.mp4&play_token=oNYztazpXA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcGFlMHToPdYLn3ZMUwHsA8FQr0.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Diaz - Don't Clean Up This Blood
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200979.mp4&play_token=9k9TaN9Cjk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃  Back to Black
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200976.mp4&play_token=1OFrIHE6V7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIRp1IeuPh4GgqFCH3y0DQuY9xP.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ 20 Days in Mariupol
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200974.mp4&play_token=VpQkGRvaHo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4w1iETWQdsuTqpv8Xmt22VpY7pA.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃  Benediction
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199570.mp4&play_token=1DDzc3Il5I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃  Ben-Hur
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199566.mp4&play_token=U1wG3bgapF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xs6nHNBjYpRymw8ZQmnVIbJ8Xa.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃  Belfast
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199563.mp4&play_token=VnwsvmNP8C&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N3KwhzBCcqmFcqHpPCsjqfym9M.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃  Battle for Saipan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199534.mp4&play_token=uuznGT0j3I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDeqyKwEtms2IFtT8SDvURZWqAF.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃  Battlebox
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199533.mp4&play_token=D7LlJ0Jya4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r562gvTRVHnDSvG7MrKHEECSn1V.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Eddie the Eagle
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=982606.mkv&play_token=inLk63RptD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=982606.mkv&play_token=3Z5ekesDa1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ivdQtJAgIkS7NlGnKgNgvzI3C6.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Land Of Mine
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=981621.mp4&play_token=McPznw9G8l&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=981621.mp4&play_token=0CD7EUYJMm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Gladiator (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=960033.mkv&play_token=rOzTHpYlFa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=960033.mkv&play_token=NJof7PSQF0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS0vbkCPfbl8mn1Hjh8O2kDmxaZ.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ The Conclave
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=929895.mkv&play_token=m18VkfXVXJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=929895.mkv&play_token=dGbEQVR9ZS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ First Man
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=925149.mp4&play_token=6OJ27DSoZd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=925149.mp4&play_token=ffXVzg5hNW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ6ci4iFHhB6TWB2f4wftR7AEly.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Radio
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=918497.mp4&play_token=dXYjYWyohT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=918497.mp4&play_token=axKIadGT8P&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rT49ousKUWN3dV7UlhaC9onTNdl.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Outlaw King
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=888235.mp4&play_token=giufO6vtrg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=888235.mp4&play_token=JIvDVilByU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfkr3YQcfOxWyTEZrXn4xGbexK4.jpg" group-title="┃AR┃ WAR | HISTORY",┃AR┃ Escape from Germany
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=882753.mp4&play_token=XLHQwDsZWd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=882753.mp4&play_token=SUQcWutAQm&type=movie

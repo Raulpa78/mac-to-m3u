@@ -1,29 +1,117 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg" group-title="┃EN┃ HBO",┃EN┃ Justice League: Warworld - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1718228.mkv&play_token=cN0kkpFkFe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6blM6rlNOILvNAT1FatIJVuWmly.jpg" group-title="┃EN┃ HBO",┃EN┃ The Match That Changed Tennis (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1693704.mkv&play_token=J7W5SIw4CT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEL51KwnpUvbn5mjzUG4jNmUJCm.jpg" group-title="┃EN┃ HBO",┃EN┃ The Cycle: Becoming a Pro Rider (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1693258.mkv&play_token=7MpOg2rZOx&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUFWEbrCqKCh87YICKdbi1J8COD.jpg" group-title="┃EN┃ HBO",┃EN┃ She Who Dares: Road to Milano Cortina 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1693257.mkv&play_token=eZxErGdujG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73WchlI0Hj4HQd0T2KOztKquOek.jpg" group-title="┃EN┃ HBO",┃EN┃ Super/Man: The Christopher Reeve Story (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1639878.mkv&play_token=25k0nyMoke&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBVE7JVzEvegJs2JDd1BdoqdBSS.jpg" group-title="┃EN┃ HBO",┃EN┃ James Acaster: Hecklers Welcome (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608440.mkv&play_token=baFTVZeEl1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmOPcP8WRvm8cok4Hz3REwD7rlJ.jpg" group-title="┃EN┃ HBO",┃EN┃ Piece by Piece (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602741.mkv&play_token=fGR6sXMurd&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ0G7S55FebArv5YwoBjIRbHW0W.jpg" group-title="┃EN┃ HBO",┃EN┃ Rose Matafeo: On and On and On (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600126.mkv&play_token=ZROaRytPuZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/memqWrs4zmLgMBfzTfebrOXbytG.jpg" group-title="┃EN┃ HBO",┃EN┃ Tom and Jerry: Snowman's Land (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595026.mkv&play_token=qTwNgGDTge&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg" group-title="┃EN┃ HBO",┃EN┃ Malignant (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1593535.mkv&play_token=Cj0sJLvzzU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptg6MYjRfzU1v4lllUqF9zMIDcF.jpg" group-title="┃EN┃ HBO",┃EN┃ Blind Panic (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1592281.mkv&play_token=ekE51f25kf&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dA7kJoHR0NEkfYeIxOnoorlnJI.jpg" group-title="┃EN┃ HBO",┃EN┃ Bill Maher: Is Anyone Else Seeing This? (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1589960.mkv&play_token=pQdzbkPZwq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292825.mkv&play_token=t1gvLCj1YG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q61qEyssk2ku3okWICKArlAdhBn.jpg" group-title="┃EN┃ HBO",┃EN┃ The Suicide Squad (2021)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292800.mkv&play_token=8znQnD6ak2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg" group-title="┃EN┃ HBO",┃EN┃ The Conjuring: The Devil Made Me Do It (2021)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2254761.mkv&play_token=gjdLXslweG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg" group-title="┃EN┃ HBO",┃EN┃ The Brutalist (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2254741.mkv&play_token=S8ZOE6jqZh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="┃EN┃ HBO",┃EN┃ The Batman (2022)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2254719.mkv&play_token=dVvajUk155&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCOt6rm6bcppXeYIHalAXJGIZZE.jpg" group-title="┃EN┃ HBO",┃EN┃ Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse (2022)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244349.mkv&play_token=94d0tGMaCU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8wZEQen5hDNRGzm4fY4sxWe5xe.jpg" group-title="┃EN┃ HBO",┃EN┃ Sorry  Baby (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2194700.mkv&play_token=mkZ8948NlI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12P8aX9YuPa8FnxZKJp3sd53Yav.jpg" group-title="┃EN┃ HBO",┃EN┃ Silent Trees (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1589928.mkv&play_token=xikYNNhqMY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS9sU5JGnkmEVZ9ubgnJa6RMLwx.jpg" group-title="┃EN┃ HBO",┃EN┃ Bloody Axe Wound (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1589900.mkv&play_token=C8fUhrZ0Tj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180096.mkv&play_token=hVDcN04Tie&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmOPcP8WRvm8cok4Hz3REwD7rlJ.jpg" group-title="┃EN┃ HBO",┃EN┃ Piece by Piece (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146574.mkv&play_token=WU9a1HO6vN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg" group-title="┃EN┃ HBO",┃EN┃ Malignant (2021)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142457.mkv&play_token=pErkTMPjTW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg" group-title="┃EN┃ HBO",┃EN┃ Justice League Dark: Apokolips War (2020)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139681.mkv&play_token=MhqShZCmNk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2sG41PxfL1hnL1mHbxzSREUtOf.jpg" group-title="┃EN┃ HBO",┃EN┃ Flow (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127520.mkv&play_token=3UigwCKOQG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0D8XpcAMtu0YIBjCF47mF91uel.jpg" group-title="┃EN┃ HBO",┃EN┃ Blind Panic (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068756.mkv&play_token=gvfmqJVQxS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wa7MdHEzHxwMqXy2bPA5pD5VDVY.jpg" group-title="┃EN┃ HBO",┃EN┃ Bill Maher: Is Anyone Else Seeing This? (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068712.mkv&play_token=zxBgiEcOQX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg" group-title="┃EN┃ HBO",┃EN┃ Justice League: Warworld - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1718228.mkv&play_token=yj7yxwBVx0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6blM6rlNOILvNAT1FatIJVuWmly.jpg" group-title="┃EN┃ HBO",┃EN┃ The Match That Changed Tennis (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1693704.mkv&play_token=jSBjk7axED&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEL51KwnpUvbn5mjzUG4jNmUJCm.jpg" group-title="┃EN┃ HBO",┃EN┃ The Cycle: Becoming a Pro Rider (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1693258.mkv&play_token=JUsvwwUJ2P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUFWEbrCqKCh87YICKdbi1J8COD.jpg" group-title="┃EN┃ HBO",┃EN┃ She Who Dares: Road to Milano Cortina 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1693257.mkv&play_token=vPypQm8HSn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73WchlI0Hj4HQd0T2KOztKquOek.jpg" group-title="┃EN┃ HBO",┃EN┃ Super/Man: The Christopher Reeve Story (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1639878.mkv&play_token=v9eOG8aZGw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBVE7JVzEvegJs2JDd1BdoqdBSS.jpg" group-title="┃EN┃ HBO",┃EN┃ James Acaster: Hecklers Welcome (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608440.mkv&play_token=PWxHTYscCY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIyEjYV5on90vfRe1gftcrVxaoH.jpg" group-title="┃EN┃ HBO",┃US┃ Smoking Tigers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879156.mp4&play_token=dXptOuAe6D&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2ySukuAiAarLns0yttKS3jg85Y.jpg" group-title="┃EN┃ HBO",┃US┃ Incoming
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=878701.mp4&play_token=cAnQiGXl9O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYrGgr3pWLU5EfQYs92MYs7jsSh.jpg" group-title="┃EN┃ HBO",┃US┃ Fuchsia Libre
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=866233.mp4&play_token=WjVmQ8MGsv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHeRe3fNLxr4eebkLN2WXXAkb53.jpg" group-title="┃EN┃ HBO",┃US┃ Elizabeth Taylor: The Lost Tapes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862685.mp4&play_token=JSs736kLQI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqeo4WSV5SmIux6tqMQ5lFM7Brr.jpg" group-title="┃EN┃ HBO",┃US┃ Wild Wild Space
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=849580.mp4&play_token=aUsFNSWikn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihXINKQfzdaVKvZwZqmchy20uVD.jpg" group-title="┃EN┃ HBO",┃US┃ A Sacrifice
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=849024.mp4&play_token=2OBexRXAIL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃EN┃ HBO",┃US┃ Shark Girl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848634.mp4&play_token=YSnJVt3beU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpeUP8kX4mjDqqQXmByv6OKXTs0.jpg" group-title="┃EN┃ HBO",┃US┃  Faye
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847865.mp4&play_token=1iukHmRvR8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPKD810IOsLgYldcKzcAh4OLmnx.jpg" group-title="┃EN┃ HBO",┃US┃ Quad Gods
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=844994.mp4&play_token=8ZgN3iYmvd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUjzUUFm1dEUR6U4r0C6s9L2FEd.jpg" group-title="┃EN┃ HBO",┃US┃ Murder Company
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=844165.mp4&play_token=oWozsb0n44&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfdmvuLY8vADVthLNyn5EUO1ria.jpg" group-title="┃EN┃ HBO",┃US┃ Dragonkeeper
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=843588.mp4&play_token=2rvpyXBE6k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTZO4kG4QyqmCQEoim3Eaixjl5x.jpg" group-title="┃EN┃ HBO",┃US┃ Babes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=834890.mp4&play_token=w5TPfYwREq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWzarMH3CLHULpAIeGh6I0af4BV.jpg" group-title="┃EN┃ HBO",┃US┃ Stevie Van Zandt: Disciple
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=824819.mp4&play_token=rWM6y2A7PN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzk6rY7VBy3SJI1r7Hln1PEP6nk.jpg" group-title="┃EN┃ HBO",┃US┃ Agent Recon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=823604.mp4&play_token=cs2oonNwpL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxwK38JeW5nERWEsKXfGpf5faLM.jpg" group-title="┃EN┃ HBO",┃US┃ Slave Play. Not a Movie. A Play.
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=823014.mp4&play_token=XVk8OUXdpC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zR6C66EDklgTPLHRSmmMt5878MR.jpg" group-title="┃EN┃ HBO",┃US┃ Justice League: Crisis on Infinite Earths Part One
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=769014.mkv&play_token=O9obhF2wAb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7y3oodwcB6Gg3TbNKUJsa3dUMp2.jpg" group-title="┃EN┃ HBO",┃US┃ The Idaho College Murders
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=562774.mkv&play_token=AsyGalIDKU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igFLHxab9zG0M89OmEpnOM6TPXn.jpg" group-title="┃EN┃ HBO",┃US┃ Shazam! Fury of the Gods
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=562697.mp4&play_token=topGmWp0ui&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eYl2GyxCAwVJMlBiJVWnZYkEKr.jpg" group-title="┃EN┃ HBO",┃US┃ Jason Isbell: Running With Our Eyes Closed
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=562099.mp4&play_token=BE5tgdOlrx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEz6u9JgLRnfX8QYMn68O63BkOe.jpg" group-title="┃EN┃ HBO",┃US┃ We Were Once Kids
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524679.mkv&play_token=5z43d4ZGYc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nW3fXdcSJYXrofADS9pgNdO3ybM.jpg" group-title="┃EN┃ HBO",┃US┃ Robbo: The Bryan Robson Story
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524404.mkv&play_token=qhqiGoxOik&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUl1XSz4fIbOnyUru5cZt3K0NDH.jpg" group-title="┃EN┃ HBO",┃US┃ Our Platinum Queen: 70 Years on the Throne
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=520402.mp4&play_token=azNc0skHwc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frh6P7hqfIqXhzRcKb5UjYRFfPZ.jpg" group-title="┃EN┃ HBO",┃US┃ Like.Share.Follow.
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=518771.mp4&play_token=ni30YNsN0B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53ELyruFO45zyvbJfyVtDYbN1aw.jpg" group-title="┃EN┃ HBO",┃US┃ Liberty: Mother of Exiles
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=518767.mp4&play_token=ycd4CV47CA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o27h961Pwq7170byJANL2rEfWig.jpg" group-title="┃EN┃ HBO",┃US┃ If I Can't Have Love  I Want Power
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=512846.mkv&play_token=ZUmh8esnxO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbVXlqFMQU52i7DNb2C1v1O4Zwd.jpg" group-title="┃EN┃ HBO",┃US┃ Gray Matter
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=512795.mp4&play_token=LEPtERwIOJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nS82UU0W7BuBDXoVlEtPVWY3mPg.jpg" group-title="┃EN┃ HBO",┃US┃ God's Creatures
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=512787.mkv&play_token=XY1mv2J5NT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tqfsz7aqnJJLrEXdf37DwLw5QC.jpg" group-title="┃EN┃ HBO",┃US┃ Everybody Loves Chris Rock
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=512281.mp4&play_token=ALjusYN7Xl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg" group-title="┃EN┃ HBO",┃US┃  Dune
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=512269.mp4&play_token=JIkYuZzPEA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m63tjpijO5bWXIoAm26YKy5xY6c.jpg" group-title="┃EN┃ HBO",┃US┃ DC Showcase: The Losers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=512234.mp4&play_token=dg3esDOxT2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIVjDSeIZGG4jPrNPLGXPKJhnj4.jpg" group-title="┃EN┃ HBO",┃US┃ DC Showcase: Blue Beetle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=512233.mkv&play_token=rqm89JmUmE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XH8aSle0Z9yuWpBrgIM07zvqZY.jpg" group-title="┃EN┃ HBO",┃US┃ Black Boy Joy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=512035.mp4&play_token=lFdfQkKuy2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztjf1lqjBEMTZo1kzN6uMY1y2hf.jpg" group-title="┃EN┃ HBO",┃US┃1000% Me: Growing Up Mixed
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511684.mp4&play_token=0hFXhXs4NH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWKw6RdzGTugBxE72GU4bCIYUwe.jpg" group-title="┃EN┃ HBO",┃US┃ The Stroll
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=475961.mp4&play_token=pc5rZAe8eD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3kCWTBgulxMlnxUWRncB5vLQpC.jpg" group-title="┃EN┃ HBO",┃US┃ Rock Hudson: All That Heaven Allowed
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=475824.mp4&play_token=KXnrHf4FCO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vEx3khgj8I2saMfny2hlFXw6uD.jpg" group-title="┃EN┃ HBO",┃US┃ Love to Love You  Donna Summer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=472537.mp4&play_token=JmQIpjm1Xm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/I2dlKGam6VAJAKlYox4BNJrFl0.jpg" group-title="┃EN┃ HBO",┃US┃ John Early: Now More Than Ever
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=472498.mp4&play_token=OATrlVGhUQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg" group-title="┃EN┃ HBO",┃US┃ Evil Dead Rise
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=468785.mp4&play_token=3Enaj8UcwK&type=movie

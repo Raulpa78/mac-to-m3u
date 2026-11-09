@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCSGwrwpnQwPfNex1aHbBHI1Rd9.jpg" group-title="┃EN┃ SKY",┃USA┃ Harder Than the Rock: The Cimarons Story
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1143699.mp4&play_token=kMR4sP08Ur&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pemnWNVKP2PeGuulE9JR5n36hJz.jpg" group-title="┃EN┃ SKY",┃US┃ Villeneuve Pironi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=563023.mkv&play_token=97Wa5xXy2V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJzEktp9Sr3wF2CDtgP9cCg5YfC.jpg" group-title="┃EN┃ SKY",┃US┃ Super Greed: The Fight for Football
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=563006.mp4&play_token=5iVgoz5VqG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyE9AVVNMZnVFoZYvP3hw7CPma.jpg" group-title="┃EN┃ SKY",┃US┃ Personality Crisis: One Night Only
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=562641.mp4&play_token=50orzFj6I6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃EN┃ SKY",┃US┃ I Am Giant: Victor Cruz
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=559984.mkv&play_token=NlXHAzKicX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u4Lf17Md7F0sZO2pFhyk6sgAmD.jpg" group-title="┃EN┃ SKY",┃US┃ High Tide
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=559960.mp4&play_token=d5x9CNmmqA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0p7beh1Zil35jahcUgSGL1v430.jpg" group-title="┃EN┃ SKY",┃US┃ Marry Me
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=518815.mp4&play_token=8vrlFmNxON&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA1vD7jYFydP7oBF4IoRIERcF6S.jpg" group-title="┃EN┃ SKY",┃US┃ Hijacked: Flight 73
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=512824.mp4&play_token=vPSW39bRen&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgrN2G4UlAHXuvlEWkahdikKUQ0.jpg" group-title="┃EN┃ SKY",┃US┃ Forced Out
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=512312.mp4&play_token=9e8hjxPNAL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sggvW1CDTicvj7A3UuReCq7XqL.jpg" group-title="┃EN┃ SKY",┃US┃ Diana: The Interview that Shocked the World
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=512255.mp4&play_token=oy7OTOtF3o&type=movie

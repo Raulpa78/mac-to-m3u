@@ -1,603 +1,605 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Titanic 4K - 1997
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179439.mkv&play_token=kIgyPp9u2Z&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Woman on Top - 2000
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113574.mkv&play_token=bdzWKSrP5O&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ I Swear - 4K (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113569.mkv&play_token=8Ruti0oEef&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Spider-Man: Brand New Day 4K- 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2079791.mkv&play_token=ZIJeHW7WhO&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Home [Hjem] (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1952670.mkv&play_token=6qsMDGQoba&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Barreda 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936810.mkv&play_token=nACbrKxiF9&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mutiny 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1894821.mkv&play_token=sNgTVcUkmz&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Reckless 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779754.mkv&play_token=YJgCZd6w0y&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Pressure 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779753.mkv&play_token=gB1o2P8bNd&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Personhood 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779752.mkv&play_token=31MB6rk1ee&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Oscar Shaw 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779751.mkv&play_token=91hZnMtcCW&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mother's Pride 4k - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779750.mkv&play_token=lP4MDip1Ti&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Мавка. Справжній міф 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779749.mkv&play_token=5clgjaZsgs&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Master of the Universe 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779748.mkv&play_token=ByV0dYrolr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQIeePyAP3uUKIcLT5LqfDuRKo8.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Odyssey 4K - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285025.mkv&play_token=ZIigi8kaRV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Titanic 4K - 1997
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179439.mkv&play_token=ET1aeBVsHP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYHvcMeVjWPwATYI0VCdecMy2n3.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Woman on Top - 2000
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113574.mkv&play_token=iFXIqLZXK1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wzzexW1ol420BGAtmAmteKnHjG.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ I Swear - 4K (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113569.mkv&play_token=mWz0HH58sn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYBkFizFivFLorXIOoQTNis2rZi.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Spider-Man: Brand New Day 4K- 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2079791.mkv&play_token=sjoPUjQpYd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jxBqoaf0vnhKWb3wsS5z5KCEZE.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Home [Hjem] (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1952670.mkv&play_token=gseIdDZzIs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnr0QkZSDLlrJTvU2ecco65wcHo.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Barreda 4K - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936810.mkv&play_token=YptDjxTilU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nH01jQO5bZX9z5NUKDShIDdT7Nd.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mutiny 4K - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1894821.mkv&play_token=8GsTuJwMcK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76jjEatL53KYooIrDQK9wsk4rm1.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Reckless 4K - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779754.mkv&play_token=qOPS7jGTNJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFjEggtrejCN79r6SXRjM269OtG.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Pressure 4K - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779753.mkv&play_token=97QZ8Y4UN7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45pBGAUDZmF5RFlCYAnhvkmDLFi.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Personhood 4K - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779752.mkv&play_token=VUjeLRNL8L&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE3nySukwrfUjouz8vzvKTcXNC.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Oscar Shaw 4K - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779751.mkv&play_token=HeMafpnPfJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fg3o1a8Tl532lbuF9zkY4S8VBL5.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mother's Pride 4k - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779750.mkv&play_token=DccteOdogm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dK1WaCGLxJuOhKBlTD2fbfs7Ly.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Мавка. Справжній міф 4K - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779749.mkv&play_token=SaBKSnY012&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a77OcLmarwiBJakOPPC36m58t4L.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Master of the Universe 4K - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779748.mkv&play_token=TTbKGOeZNh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Maa Behen 4K- 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779747.mkv&play_token=d0NuRYyWNz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779747.mkv&play_token=GUp7TQwC8c&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69erdwdCjr9w1CbWt64SRvGufZF.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Deep Water 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779746.mkv&play_token=kP9Np9KHAR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779746.mkv&play_token=ZDtOSObRPH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Deep Water 4K - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779745.mkv&play_token=iFzBMcuqFa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779745.mkv&play_token=7W0YyrMu0c&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6X5bcc4vTGzwDpbpZBMRDPwdLwj.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Bulls 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779744.mkv&play_token=96V7t0dBoA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779744.mkv&play_token=ABFYabkWfS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQYHYSnHf1A853xoNn6Qq6lm2JO.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Ancora più sexy 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779743.mkv&play_token=8XzbVuh6Zc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779743.mkv&play_token=OTRXoAfy6X&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Wolfs 4K - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766311.mkv&play_token=GnX9G28Eaz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766311.mkv&play_token=j3RbJjiFko&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Signal One 4k - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766310.mkv&play_token=i4nXfcgrQN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766310.mkv&play_token=Rzafv1AJiK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UwAFp2RMosCG0eRFqMudE56u0v.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Safe House 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766309.mkv&play_token=VVYVh0g9fq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766309.mkv&play_token=n4FOP8Aqmu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Little Brother 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766308.mkv&play_token=wo9HVKrVS0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766308.mkv&play_token=SJqTuQyRpG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Ben-Hur 4K - 1959
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766307.mp4&play_token=8E5DXw0tx5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766307.mp4&play_token=jKeb2adm7b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx8rkZWmVbc6Zy9PSBUx5c7yjYn.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ De Schapenspeurders 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764523.mkv&play_token=zcjokS8w6R&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764523.mkv&play_token=z3f0pClY5c&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IPxzGlE17fJAwUTMul4opMeutA.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Lost Bus 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764522.mkv&play_token=CgYQ9NuACl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764522.mkv&play_token=gQKGWB7Ymn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/semFxuYx6HcrkZzslgAkBqfJvZk.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Family Plan 2 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764521.mkv&play_token=iS1sCeSf5X&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764521.mkv&play_token=Vji2l235Y2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Family Plan 4K - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764520.mkv&play_token=dp8yGOcUAg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764520.mkv&play_token=2jJHeF36nH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tq8x5F17q95T1j0up5rpzXFAylN.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Sharper 4K - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764519.mkv&play_token=Ks8mfPDZMq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764519.mkv&play_token=Cfjj2813sr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Rogue One: A Star Wars Story 4K - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764518.mkv&play_token=c0WY7BdyJT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764518.mkv&play_token=H3vZ98t8nC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Palmer 4K - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764517.mkv&play_token=ezAoWPdtnD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764517.mkv&play_token=pweO3OpCQc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4I9CClpKze9rwW78fuMSluq2OvE.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Leven met Luipaarden 4K - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764516.mkv&play_token=9zHAQwUhFg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764516.mkv&play_token=LuZV033STb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RFQtinuiHhOnbmJaCn3uzegCYF.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Highest 2 Lowest 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764515.mkv&play_token=uGc7ocHXuY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764515.mkv&play_token=uxKRfxriu7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjMbDciooTbJPofVXgAoFjfX8Of.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Greyhound 4K - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764514.mkv&play_token=o803OHEOZp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764514.mkv&play_token=fPT1DpnBEK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Fountain of Youth 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764513.mkv&play_token=FCi4gvkxUm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764513.mkv&play_token=hiq99XI379&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Vv0yWdAiakPpRH58AMzFPmRKzR.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Fly Me to the Moon 4K - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764512.mkv&play_token=xCzE15FePc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764512.mkv&play_token=vLmp6sjxli&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEJtzD1F05xDipFEDY98CTH5yZn.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Finch 4K - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764511.mkv&play_token=KPxZDsr2X0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764511.mkv&play_token=2bxG3AKc9Q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvVQ3IjgaB7HZM4wN1cvaowgHmX.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Eternity 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764510.mkv&play_token=0hlftIidtk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764510.mkv&play_token=k5AqMMCxcz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsqALJWqGRgnKEo3gt1TCOF4nCM.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Echo Valley 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764509.mkv&play_token=hfBNQGbZUZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764509.mkv&play_token=xiLX30gfn9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Punisher: One Last Kill 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764508.mkv&play_token=qwQ4nUdhJt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764508.mkv&play_token=R70rpFGour&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGMppxPEzFqxSDDTNp6vhpmNHUp.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Wuthering Heights 4K - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763497.mkv&play_token=TupZis7MpH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763497.mkv&play_token=EBLcd1CnFL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ WHO 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763496.mkv&play_token=S1gSZ1G3C5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763496.mkv&play_token=igmeTDwucj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDprEGBOo509wnq0iwb6OlmOiW0.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Welcome Table 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763495.mkv&play_token=T71mCVRW0P&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763495.mkv&play_token=QtCrvOyzbg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Gorge 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763493.mkv&play_token=7JlYdPKF8i&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763493.mkv&play_token=D7sLeAdcWY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsvD0BjEQIIoh2PpE5X7VXmSrQO.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Someone Like You 4K - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763492.mkv&play_token=r2wrZQReZm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763492.mkv&play_token=qB622DLvBM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h208IdrEQ5yEIrZoT6yIuSLfAQy.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ It Ends with Us 4K - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763490.mkv&play_token=3MGDxbvDlA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763490.mkv&play_token=N7iDoHAUiU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smaWxdIMH24gD96lKNe1a036LVG.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Inferno 4K - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763489.mkv&play_token=yXhPEzldIX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763489.mkv&play_token=x927peLunB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i64ot8tIL9XMSwiSQrvi6DuOBpM.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Faithfully Yours 4K (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763487.mkv&play_token=zrfw0ExNas&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763487.mkv&play_token=cK4ifi6TsO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKkaG7HVFVe7C1JuxTGwNz0eSyL.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Am I OK? 4K - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763486.mkv&play_token=y1y3SE1YhB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763486.mkv&play_token=DVSGbwsH6t&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nffEAFrH9XpfnP6ZY69Ai4hWW1.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ They Will Kill You 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762831.mkv&play_token=N6YHsQNz7V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762831.mkv&play_token=4AK6KnFaEL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Lord of the Rings: The Two Towers 4K - 2002
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762830.mkv&play_token=qO5h752V30&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762830.mkv&play_token=H0KXRLvMCG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Lord of the Rings: The Return of the King 4K - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762829.mkv&play_token=u0okR8976j&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762829.mkv&play_token=g4aDPnFq4I&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Lord of the Rings: The Fellowship of the Ring 4K - 2001
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762828.mkv&play_token=FbIJXFHUtd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762828.mkv&play_token=8p7J6F5VXE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEEnA9csdlMOIVeKttV24u639Qg.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Rapaces 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762827.mkv&play_token=oNEYDeLfhr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762827.mkv&play_token=QKkqYgpmT6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Peaky Blinders: The Immortal Man 4k - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762826.mkv&play_token=AqVo5grqpI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762826.mkv&play_token=ITtcWmVQyY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ No One Will Save You 4K - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762825.mkv&play_token=Kk3gC2RGUq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762825.mkv&play_token=8xnUwuGMAR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAnLeakkcgsp7KahiQ43T44Wkdg.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Avatar: Fire and Ash  4K -  2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762824.mkv&play_token=X9JuPFUkrd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762824.mkv&play_token=GgUxgny6Ot&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PzSynMp7AXEX960bW4SfJGzOw8.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Avatar: The Way of Water 4K - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762823.mkv&play_token=MRBasN1EPk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762823.mkv&play_token=rmUqY5lsgl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvn700u83dxVb3mryWKnNyBf7yb.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Avatar 4K - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762822.mkv&play_token=esya9Dgfc7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762822.mkv&play_token=Y4CaHlENcK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj7AcmJRhPW01LtcfEypygApfyv.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Verliefd op Curaçao 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762694.mkv&play_token=eO91TyQgxw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762694.mkv&play_token=GS4s1TdoMq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Vengeance 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762693.mkv&play_token=vXEJdapxK9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762693.mkv&play_token=Et4C6BaIqL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Punisher: One Last Kill 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762692.mkv&play_token=l2ckxQkVJs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762692.mkv&play_token=UR2K7mn9Jd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joal4OSVC4T1yFb3kph91tkNNFf.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Propeller One-Way Night Coach 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762691.mkv&play_token=IHSn1zNcDd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762691.mkv&play_token=KBYzx696wP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Office Romance 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762690.mkv&play_token=FSLnJ1DfD5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762690.mkv&play_token=HIdqxYtAVG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Lift 4K - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762689.mkv&play_token=KiWKM9HCbI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762689.mkv&play_token=cUeF2P28gY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Ladies First 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762688.mkv&play_token=eAj8uq2SIr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762688.mkv&play_token=Xrvz3A31ur&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wv6oWAleCJZUk5htrGg413t3GCy.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ G20 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762687.mkv&play_token=BWjNNAff3W&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762687.mkv&play_token=luBCo8JUQj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myobUMFqh0h8E72Uw4dRFnJ3t9w.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Exterritorial 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762686.mkv&play_token=hZNGtWyLs3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762686.mkv&play_token=rHmjxZSm0U&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Balls Up 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762685.mkv&play_token=uzZO0AhF0F&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762685.mkv&play_token=mq6fgngjsn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Over Your Dead Body 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760863.mkv&play_token=vq0VwbbmVo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760863.mkv&play_token=jWvZBirs6B&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wqoFGTRB2iUnAElxjolw1pP9XJ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mortal Kombat II 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760862.mkv&play_token=9Yy338hpBi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760862.mkv&play_token=ithHrtji3V&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dl1cA7wdwePc9QU2Rc24EPqlcyJ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Bluff 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760861.mkv&play_token=KiuRwpl4AE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760861.mkv&play_token=FW4FEkbxjl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcUdSzPfI006lKYmolzcsy6g8B0.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ PAAZ 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760860.mkv&play_token=YUSI8dJL9R&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760860.mkv&play_token=t16uMlcryE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIWRst6yhu7zBwrvaVpuyFfcPmb.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Killers of the Flower Moon 4K - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760859.mkv&play_token=lRkV01LUpk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760859.mkv&play_token=fczBGmLRoy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Heads of State 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760858.mkv&play_token=FXO6g7lI0i&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760858.mkv&play_token=CzlnpuE0FD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqGS7zqOjMK6LsV6XjKUz5yreYZ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Kolory zła: Czerń 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760857.mkv&play_token=1Gu8r2LHyK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760857.mkv&play_token=XV8asgMFZa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Your Fault: London 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760856.mkv&play_token=gBd5njgQSr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760856.mkv&play_token=iSi8SzhB6v&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbnazCHr8S2l2glyvjPTpa4NbEw.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Thursday Murder Club 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760855.mkv&play_token=Up0CYAln4d&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760855.mkv&play_token=1fKc8gqgRZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Perfect Neighbor 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760854.mkv&play_token=6pkN3xGu2n&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760854.mkv&play_token=VxYVxRX5TX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Electric State 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760853.mkv&play_token=Um7CTDPQcy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760853.mkv&play_token=p2S72IdqwM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8912AsVuS7Sj915apArUFbv6F9L.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Devil Wears Prada 4K - 2006
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760852.mkv&play_token=a1Q5CjcOYn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760852.mkv&play_token=A2F7eiha1I&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGhsOtVzuuZJsi9Bb40mNukKGHw.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Sleeping Dogs 4K - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760851.mkv&play_token=HYpAy7nd33&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760851.mkv&play_token=cuzDhFKtun&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h49Pie8gM2jK0UHGFRjfPB3YTd.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Nightbitch 4K - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760850.mkv&play_token=icQeOucbcF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760850.mkv&play_token=aM6P9bazdu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgHbB9DCE9aE57zkHjSmseszh6e.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Damsel 4k - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760849.mkv&play_token=GE6b9iYMRi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760849.mkv&play_token=17pnUhh5EV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JpUphub2hsZQppIO9xliUIsyo0.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Michael 4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1748989.mkv&play_token=HRTocQXFiW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1748989.mkv&play_token=N5Z74VRCQi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cDCGKBA6XANFDw4km9GvDnFBHw.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Rebuilding  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1605832.mkv&play_token=G5isKwaVoU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1605832.mkv&play_token=1xgJyqyFiV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Killer Whale  4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1605831.mkv&play_token=JmVQiinIrh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1605831.mkv&play_token=Gw564xHUA1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVYLGKvoc9pa67vPYyNe73VaJLY.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Naa Haq  4K - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1605830.mkv&play_token=Lg7UYEOmsl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1605830.mkv&play_token=ngmmSY756z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ De De pyaar De 2  - 4K [दे दे प्यार दे २] (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1605829.mkv&play_token=nJLX36CguE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1605829.mkv&play_token=Ps4OuemlmD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Sicario 4K (AV1) (2015)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600267.mkv&play_token=bNcFQZxImb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600267.mkv&play_token=sLAOGqTkAI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdZpRD2NOWOqgwE0sUSy8ojSHqZ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Greenland: Migration  4K - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600250.mkv&play_token=y3UPMpOLx4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600250.mkv&play_token=Pf6zW31ZrU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Dark Knight 4K - 2008
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1582395.mkv&play_token=Hovl27ddHU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1582395.mkv&play_token=J2AzKXjOrH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2epgo9k2Jrs7qrTL1Rork1mDSKT.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Personal History of David Copperfield (2019) 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543587.mkv&play_token=THfFBUxOmR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543587.mkv&play_token=6phWPL19aZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Ice Age Adventures of Buck Wild - 2022 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543585.mkv&play_token=8yeGjSc5gh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543585.mkv&play_token=mcSRhCH3V6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Good Nurse 4K  - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543584.mkv&play_token=6R7lokZOV8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543584.mkv&play_token=pbIqBreggo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Cljtc3h97xJmsc0a2ISHSIOjif.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Book of Life  4K  (2014)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543583.mkv&play_token=UFysYzAICL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543583.mkv&play_token=lzHRgx660j&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99CnmviP3wqLMXHK441ZPpw1CA9.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Addams Family op Avontuur 4K  (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543582.mkv&play_token=M1FQWMprVg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543582.mkv&play_token=G8bx8H6BZR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Addams Family 4K  - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543581.mkv&play_token=3LgUn9UER7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543581.mkv&play_token=sUMqJZZmHY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Terminator: Dark Fate 4K - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543580.mkv&play_token=RcHXWC3cQq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543580.mkv&play_token=1FDwXyMjqQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Star Wars: Episode IX - The Rise of Skywalker 4K  - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543578.mkv&play_token=GjjyswKA7O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543578.mkv&play_token=tPidDhaLMS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDbDi1KdxkVAJEx4GHKLebPRbGl.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Sonic the Hedgehog 4K  - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543576.mkv&play_token=BLP2b5NfiC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543576.mkv&play_token=JhljSRHj3z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Solo: A Star Wars Story 4K - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543575.mkv&play_token=mbiYPamOGm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543575.mkv&play_token=y2LJBfhLsL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Snake Eyes: G.I. Joe Origins 4K  - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543574.mkv&play_token=PAz60PIP5B&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543574.mkv&play_token=3uhkDB6bNv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Sing 2 - 4K  - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543573.mkv&play_token=IFIvUIZeJe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543573.mkv&play_token=aGuP2oxJvP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Sicario: Day of the Soldado 4K  - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543572.mkv&play_token=JRxfRN3yvl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543572.mkv&play_token=zkMNGWk7mf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aWGxo1E5polpBjPvtBRkWp7qaS.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Shooter 4K  - 2007
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543571.mkv&play_token=2ZsYfiqjxW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543571.mkv&play_token=LHNIIRO188&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Scream VI 4K  - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543570.mkv&play_token=fZwzheT9Pd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543570.mkv&play_token=dDrKKvZGob&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Robin Hood - 2018 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543569.mkv&play_token=0fQZ7afsR6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543569.mkv&play_token=jqeY6IEQNt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bArhvjRHl535XMaSh9VjInF2mSZ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Resident Evil: Welcome to Raccoon City 4K - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543568.mkv&play_token=cpTCMknE8z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543568.mkv&play_token=hozKhnVNDq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Ralph Breaks the Internet - 2018 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543567.mkv&play_token=q9EVL5yQTV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543567.mkv&play_token=8oEQ840w50&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKYKyyIv5YnisxjZtDreWtYA386.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Power Rangers - 2017 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543566.mkv&play_token=f3fSK8raBL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543566.mkv&play_token=258Hd7B9UU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2KI12mB1Rbma4WvjSguGcUbIMm.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Pokémon Detective Pikachu - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543565.mkv&play_token=TPhmARpQgT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543565.mkv&play_token=BAI4M1f3XD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rI5WtXytF0xyHWxi7C2e1Ilr8CJ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Plane 4K  - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543564.mkv&play_token=6J2vRsmfwB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543564.mkv&play_token=xSGGxRGrt8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSixyosPFDZmeuOVutfAokYGpXS.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Peter Pan & Wendy 4K - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543563.mkv&play_token=TaxtdLZGsB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543563.mkv&play_token=Dzh58RLYqu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44KbDjAu4ya37eMDxxkTX3s4BI6.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Over the Moon 4K  - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543562.mkv&play_token=3BDZLmssdf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543562.mkv&play_token=PjjsawSeVr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OXiTjU30gWtqxmx4BU9RVp2OTv.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ One Shot 4K  - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543561.mkv&play_token=CjvWrqrAnD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543561.mkv&play_token=50WuCwXyOF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Once Upon a Time... in Hollywood 4K  - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543560.mkv&play_token=ZQnPqmMnep&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543560.mkv&play_token=nFbTBWMEos&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vclShucpUmPhdAOmKgf3B3Z4POD.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Old 4K - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543559.mkv&play_token=pYuniDID9F&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543559.mkv&play_token=tXisZNI5iA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ No Time to Die 4K  - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543558.mkv&play_token=ESaaYyM5Hv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543558.mkv&play_token=Oa60J1emHH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ National Treasure 4K  - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543557.mkv&play_token=hVDXt6cI6P&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543557.mkv&play_token=vexL2xJOt0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ National Treasure: Book of Secrets 4K  - 2007
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543556.mkv&play_token=AavJNqQij6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543556.mkv&play_token=S3A22geWmW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnIzmcJbe6caNCbe5kTqVQPos5V.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Barely Legal 4K  - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543555.mkv&play_token=4l6eEP3upb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543555.mkv&play_token=vZlqcAdJ5I&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mother/Android 4K  - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543554.mkv&play_token=qKxKk1s0M1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543554.mkv&play_token=AFVmG3XDH1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mortal Engines 4K  - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543553.mkv&play_token=U6uP5Lfmx9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543553.mkv&play_token=MAUkrdCVSf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfMwV6rCQ2RMKnk6xsSyDgFnqYl.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Morbius 4K  - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543552.mkv&play_token=cV2lN7CwXH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543552.mkv&play_token=ghiRB0rXQ8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjTU4fmmGjAOOiOlE6WYDagoSsP.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Moonfall 4K - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543551.mkv&play_token=ahAsD0qTs6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543551.mkv&play_token=yx38csflNL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Monster Hunter 4K  - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543550.mkv&play_token=4Hn0DE9Eyx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543550.mkv&play_token=SBAxOhJpLg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mission: Impossible - FallouT 4K  - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543549.mkv&play_token=q9Tdu0rRTf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543549.mkv&play_token=au2kK5C1dX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1b8esH4ShcYUJJdTtWR0R1IKLkg.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Minions: Hoe Gru superschurk werd 4K  (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543548.mkv&play_token=guozsuXZPG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543548.mkv&play_token=QjNYSi8UK4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Men 4K  - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543547.mkv&play_token=S3TNXXZ4fp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543547.mkv&play_token=rJJflDxT5e&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bL2dvEDgFb8gUpllbBN9jexXANp.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mary Poppins Returns 4K  - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543546.mkv&play_token=iajeGsajur&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543546.mkv&play_token=2kkvwRU5dA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Maleficent: Mistress of Evil 4K  - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543545.mkv&play_token=kVI9TcMDT2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543545.mkv&play_token=3Ki0ir7IL9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezMP3k0nZw1kg1tMar7MBehY6XN.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Le Pacte des loups 4K (2001)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543544.mkv&play_token=GLwoAY5rHU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543544.mkv&play_token=hTiZif9VQ1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msoNrrFkz4S9YQQ7qKR3ETukXum.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Lara Croft Tomb Raider: The Cradle of Life 4K  - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543543.mkv&play_token=YUd7sk5vuM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543543.mkv&play_token=DevDPKzCr1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Lara Croft: Tomb Raider 4K - 2001
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543542.mkv&play_token=uaRA01MK9Y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543542.mkv&play_token=xOKanQv0Jn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Knives Out 4K - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543541.mkv&play_token=kQiUZ1ugCE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543541.mkv&play_token=YUzjE0IUp0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Jurassic World Dominion 4K (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543540.mkv&play_token=3bpFRZEa36&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543540.mkv&play_token=m7RYSwpDMu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Jurassic World: Fallen Kingdom 4K (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543539.mkv&play_token=Lu6dzfzuRS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543539.mkv&play_token=OIO0FFr0ki&type=movie
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RLJ4D6L/Untitled.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Jurassic World: The Ride 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543538.mkv&play_token=M6Rato7bXZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543538.mkv&play_token=KoHrM9R9Yn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Jurassic Park II  4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543537.mkv&play_token=dThATwX0Sw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543537.mkv&play_token=Y2qXxSfkek&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Jurassic Park III (2001) 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543536.mkv&play_token=4EL3JRJV7s&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543536.mkv&play_token=36U1AlSAFt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRKmwU9eXZI5dKT11Zx1KsayiLW.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Jurassic Park - 1993 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543535.mkv&play_token=YEGqTHd9xz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543535.mkv&play_token=8cQjDgbpdG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Jurassic World: Fallen Kingdom - 2018 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543534.mkv&play_token=M6HdanW7uG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543534.mkv&play_token=AyqQN0YVmh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Joker - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543533.mkv&play_token=FZxEVzkKI3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543533.mkv&play_token=qEd5aYqEFY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GsM4mtM0worCtIVeiQt28HieeN.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Jojo Rabbit - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543532.mkv&play_token=mcfZclINVj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543532.mkv&play_token=EbjmazcCPA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃John Wick: Chapter 4 - 2023 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543531.mkv&play_token=QvwR6LLqsO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543531.mkv&play_token=f7y70JKzkk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃John Wick: Chapter 3 - Parabellum - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543530.mkv&play_token=0ZOVQnmSEF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543530.mkv&play_token=4i4bH8bqih&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruHDFumJfW7F2vEqTZEQQ9xT7CA.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Jackass Forever - 2022 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543529.mkv&play_token=mSJmBCXcmJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543529.mkv&play_token=BD9NNWVe9h&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hA2lzDyMkWFHaH8N2Q2Nor31mk4.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Iron Man 3 - 2013 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543528.mkv&play_token=1thM0A1d27&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543528.mkv&play_token=yJ5McrqJwE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJCQjD2byiVF1EG408F9dBn9ndU.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃House of Gucci - 2021 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543527.mkv&play_token=s7Uqa5P7QQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543527.mkv&play_token=xBtB18XNJO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Hotel Artemis - 2018 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543526.mkv&play_token=fBDNsD8X5I&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543526.mkv&play_token=glnnaxELDa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KOwQ6O42pk2mg3xbA0hQJInK5.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Que baje Dios y lo vea - 2018 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543525.mkv&play_token=YkpqJmrbmA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543525.mkv&play_token=Rw5FoCoOoN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Hellboy - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543524.mkv&play_token=OcUbCtIwOA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543524.mkv&play_token=begjxWRHcD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzOHg7Q5q9yUmY0b9Esu8Qe6Nnm.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Godzilla: King of the Monsters - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543523.mkv&play_token=IW1IJ43hXh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543523.mkv&play_token=EptLiwwOCY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Glass - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543522.mkv&play_token=eaV5ZqLMpj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543522.mkv&play_token=0HCpLUHuxH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQp7SiWY7ZIZEktjmPM27YUrkFN.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Gemini Man - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543521.mkv&play_token=wvup9PGUUW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543521.mkv&play_token=kwpytyIr9w&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Focus - 2015 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543520.mkv&play_token=D07s00rHiN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543520.mkv&play_token=qdWqFQYa1q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Fast & Furious 9 - 2021 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543519.mkv&play_token=FjDhn9oazW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543519.mkv&play_token=3dQCdMPCsM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LW6t1zScV4juOlRvzqT8v9hXM8.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Falling for Christmas - 2022 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543518.mkv&play_token=kRo3n6HnMz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543518.mkv&play_token=h7OnOzSRhD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17RpUjdbUKJL6XUC8xPn10ZPzdk.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Evil Dead Rise - 2023 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543517.mkv&play_token=RPSMVQEhtK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543517.mkv&play_token=wlONdHArA2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Enola Holmes 2 - 2022 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543516.mkv&play_token=sZEiSg20i9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543516.mkv&play_token=6tFqdTM3uI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FmO8i8HDbGwNJPcxwxjiAe4U4n.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Dune - 2021 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543515.mkv&play_token=HZvNATeRxo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543515.mkv&play_token=fTGUUWwCez&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Don't Worry Darling - 2022 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543514.mkv&play_token=UiE86Xd0iZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543514.mkv&play_token=RGxgHq7aAE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Don't Look Up - 2021 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543513.mkv&play_token=KtWZb9utbY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543513.mkv&play_token=19dF9UvdNs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCTJPelKGLhALq3r51A9uMonxKj.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃X-Men: Dark Phoenix - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543512.mkv&play_token=rlyWyP6iSa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543512.mkv&play_token=PPPTHwqjIX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RqdjlPjyN59FnMkw5nnpaRXJde.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Dangerous - 2021 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543511.mkv&play_token=6LcqZf9osr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543511.mkv&play_token=tMkjX5vEjD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Cyrano - 2021 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543510.mkv&play_token=li7tw44TJV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543510.mkv&play_token=Jw9XMotUF5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esrzqq7Ud8yoslFTu3J5HqTJVOQ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Cry Macho - 2021 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543509.mkv&play_token=f6Ai9xY9R8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543509.mkv&play_token=U6NCpMjSXx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26RZloFHUyc0GTsybmnUPpSCPHb.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Christmas with You - 2022 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543508.mkv&play_token=L2Y4kr206E&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543508.mkv&play_token=WOsXP5kqAI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AdCQFa2z6M1lyqE8YVCP1DewHo.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Captain Marvel - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543507.mkv&play_token=Vk8sNOPGMt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543507.mkv&play_token=rEnNNzV6rU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Brightburn - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543506.mkv&play_token=93VWqEvCFe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543506.mkv&play_token=lyJaQK4Jsy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Bloodshot - 2020 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543505.mkv&play_token=3Yf1gtuOfq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543505.mkv&play_token=Mvl6Eg1LUx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZMNzqevonQIVTBfSlfyH68IFWf.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) - 2020 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543504.mkv&play_token=UDs1j2Lzom&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543504.mkv&play_token=vFHWK38jSj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oztBLWdRk5gApYmNdADXvXkLT5m.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Being the Ricardos - 2021 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543503.mkv&play_token=18XtXrZiTb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543503.mkv&play_token=a3P7T8Jjcu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stguLTUPp0d0dCsP7Q4qhV7uONV.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Avengers: Endgame - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543500.mkv&play_token=MRER1HNVY6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543500.mkv&play_token=zsvpxuSaBf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFQEO687n1K6umXbInzocxcnAQz.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Ant-Man and the Wasp - 2018 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543499.mkv&play_token=tUDrQJ5nf5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543499.mkv&play_token=gtAxwY1NVt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2U0oAVAE0lDRhNmJPPYhDW9kQ8t.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Anna - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543498.mkv&play_token=nGeidzCfvH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543498.mkv&play_token=aRpeRGyyYk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Ambulance - 2022 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543497.mkv&play_token=1U5SCPdmvE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543497.mkv&play_token=LJHoKdsLtW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/130H1gap9lFfiTF9iDrqNIkFvC9.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃A Man Called Otto - 2022 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543496.mkv&play_token=KmvfctJzZX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543496.mkv&play_token=KgskvrOM5q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Aladdin - 2019 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543495.mkv&play_token=MwrXva8aHQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543495.mkv&play_token=XdGrz3GQ2w&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃Against the Ice - 2022 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543494.mkv&play_token=WORgpTjwZm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543494.mkv&play_token=v1uuX04Hi0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70e9AZGiT9Md3LV0XUX45HK1d6x.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃47 Ronin - 2013 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543493.mkv&play_token=Ah5ACQsTkT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543493.mkv&play_token=AXlQAFSoFA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9otj0gqMwum9AzWslKNWhnQ5Mn.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃9/11: Inside the President's War Room - 2021 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543492.mkv&play_token=FR3xYt74mq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543492.mkv&play_token=F0MaIXpag8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ng7ukqGaSHOuJZ4GwLJP6AH9ixc.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Hunter Killer 4K - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1510092.mkv&play_token=LSzQ5CPydr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1510092.mkv&play_token=ineddBwmLT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57w8njykuYMqFnDohQqFQwbojKu.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Meg HEVC - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473953.mkv&play_token=xmdZI0ionR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473953.mkv&play_token=wbBjW7nZUq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fSkhv35nPSw9hwPVCMINQFG1WD.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Jurassic Park: The Lost World 4K - 1997
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473952.mkv&play_token=j8zGQn8mXk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473952.mkv&play_token=s1fYbcFpba&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8cLgs0uXlb9rmpuVIxopoRGnCr.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Jurassic World: Fallen Kingdom 4K - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473949.mkv&play_token=TBLbOiJ5KY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473949.mkv&play_token=dEz8F4TKdz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Jurassic World Dominion 4K - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473948.mkv&play_token=wrtbajNOCg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473948.mkv&play_token=oVvKbazlaA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Jurassic World 4K - 2015
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473947.mkv&play_token=h29eVWWT26&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473947.mkv&play_token=Xrvgta3YfY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Jurassic Park III 4K - 2001
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473946.mkv&play_token=EsJamPHpLr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473946.mkv&play_token=mzjI1xeeqS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRKmwU9eXZI5dKT11Zx1KsayiLW.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Jurassic Park 4K - 1993
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473945.mkv&play_token=kixWqroWV5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473945.mkv&play_token=7nWk33XoX8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMxiz9KwVminT5HCGOubkcHsK0c.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Merchants of Joy 4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1472503.mkv&play_token=sMxkb5Lm4R&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1472503.mkv&play_token=U0rCDYAoMT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BrXyyrd5amNmpbZNc4gSblt6kQ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Violent Ends  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452990.mkv&play_token=suGOLFffjQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452990.mkv&play_token=AwsDqwo7ZH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4na7r6QwyE7VEAgFDTRZLrStd8D.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Smashing Machine  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452988.mkv&play_token=Jg0t4bC0nO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452988.mkv&play_token=yGokj9CkVM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wjZiFsoKaSR1YQLLCIb52RxcrD.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Roofman  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452987.mkv&play_token=jYwEtcd64U&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452987.mkv&play_token=gZHM4SA9OM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY8JqSMBSiXZh9EbGqUjpF6aacu.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Queens of the Dead  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452986.mkv&play_token=BGiRa32L0q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452986.mkv&play_token=bWVl6OPbnX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yem9CCpQhmcTg8klisNQNg3Ky5L.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Nouvelle Vague  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452985.mkv&play_token=bOv0GpbyHy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452985.mkv&play_token=kTwyVD3ANN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1nFTGWgoP1FAiDsE0NJXTVjORk.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mithra Mandali  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452984.mkv&play_token=xPz5yxtxy4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452984.mkv&play_token=bMIXwp7uGt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4riAIzeuaGRwvFkKWeJkjopv7Go.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Midnight Boulevard  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452983.mkv&play_token=ilKESgZUN0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452983.mkv&play_token=TYVR1hcgJ2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvy0dINISg6SIlRpzALX0p284lm.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Lefter: The Story of the Ordinarius  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452982.mkv&play_token=tkTkNi4Vgh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452982.mkv&play_token=fWbyx7ben7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2PnMs3nGj4bfLROUGGnxR1zl6v.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Kill Tony: Kill or Be Killed  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452981.mkv&play_token=4ZIg80l9wp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452981.mkv&play_token=KJrN4wS6mM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqrnujuqDDO8TRMwOQpfPhuffqp.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ If I Had Legs I'd Kick You  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452980.mkv&play_token=hZZpcIpUBa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452980.mkv&play_token=OfTfxif72U&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cl2Ay0qVRhXsLQuY2A6io16nprN.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Frankenstein  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452979.mkv&play_token=Fvo7tOFX6k&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452979.mkv&play_token=hYs9ccWSdZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEI3DnzQC1afAjJOAizx6UX27pL.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Deathstalker  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452978.mkv&play_token=sVs18yi9jc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452978.mkv&play_token=J17XWELd6I&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AFbcDGT78cLZTyHTSDBohczjuO.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Come See Me in the Good Light  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452977.mkv&play_token=prFEqNKIhU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452977.mkv&play_token=L1YvmlbMuj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ A Merry Little Ex-Mas  4K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452976.mkv&play_token=kQ4So3GcFT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452976.mkv&play_token=TZcKccwpX4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ A Very Jonas Christmas Movie 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440389.mkv&play_token=NvK3vK8wfD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440389.mkv&play_token=KhPTCDbdhu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUMmG3Q0JyAuSx9QpIiMFhI5zDo.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Soul on Fire 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437918.mkv&play_token=HHb4tATF8g&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437918.mkv&play_token=UWb67fLYfv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGodXWqJkkkbSebPIlxLSygV8GY.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Playdate 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437914.mkv&play_token=IlaZPOEFpx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437914.mkv&play_token=519oTEQ9AI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Red Sonja 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430263.mkv&play_token=qAccwR1wdY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430263.mkv&play_token=vUPuZiYWcO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FqMdfqDOGNF90cJof4VERpSGfO.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Rundown  4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327628.mkv&play_token=D9tT9GSamz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327628.mkv&play_token=CUrJ64h2Cv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVwmRGmSAd3CXsz3qXjQ7sRAogF.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Dracula: The Count's Kin  4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1321012.mkv&play_token=C0RXavKSxf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1321012.mkv&play_token=HpkXqA8Lh1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgnCABtbMDaDqn9bt3ZFJTnpA3e.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Undisputed 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317647.mkv&play_token=F4DLHYLfvt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317647.mkv&play_token=lBpr196TBu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5CRM9z0LUoQa8BiVuZZccU8oRu.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Superman 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317646.mkv&play_token=5QHc9Ug7nR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317646.mkv&play_token=nDmVgZFti6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKGYCpmQyV9uHybWDzXuII8Los5.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mission: Impossible III 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317645.mkv&play_token=wpcJq0peYj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317645.mkv&play_token=VNVHrko0NB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfnrual76gPeNFduhD4xzHWpfTw.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mission: Impossible II 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317644.mkv&play_token=A1o4wXEIEL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317644.mkv&play_token=aKntvehSfq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mission: Impossible 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317643.mkv&play_token=LLPCBBsBdW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317643.mkv&play_token=aNUnEVenEd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGNsJI3T0hccv7b4yYegu67ihLa.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mission: Impossible - The Final Reckoning 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317642.mkv&play_token=Uc0ryGNwL7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317642.mkv&play_token=WuCtj7RQcR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwqL7croP7JMVfz0l9o7V4yJsJO.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mission: Impossible Rogue Nation 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317641.mkv&play_token=DFbSbCBTvb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317641.mkv&play_token=fxxMRxnd4F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psiWp3VTjznfokmGQG9uqiiknQQ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mission: Impossible - Ghost Protocol 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317640.mkv&play_token=oSnp95QML1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317640.mkv&play_token=AR8QxzGPRi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mission: Impossible - Fallout 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317639.mkv&play_token=AHU9CiXGJV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317639.mkv&play_token=mkO0Mhupee&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62qExYCzh0nxOG8FvBz2RiA56R6.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mission: Impossible - Dead Reckoning Part One 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317638.mkv&play_token=HSbjCkSNiR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317638.mkv&play_token=aa4sBNgzBX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipKcZ4Up7dp18XpsfYUc9NKZy3g.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Freaky Friday 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317637.mkv&play_token=D5xPLbQCcI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317637.mkv&play_token=tqOO4c8QFO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP5Fb6YRfzmCQtRbHOr2kO7tJW9.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Insurgent 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1291471.mkv&play_token=aLxKOUlDoE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1291471.mkv&play_token=6Z8944GPCK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Divergent 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1291467.mkv&play_token=nK4gsXnM7c&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1291467.mkv&play_token=VGFnpKKgBK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Allegiant 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1291466.mkv&play_token=d7yqbdNTZa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1291466.mkv&play_token=pwMlkME1wl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTBueN0Ru3R7brwtONenDyEMNYe.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Texas Chainsaw Massacre: The Beginning 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1289091.mkv&play_token=46NcssgyiB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1289091.mkv&play_token=kllyIIiIa2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr2gPfajj4Chj3mG1M1aslwvDNE.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Texas Chainsaw Massacre 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1289090.mkv&play_token=NlwoPYag3H&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1289090.mkv&play_token=eHstOYmQac&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77JOqndgcxQwmQb221fvLNbAHKl.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ To Barcelona  Forever 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1222308.mkv&play_token=9LOiyVsH39&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1222308.mkv&play_token=KJJQ059GOh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2w09J0KUnVtJvqPYu8N63XjAyCR.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Brazil 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1193660.mkv&play_token=Wq4xeTrK0I&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1193660.mkv&play_token=IQlSgmyxxQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peDUB1BlIC2dVVo5UZKs7s31nrN.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ A Minecraft Movie 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1192623.mkv&play_token=A1delRgZCF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1192623.mkv&play_token=aTROdPade3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Sherlock Holmes: A Game of Shadows 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170300.mkv&play_token=2ogJMRQjts&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170300.mkv&play_token=h1aP132xcl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvnu6QHyR0gSV1JI6lMyXCny21a.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Sherlock Holmes 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170299.mkv&play_token=8as9R6q8uI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170299.mkv&play_token=HXWIGB8HQ0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ No Country for Old Men 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1162612.mkv&play_token=twrztR5ISd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1162612.mkv&play_token=drqM0MzfwJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zv1xNG2nBbjSZmgArO6fxBIR9vf.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Warfare 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1162415.mkv&play_token=E9IckC7mM5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1162415.mkv&play_token=blz86hyAr4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhqmSGgVKsQskcBHcudkzBXoujx.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Loft 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1162413.mkv&play_token=HdOO2NxioN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1162413.mkv&play_token=4qY3eiMSjm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruW3malZtlg66ODfg614dFbXO68.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Expendables 3 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160485.mkv&play_token=LUhHdn31vm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160485.mkv&play_token=rD8rldldif&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74rTIGyGoIu5KSxDVMdr8H3MtMo.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Expendables 2 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160484.mkv&play_token=5a0uVOo69a&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160484.mkv&play_token=3niN0eRjJN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j09ZkH6R4JWVylBcDai1laCmGw7.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Expendables 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160483.mkv&play_token=878kvUAlCX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160483.mkv&play_token=aVcPPDTaei&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbFJfx5WjTHYz8Ql32ZRWMz4b2w.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ A Complete Unknown 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1123556.mkv&play_token=YR8oYxyd4s&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1123556.mkv&play_token=hgFTe24k8F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ob1cuQzzggELGtWx5TchixKsBVn.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Unbreakable Boy 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121824.mkv&play_token=I5sZSsoclc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121824.mkv&play_token=PyfNtSveOj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukqWWQrJRgJym6dsTt1x3EwR2Kp.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Thicket 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121823.mkv&play_token=IZ3TlcfJ9E&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121823.mkv&play_token=qk4Xw4bUkb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TZ9Er1xEAKizzKKqYVgJIhNkN2.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Electric State 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121821.mkv&play_token=iIs3l1zUEw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121821.mkv&play_token=EJi7ecwPRp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Sniper: The Last Stand 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121820.mkv&play_token=bOH3i8cmE9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121820.mkv&play_token=hXuPELGbhh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCjaL0KXxcHYq2tMLncceE8m6S1.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Renner 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121819.mkv&play_token=hxycsvXMdt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121819.mkv&play_token=fpoD6RFyPO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLVfio0vOlOME4hxS1UA0QxRnTb.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Nokturno 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121818.mkv&play_token=GWFxhrxWEX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121818.mkv&play_token=Td7PyfFClF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTQncKCRKxDAyVsKTaHu7jSV8Qz.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Love Lies Bleeding 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121817.mkv&play_token=IL5thoyKBy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121817.mkv&play_token=uO4NKs5OnL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Heart Eyes 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121815.mkv&play_token=Bj6sbnpj0A&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121815.mkv&play_token=7O1Hh80I7i&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQGxsFTdjS9wr6J9HYckE8cB7Co.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Fog of War 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121814.mkv&play_token=c0Ct3nWkbt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121814.mkv&play_token=PRDq8PDqJF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jO7a8s21tJKYuzyaYjfMepcA8Rz.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Finding Me 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121813.mkv&play_token=1x1AEBDxUZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121813.mkv&play_token=QKEFRJ7C0Y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmQb07CrOddVGV0Q73aeU4e8I18.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Control Freak 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121812.mkv&play_token=3fZIFbSzlI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121812.mkv&play_token=jc4sumPRQf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nDZRPKKd10554NBfUSPALpupq.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Companion 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121811.mkv&play_token=65jOfdqWIc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121811.mkv&play_token=9otgIjBxUP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81wk8XK7tzQiRpct8Lr4ysOBOih.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Les Parapluies de Cherbourg 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115275.mkv&play_token=NBit8bRLcq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115275.mkv&play_token=5QtyBX1lLq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7X7f4SPNeqVgV9FTh3H2ubV0mX4.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Turks Fruit 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1113113.mkv&play_token=XWs9jCBhzU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1113113.mkv&play_token=3vtCuoZLTc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SoBJ38aCfvePgMAneeZYvmz9wB.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Ripley's Game 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1112211.mkv&play_token=qPdidfFpJd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1112211.mkv&play_token=nU2a8kXL34&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee9iNQi91kpIkdfsAiGmJO7QdSF.jpg" group-title="┃NL┃ 4K HDR | SDR",Contigo en el futuro - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1105344.mkv&play_token=6MqyW0D5oJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1105344.mkv&play_token=Z2wzhifPw7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAW7ZdIm4HLKB3g15uMOWYNdU8r.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Lisa Frankenstein 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1100138.mkv&play_token=QJVv4t36ma&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1100138.mkv&play_token=hJOJsVGMvK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Devil's Advocate 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1019092.mkv&play_token=uBEVSgVcUY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1019092.mkv&play_token=SxNdsUs2KV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwlo74haG1XNmp5IdSJ5Gy3KuIm.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Paprika 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1019086.mkv&play_token=oiTlVUd8U3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1019086.mkv&play_token=zfzdoKI7Pp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yGmiUYmfMKQNMFhsPDduxcV06y.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Lee 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1007292.mkv&play_token=34xewXZvus&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1007292.mkv&play_token=PhdHYTp1sB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUPnmDkNRSLFynbpNw9VJrYBEgT.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Gladiator II [4K]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=994459.mkv&play_token=bAsHDwmn5b&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=994459.mkv&play_token=FcO1IIUWPg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MGADip4thVSErP34FAAfzFBTZ5.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Rampage: Big Meets Bigger 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=868987.mkv&play_token=O2T1EUv41e&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=868987.mkv&play_token=n20zfDpot7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45hVacMx3m0nzRwKiCG66en2A1r.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ A Quiet Place: Day One 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=859037.mkv&play_token=c8FxSsWZdZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=859037.mkv&play_token=S705d0nfak&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAxIkPjNrh9nshcpPXNUfGan6LS.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Fien  & Teun: Circus op de boerderij
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=854138.mkv&play_token=bkttVIgzNv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=854138.mkv&play_token=5RiKPtgGXw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC50pDHgQQtoDFNh9bBNDAvpsqu.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Condemned 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=840718.mkv&play_token=zZrSRfH2KD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=840718.mkv&play_token=ya3tRoOEPN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35cSieci5ZHWipU3ILwMgw9UqTA.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ 83 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=833762.mkv&play_token=qq9dIbVxtc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=833762.mkv&play_token=viuejvLGCO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtCUHSf5sG31FL0vugxplft5FXW.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mimi 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=829060.mkv&play_token=C49gTc2E0Z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=829060.mkv&play_token=z0RrQuSSVn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdidDnAZwchN5vTenoNuhGPJTri.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Malcolm & Marie 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=829059.mkv&play_token=2p8juqGzXX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=829059.mkv&play_token=26VfnQlyGJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoObXx53SjSLLtAavMSIe02zizs.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Amores perros 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=829058.mkv&play_token=4JApZaJbJC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=829058.mkv&play_token=RhDQBdQuB6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25h5I3E3ydhazsPDnscWHivq5pn.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Kiss the Girls 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=823478.mkv&play_token=oMed6hPuiR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=823478.mkv&play_token=lA3QUsgNMu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDj805Hdkhj0xrIaqXxUj2SbxZo.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Emma 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=820772.mkv&play_token=ywfbktQZxM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=820772.mkv&play_token=b6PJz3xNct&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyjcLLwxuRXACbglIbwWwaXK9DN.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Neighbours 2 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=819952.mkv&play_token=kc7o80BdPU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=819952.mkv&play_token=cphFLCBkQi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyO9BQ4M4flTOAzP79rmsz61yAT.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Neighbours 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=819929.mkv&play_token=WjPOp5l9wD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=819929.mkv&play_token=LMsBMx94lH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/557r9wTsHdf0ae3MJYihepIZWs3.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Bad Country 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=816363.mkv&play_token=j27mqf3UXB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=816363.mkv&play_token=PvlSDAITyY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ote8HmQOgmoAfqFaqVKsEdgD2q4.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Bade Miyan Chote Miyan 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=816337.mkv&play_token=8kZtDVo3IY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=816337.mkv&play_token=ry5Fp2ZUHf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKXOxfSKsns5SepD3jeNuBD1m1X.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Spanglish 4k
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=815314.mkv&play_token=68sTZUcAPC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=815314.mkv&play_token=cIIWqWJHiJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gIU7O3oV6NyWUjlL6ppbpnIZLW.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Scarlet Letter 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=803071.mkv&play_token=51HOJhL9Oe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=803071.mkv&play_token=v9ITJ130EQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnKqG14HRkvG2BmIfOcmAH3cEip.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Oorlogswinter 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=803070.mkv&play_token=fWUoKkxRke&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=803070.mkv&play_token=e33HJwq2bR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2s2duHKDlOU7ylxrVq2m6Bq6fZK.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ De Lift 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=803069.mkv&play_token=kBrCcGypdy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=803069.mkv&play_token=0bb1p6MoIm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Atlas 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799941.mkv&play_token=FuMH8yUW0d&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799941.mkv&play_token=VoQT92GSHi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Ghostbusters: Frozen Empire 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795055.mkv&play_token=D7f4JWJBK2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795055.mkv&play_token=MIBqQWqaUb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dENgZn7CD6GkPvmxaBAsk8eZDnI.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Perfect Days 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=785192.mkv&play_token=sPX7oNXIDu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=785192.mkv&play_token=wvHcTNgLwi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuYqRgLfiS2tfE2U1C5X5HQn6Ag.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mrs. Chatterjee Vs Norway 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=771909.mkv&play_token=aWyh5b6qQe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=771909.mkv&play_token=ms5h7Wfeeq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lciuCkoZHeDajcvynY2XtFusMnz.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Wish 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=756158.mkv&play_token=tvzOB7q5oF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=756158.mkv&play_token=gXs2JPExS0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjfc4YwpWLhMHbpxgPoA5s1xBN6.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ My Name Is Loh Kiwan 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754588.mkv&play_token=Be5ebkmgUx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754588.mkv&play_token=Lcpf169sy1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DmHlAhUVgQ7yrUZgCyFN6wXmYD.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Mean Girls 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754587.mkv&play_token=X74BzjENGR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754587.mkv&play_token=Vwc7pDgxPC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7QI9Y6lXxBson48fCo4mrxkseI.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Kane 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754586.mkv&play_token=QHfIhu93me&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754586.mkv&play_token=FHVxDJTpTU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f46WvKEsBn98WJbPJcO47ZoKn6B.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Spaceman 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754471.mkv&play_token=nuqtlVwIb0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754471.mkv&play_token=4N1lrU5F6C&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Beekeeper 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754413.mkv&play_token=PpGxDrSQnk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754413.mkv&play_token=4XbAhqcorb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUNulNtvGr4vmHQCq8a62ZlIw56.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Zone of Interest 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=738664.mkv&play_token=qwzzzkoSFy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=738664.mkv&play_token=CbGT6tdXN4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lciuCkoZHeDajcvynY2XtFusMnz.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Wish  [NL GESPROKEN] 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=719125.mkv&play_token=qp6qHhgsSh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=719125.mkv&play_token=vlA77dYLr7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucgzejQtypWik9dIpIjMISpGIyD.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Ferrari  4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=715966.mkv&play_token=pMLpGkc1BK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=715966.mkv&play_token=bL0WC2Pb5l&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDUsjSAvSVjvwSJmsMWjpuapNIr.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Aquaman and the Lost Kingdom 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709001.mkv&play_token=7o7lhlOW0u&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709001.mkv&play_token=nxpSf9PGxa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moDpgrc6xOnfWPqfRokhbc9mvnU.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Wonka 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709002.mkv&play_token=zYEfLr7Tkx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709002.mkv&play_token=iYNVAsWWyg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l49yq3ViFcfL4qMrXodhaR9OPy3.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Chronicles of Narnia-the Lion the Witch and the Wardrobe  4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=693485.mkv&play_token=w2eYQ744bT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=693485.mkv&play_token=YS7laKNkOj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iWOtLAW07ozUv4AXAsHcU5AB2E.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Chronicles of Narnia-The Voyage of the Dawn Treader 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=693484.mkv&play_token=SGjClYtH9j&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=693484.mkv&play_token=kNCQQcBosb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUFusIoJGi1uCf7MWC7iIwOSoVz.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Chronicles of Narnia 2008 Prince Caspian 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=693483.mkv&play_token=QD3oA3Aa1y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=693483.mkv&play_token=AlD1TTGtFl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3t7PhdMLPTtgswnoOflNjyHf601.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Freelance 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=654258.mkv&play_token=tVzooYHWAG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=654258.mkv&play_token=vP8LsflAVi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilHG4EayOVoYeKqslspY3pR4wzC.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ Run 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607774.mkv&play_token=tJetouN52A&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607774.mkv&play_token=fLU9bA1ml3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdszPVnIY7cWgbgJ8zbwu1PiU5V.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Little Mermaid 4K [NL-UK]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=600574.mkv&play_token=ExpEAN5OrV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=600574.mkv&play_token=li24SXKwLn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg" group-title="┃NL┃ 4K HDR | SDR",┃NL┃ The Flash 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=485110.mkv&play_token=snjTc4jKu4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=485110.mkv&play_token=2tWcHI45Iy&type=movie

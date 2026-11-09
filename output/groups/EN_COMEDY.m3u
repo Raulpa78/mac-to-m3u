@@ -1,29 +1,1373 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuArI6EBpV6mExrvfnyidoOtzdf.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Waiting for Guffman (1997)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292864.mkv&play_token=wt3PPxOWGn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJmLmors19hXAZn8wmFLtbOs3Qq.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Van Wilder 2: The Rise of Taj (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292860.mkv&play_token=P2J8ihxbI5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAXWOj1qznqWWVcXpZ0JZOgvSp2.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Undertaking Betty (2002)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292851.mkv&play_token=yimwIoqHsL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Lah6OK2sOPuJc5NsUc443PrHE4.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Trailer Park Boys: Countdown to Liquor Day (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292832.mkv&play_token=f9pkAZh3nC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVFVRLNrccHdPHqrrqtKT0L6oWs.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Tom and Jerry: Robin Hood and His Merry Mouse (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292824.mkv&play_token=HCNRaDtIG9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TSqAghgHeXA7nHXNDp0wuovj3X.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Toast (2010)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292823.mkv&play_token=d6G4o4WMBI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBLjXNRkH0KuC5JEnGBUZx3SQw3.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Thumbsucker (2005)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292814.mp4&play_token=EeGNtOpueI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpglnOBYmKn0AkkWDzGxzKHDbds.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The World's End (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292808.mkv&play_token=6vtAtFZdHt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miT42qWYC4D0n2mXNzJ9VfhheWW.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Waterboy (1998)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292805.mkv&play_token=ZlZZm35eqt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Santa Clause 3: The Escape Clause (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292788.mkv&play_token=8aF5j2LHYU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDrcZva4MuBDGr7dwukQm5MCoyk.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The To Do List (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292783.mkv&play_token=APy6Lj5gw3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3lllDltoBws5uKZzBYVSjpjjJx.jpg" group-title="┃EN┃ COMEDY",┃EN┃ This Is Spinal Tap (1984)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2287290.mkv&play_token=UiFGTl7bKn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOmoAXkSL1NDBmR0GfyL3UJlOYn.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Theatre of Blood (1973)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2287283.mkv&play_token=vhGlI9Q1xd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqQksnbEfmUGL0zj3MIb53euAh6.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Women (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2287274.mkv&play_token=sgWl0W5Cyx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7L0o3XXJpq6fg0OalH3CjR7k68S.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Whole Town's Talking (1935)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2287271.mkv&play_token=wzdmPc6jzZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VWwYsuXhRImUtrJGvN6bYJB2He.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The War of the Roses (1989)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2287264.mkv&play_token=xqzAwfFS3u&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rq96Ihbqb1eU3TEBVtgFlqbeX7.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Ugly Truth (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2287249.mkv&play_token=L5CJQerg2c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuza0WqY239yBXOadKlGwJsZJFE.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Truman Show (1998)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2287247.mkv&play_token=zxbCkpDFsI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbdN1MGJI2vIV9yKqDkAsazWQIT.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Trip to Italy (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2287246.mkv&play_token=Zz4uX8ceOq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGxXtFLJ4MptoEuAcJssTimJvAD.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Three Stooges (2000)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284806.mkv&play_token=HsUQX7mjGP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygr0Wlmm1KmE16TUefNitIscVBG.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Stepford Wives (2004)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284794.mkv&play_token=PcccRsmeur&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NbXn1NMdfGM491V3EFjZADR9SX.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Squid and the Whale (2005)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284790.mkv&play_token=hSdWqxYvkH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obDS8pTWVWZiNAaTyfIFWYZbRsZ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Spectacular Now (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284786.mkv&play_token=H3Btj3uJkB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yX9skMoAc1JAimJFtczEif4f1jS.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Slammin' Salmon (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284780.mkv&play_token=JZSqP7F6tW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKVwaF5RzibSYbKu4cXh3HAZxDx.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Single Moms Club (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284778.mkv&play_token=nS3xDIuw0S&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yT4vQVUI4DoQar4elkqbHB1pjf0.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Secret of My Success (1987)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284768.mkv&play_token=w5B9P81hgr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Rocky Horror Picture Show (1975)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284764.mkv&play_token=59eqqVT7kA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GGCch9LNAKwp4ZADAcNz1hd1dn.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Pink Panther Strikes Again (1976)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284747.mkv&play_token=IXPbHVZgkt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Philadelphia Story (1940)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284745.mkv&play_token=sEThwAhit8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2epgo9k2Jrs7qrTL1Rork1mDSKT.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Personal History of David Copperfield (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284743.mkv&play_token=n9Jo5shuqv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4BfxRK8dBgbQqbRxPs8kmLd8LG.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Old Man & the Gun (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282922.mkv&play_token=yYv7cKupdc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iHnGlmOjAj2k5zUftYDIzSITCf.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Nut Job (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282920.mkv&play_token=W0ccE53ctc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clq4So9spa9cXk3MZy2iMdqkxP2.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Nice Guys (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282913.mkv&play_token=CkuKvOOtoi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGfKFEnKqSVaM0I2xxUnDeLx7t4.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Long Dumb Road (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282891.mkv&play_token=7xQZOu8IKB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/an6BPi08YI8fL2DGwvgb1vkVyyb.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Last Married Couple in America (1980)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282878.mkv&play_token=cSbylQUdeW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQoNkO99qfaBjh5aoA0pKau1prp.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Last Detail (1973)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282875.mkv&play_token=gBWqPaN6Fj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xO2dJcCISY6lujaU4Qew3RzSErJ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Knack... and How to Get It (1965)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282871.mkv&play_token=odL59v3XtX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drgMcyTsySQBnUPGaBThCHGdlWT.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Kid (1921)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2276528.mkv&play_token=OiSZsP6IVp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clP8tDZeM9jgnqmu4VBClBDpLtS.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Invention of Lying (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2276520.mkv&play_token=UVZJwFWo8j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkmWkVgirei79bwds23Hr0lWSXS.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The House (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2276507.mkv&play_token=iVD7LVHaC3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55JqWqocsMNx5uanELDRDFqu40J.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Guilt Trip (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2276497.mkv&play_token=3mtAJ7MR9g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qiDqaJEUc2mCqErJ5V7N40mgoN.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Great Scout & Cathouse Thursday (1976)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2276493.mkv&play_token=IIx1RsMzaN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlj5rCl7jfW7QskJ1vucd7j5n5M.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Glass Bottom Boat (1966)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2276486.mkv&play_token=06359ZQ7Mh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ApifgYnfdJUSmCKzTBrWOYYWsn.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The First Wives Club (1996)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2276466.mkv&play_token=u84yUSlHK1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgHF8syPdDxr1WSOPpAGWoIAeN9.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Farmer's Wife (1928)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2276457.mkv&play_token=Cyg56iA8WQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ht2IMGynDSVQGvAXhAb83DLET8.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Farewell (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2276455.mkv&play_token=ncyarfTtmD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40ZAC1HMDL8knY9r7uJ7uwj5udy.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Extraordinary Journey of the Fakir (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2276451.mkv&play_token=XGIqifM93d&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15FykQKiM0aYpC1MuybR43xl8eF.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Edge of Seventeen (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2276447.mkv&play_token=7kl3VtwcK4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFbxahzgLzJz7i70zcCzzmydwwL.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The End (1978)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270267.mkv&play_token=18fQLUjdOy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FbHUUyOagUQ3eDjLCXMzNW90R4.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Divorce Party (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270254.mkv&play_token=llmJda3e4s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN4ILX2x64PvT2jIOAHXxCOi5WA.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Discreet Charm of the Bourgeoisie (1972)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270252.mkv&play_token=FLEo3CztKu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HuLGiyH0TPYxnCvYHAxc8K738o.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Disaster Artist (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270251.mkv&play_token=W82wIQI8Dh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc5HUdBbnMSST78sfujsOU4T0Vk.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Devil Is a Woman (1935)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270242.mkv&play_token=e9Qglgsbxd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cDq5UlOPYeKm39okALCEOsZPxk.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Descendants (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270239.mkv&play_token=OXfbPrK4QL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TfBEcezQtJMrAuQGlxXdgcLc7l.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Delicious Little Devil (1919)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270237.mkv&play_token=UXQWDWg5G3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Death of Stalin (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270231.mkv&play_token=sLgFBJSubP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vURitOcmtcH8Dr1bWryTvfkeyJX.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Death of Dick Long (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270230.mkv&play_token=s9lEJGowJW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chb9BGRb8Uegw2xJng8BDghXM0P.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Con Artist (2010)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270201.mkv&play_token=PdxL2IGpva&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXfUKvAHTIifAU7IP17kl1ZBGh6.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Computer Wore Tennis Shoes (1969)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2254757.mkv&play_token=BMMjPECJyd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohE8SM7UyrTRuKyF0dlSWZLPZPE.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Big Team (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2254734.mkv&play_token=ntxlgyIkLu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Big Lebowski (1998)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2254733.mkv&play_token=apoWkkHaAx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw3PNR3NVeKKfLWv8SgFQnXoHZh.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Best Little Whorehouse in Texas (1982)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2254730.mkv&play_token=LfsaaXgIlH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXMxdC7T0t3dxislnUNybcvJmAH.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Beach Bum (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2254722.mkv&play_token=lp9ulQHV7N&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQ7XoEqroHcCQVKP9Xo8JpujuHU.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Banger Sisters (2002)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2254712.mkv&play_token=FNGAdsHfgW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAzKNxGnbK5SL7VF7UeQyZdQLHV.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Babysitter (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2254705.mkv&play_token=VZSQQrbQLq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTq793Qwl3tCXb94zrDPAwppbsC.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Art of Self-Defense (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2254693.mkv&play_token=XhOSHa5Jda&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSkhcbHkk23fR3qhYJestqtamWK.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Adventures of Priscilla  Queen of the Desert (1994)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2254678.mkv&play_token=9e15DEHioC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKqPAMTJA7df8bHiPPbpV7RzEl8.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Belles of St Trinian's (1954)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2254675.mkv&play_token=Kd1LokNzaA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSAfIqMTRwEsW51baMXaNK5i2fg.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Supporting Characters (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244386.mkv&play_token=24L5NJG3ap&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mF4yqbv5lzax2xbtHMM37Dmhtw2.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Adventures of Barry McKenzie (1972)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244382.mkv&play_token=OALsdaCheg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khSBh0dDnPsWel6P2zyZCQ2UnMp.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Adventurer (1917)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244381.mkv&play_token=w3Uy7gryj8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaLhdRsZ5Mq8VfZtA4Wlvjzzn0X.jpg" group-title="┃EN┃ COMEDY",┃EN┃ That's My Boy (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244369.mkv&play_token=SwIvaVax1d&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZQsCjoenn7IqoIKBDMMd202huH.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Thank God It's Friday (1978)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244367.mkv&play_token=fOLnFYekv4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLK2NIh2TXzaSHuU7eLiLH2MkF4.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Teenage Hitchhikers (1974)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244357.mkv&play_token=Eds3tztXwI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJBIybU3r5NaKnbxdm4Ek9dOQPI.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Teen Witch (1989)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244353.mkv&play_token=HbXLjsiRPa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Ted (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244347.mkv&play_token=c55W5CM4bA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38C91I7Xft0gyY7BITm8i4yvuRb.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Ted 2 (2015)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244346.mkv&play_token=NwqTReQB19&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGv0tkWZZSmoaPYiOsDcGmMhKq7.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Teaching Mrs. Tingle (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244344.mkv&play_token=y27g0p9mwU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7EOfHUR95rEFMQmvhxLyuUdaRD.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Tamara Drewe (2010)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244335.mkv&play_token=A4jXNduaDH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nInduPOusI1alDIC0UttFjDIKsO.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Take Me Home Tonight (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244324.mkv&play_token=v7qB8dt6cH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/te74pVWSkJkBDDnXO1PWMl2hfHx.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Take It Out in Trade (1970)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244323.mkv&play_token=qwszTxiDRa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WtFoWtGp45PLNmajM8iGtjAA7B.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Tad  the Lost Explorer  and the Secret of King Midas (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244321.mkv&play_token=xUN7SfBtQe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aa5pWY2IVObKS7JZpfEw7Fe4FJk.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Swing Vote (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244310.mkv&play_token=fAp57FB93e&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAa3nTeDpwgLX6XxnT3wR86C5WE.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Swept Away (2002)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244309.mkv&play_token=0irmDWu2FZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25lpQtxNWXzOimnXmbwF0Y0GYej.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sweetie (1989)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244308.mkv&play_token=2CSRQOkB52&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jHtvFpCOOqp2U2qwI3L3h10cUv.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Surviving Christmas (2004)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244298.mkv&play_token=ksEHeQSttv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zi6REHykiR8FIR18MGfS1S9sf1C.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Supercock (1975)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244295.mkv&play_token=VM0WWOl1gu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXfwrs8g3pY4mmaO5WDAowWLqBg.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Support the Girls (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217542.mkv&play_token=2fykvPHFPD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJyxPItcLNVfYr7idOphQTmQ9hK.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Super Troopers (2001)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217534.mkv&play_token=h1kifqDyjw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OsWiIBLcYPd2mP6GvyOWykOISJ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sunshine on Leith (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217529.mkv&play_token=djmdL4V0o9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwtJyfme086wcz9MXpP0i5Hrgxy.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sunshine Cleaning (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217528.mkv&play_token=1wXQNyoj53&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbzXX3CYtKUBrPeMcG7PVoLQHXB.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Submarine (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217523.mkv&play_token=djZaJ3NXbx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvggBbEraUTAVR6ffP3AaBUWSHs.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Step Brothers (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217511.mkv&play_token=Ws6izYXC1e&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qDBDXA8Od8gc4IQMnoXUKyj8Pf.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Stan & Ollie (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217488.mkv&play_token=RjQqM4663I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWlJfxePrUrUGXv2bCxqncId3x2.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Stage Mother (2020)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217484.mkv&play_token=7C2RstkrFw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfrB9E1hiXU4D4Axw4DpIZtUqRf.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Spycies (2020)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217483.mkv&play_token=KYxfiLiZSm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thxoT6FdQviEw015PlFYoUleryJ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Spud 3: Learning to Fly (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217482.mkv&play_token=co9nJkjkbJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QGj83QNMD5SSP9OrmsdTOokSzw.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Spud 2: The Madness Continues (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217481.mkv&play_token=Sj2ff8ZVRx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXt4ilTxsrY5a1Lagp1TE79vIvN.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Spite Marriage (1929)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217474.mkv&play_token=8nwsmCBhSS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0Sx8nd9Irq0aCPbsN78s0DYVlG.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Spies Like Us (1985)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217469.mkv&play_token=qjmSyrSaI8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Space Jam (1996)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2194711.mkv&play_token=M3Qc4jc5CO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsRx6Hw9yHRDJCcVjJjCY6AkdfT.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Space Babes from Outer Space (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2194710.mkv&play_token=pnw2aBcuIU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5Rzb5JUwPinllWGYUYER3OV14F.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Soul Plane (2004)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2194705.mkv&play_token=nkNgRFcxOD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sorry to Bother You (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2194702.mkv&play_token=Ea8OgvNd1E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caCpFT0SjltDb0uy29LWv2MRvr7.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Son of Paleface (1952)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2194698.mkv&play_token=U1vInf1fKj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45QgvkuwZF8mffzDcK3wZSpNpA0.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Social Animals (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2194689.mkv&play_token=F1NJLiRRwN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDiXGOBa0SjY30rzl26DeSP16bk.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Soapdish (1991)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2194688.mkv&play_token=gUUQZzWODw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSDdaaNPcKWOOJ7nliC0eWxbhrE.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Smashing Time (1967)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2194666.mkv&play_token=M6HwZDcyDw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTY6I0Mju4vTRHGoTZrNtxtAlAO.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Slums of Beverly Hills (1998)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2194661.mkv&play_token=zEZMf01Ynn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNd6qM8Qa8tLFOiUOiEivh0qBkH.jpg" group-title="┃EN┃ COMEDY",┃EN┃ She's the One (1996)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2194649.mkv&play_token=TTByH8q8xX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwxAUj8tf9kO2ESAriD8foYN28q.jpg" group-title="┃EN┃ COMEDY",┃EN┃ She Done Him Wrong (1933)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2194648.mkv&play_token=euy0spvN5J&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gLzrTg7Kmw7yH7YsUWdT61hAMW.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Skidoo (1968)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180118.mkv&play_token=0yPgSZ0eiC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDlLWxvr6lMBRevo2RXb0eUF8RQ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Ski School (1991)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180116.mkv&play_token=R0KAWria5D&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPZxIeDAQflWnYB7aqU1zPVYgmY.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Skatetown  U.S.A. (1979)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180114.mp4&play_token=YGslohIjc0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sixteen Candles (1984)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180113.mkv&play_token=54d0PtRuzZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlkBp5S6Ei5f54031rAhyb4IwML.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sister Act 2: Back in the Habit (1993)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180110.mkv&play_token=PtLbcYILek&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZvVSZ0RTxIjblLV87vs7ADM12m.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sister Act (1992)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180109.mkv&play_token=8jNWwY9OKi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEMxg10xQ9vqRCWi4QmO4kkL1Ru.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sing As We Go (1934)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180107.mkv&play_token=bZVmin0Ffb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l52cpdZcVkEVTaLqga6xxSQoaKX.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sightseers (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180092.mkv&play_token=a48gDUkM97&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dvxCBUfDG2cAdkA921rERxhtcp.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Show Dogs (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180082.mkv&play_token=n2juixcIaq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXzkNsPEA59EON5PMVXsURe8o67.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Short Circuit 2 (1988)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180078.mkv&play_token=75VDoIlPMl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3eimdUK6lLe0iaSlLrYVQF3yeL.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Short Circuit (1986)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180077.mkv&play_token=mtmXAjsfN2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8exPgs8jLGh26BGSrAyHa9MeFyO.jpg" group-title="┃EN┃ COMEDY",┃EN┃ She's the Man (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180069.mkv&play_token=YjIJNDzmkD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVizGmUr06F8LrVXt6nEYrmwmos.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sheep & Wolves: Pig Deal (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180063.mkv&play_token=jLXdh8pEAh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWYAXtdYF804aT1muO0G6FuR2Fa.jpg" group-title="┃EN┃ COMEDY",┃EN┃ She-Devil (1989)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180058.mkv&play_token=DAwjZ9KyiV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Shaun of the Dead (2004)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2180057.mkv&play_token=VyyGF2cl42&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6anwn2NxTw7NwVEEU4qhVwN3Exi.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Shall We Dance (1937)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2166594.mkv&play_token=nwi9oRSFMw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfTWQ7GfH462FVmYEGQB1oHR6H4.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Shakes the Clown (1991)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2166593.mkv&play_token=0mgYHSiSKK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4zmVdQq35ZBj8uyxsU2RCPOQxo.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sgt. Bilko (1996)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2166582.mkv&play_token=F9BABlLBFy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YXjhDtTILHvhTngMwjrihwnX3h.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sex Pot (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2166581.mkv&play_token=4TDxe6zbb8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ukEYAxlSivFcDG6vLxJB6PjTjg.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Seven Psychopaths (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2166576.mkv&play_token=6PSdrSValF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7hHD55P4u0GeYHOSkUEGrRdEoD.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Seth MacFarlane's Cavalcade of Cartoon Comedy (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2166571.mkv&play_token=WzXYlLautL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAZkFho9YdIXPmMdHMwr10Go2FF.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Serial Mom (1994)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2166568.mkv&play_token=Ncyw5LCKLg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqy7OFHWy1NMjmgjyI8XYcl0VU5.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Senseless (1998)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2166562.mkv&play_token=c3KitGIb3i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KJrvJf96UpkXsWVOjzCo1IbnW6.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Semi-Pro (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2166559.mkv&play_token=9CJagsJGHL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pr9DXClc5hHJDUZ7iCmMbmqHXur.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Schlock (1973)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2166554.mkv&play_token=ueC5TCscsu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYoA3WWxYUBewyCWQ57UsQNil4P.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sarah Millican: Home Bird Live (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158208.mkv&play_token=EqHipUDkwN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yxsuePgTQhsgoDiz1eCCY27kD6.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sea to Shining Sea (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158206.mkv&play_token=N7upe2EGfE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maUMIZVGs8g1hYtq4dQ9Lg9FtVF.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Second Act (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158198.mkv&play_token=ltLWR7B4FI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnhMdtcbZnzcA9cMuZttwosaXji.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Search Party (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158195.mkv&play_token=kQJ7fgVvFU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AZJFINXgphliybGDrc8Dz6Sp0g.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sean Lock: Purple Van Man (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158194.mkv&play_token=CfBgRWhUTK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nF290EoEn2rs4W9VVercKa4S5o.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scoop (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158181.mkv&play_token=fIfSxE3DJt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ0UlWWrBn2fnAg4SifTJbDUuaf.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scooby-Doo! and the Samurai Sword (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158180.mkv&play_token=OzBg9VWCbN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKmFscYvGLMnZ5TslwxCge5oELO.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scooby-Doo! en de Cyberachtervolging (2001)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158179.mkv&play_token=kxPGRpl83m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcSjTyzy1IOt2W7nR4X3uWUx2xj.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scooby-Doo! Mask of the Blue Falcon (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158175.mkv&play_token=Fg0dAHoXLJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ql1KEdLPr0bl5503qFiUscDT1q.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scooby-Doo! Frankencreepy (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158174.mkv&play_token=vEJN9XSxnP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BrXCJrs22bR5KR6mLHluYo6y4m.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scooby-Doo 2: Monsters Unleashed (2004)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158173.mkv&play_token=ztA8v0FR0h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zER4fuEw6qlMkC3mBGcht0r2Iqw.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scooby-Doo! Legend of the Phantosaur (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158172.mkv&play_token=uBnBX9f8Dc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The School of Rock (2003)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158170.mkv&play_token=eI9rqYW4Z0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffudFsgDUBfxbesYELDIrNtKdkz.jpg" group-title="┃EN┃ COMEDY",┃EN┃ School for Scoundrels (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158169.mkv&play_token=qm8M2IuXAc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Q8yE7ijikNXWItWnAJkjt9yWvn.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scenes from the Class Struggle in Beverly Hills (1989)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158167.mkv&play_token=dntElOhdN3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBqLLxE6GaAPhO6v9EFvFbLZ7Ap.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scary Movie 5 (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158165.mkv&play_token=hQSI4dphCZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEwlu8S0z1AibuX1weLwUyiRWFl.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scary Movie 4 (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158164.mkv&play_token=dpdk5xM57S&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dLsax5KSwlCY5uWXETKjud5k6U.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scary Movie 3 (2003)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158163.mkv&play_token=AlSB4wWVGg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scary Movie (2000)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158162.mkv&play_token=9dd1lIDD5r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scary Movie 2 (2001)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158161.mkv&play_token=NK4Xyp3G9c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjIFVCSdSZx2v4weGjCncyqEXgD.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Save Your Legs! (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158147.mkv&play_token=eEv2pkAMG0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNgdPJQ5CI60oEiiHLKRNrsDhMy.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sausage Party (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158143.mkv&play_token=c4YDBxWVQw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8S8f8hyk3GzRBfhPtEeAkxEsVKm.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Romance on the High Seas (1948)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2158124.mkv&play_token=lJB4BsCi1G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWUDd5PQc0BSybjLqIZyJdBdX4t.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Rhys Darby: I'm A Fighter Jet (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149810.mkv&play_token=6toE7zNO65&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyY1onYxkKBDlJsheRsVbMaoQEM.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sahara (2005)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149808.mkv&play_token=HufIYtLojC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6irq1xZdQ8rC4AuxPDlA9NkPyYs.jpg" group-title="┃EN┃ COMEDY",┃EN┃ S.O.B. (1981)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149802.mkv&play_token=7yQcAZtB5h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Rushmore (1998)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149797.mkv&play_token=we6EpvaMHk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzivR0yWJStVdhcl0A5rQvVdTQ7.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Runaway Bride (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149792.mkv&play_token=61ufQltlFa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VJg810IoARDJDtZFGePRciXcsV.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Room for One More (1952)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149779.mkv&play_token=g91q0A6km6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxoDBrtLqMsjMlfWb2caRRY92Xg.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Rock 'n' Roll High School (1979)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149774.mkv&play_token=pA7UaiZbtN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woexOLEkUlYsPLLuZRK6LjZaF38.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Robin Hood: Men in Tights (1993)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149770.mkv&play_token=DmLQkATbmb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpPVsnAojTQxkAvp6llj24vhl2d.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Roads (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149763.mkv&play_token=bfyswxS4Mp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IMy908JxRDw9xYPuJ0OLFy0cjK.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Riff-Raff (1991)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149754.mkv&play_token=PtXSGqFE3I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9hw9XSk8uVgLRfq3cweiAEJtU.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Ricki and the Flash (2015)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149749.mkv&play_token=1FwSGUqT48&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elpbF2qmAh6T9U0vYDjFTt4BHy6.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Return to Nuke 'Em High Volume 1 (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149740.mkv&play_token=fh6JPKkmWc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MBiKqTsouYqAACLYNDadsjhhC0.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Red Shoes and the Seven Dwarfs (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148689.mkv&play_token=PeraJVP5sQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weoWjDu9lVjpnxq9Ux16VZUAiot.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Red Letter Day (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148684.mkv&play_token=RCwVHDdZOD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8az0Tr8hEGDmrUH9WlFz1QIKsMy.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Real Genius (1985)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148674.mkv&play_token=nKwS5DIChq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3qgKFySWDs7vCjMn5gSxGV2fpI.jpg" group-title="┃EN┃ COMEDY",┃EN┃ R.L. Stine's Monsterville: The Cabinet of Souls (2015)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148656.mkv&play_token=AwO06zhFy8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xMGleoQdZV3RWxnSnI6RXPwSc6.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Queen of the Blues (1979)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148650.mkv&play_token=pn7kBumMPz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77hzrjyRGCuytrz6xYc8Cv2JPDy.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Putney Swope (1969)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148646.mkv&play_token=rLHr1o2Xvg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsJlOhVHiz1xXr36616EI8tJ4b2.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Pride and Prejudice and Zombies (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147970.mkv&play_token=HdpDxfc8QG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58jVVD6pjoWulCvSQdC6lRf6bqp.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Aliens vs. Titanic (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147964.mkv&play_token=nOQcoqE6VG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2ksKdmWIoUh3GJfu9oEBLorjAJ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Poms (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147943.mkv&play_token=zpWgpjr92O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3517XQ9LpoEykyYq2TuDNS45MPP.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Police Academy: Mission to Moscow (1994)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147938.mkv&play_token=4bSsihtGrc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRFJ3xLewH1rwEplZBfKS4vGpFV.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Police Academy 6: City Under Siege (1989)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147937.mkv&play_token=5YXCdnvzrg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4m1qfTiVxdEDv0fgUf0FI7CA9Fe.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Police Academy 5: Assignment Miami Beach (1988)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147936.mkv&play_token=fzICeY027G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvk5aWBJE3EqDX2ln6M4J4UiUXr.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Police Academy 4: Citizens on Patrol (1987)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147935.mkv&play_token=SxrLn5kT3S&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E6tigDzRptEtkZl07bCIKzuOXL.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Police Academy 2: Their First Assignment (1985)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147933.mkv&play_token=Q07RkLkwn8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PriqoVUQcPwcyvk0SJRiMTdBJK.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Police Academy (1984)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147932.mkv&play_token=5i4rFCD8N1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwi2cET87xArJCb8MdbWq2BZO3n.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Planes  Trains and Automobiles (1987)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147927.mkv&play_token=sJeVyWvYen&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdnPEuJe69F58MphzHnXovcfBK0.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Permanent (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146552.mkv&play_token=o2WOhkXMl8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UAa8AVZfNiISv3K8eKfyuzSAxI.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Penn & Teller Get Killed (1989)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146547.mkv&play_token=WZwqRB44fi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k95uACMjBx3iPANxfBi4pF0PhOs.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Penelope (1966)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146546.mkv&play_token=Jlc0NvnHmP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBTlnEuKSMoNKO4zYAZ78wcxgkc.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Pardon Us (1931)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146531.mkv&play_token=wgtrmRhQh7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5C42mPi2VhjoEv0Tka4qOcr5oc4.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Pardon My Sarong (1942)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146530.mkv&play_token=ZR9enj4Q0W&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycPH8DZp6qZ5TJuf95pDGoYDFWo.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Paperback Hero (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146519.mkv&play_token=eSSyre6okg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28Y3pxfkRZMhLsw4if6e3J0HD7Q.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Psycho Goreman (2020)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146516.mkv&play_token=y1WrjLeO1P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Palm Springs (2020)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145512.mkv&play_token=LBj1WUzuJd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woPb5Bb5zpmjg3LtMUJIFfXpOCh.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Palindromes (2005)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145511.mkv&play_token=Lo5CGSNPFE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkHMLEFB3ecs3giMbT5h9tDMGhR.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Paint It Red (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145508.mkv&play_token=lrIby4mfz9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WqA0Ry9wmTzFvom8mNbcyKZQgP.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Pain & Gain (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145507.mkv&play_token=PMEPPPRlsO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhpGygYVXyuxy2VGCxZR7Q68ZLA.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Out of the Blue (1947)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145500.mkv&play_token=Zogyrnvjdw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWQE227ub1frfnjP5HZy0wLF0wu.jpg" group-title="┃EN┃ COMEDY",┃EN┃ One  Two  Three (1961)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145485.mkv&play_token=C4yEP7yxPK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NiRRR7JDNHOr21JNoGRxPWh9vb.jpg" group-title="┃EN┃ COMEDY",┃EN┃ One Fine Day (1996)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145478.mkv&play_token=bzmZUdmo0O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKOXKfX85YuvsMeYjqDwd2OJvJ4.jpg" group-title="┃EN┃ COMEDY",┃EN┃ On the Riviera (1951)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145477.mkv&play_token=nvZ5uKSb0Y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrP2mECe3otZoxqzFg3FeldR0AE.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Oliver  Stoned. (2015)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145469.mkv&play_token=qqIIN0bEa8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Office Space (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145461.mkv&play_token=Blgi7FxqQO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynVqSbqVTvvLka3nDc23iUaKeIM.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Nutcrackers (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145457.mkv&play_token=4HEJIts6dl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33QoR1CokUHCHd98vcpE43FmLDO.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Not Now  Comrade (1976)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145447.mkv&play_token=qDMffbHJEe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MpGb2U26E4n9OYYicleucaNHbe.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Noobz (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145443.mp4&play_token=WdhoRnDXUq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csp8oUcYlJvKIzJhUe0Qaj3Hrqe.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Nobody's Fool (1994)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145442.mkv&play_token=wG5Dek6QVH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRiKZR9aQZ3vmj2efbUWIGFWJiL.jpg" group-title="┃EN┃ COMEDY",┃EN┃ No Good Heroes (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145430.mkv&play_token=7RUeKoRubn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7vz8oqTL90aHZcvGGIpUZEIQIm.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Night of the Living Deb (2015)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144416.mkv&play_token=d5dRH6lmUu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNXnLXu73LotJ9APaJZZXflBelQ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Night of the Comet (1984)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144410.mkv&play_token=VWKAzlueny&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTYkhu0dT09EDbuI0VActNjkuEo.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Night Patrol (1984)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144406.mkv&play_token=jllKC4lPQ8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OMCGtMmmBE9NwmawLGZlaErdLk.jpg" group-title="┃EN┃ COMEDY",┃EN┃ New in Town (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144401.mkv&play_token=lbL7mEcQNn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TroWD1BdcLEL7Ycqv4kkCRw7KJ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ New Year's Eve (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144400.mp4&play_token=FTMc6I3ew8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sN1RU08CMi8xkRIibremh3AOdgw.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Neighbors (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144396.mkv&play_token=oAEU0NeRIq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QpB4KpMKRnZnsJOsemOZHDoQKw.jpg" group-title="┃EN┃ COMEDY",┃EN┃ National Lampoon's Senior Trip (1995)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144391.mkv&play_token=YIxeOvxEzt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oat42hUw8XzKYUmfy0YLAxYd484.jpg" group-title="┃EN┃ COMEDY",┃EN┃ National Lampoon's Christmas Vacation (1989)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144390.mkv&play_token=BuE8ymqsNI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kh7B91bMl2lZ0mH9WhPfaNUIEQH.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Nacho Libre (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144383.mkv&play_token=8TyQLqkGWo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BCLvOXft6h40A3ZBDZonMl73ER.jpg" group-title="┃EN┃ COMEDY",┃EN┃ My Wife's Relations (1922)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144382.mkv&play_token=F6FA0CQfN1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgLWcqUkmV0u9xUcFBF3vPqhrIx.jpg" group-title="┃EN┃ COMEDY",┃EN┃ My Suicide (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144381.mkv&play_token=KVe4aZmJeL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyJJNHteA7BUwQSey05t7qP4vRV.jpg" group-title="┃EN┃ COMEDY",┃EN┃ My Girl (1991)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144375.mkv&play_token=hyVnzHQKiX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj0Fzma5Bfn1XzBaKwPN00ACbXO.jpg" group-title="┃EN┃ COMEDY",┃EN┃ My Dream Is Yours (1949)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144372.mkv&play_token=Qlg9s5Pzc3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euXyMbBT2QaxiYZf1jJrsa5yGon.jpg" group-title="┃EN┃ COMEDY",┃EN┃ My Boyfriend's Back (1993)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144370.mkv&play_token=KV5aIGeIa7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRCgK4l2LUclQYDkjdSmwinwkK5.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Mrs. Brown's Boys D'Movie (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144355.mkv&play_token=gwcV6gEUDT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSx5YUCLcSUAR4nt93aeIpZYHF6.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Mr. Right (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144354.mkv&play_token=5EkOUhvHDn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QuTlgKKykL7j0PnZZd3LNFVhCX.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Mr. Mom (1983)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144350.mkv&play_token=bcEdFrUFCn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XVNkOslnv5Atxy47RfPUtTDBkH.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Lost in Paris (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144349.mkv&play_token=q7Ummfyq16&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6zrsLcmQEeFVCvYzfOmHb3hmM3.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Moving McAllister (2007)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143352.mkv&play_token=9AU4x6Vl25&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzQCsmvPJU0L4tnPtQHlVliw2zn.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Motherhood (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143351.mkv&play_token=hJFas1aV6u&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4SXcbNl6CEF2t36icuzuBioj7K.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Moonrise Kingdom (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143343.mkv&play_token=Nj3NkZyT5j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p76W3vGEjRfjmWReejVmIw0eibt.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Monkeys  Go Home! (1967)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143334.mkv&play_token=S91eW9YuIN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCNOz39dk0sfAjAH39WSHlbTiOD.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Money Talks (1932)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143332.mkv&play_token=IbG98FRtFM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r9QMXMePZ1Ggx8mySiOleNLWPj.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Mister Lonely (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143328.mkv&play_token=b0A9v7jkdg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LSbj1iwkxM7AZRTKxCxfdmE4Lt.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Mini's First Time (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143320.mkv&play_token=8E3VUE3ULS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIPAKUCtvLPrVauQwA0tdsPJo2w.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Mental (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143303.mkv&play_token=1YGr6MI5Qp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Men in Black: International (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143302.mkv&play_token=ZrYawP1Ok0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naya0zF4kT401Sx15AtwB9vpcJr.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Meet the Robinsons (2007)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143300.mkv&play_token=0gRxNUfYWP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61qE0TunNdJiPELBdywMlpvZXDB.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Meet the Browns (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143299.mkv&play_token=7WNccSasSH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YA2erSNcca9NWd0xePC9ArFWnx.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Meatballs (1979)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143297.mkv&play_token=WCPURMXsYR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYeCvrkgUCylSQwmMFcqXV27WvD.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Meantime (1983)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143296.mkv&play_token=Eh7zGUl5Yp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82ltslLbMtEz3Gw9qthi09bO7Kw.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Max Reload and the Nether Blasters (2020)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143287.mkv&play_token=N3I06THN6i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mQCF7U07cFkHwG3GKzpbnB8DHS.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Marley & Me: The Puppy Years (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143273.mkv&play_token=bWIbkMWFgP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfRv1INLSSumjvxAqEGOP6b0Aw1.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Magic Mike (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142452.mkv&play_token=nO7zbzHSu5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qWcpqRfUEFrbKdDvB7tg7h1oXz.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Madea's Big Happy Family (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142444.mkv&play_token=N5Iz2jNgqX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKjD3DTZjRI3Ipkf7Oz5zAILnwD.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Made in Italy (2020)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142441.mkv&play_token=l09R3Pd8bh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6b6rQ1ZFEkM4tSt84yPtdAioCO.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Mad Money (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142440.mkv&play_token=6FV4w01yZ7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3G4ft7cAWsnXjFPC5D5ruvGaOg.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Mac & Devin Go to High School (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142436.mkv&play_token=dOjnjc0vml&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NyNfNop1gOLapYUdCA2VwCwbvk.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Love  Weddings & Other Disasters (2020)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142426.mkv&play_token=yFBUIjp282&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NrzuMavrCTh0j2CNs44BEWGg4C.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Love  Wedding  Marriage (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142425.mkv&play_token=LSPQwkLnBb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7K7Sq0QCNXwYwYewtwiZ7tTJusA.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Love Thy Neighbour (1973)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142424.mkv&play_token=fA9gat1NIT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7QiwUekGiYOmjKratNORIr35zg.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Lost in America (1985)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142416.mkv&play_token=WiC1o6lbx7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaylLo7TsJrJriNVGf72Asen1Fr.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Lost & Found (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142412.mkv&play_token=XGr2F89hoJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUYuorrNoVvEmee8SPtATKnWqvd.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Loose Screws (1985)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142410.mkv&play_token=BYM7TKOaLo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Lock  Stock and Two Smoking Barrels (1998)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142402.mkv&play_token=KQOJVLJ09o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VxdMxSa3BEAvGl5nLvsgpBwrZH.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Little Voice (1998)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142401.mkv&play_token=VEoWO4erio&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkfXNOeKgJSOD08StGd0599auiZ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Little Giants (1994)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142397.mkv&play_token=dwjpO17J84&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyVF2tsQQfMji6vbDrwWHA8qHQc.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Little Giant (1946)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142396.mkv&play_token=Vo2Ao94RTj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBiZAkXngPoT80iWxUI9ebSBXli.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Lez Bomb (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140903.mkv&play_token=SRrxeYUnwf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AwejKwTd8bGU7Ws59yROT6o4zzI.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Life's a Breeze (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140895.mkv&play_token=0bRZg0Y3Ti&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pf4FoUr2phn5WyZjU7rLXSiW1Ve.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Let's Be Cops (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140888.mkv&play_token=VcsFgaveC7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3l3onOJlGgyzrMIiGX3a8EjgCX.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Leslie  My Name Is Evil (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140886.mkv&play_token=YYHOf1yXLb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RH9bXtsxy12YKXqvAwKd5XmGvq.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Legal Eagles (1986)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140881.mkv&play_token=xUggeQ3BwY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxwb5KBqS0SHsUcyLgWMk3vuVxY.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Late Night (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140870.mkv&play_token=htcPmHhRRR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7V6T4RWR3eOUSRkOLJYByKu41a.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Lady-Like (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140858.mkv&play_token=b2aIX8buTO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRHq4KerVgNRLaDwwuYpCAHIQJX.jpg" group-title="┃EN┃ COMEDY",┃EN┃ King Ralph (1991)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140830.mkv&play_token=duiLMwBO6A&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iVUHy9P7gzaCbMjj13qc6t7my4.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Kindergarten Cop 2 (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140827.mkv&play_token=3X8kO55RPv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VB8vGV4Aznf6GUc9C7a1EzGHLz.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Killers (2010)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140824.mkv&play_token=aI53puqvhM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xixDPGXhg9Kz93HspsDo1iHf5PO.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Kevin Hart: I'm a Grown Little Man (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139702.mkv&play_token=YilA2NYsFc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovwEWbDo4Zb6Kpm43HdeyiIssXM.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Kenny & Company (1976)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139700.mkv&play_token=9u7Kc2amRt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkyS4lkiEOCx7mtlMtWLYodbVpb.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Keeping Mum (2005)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139699.mkv&play_token=akXWrJ54Dw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOPPNuWygmEos57uanj6t7FMimB.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Keep 'Em Flying (1941)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139697.mkv&play_token=u1leUqk07r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDQutkfqvd6CkyHGXr0HKXnaxDp.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Katt Williams: The Pimp Chronicles Pt. 1 (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139694.mkv&play_token=v9flNgnGyt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zK8ScSnJGA0lxK9xt1lPKLDJUx.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Just Add Water (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139679.mkv&play_token=WdElAvfQ4u&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znVUM7RUBwQ16Q9lTmuMpaWJ7so.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Jumpin' Jack Flash (1986)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139675.mkv&play_token=rD1BdwPZ7Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0WRxfrVjPNelq7UuRoRnIZWn5A.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Judy & Punch (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139673.mkv&play_token=yhAnaXScXD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HtAaaDZDCCx2F73n41xMDWDhwU.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Jubilee (1978)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139671.mkv&play_token=2DY8Lnhg6A&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHOix87RdBO3YQuyvFFZAZxpt5P.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Josie and the Pussycats (2001)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139665.mkv&play_token=RJpuRvkoc7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3y9nmBYZ9f1QUqTZgyJaqmSRuut.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Johnny Frenchman (1945)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139661.mkv&play_token=E7tHRsMgI5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nde744Wjaj11BXA4npXcByLDMkw.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Joe Dirt 2: Beautiful Loser (2015)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139656.mkv&play_token=7aZOtN6c9Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcD3IL6NmsioH5R6qCY4yFijWlx.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Jim Gaffigan: King Baby (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138255.mkv&play_token=kZyEpHlTeK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGgirOcInrfjWgemKMjvZc3fGtU.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Jane Austen's Mafia! (1998)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138247.mkv&play_token=2wjBBJ64nR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDSMzBEaM0LYSy9Muo0zsCo77Vh.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Jackass Presents: Bad Grandpa (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138242.mkv&play_token=Nhvxw3MzuN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg" group-title="┃EN┃ COMEDY",┃EN┃ It's the Great Pumpkin  Charlie Brown (1966)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138236.mkv&play_token=yKMm24YTyB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3fJiOecPkJ3Ivowg2tH9VDJ5am.jpg" group-title="┃EN┃ COMEDY",┃EN┃ It's in the Air (1938)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138234.mkv&play_token=N1CiKcHx3u&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIDXD8YUivHISG3uhtXtYTLofhE.jpg" group-title="┃EN┃ COMEDY",┃EN┃ It's a Disaster (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138232.mkv&play_token=9QN0QgtUF8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hop0dsM4nxyNENGhBhpJWTCJ5rS.jpg" group-title="┃EN┃ COMEDY",┃EN┃ It's Such a Beautiful Day (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138231.mkv&play_token=2xP9rhUAy9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwLODZElNvt6081Hohqyg0bgR2N.jpg" group-title="┃EN┃ COMEDY",┃EN┃ It's All Happening (1963)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138229.mkv&play_token=Sg5G9ysAeI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyMFwzRZnS0qewOEhtvwNS9RZPM.jpg" group-title="┃EN┃ COMEDY",┃EN┃ It Happened to Jane (1959)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138225.mkv&play_token=hYMJA4qOBE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3VBe1jMmGnROn7WCWUYwUqdDNC.jpg" group-title="┃EN┃ COMEDY",┃EN┃ It Ain't Hay (1943)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138222.mkv&play_token=qpTbGCGbLE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHFusV8b94ayRPrEEfWKuo3jNCE.jpg" group-title="┃EN┃ COMEDY",┃EN┃ If I Had a Million (1932)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138191.mkv&play_token=bVnB1qbhXN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xr4zAYsvgTzvMMiWu6qCAP9WBer.jpg" group-title="┃EN┃ COMEDY",┃EN┃ I Love You  Man (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133808.mkv&play_token=jVIr7MlfHo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCSqxrM5Sw6AhDIRfxQ4BenPd9y.jpg" group-title="┃EN┃ COMEDY",┃EN┃ I Give It a Year (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133805.mkv&play_token=cAAHCCsV5j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kl8RNyG7jokw2pTLJNwkPhsBAL9.jpg" group-title="┃EN┃ COMEDY",┃EN┃ I Can Do Bad All By Myself (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133803.mkv&play_token=FYdCDQ1uGe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zld9o6ENdIUX4uVzkO98tA05dol.jpg" group-title="┃EN┃ COMEDY",┃EN┃ How to Train Your Husband (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133788.mkv&play_token=4FEUohonc6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8zNIRU3SNIkMGTi3gmzV8iMYkP.jpg" group-title="┃EN┃ COMEDY",┃EN┃ House Broken (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133779.mkv&play_token=SwgduW9JDJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y4cUal4XZERoDFReogQIOPzoHH.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Hot Moves (1984)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133776.mkv&play_token=qCIGOtYmwL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EGqDo2pP2ZL0TCcYDGnwsU8liQ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Honey  I Blew Up the Kid (1992)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133767.mkv&play_token=pf7rVzMLX2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Home Alone (1990)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133761.mkv&play_token=Xj7tbBJUdW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPvzlPpaXcnj8QmQjqevyxZNcVi.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Hollywood Boulevard (1976)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133759.mkv&play_token=kmAANIj2sw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHg4pd06QUq1iFoVaIEnOGUlhr3.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Hello  Frisco  Hello (1943)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130564.mkv&play_token=CWAOonkLR2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Harold and Maude (1971)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130546.mp4&play_token=aH25nd0cR2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lm06hCFKMYsXT4ReY5j1Cvo9mf.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Happy Ever After (1954)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130537.mkv&play_token=yyYQvi87Ll&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gARgIRb2QFRFVrsziwWE389u1pK.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Hannah and Her Sisters (1986)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130533.mkv&play_token=eISFmasu4i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eol3uD6whQKOKCmmhF7z39fq2Pe.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Hall Pass (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130527.mkv&play_token=hZ21JoIoJa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvecZ7WyemhGW8fuJ8190p472jQ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Hail  Caesar! (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130525.mkv&play_token=OKQKxhU19b&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyzrBbNASOF9LN86OQvvO80oE0K.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Grunt! The Wrestling Movie (1985)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130508.mkv&play_token=4sfvQCyK58&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIm2mHK892iPQlCAoLoNcDUMzl.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Group Sex (2010)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130506.mkv&play_token=uBpJMmbbjw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fblsJGBzM7tatrepyWmhV5sl1pj.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Group Marriage (1973)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130505.mkv&play_token=ryp3TMuYJP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW12On2JtLeOQPaWAs3PMmsG08o.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Gregory's Girl (1980)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130498.mkv&play_token=bOnbM6jNQk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eN56wiM2M84GBOQnp4TAQXcZucg.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Greener Grass (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130496.mkv&play_token=NxXVG57l6V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OpvMU6CTXe4pRAQUVWcVJeZCSS.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Greedy (1994)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130494.mkv&play_token=2wx4IAh2tA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLmZCfJici1SdT6zmhDtGVWsXXi.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Goon (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130489.mkv&play_token=IgweasSX5l&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/838yNJnOk6iZj5YK1MoKiN2n1hw.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Going My Way (1944)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130483.mkv&play_token=sgBUofBfbG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c95ObKoRhgUh7zNv885G3VyzWy3.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Going Berserk (1983)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130482.mkv&play_token=atfTlPqdWV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9fIvowFHpVjGn5OzFKudp2XJLD.jpg" group-title="┃EN┃ COMEDY",┃EN┃ George Carlin: It's Bad for Ya! (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130479.mkv&play_token=uTXfPBXRKk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evbQNwhRr12BbLBBQ3WWtyoXmxm.jpg" group-title="┃EN┃ COMEDY",┃EN┃ From This Day Forward (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127736.mkv&play_token=NXBLDJZH48&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Ghostbusters (1984)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127718.mkv&play_token=tGtUbHdGZJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trazfJKPyhC6PVSFnzHmegYzw4i.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Get Smart's Bruce and Lloyd Out of Control (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127711.mkv&play_token=rT3vyjsN6D&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MchaxoMtROoioSAwjLd5FEp6D.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Gambit (1966)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127700.mkv&play_token=0Rd4cVIiG5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oL6SymcxQE6TN9KrrbdyhlulnEG.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Futurama: Into the Wild Green Yonder (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127693.mkv&play_token=inaAq6ymaU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4ExIbPuAe0rAjpYcteiFx4QEfY.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Funny Farm (1988)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127690.mkv&play_token=vLmRmrO8BK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzTjalpIz6NyFrWPPlOBFoBjb7z.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Funny Face (1957)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127689.mkv&play_token=kdb7u6zZQN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK1d772yMqHjvBpMRVz1XWN5OTU.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Fugly (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127686.mkv&play_token=WhjzZM2VyO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ya1RurP2NqaYoiok4DmfO41rCC.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Friday (1995)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127546.mkv&play_token=gQVbft1KOs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enQ9FBLo4bd7AHX78geP6qRSl9U.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Freaked (1993)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127532.mkv&play_token=6nS9YAKfAX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGkKEnSe2uJit6IINShE9JHyGSt.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Freak Show (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127531.mkv&play_token=pFH2wkiq7n&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75aHn1NOYXh4M7L5shoeQ6NGykP.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Four Rooms (1995)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127528.mkv&play_token=sPehZ6DBir&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xWNTZx4ght4KToWu8rAQkEK80B.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Footrot Flats: The Dog's Tale (1986)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127524.mkv&play_token=A4QLF5tcmm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIcgXQYm2eqguUaYdbolQ4LWpMy.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Flirting with Disaster (1996)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127519.mkv&play_token=NPbN1PFjMA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gWgjkagkKfthKBjjjjbpc6EJU8.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Five on the Black Hand Side (1973)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127515.mkv&play_token=6NAo4leqvN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4faFbkPf8aH5nrY4YcNvn40PXLL.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Fisherman's Friends (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127511.mkv&play_token=rpTVxvEq2t&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fD84QPtuWneIuC8cnirU53P8WL.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Fishbowl California (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127510.mkv&play_token=dXQdT0mmfQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zp8PLcseuX2z7VAtMrxjF0VmJiz.jpg" group-title="┃EN┃ COMEDY",┃EN┃ FM (1978)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127504.mkv&play_token=Km2f2MQBCT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifTjxzY6ZlFOVEypy1B9FFpiZUp.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Fired Up! (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2118578.mkv&play_token=RWjTN3wa84&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9yuKKkZcJfGFN0d4TINsk1QwEL.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Finders Keepers (1984)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2118572.mkv&play_token=UnMTIrQiCb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Ferris Bueller's Day Off (1986)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2118568.mkv&play_token=PyldLThwp1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Fantastic Mr. Fox (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2118555.mkv&play_token=VxXcJtIk9N&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tezx3s0NNDgqA9JvLJE4sWCMJb5.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Eskimo Nell (1975)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2118527.mkv&play_token=BAbP7OCvWx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28dqsx1jCxhR05DfH35ui13ywNZ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Entourage (2015)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2118515.mp4&play_token=uGV2ek41hA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwUXhwUAOq3J7ixxwOIWpMAFbje.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Elvis & Nixon (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113715.mkv&play_token=OTbTAqnVB0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwxgiRzw2zxzWNIYp98faJ0rUy5.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Educating Rita (1983)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113705.mkv&play_token=6BLul9duI4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpN7nQJD6W4LmJXYVcaurA5ej1.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Eat Brains Love (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113700.mkv&play_token=210rAhvpYD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCQ4oO9djqcthBRD3ftTnR8qSP7.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Duplex (2003)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113692.mkv&play_token=ghUR7hdvdP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qazpMua8fFbTt54V4x2fwEqb1nB.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Droopy's Double Trouble (1951)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113681.mkv&play_token=JzP9zOYwOf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Dr. Dolittle 2 (2001)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113671.mkv&play_token=YlwWpW42QP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Doctor Dolittle (1998)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113659.mkv&play_token=wOVGjHUsDL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3176xH21fSetstKpEtAD1giHbyT.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Dirty Rotten Scoundrels (1988)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113657.mkv&play_token=XKs5GnFuxc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/verY159MTDrCQwRH7PrPl4Wjynx.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Despicable Me Minion Mayhem (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2108053.mkv&play_token=5T2NL9JX1u&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7wQlcexeER5bW7DvV8sji2vRRH.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Dave (1993)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2108037.mkv&play_token=eWAocvHeWW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dML8OAPjmwAYS1nXx0xRCaWrRxB.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Daphne (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2108032.mkv&play_token=DT9uMvOSc6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lg8npIjYrO0f4UsuNwWwd1TQhW6.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Crimes of the Heart (1986)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2108022.mkv&play_token=1Kyj2w7ZN0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNsmhNKvuBEflPnuDD1sSl28KeP.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Cougar Hunting (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2108017.mkv&play_token=5KOzZhsdHr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q866vL3KhAjbkZH1enT7AoxmRHx.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Christmas with the Kranks (2004)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2108002.mkv&play_token=LaUw1btl3Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqAkU8eQomL1L5qRs2D7MtKNQ8O.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Chee and T (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2107989.mkv&play_token=c3eBWIqZpZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjjM5UtH95Er9mkLqayn0XuBmbk.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bunks (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2107971.mkv&play_token=LbbjY6TB7O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Camp Rock 2: The Final Jam (2010)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086534.mkv&play_token=OiiFanprwS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdwSkQu3XirmX18MNj8CqFWsCk.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Burn After Reading (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086531.mkv&play_token=vvAgwsdvxC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNCZh6YGg6r0GMyrctI14R0lHGL.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Buddy Games (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086526.mkv&play_token=mPhRM5xFSc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jic0ULHTcqQQaCSIEw6SAhHhIPA.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bringing Down the House (2003)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086521.mkv&play_token=Sj17Z8gV52&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QepAxHR9am4nKWZqIDpIQjuB5.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Brigsby Bear (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086519.mkv&play_token=r9DJBHq3qm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbvxPS3xCvihxGNLB2xabGnsAoZ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Brighton Beach Memoirs (1986)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086517.mkv&play_token=okWrEWyXqa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDthRXkGnwFIWI0zWcJyS7h6lUl.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bridget Jones: The Edge of Reason (2004)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086512.mkv&play_token=s58uiJWFmq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4p8r8kfB2jHiK8J36XnfSP8cRO.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Brewster's Millions (1985)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086508.mkv&play_token=vivamuvurc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXiNpvig7EMq18VyNBUTlWrmN0q.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Brad's Status (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086496.mkv&play_token=35Yg8RiDAT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGuiFYEYwFkaRPl3FgLJYEm6dWq.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bowfinger (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086490.mkv&play_token=cgd1nJ78sM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1G74ZziS7GlNORDTRZppQuhyOz.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bottoms Up (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086487.mp4&play_token=xtuekK42rV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9P9TGsa5csBduSEeROTil9MyVnI.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bottoms Up! (1960)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086486.mkv&play_token=kSO5Sh7gI6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DMc4eRfU0RA2SX2oGR3YllEhH7.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bottle Shock (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086485.mkv&play_token=pMd2iwz9ox&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y43Zv5TMVNxO7UBjjTgYcXXQlWn.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Born to Win (1971)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086482.mkv&play_token=hN3twZavJ1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7g9kBHMN2KTr5KUf8aen187Mdn.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086470.mkv&play_token=FaXudhmMaB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apwkBVaJqLuK6mxe6sOABCeNjRw.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Boomerang (1992)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086469.mkv&play_token=IZ3iyiI79F&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aSxRDmisJP90H3S0aocyuQIe4z.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Booksmart (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086466.mkv&play_token=uRthNWNiXo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nvP4etJ8ecQv8qZM08dK4BAzdK.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Boo 2! A Madea Halloween (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086464.mkv&play_token=qPiCCtqkUN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2eazNQoh4WF7ZcKByhfKSMGc7q.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Boeing  Boeing (1965)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086455.mkv&play_token=4ji04ihHxT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DhwXNsZ5X66aQi9VnJMPn1Xcsl.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Body Melt (1994)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2086450.mkv&play_token=UkVsYClEZH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEhBrK5Lcrjq1BR4FurSQyvsWUX.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bluebeard's Eighth Wife (1938)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068801.mkv&play_token=xCysPdyNSW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZz8AmDvFqUY4tBcD69ou3OfiWx.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Blue Mountain State: The Rise of Thadland (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068797.mkv&play_token=MG9iZQzyDn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdKy8oLJm36O0DmEO5ZgVUH21FQ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bloodsuckers from Outer Space (1984)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068787.mkv&play_token=uyUJxbslb1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iy6mJ8EvVQrrSrSblK7GRYFq1Mp.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Blood Fest (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068769.mkv&play_token=5I6IUUP66i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAKQtGOGPrDgBUFCAnZMb4JpAi8.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Blonde Fist (1991)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068763.mkv&play_token=ErAGwcimEo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvlUQXg0AlpGzKukO11K7QtW3Yu.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Blockers (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068762.mkv&play_token=3lpVom2hvQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqIW5oE4WeHAvk1nh2Y6rfOLGrF.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Black Sheep (1996)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068744.mkv&play_token=thCt0wa5cB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OYW8gHVkZYmQs2pJ2sWj4pNSf7.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Birthmarked (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068730.mkv&play_token=7P6G8AnflN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAhQegSNb0OYwBN2KbSr8GRSUsI.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Biloxi Blues (1988)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068721.mkv&play_token=OxKeB2uvSa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMWGHdVUrGQwo1SQ4JdDUv556L8.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Billy & Mandy's Big Boogey Adventure (2007)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068720.mkv&play_token=xCYsXhojxu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bill & Ted's Bogus Journey (1991)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068714.mkv&play_token=d3PDHmXZxv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucKMETsi8KuL9XcCTgECJA4DoUq.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bill Maher: Live From Oklahoma (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068713.mkv&play_token=nn9JW9enkS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ldMn3T6rhHQDs5usXofrOZFa5e.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bill Bailey: Qualmpeddler (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2068711.mkv&play_token=wmmHwpqIyK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VuHwXVc6vZziEH8bfYaCI7RsWj.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Big Brown Eyes (1936)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2062332.mkv&play_token=sWzA0aEPSA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYAykpqOMogGlvKxZ33RWitcf8L.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Beyond Therapy (1987)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2062330.mkv&play_token=zyCep6xCF2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZIQnqyaT5t40d57DrYKK1HT562.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Between the Lines (1977)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2062328.mkv&play_token=qjyTNERVBH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PpwTNDsXnuGHcwBdpgybVSwsFN.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Better Living Through Chemistry (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2062327.mkv&play_token=bsOGS2IoUT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFHi5wiCB45loSa1D1O6KAFMC3A.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Being There (1979)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2062320.mkv&play_token=wkPkA2lzb9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31FGQu3OnwdmS4COquENe0vMZc0.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Being John Malkovich (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2062319.mkv&play_token=s9fc26VYlZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Barton Fink (1991)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2062276.mkv&play_token=qfJDewQrQU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mwzidlGgWfr2hcMWUKM86lOqdo.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Barbershop: The Next Cut (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2062271.mkv&play_token=cV4RwsM9KE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pxhBqzI5CgbJENT2TxKfDz8Bel.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Babysitter (2015)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2062259.mkv&play_token=pHOe39BWHM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yymsCwKPbJIF1xcl2ih8fl7OxAa.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Avengers of Justice: Farce Wars (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2053208.mkv&play_token=QM2Mo7R6aW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flCZ7TcuFsT8K5pz6vDZ0Gjk7Nu.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Attack of the Killer Tomatoes! (1978)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2053205.mkv&play_token=o8Vq7pOh91&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bt7zLQo5ca8UmQAmkdw29TwVPNi.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Aria (1987)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2053188.mkv&play_token=fZdaKkCbkj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7hDHBpZlUX5JCGfpukLXkKrH4x.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Another Gay Sequel: Gays Gone Wild! (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2053171.mkv&play_token=0e2QUW80QG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6q95Xs9HvBiwIeH69h44lqCCyzy.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Another Evil (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2053170.mkv&play_token=sbh2HoO7PK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wX3S5HjL3bgb2yi4CfR2qIqbdH.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Anger Management (2003)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2053161.mkv&play_token=xpXJ2nYQ0F&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Anchorman: The Legend of Ron Burgundy (2004)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2053156.mkv&play_token=npRwnyIywd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg" group-title="┃EN┃ COMEDY",┃EN┃ An American Werewolf in London (1981)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2053149.mkv&play_token=cBrUzQDyEd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wi9VRukGburXfDwDKqcQQdgFK5S.jpg" group-title="┃EN┃ COMEDY",┃EN┃ ATL (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2053146.mkv&play_token=Gzba8F7woU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YGb2712WLwfcV6ZagNaolNfeYv.jpg" group-title="┃EN┃ COMEDY",┃EN┃ American: The Bill Hicks Story (2010)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048190.mkv&play_token=RdqEx64MRt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CPJVJrqVjibP5Uub8yCg4FKtJi.jpg" group-title="┃EN┃ COMEDY",┃EN┃ American Pie Presents: The Naked Mile (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048186.mkv&play_token=bu5Pwi6q2J&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwP0GEP0zy8ar965Xaht19SmMd3.jpg" group-title="┃EN┃ COMEDY",┃EN┃ American Pie Presents: The Book of Love (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048185.mkv&play_token=oMuwLEaAGW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwP0GEP0zy8ar965Xaht19SmMd3.jpg" group-title="┃EN┃ COMEDY",┃EN┃ American Pie Presents: The Book of Love (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048184.mkv&play_token=Ofv6owm2AP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7eGbwVb9hTaRFWMlSa7C1OYp3T.jpg" group-title="┃EN┃ COMEDY",┃EN┃ American Pie Presents: Beta House (2007)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048183.mkv&play_token=A8v1xkZzSb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BgKeWEGROpWwEWvpw7vwfTCr9C.jpg" group-title="┃EN┃ COMEDY",┃EN┃ American Pie Presents: Band Camp (2005)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048182.mkv&play_token=O40jiLadSD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgpMzdML9FUj3GpDU3LFi7AWbHQ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ American Pastoral (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048181.mkv&play_token=vz0Q1xBRIG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tjLivPad2PX8FAzWko7FPIb8d2.jpg" group-title="┃EN┃ COMEDY",┃EN┃ American Graffiti (1973)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048177.mkv&play_token=qZStwX2AvY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYJvcQ8Y6C9Q7ocBghwCnNUnEQN.jpg" group-title="┃EN┃ COMEDY",┃EN┃ American Cowslip (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048176.mkv&play_token=Wbn1hMsMfe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npOXWVoZyl8UrF2wtByHtfmsWSX.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Alvin and the Chipmunks: Chipwrecked (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048166.mkv&play_token=LKJyHITpLK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gml0rogF8lvS3vEjTyPjQvpdbxz.jpg" group-title="┃EN┃ COMEDY",┃EN┃ All in a Night's Work (1961)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048158.mkv&play_token=2YUC9GCjnU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kb0UIeJBnRfb8XK8IyhdnHKsCXH.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Alien Addiction (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048142.mkv&play_token=Wz74TkUu7N&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8stO6fuIsmZmjNnm0gxm7FHFSqL.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Al Madrigal: Shrimpin' Ain't Easy (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048132.mkv&play_token=pweYwlnxVN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zs7Pjyabt0fwe2XqIx0gnF9Q4np.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Airplane II: The Sequel (1982)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048130.mkv&play_token=J3BLUoNpw8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlAltvp84rYVTYs3kdemqHBaiat.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Agent Cody Banks 2: Destination London (2004)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048128.mkv&play_token=L6BDhsXoBI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlgPBk5xZzHHPfrimBFV46QuktX.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Afternoon Delight (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048124.mkv&play_token=1H8tvvYODF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ypa5J1E6HkcEfUJyfRGUZbVNFY.jpg" group-title="┃EN┃ COMEDY",┃EN┃ After Class (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2048120.mkv&play_token=EulHaltsqG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnTLIqzU7yaPcgqnebOg06tzFwX.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Clockwork Blue (1972)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042668.mkv&play_token=yGKmRhEcOg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3dVYQtxXldDawz7d15wqt2PQLe.jpg" group-title="┃EN┃ COMEDY",┃EN┃ About Last Night (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042658.mkv&play_token=qoqHvsapXJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJAnV7espJzC6YNoaINH5kz2x67.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Abe & Phil's Last Poker Game (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042656.mkv&play_token=LwKFqwfCaA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRsn8H6X5bxX1YXu9hHIExSSwHa.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Abbott and Costello Meet Dr. Jekyll and Mr. Hyde (1953)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042654.mkv&play_token=5xM6qrtleH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGnKIzOiymXrPq2GU5htrWVIXZK.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Abbott and Costello Go to Mars (1953)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042653.mkv&play_token=K49yZRQWRN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cncxLilRHKayn8VKhzjAMHkbN4f.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Very Harold & Kumar Christmas (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042648.mkv&play_token=fW9twJeXre&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gGxDS8WmrebPlMHexVS8EVehiP.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Serious Man (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042640.mkv&play_token=d0ZfnoeBVw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Rainy Day in New York (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042636.mkv&play_token=y6VHHg6qVN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xM12nbuaX1ycKQEv6hMgBpw1H4p.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Midsummer Night's Dream (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042621.mp4&play_token=cFN9KGgTN9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiBwooPaWWPI0Q3B8XqvY6AJn3L.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Merry Friggin' Christmas (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042619.mkv&play_token=No5TIUZoMg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibtYPDUQXKK2CIYzMEWgt1VNMlP.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Long Way Down (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042612.mkv&play_token=E5tnobIgqx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6M3sxY2jHVey55qWmgTPomSuvc.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Little Romance (1979)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042609.mkv&play_token=t8QgtoHBnq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9BtX6wYOwJUyfUr4vyeT3COz6m.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A League of Their Own (1992)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042607.mkv&play_token=lRV0tbVmDV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyFRSEpdyjpaUIoO6L6iTyKRqHe.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Holiday Heist (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042604.mkv&play_token=ZYnK1xR0Rs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Hard Day's Night (1964)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042603.mkv&play_token=GUEmyoIh4r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkSGFNVfEEUXFCxRZDITFHVhUlu.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Fish Called Wanda (1988)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042598.mkv&play_token=BRFn096XuQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qP6X7K5BWtQv28leIpxJNmq1deB.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Case of You (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042585.mkv&play_token=mUbN5KVJrJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUZqTNinLruI6ZE7GQprY8t0Uwg.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Bucket of Blood (1959)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042583.mkv&play_token=xIj22x5wSL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h4EI91Y8RNQaVCetbk6nf1SbNr.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Boy Called Sailboat (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042579.mkv&play_token=EuDn7MZjzc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itNyXoRRKkLlUCcHa47sMDzcN9t.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Russell Howard Live: Dingledodies (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2028230.mkv&play_token=jLszu6qiX3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRTbfR27xghnVMs3ZJ3EhK3zzud.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Top Secret! (1984)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2028228.mkv&play_token=BQT2PVNzaX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60bTx5z9zL1AqCjZ0gmWoRMJ6Bb.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Emoji Movie (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2028224.mkv&play_token=Yz7syuuXKf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Sherlock Gnomes (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2028222.mkv&play_token=5lZT0qtWGh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upQfnYK3c0x2AYNykOZ5qy0Ty2P.jpg" group-title="┃EN┃ COMEDY",┃EN┃ 5th of July (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2028194.mkv&play_token=UWinVAhZYc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KYu8bLD8Bx7dYlO8cHv2IWnkht.jpg" group-title="┃EN┃ COMEDY",┃EN┃ $5 a Day (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2028186.mkv&play_token=lwdbE0AM9O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQTZX4gOEEkkMVFIRWtIrCpozeu.jpg" group-title="┃EN┃ COMEDY",┃EN┃ 40 Days and 40 Nights (2002)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2028178.mkv&play_token=tNzXh3S2eI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/et5rRWZz4NMf40YPbXwXNqHWRvQ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ 2001 Maniacs: Field of Screams (2010)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2028155.mkv&play_token=frpI4n8wUK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1zaWMtjzw1hm5tPXm2GLFJaCfY.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Perfect Man (2005)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646341.mkv&play_token=pT62vaZjDA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646341.mkv&play_token=pVCkSK2FU0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcqXQms8AzkrTL22FbT9VKcjt7.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Arizona (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646329.mkv&play_token=QfrtYxsYR1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646329.mkv&play_token=oGv6nzC5bw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xopqD99S1GqQOG8UAeSElsX9MeP.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Annie (1982)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646322.mkv&play_token=7xvVNXvhSk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646322.mkv&play_token=9wfpdzyaNN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mdPqOga5fty15nXmaNcK1fsNMa.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Alvin and the Chipmunks: The Squeakquel (2009)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646313.mkv&play_token=vGXVHHm0Fm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646313.mkv&play_token=c2NwEG5D0L&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoR9XuGB0NROiv7YgtJoBAfm40C.jpg" group-title="┃EN┃ COMEDY",┃EN┃ All About the Money (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646306.mkv&play_token=jm4yvRdiOf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646306.mkv&play_token=ezV9plsp0x&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Adaptation. (2002)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646291.mkv&play_token=Pt2s2X2kHu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646291.mkv&play_token=X5os2TWQwZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Ace Ventura: Pet Detective (1994)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646287.mkv&play_token=GlMthX393L&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646287.mkv&play_token=guoMRLUSY3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR6tNqNLYIbRRYC5TFKWVWaVvvK.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Shot in the Dark (1964)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646283.mkv&play_token=8alKhJV1J1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646283.mkv&play_token=txjaRbq84a&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUYYB8fNgJkXt0aWbTdfTtdCGzP.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Date with Miss Fortune (2015)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646272.mkv&play_token=cil3YIemyv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1646272.mkv&play_token=tynBQURYOa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFlwbp47uh6F1p203RQOaxYThzX.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Tom and Jerry & The Wizard of Oz (2011)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644492.mkv&play_token=0VO0dbbLOu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644492.mkv&play_token=zzqamYBbnv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cAUlDEAjHCx9Tr1VH8iUro4VXv.jpg" group-title="┃EN┃ COMEDY",┃EN┃ This Is My Life (1992)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644491.mkv&play_token=lhnS2xXsaN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644491.mkv&play_token=GfHOrTPXmG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4DRZfTqOlmzNWAvy4vcKWkgEGL.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Blindspotting (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644476.mkv&play_token=4CVqENVzR7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644476.mkv&play_token=YDKpiETPAj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMOZoNszmmlf3jUivDUEFgCrReo.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Big Wednesday (1978)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644463.mkv&play_token=ZWAVNq42s3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644463.mkv&play_token=UuKsep8Rwx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4POWJtOXt19PWfO18rHpw5GIQc6.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bedazzled (1967)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644449.mkv&play_token=JflXFTptSF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644449.mkv&play_token=VeiRaUTZIN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4sOe401udZJWJEOvKvSs3peZcB.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Barbershop 2: Back in Business (2004)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644432.mkv&play_token=qhrBFxZlld&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZo399sszo6QxEPOmqJiq5NhQeU.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bad Words (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644431.mkv&play_token=nxeqQgbGDg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UtmPBnXxo7ng2rRehuKtG2a1L7.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Athena (1954)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1644421.mkv&play_token=hxBxwfJNgZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg" group-title="┃EN┃ COMEDY",┃EN┃ I  Tonya (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1639870.mkv&play_token=HNvLoOh8fP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Happiness (1998)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1639868.mkv&play_token=ocyI6X26CL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2VgUoXR9iAtAf8nA0mvdTr7cOt.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Good Luck Chuck (2007)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1639867.mkv&play_token=EXXo75KlAR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjen0vxjybwItQPH3NNCJuME2MY.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Extract (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1639865.mkv&play_token=eWCIQlrRLz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRxbYOYHS8T73nzR8hsLousoplR.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Clue (1985)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1639854.mkv&play_token=qzBMB1zacU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqMP6n62LcYnU0iIn69zy742cTT.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Carl Barron: A One Ended Stick (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1639848.mkv&play_token=Fy73DB7XFk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTNNOtemaYmtx3k2NpsLMRJKEwZ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bringing Up Baby (1938)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1639828.mkv&play_token=SIHzoB6k2C&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7b5GsVJK1hfdwoYqcczN9pBba6.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Breaking Away (1979)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1639824.mkv&play_token=DaJq402UPK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Breakfast at Tiffany's (1961)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1639821.mkv&play_token=SrciC4OkQd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r243zEE7lTd8E6WwbtEGgu5dOs.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bartok the Magnificent (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1639810.mkv&play_token=VMe4BwscPi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg" group-title="┃EN┃ COMEDY",┃EN┃ South Park: Bigger  Longer & Uncut (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1629918.mkv&play_token=6Bb6zzHewl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QdF1SKEIBtlkJZtkWM4qekwEtG.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scooby-Doo! and the Witch's Ghost (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1629916.mkv&play_token=Q6exz3KjC5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ql1KEdLPr0bl5503qFiUscDT1q.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scooby-Doo! Frankencreepy (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1629913.mkv&play_token=PIeyXrJlbL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zurVOCpOLwLTBknYlgcXHWE0xvu.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scooby-Doo! Camp Scare (2010)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1629912.mkv&play_token=6ok3ZojWXt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BrXCJrs22bR5KR6mLHluYo6y4m.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Scooby-Doo 2: Monsters Unleashed (2004)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1629911.mkv&play_token=4QfsSUs2x9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ad3F9Fm7zdZmBqBSvJIAJRfac9m.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Porky's Revenge (1985)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1629903.mkv&play_token=VGLrREcPhr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1TZKfzvATep5x5DthqWjjWtU2l.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Nowhere (1997)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1629901.mkv&play_token=PF2boU5nAI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Chicago (2002)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1629857.mkv&play_token=OKFJItyyWK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyp8EXDmO4dSC8V6Q5jU7gD1kcg.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Chef (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1629855.mkv&play_token=wmh9rp77wq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AxXWJYzrFx7LIFP3OvCPecwXGE.jpg" group-title="┃EN┃ COMEDY",┃EN┃ A Prairie Home Companion (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1629845.mkv&play_token=u9FEnCsdS7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pA2SgITmH0lzet9Nn5cxeinRKMv.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Tusk (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1626564.mkv&play_token=1njebrnHNM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGPrFbucRLwVtCKCeinwAklAl0l.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Paper (1994)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1626557.mkv&play_token=x2HAqqpaEj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayVLPibrtazh7U5FliWRLDMmG3d.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Pacifier (2005)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1626553.mkv&play_token=PuAPcUdvYB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiLgARBzUiE7PPRiJILXSh4zOIW.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Other End of the Line (2007)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1626545.mkv&play_token=9Goem5Ot8Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYHOYvRApTTY2TzxCixEsNeDKC2.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Robot Chicken: DC Comics Special (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1626523.mkv&play_token=G5jraUsv20&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBG4XoK5xkujl4crloPs6bStl4m.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Dick (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1613491.mkv&play_token=YQvwD5lo3n&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pTvjELxw0f0E6sUPGtPEl4WD0S.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Diary of a Wimpy Kid: Dog Days (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1613490.mkv&play_token=LSeVS2vUP1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4ANVEuEaGy2oP5M0Y2P1dwxUNn.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Dead in a Week (Or Your Money Back) (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1613475.mkv&play_token=oLS16aKjm0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NoqvEpApbcnSWFpbHAswOYufSQ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Dead Ant (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1613472.mkv&play_token=KRdxEPoZZZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vc6GWhFciyrL7JyAULko1nUdSu.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Dad's Army (1971)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1613464.mkv&play_token=jwQyI4tC4X&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqFnFg6YS8urJT6YC95IDkn0VHz.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Big Daddy (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1613459.mkv&play_token=oGFPITwd4c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqa4TEgkx63WRhqyD8eTwmL7bUi.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Analyze This (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1613452.mkv&play_token=eFA8GHRQKu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMh1dCw5vhMATmJs0ve0OpoSVED.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Accepted (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1613450.mkv&play_token=cLfQc00qnL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fU4UrY5tTAYAXIzFs7oR9BK5Cqx.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Fighting with My Family (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1612488.mkv&play_token=NKpjwt5KM6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTpZGWVo5DDk1oQUrUJcRjqGzGg.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Fever Pitch (1997)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1612487.mkv&play_token=Fx8rxs2znw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1ZNhNd8FV8kCW39OeDelokT0tv.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Everything You Always Wanted to Know About Sex *But Were Afraid to Ask (1972)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1612479.mkv&play_token=Su9o75kBjA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvEi0xV7TUkabJGuzulhvbMjrHi.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Dumb and Dumber To (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1612458.mkv&play_token=17JmIRmxMw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbcqkOVT4KrWWhoT18FzZZ73Puk.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Drunk Parents (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1612455.mkv&play_token=Odc3mcrxaK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1612450.mkv&play_token=J0wsg47REF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKsiN37qMt8jad5GikZzSeevyI9.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Don't Worry  He Won't Get Far on Foot (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1612446.mkv&play_token=Bf5tLV9DZx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgLpUDbiGwdCgZzjHJt9bIgHcXk.jpg" group-title="┃EN┃ COMEDY",┃EN┃ David Spade: My Fake Problems (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1612442.mkv&play_token=kGzoaq473m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQpJbMzfmzwb14MiUVC991LEyTV.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bill Burr: Walk Your Way Out (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1612440.mkv&play_token=b2buJqt0bS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxmKhXpIznlYvIjAKJKQKKb3T8r.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Wild Cherry (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610968.mp4&play_token=yRoRAw8lrj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sK7hW0quKwlYxP2urLirsDFPabD.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Ramen Girl (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610964.mkv&play_token=3a4WLd5zpa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vG59P7hKn5vq23ljkK5ToXCoua.jpg" group-title="┃EN┃ COMEDY",┃EN┃ How Do I Love Thee? (1970)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610951.mkv&play_token=LH07sKoU6O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orEUlKndjV1rEcWqXbbjegjfv97.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Holmes & Watson (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610944.mkv&play_token=2ooAJ4aoeJ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EN┃ COMEDY",┃EN┃ Hi  Mom! (1970)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610936.mkv&play_token=IlnhhVYQLB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EUjz08MUVoZxekNnWZIasjZ5yh.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Harry and Walter Go to New York (1976)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610927.mkv&play_token=zQ69K9C1F1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlHcI3lDMPwaGwiWBWiyk2Buhpr.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Hank and Mike (2008)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610925.mkv&play_token=74HWSldy6R&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGKkn6IWfr43MkgVyscV46jXqdV.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Hallelujah the Hills (1963)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610923.mkv&play_token=bnB0VMN8gv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nePQSG95aMm5WN2t3nEd5PzPPu1.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Gumshoe (1971)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610920.mkv&play_token=EHWbDcytW6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UweLsv3pCORu25Uq72m2IBkKaK.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Green Card (1990)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610916.mkv&play_token=B0aLQ2FUFV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojPhdxrC00j0zN2hUrgn0kDdZT0.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Greaser's Palace (1972)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610914.mkv&play_token=f31KgOWUPf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Goosebumps 2: Haunted Halloween (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610913.mkv&play_token=pKqB41yuKY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1wgYCSl8lLhe8stNQWKVSjNrDK.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Goin' to Town (1935)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610909.mkv&play_token=Kl1O7zDhCU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yObYPMA58DnTMvJooFW7GG6jWAt.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Ghostbusters II (1989)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610902.mkv&play_token=2AQnMvtsXi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/604qqquWBgFy34jLhHLtebFPQy6.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Furry Vengeance (2010)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1610899.mkv&play_token=NNqkXleI8w&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUUoh9CXWHsJr2r62MqGg1J8M0R.jpg" group-title="┃EN┃ COMEDY",┃EN┃ See You Next Tuesday (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609602.mkv&play_token=BmOxUCCtZM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptpdUQiRjeHgE1dmpCd38N64ENV.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Love & Friendship (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609594.mkv&play_token=gk5l7lCVUh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ha5gq3O5d09OihXO2siVrEWAj37.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Love Happy (1949)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609593.mkv&play_token=xgXO2pIvU1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gViFAWWSkEKVJRbFdxdxUemp14.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Love Bite (2012)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609592.mkv&play_token=PYEZmhlyAp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BQP8GzBW4ZZxqcc5tDH68yNeAI.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Losin' It (1983)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609591.mkv&play_token=fzsANCN3RB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0kntpdsHA0QdYjpQdNBqrVTdQq.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Looney Tunes: Back in Action (2003)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609590.mkv&play_token=6IZ6x0opLH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwlB4kHXK6IDhZMTALNOfohnr00.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Little Italy (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609586.mkv&play_token=Tm4Rpt9M83&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fdjQ5lFbkSWlAUv7px6KSEOdxP.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Literally  Right Before Aaron (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609585.mkv&play_token=8tDidU0XBn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdkKNQzzwyciP9vAohAPFZdujlA.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Life Is Sweet (1990)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609583.mkv&play_token=U8B71mTLkK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXzPnhQuuYC0cOvXLUo3Dvmuhl3.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Left Right and Centre (1959)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609580.mkv&play_token=z6fH8txhx4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1h1fLMCk6YbEKE9fTmMnZ9SnISl.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Lady Street Fighter (1977)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609575.mkv&play_token=ctccj5rzUA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oajNi4Su39WAByHI6EONu8G8HYn.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Kung Fu Panda 3 (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609571.mkv&play_token=d1tP03ioGb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7wE1pUooTxxEOXgmKXKSIpEuxL.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Kipling's Women (1961)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609569.mkv&play_token=buchfuCiLx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lh2EUTVOcESkdEOcsjYEW6qS1U0.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Just Friends (2005)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609562.mkv&play_token=qAr8TrTseV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHNuwWwhLq1CKwecEI4LL0pkQDY.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Jim Gaffigan: The Skinny (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609561.mkv&play_token=2g6AkrE1m4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Isn't It Romantic (2019)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609558.mkv&play_token=LX9UQkMIES&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Z84G7mn8eS7WxiHr5CrXRrneaF.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Irma Vep (1996)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609552.mkv&play_token=4X58i3s31f&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfIVhldZHW7xkXR6rnTaFJkiV3l.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Intimate Affairs (2002)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609548.mkv&play_token=EPE74XjfWw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5H3fbU4NlHPbLf3MUFZwPdmD3nS.jpg" group-title="┃EN┃ COMEDY",┃EN┃ In Good Company (2004)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609543.mkv&play_token=pxH38NeOEm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTw0nHlXT2Wa2J1ilBrvAMnXDSO.jpg" group-title="┃EN┃ COMEDY",┃EN┃ The Debut (2000)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608431.mp4&play_token=vvM9e4iojb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSeehH4s274kdZXEMKnPE2tlqco.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Poultrygeist: Night of the Chicken Dead (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608409.mkv&play_token=pIwnyK1Vlc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBZeZZNjYBUU21zFvBnin5n62bv.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Popstar: Never Stop Never Stopping (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608408.mkv&play_token=DsdDB64Ak6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3M3YyvDSgFv3ZEueuNnuLgSch6S.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Percy's Progress (1974)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608404.mkv&play_token=W6GVFHeJfu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Paddington 2 (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608402.mkv&play_token=l75KV8WhJW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcRAOCmDcFYivMNM5ink3OMMe0V.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Office Uprising (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608400.mkv&play_token=jJfUI7mDS0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztc05ym0T3stnBpRHdxEs3Zwsmp.jpg" group-title="┃EN┃ COMEDY",┃EN┃ My Big Fat Greek Wedding (2002)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608399.mkv&play_token=aqkjCqUexJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1HFnge9U5Ucrv46McRI928gL3l.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Miracle Beach (1992)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608393.mkv&play_token=ldOXsse6Nk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRO3NFtjIu1g8YWbnqpI95Yy0mC.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Millionaires' Express (1986)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608392.mkv&play_token=7nMKJyFtQp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saPYOf3E92zNy6eM0aA738JN75X.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Microwave Massacre (1983)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608387.mkv&play_token=qaZvTsC6xM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UoL2IkDnDqT9pvUk5HA2LQmvji.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Melody (1971)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608382.mkv&play_token=7HF11ufNmm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCbjmtAsrcJVYelv2OoRWwZ8uro.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Elvira: Mistress of the Dark (1988)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608370.mkv&play_token=cKncZsA1BC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UqEB9uR3z3BDxYFyn7YDZRLFZ6.jpg" group-title="┃EN┃ COMEDY",┃EN┃ Bring It On: All or Nothing (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608364.mkv&play_token=VlleUgZARu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaEauZd2joSAKn42D83gm3S0y3F.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Weird Science
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1418270.mkv&play_token=CR6fB1h4qc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdgLc2fJvXMbQkiV8ahj8ZVyL7c.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Short Stay
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1418252.mkv&play_token=qUrLvhYo5y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpQRLEcQeWe2T8TbSJ0zJ0Avqij.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Modesty Blaise
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1418238.mkv&play_token=SuRRiqSjLj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUTQp6cPgfOX4St2WfaeUvxZCts.jpg" group-title="┃EN┃ COMEDY",┃USA┃ In & Out
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1418233.mkv&play_token=FQEDupZWNm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPQ0XR3XkzJMfe2NtNbbxpQKOzC.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Ari Shaffir: JEW
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1418221.mkv&play_token=L4j9neoVn4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otrgebmsmyFVXv2R5pWp3DqY9eQ.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Stewardesses
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1411096.mkv&play_token=LnCWHTIZmS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDQftfpTEppAvdgLDDil56W1VWS.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Princess Switch
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1411095.mkv&play_token=dK1UlGVww3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Lego Batman Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1411093.mkv&play_token=oDuea2hO5p&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5srGbSv3zhEUjXFOZR9qHkgJO6l.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Beerfest
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1411070.mkv&play_token=ZYnGwagXBf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXGEAzZp2u2mBPrVgywo5rKRRcs.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Reach
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394329.mkv&play_token=RYeXp9z0Kc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4cwbxTnoAtwT6nT7ta11ymxTNU.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Queen of Montreuil
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394328.mkv&play_token=lE3GVnMSQW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61qE0TunNdJiPELBdywMlpvZXDB.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Meet the Browns
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394322.mkv&play_token=YFbTHGY4aU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4P6d7kVDB60Ydmk9WAhrPCWrARI.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Madea's Witness Protection
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394320.mkv&play_token=C3qnWLPOyS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiXNNmSFXsfUdKDkylBF2LfX0DR.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Madea Goes to Jail
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394319.mkv&play_token=ruDuvXdWs3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clq4So9spa9cXk3MZy2iMdqkxP2.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Nice Guys
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1383956.mkv&play_token=fcvCpnwgkS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4ExIbPuAe0rAjpYcteiFx4QEfY.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Funny Farm
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1383918.mkv&play_token=2cS7XCuMyn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg" group-title="┃EN┃ COMEDY",┃USA┃ We're the Millers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1380029.mkv&play_token=ltKfX4Zqmp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57ViRkdsddHLK32W8Nf3ZPLSAu4.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Pink Panther
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1380021.mkv&play_token=bI31nZ8t3G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRNowy4kk8gKHv1ek2xFueilDpc.jpg" group-title="┃EN┃ COMEDY",┃USA┃ St Trinian's 2: The Legend of Fritton's Gold
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1380016.mkv&play_token=K1aWJzJxfl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rz7bfGsPGcI6cfY002n9VrUgao.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Just Go with It
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1380007.mkv&play_token=T0XUeUti0Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcLFvIqCUrhY96mkSmr3okxaMEw.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Game Plan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1377193.mp4&play_token=NItofdBeCg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rScplcvRHX7o7XK88SFb5mddo8y.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Strange Brew
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1377190.mkv&play_token=I1PpeXVeqY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Ratatouille
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1377188.mkv&play_token=PMXUOgT1Cg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87T77zbZjvz3jkPjw1MToxL2QZh.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Man About Dog
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1377183.mkv&play_token=gap8WxrsBO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pf4FoUr2phn5WyZjU7rLXSiW1Ve.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Let's Be Cops
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1377181.mkv&play_token=wCH6VbCNLQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVCJzmK9l5FD01LFYAB1zcmmw7s.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Land of the Lost
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1377180.mkv&play_token=I5zuhZtXuU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyMrt0RPVC8LDpdMrk1DjN6Gqdu.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Kronk's New Groove
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1377179.mkv&play_token=0xgkRzps7T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Kingsman: The Secret Service
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1377177.mkv&play_token=b9MFHzaOLE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Ferdinand
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1377169.mkv&play_token=Dyhb2dIuDj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Despicable Me 3
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1377166.mkv&play_token=y1437c5Nom&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1GSxFcDaZ6lMVf21M0KloPfuhu.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Big Mommas: Like Father  Like Son
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1377162.mp4&play_token=CLA1YKUMgE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wE9tcRTZ3OCTz2LjGaNxFHZnDLJ.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Wilde Wedding
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369330.mkv&play_token=JKFcr3SwVS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsYfuS1kWb41aPf8ka7rgrYuMpP.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Video Dead
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369329.mkv&play_token=TsNyhEbeQa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZy6daiVmB8uiOHh0O9w3IsCEUG.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The True Don Quixote
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369327.mkv&play_token=xM5nLoRAop&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HDjhip7qzvEAb5A0AiJfcUBo22.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Oranges
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369326.mkv&play_token=wBYOqEZjtK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8L3Fv1rRMCdJuZXwttlDL3wqac3.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Marriage Fool
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369325.mkv&play_token=vUDJBdFebz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXWsjQefKVsJdQQsu5NZT1Zk1rv.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Longest Week
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369324.mkv&play_token=qRP72mnWhY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vp0hm8BvFkeFXv67dv97fciGXz.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Holiday List
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369322.mkv&play_token=afiqCQA4N7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tm63uFV0D8PFy2L55PSKF6k1LJG.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Sinbad: Make Me Wanna Holla
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369315.mkv&play_token=WGPQLeR2It&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRN5zksvA5oyCkEmGE1a5ppStRk.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Santa Fake
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369313.mkv&play_token=6UDKcTnlXy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l9wSwvabTefMJ3TkXnh9evzmVV.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Lou
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369302.mkv&play_token=FCEINKk5rF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Eg93S0cMHLMFkeunqpmMkzs10A.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Lottery Ticket
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369301.mkv&play_token=FPU1fhgcJx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JmTzxQx78PfRKVuQjpG80jjXoM.jpg" group-title="┃EN┃ COMEDY",┃USA┃ LEGO DC Comics Super Heroes: Batman Be-Leaguered
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369294.mkv&play_token=M4gjbeM3zF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Beverly Hills Cop
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369281.mkv&play_token=IdAloO40RO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zs7Pjyabt0fwe2XqIx0gnF9Q4np.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Airplane II: The Sequel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1369279.mkv&play_token=h78rE7QGoO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xFuCpQGD2TaAIfVnaYYl0EgRXz.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Raising the Wind
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1367596.mkv&play_token=R8mQxGSVTu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SGpW51PI09uG8WxKQn8K5PEJDn.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Woman on Top
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364854.mkv&play_token=x7tLVyi8BU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0nNQCL90RGTwjxLEFsFFLQZKNe.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Three Stooges
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364852.mkv&play_token=pXKfbmv5Sk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57o1DBc5DfJXVc8wArAblSbZ8sD.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Sessions
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364850.mkv&play_token=7ZYxLF0S1l&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiwdwnl7RFs1vcBanOKr13ye3wE.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Peanuts Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364847.mkv&play_token=aqKLCbczXo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imoZLjmCnfG4f69Dq0f2Zsr9XOR.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Magic of Belle Isle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364844.mkv&play_token=kNdOADKHxA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vs4jcY5NQA24zFGihY2EiqEA5hI.jpg" group-title="┃EN┃ COMEDY",┃USA┃ My Super Ex-Girlfriend
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364831.mkv&play_token=Q2cS8vMLAF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGwZ1QI5DaL7mHQ2ZsMV1p8xvPS.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Mr. Popper's Penguins
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364830.mkv&play_token=8BdhSK1Fcv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DWQOjAPvM8Kk1Qp3Xq0zae0Z6w.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Meet the Spartans
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364829.mkv&play_token=0G4rp3IMSD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0RNI1NMtsvLsuTo1rWZfNHVs1z.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Little Manhattan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364828.mkv&play_token=RVBa0HTixg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gWiQ4mn85jcXtREVePlVViupeV.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Happy Feet Two
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364825.mkv&play_token=LGfE7BP2yo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Hairspray
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364823.mkv&play_token=We3DXiiyEP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiV5J3bv6fIugG6oloeLCqSzHuF.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Garage Days
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364822.mkv&play_token=i3Oove2GzR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qciyu815r7vQ4d9usO3QLww3HVt.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Florence Foster Jenkins
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364818.mkv&play_token=t2WQsLgVhc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4qqdtlVvqbx84AkDpmoLgtV8Wb.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Finn on the Fly
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364817.mkv&play_token=9vJGLY3f91&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XYMlJg9sqM1e80pNb9lCK3oJ4v.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Ernest Saves Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364815.mkv&play_token=rV7bxGpLkk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2enmf2mffXRFzzJ0ExDGu3i1vRG.jpg" group-title="┃EN┃ COMEDY",┃USA┃ David Cross: Oh Come On
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364807.mkv&play_token=C4LL8mGnyH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/up8cEgEsl2Dq5Djb9lMZYBK0s84.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Barbershop
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364798.mkv&play_token=vYNDOesKHl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Austin Powers in Goldmember
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364797.mkv&play_token=Fk8lKGxFJP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg" group-title="┃EN┃ COMEDY",┃USA┃ An Extremely Goofy Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364795.mkv&play_token=LfgYWuNf0F&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bb8ym5zSRGmhNx3gyDnzSN2waS4.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Aliens in the Attic
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364794.mkv&play_token=6mVgWK9YoK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IROnPMgDnI1TYQ4PZBB0nn6CwX.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Lesbian Vampire Killers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363136.mkv&play_token=8FiQIJ6BDT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65hQc40FxKSpigISbC6ssUM0658.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Way We Weren't
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363134.mkv&play_token=Wy0F3eV6XX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The SpongeBob SquarePants Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363132.mp4&play_token=lbM3p2Mzyo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wS69OOwBJzimoLIcmYMSVkmhCZM.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Little Hours
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363130.mkv&play_token=601l0g7ipV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sMpffmvoJlW7WBcvyHTPR9DEsj.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Bishop's Wife
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363122.mkv&play_token=J3ijombjLW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LSbj1iwkxM7AZRTKxCxfdmE4Lt.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Mini's First Time
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363112.mkv&play_token=Q7fdFUr76p&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npZIG1O3qqQ1TukLXPnx774zBfX.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Mike's New Car
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363107.mkv&play_token=U3OSwvaAUl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alWBdyvXf1LSixnn1IfID5HMtLx.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Mike and Dave Need Wedding Dates
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363106.mkv&play_token=BLrnLPdKbs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKDnMvVynvj7lwdv1iAZO1DzTYn.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Fletch
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363094.mkv&play_token=CUQtVMkHEF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKTLU5kIBiqvjbyIPbXFlXCTDwj.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Drunk Stoned Brilliant Dead
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363088.mkv&play_token=JnKYlbGEgm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8KbNHkkwFXLjV1suGwm0Qjure5.jpg" group-title="┃EN┃ COMEDY",┃USA┃ DodgeBall: A True Underdog Story
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363086.mkv&play_token=Uuib1vQSaY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pba4mTD4WyYtaSe2WI8aB04xHIa.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Ralph Barbosa: Planet Bosa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360712.mkv&play_token=Jgaoe5DWcp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8PBkTn6kDK9ZMCLj6jP6JnIBhY.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Where the Heart Is
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360706.mkv&play_token=wbSYHI1jgp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FJvLq4gWsQfJJuKag5cTk1Z0iX.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Weakness
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360705.mkv&play_token=JYhL3MaCdw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apxNcHNOgUe4uMgmRTMg8zEkVyv.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Tomboy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360696.mkv&play_token=JKJ0nFiyCC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzWt8ECED9kGm4LSXLSkPGBWpjE.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Tom and Jerry: Willy Wonka and the Chocolate Factory
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360695.mkv&play_token=vZiy9O4FX3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77JOqndgcxQwmQb221fvLNbAHKl.jpg" group-title="┃EN┃ COMEDY",┃USA┃ To Barcelona  Forever
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360694.mkv&play_token=ON8kMCpyK7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Addams Family
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360682.mkv&play_token=4lcaSPaTre&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjDAdesZNYFyRNnZvLT0osc7S2t.jpg" group-title="┃EN┃ COMEDY",┃USA┃ That Awkward Moment
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360681.mkv&play_token=BcpS8jNp3Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXNeVs4XkVfuQ2x5G67kOyRlAcx.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Steph Tolev: Filth Queen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360680.mkv&play_token=AAR6mG47HC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HBizk472Kb0SY8NM8XTbig2xpm.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Next Floor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360673.mkv&play_token=fACZg6YH5i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pat3vKaRlB70he4ghwTMydR4TvP.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Miss Congeniality
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360672.mkv&play_token=gJM8PlZrPk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Love and Monsters
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360669.mkv&play_token=NkUFlbj4Xl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiqLBiH0IWrog2Q78dZTT8Ad9Sp.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Dark Star
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360657.mkv&play_token=XwOjBsKBBY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAHkyMQbTufFk9P6f7Jv5BXaQCs.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Windy City Heat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1358000.mkv&play_token=qzzNpMaROj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcl4vYTqqzwn3ihUpjCQz0jqhV3.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Corgi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1357992.mkv&play_token=3Js2YoUuUV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWw9HfQmd4Rn1Et4vgZQsEf5tEZ.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Circus
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1357988.mkv&play_token=HqGz3yFeoi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecAKgzlt78OvEVpZURYYdSz8K5v.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Space Chimps
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1357981.mkv&play_token=hc9OC3PAxP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFD3HdVIXVbvVixIGhNmJBaqyAI.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Çılgın Dostlar 4: Korkak Kahraman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1357972.mkv&play_token=vgGtBfRrkX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lM4bahouPblYcfngZtnNSkaWxCU.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Open Season 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1357971.mkv&play_token=MiN5qNox2T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8stsv7jhIQz9QmEHG6QOD0TuLv4.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Fatal Pulse
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1353733.mkv&play_token=cNO7cggFLG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Lego Ninjago Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1353722.mkv&play_token=v1nm3jIskj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WrT8AZUcDicvf5m8KVgspQEHK3.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Kid Detective
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1353721.mkv&play_token=M4SrjBdfCX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5xSS8MNmrwR3em6VB6OC3992d6.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Rock-A-Doodle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1353706.mkv&play_token=ZH9CEaglNe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OWrwvKscVc7Md0IvtTLZmjXbKt.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Prevenge
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1353703.mkv&play_token=O6D1VGFr03&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPLAUrmJkXdv1sEtIqk9EwXvmbH.jpg" group-title="┃EN┃ COMEDY",┃USA┃ My Old Lady
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1353696.mkv&play_token=cig4cUsHE4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1cKsKMfjl5n1TNcfnk2rQ20wM0.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Idiots and Angels
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1353689.mkv&play_token=ooXX3ZtFG1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3IRiGKXx2eMhxtV8GktKwvWkhm.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Extra Ordinary
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1353682.mkv&play_token=7ArsJ0bhRb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBkQjdlA1EMD2zSX4WLHDbxs6vX.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Charming
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1353677.mkv&play_token=AiibY6nri0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9B92oiFTAnfRlvrAodNIUG2ysCM.jpg" group-title="┃EN┃ COMEDY",┃USA┃ A Royal Night Out
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1353674.mkv&play_token=19IZPoJgjk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o88aPDDMtdwQsPyXqSKhu98jjru.jpg" group-title="┃EN┃ COMEDY",┃USA┃ What Just Happened
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1349830.mkv&play_token=ifoTFokdxX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efsVMziwE9BNTDX5fNmYVA5oAzJ.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Tammy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1349814.mkv&play_token=5nJJAJJsg9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bb7MTHCIPhpKZFysDpxNaNrdMk.jpg" group-title="┃EN┃ COMEDY",┃USA┃ St. Vincent
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1349813.mkv&play_token=2ZtfuOik1s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgGh5d0IHAZRlHIdFS3XWVygumR.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Richie Rich
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1349808.mkv&play_token=UEWiNAxC2v&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quGrtVer6MPfAY6gEDm0JA1ugZ5.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Love Jacked
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1349801.mkv&play_token=nydqEDp8GG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6jwjS9mS4qBzhaA6ob4PUd9PJ0.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Let's Kill Ward's Wife
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1349800.mkv&play_token=sZzOnGeJah&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZTasNoTehrypra0X97zh8Amk3.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Hopscotch
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1349796.mkv&play_token=GYCggwELnz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbU3UgIjxNTrSSe2gcOSGQjf55a.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Honey  We Shrunk Ourselves
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1349795.mkv&play_token=5o26wmY5L2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRnUC60trqoRZuAtM8M3gOFT6ED.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Gentlemen Broncos
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1349791.mkv&play_token=sGP2Azd0t4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhsta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1349780.mkv&play_token=W2VJ3Finjg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cncxLilRHKayn8VKhzjAMHkbN4f.jpg" group-title="┃EN┃ COMEDY",┃USA┃ A Very Harold & Kumar 3D Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1349776.mkv&play_token=hylAPjfgY6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXhrHZs0TlqxKBAkUvrVcNMKw7q.jpg" group-title="┃EN┃ COMEDY",┃USA┃ National Lampoon's Van Wilder
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1348347.mkv&play_token=kIdH5LECsD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfIrKVPDzXJDBzPnFEuoatlaZPW.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Think Like a Man
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1348345.mkv&play_token=wkDi5tX3ux&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciR2suRkfJen9lQvfz22lgCj7g7.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Wedding Ringer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1348344.mkv&play_token=XKZkckHfnS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQYKSRVo5iZACFOY6x50RblI6rx.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Final Girls
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1348334.mkv&play_token=1LiVknrZlI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNxEXmKTZtECHs0bQbI6dQoXYMV.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Animal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1348329.mkv&play_token=QeW7KhlHxK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5SatGKWi0VpO9QX0Z74zLh9i91.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Role Models
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1348318.mkv&play_token=EN6oULX5p8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laNJKezXJcWBZbKQFCtCAUl75fV.jpg" group-title="┃EN┃ COMEDY",┃USA┃ RocketMan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1348316.mkv&play_token=HnJDyy0YrJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW2CeCoFJKD57iyml0vWGRKKPaI.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Robinson Crusoe
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1348312.mkv&play_token=Ga9GvVnfS8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaz3IDv0AWJvzUuGucTQAFNbqxx.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Roald Dahl's Esio Trot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1348309.mkv&play_token=CaDc3bsP0j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Isn't It Romantic
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1348297.mkv&play_token=p0BCoTjgh8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CjSVSWz8FnTa26fVEHQA1PGwSd.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1348293.mkv&play_token=WPzMY463Es&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jng1wnVzIBdtllpUWQdzkODIB4Z.jpg" group-title="┃EN┃ COMEDY",┃USA┃ Emmet Otter's Jug-Band Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1348292.mkv&play_token=GkN2NcPTP2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bc3rCMgP4bbxNqGQCRlpJyU8otF.jpg" group-title="┃EN┃ COMEDY",┃USA┃ The Secret Life of Pets
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1346300.mkv&play_token=lXHgBaQzYr&type=movie

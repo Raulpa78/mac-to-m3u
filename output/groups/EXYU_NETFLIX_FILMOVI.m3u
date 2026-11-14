@@ -1,449 +1,619 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TAcNuupJopoIX18tXEekenQtoL.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Zom 100: Bucket List of the Dead
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330895.mkv&play_token=hT6QHj1HNV&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4q5lZO7fQm7ar1pJrUUEpVX2pHN.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kod tebe ili kod mene?
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330893.mkv&play_token=KFAIN3Cdtg&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKtFE5cDG42mqdijqdzEqFXNmuC.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Vaši i naši
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330892.mkv&play_token=0uEUWqIiYm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4pLdsQ7iXziTljdl1EaBCYlw0T.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Yara
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330891.mkv&play_token=ekLWUuuKNC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1omoZD5ExFvjm1JM7n35UccXf9.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Wounds
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330890.mkv&play_token=nsAmk6sL6y&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaINMBMGIow4kd8Dq06aytoomtS.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Pero Djetlić u ljetnom kampu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330889.mkv&play_token=5IjJfJZ2pu&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miPSRVOdCcc59DcLoTQoKdKpvTK.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Razbojnice
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330888.mkv&play_token=6vuaMpEosp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyn395RyxeP64T6jEgOGE4K7O46.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Divlji vjetar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330887.mkv&play_token=T0ZmdXOlTD&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1sOqvTUss8D2530z7cbcTwtHR.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Tko je ubio Djeda Mraza?
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330886.mkv&play_token=eqCCMPppJx&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfdohD108NzYz4LFpZ1qhTO1ld0.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ What If
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330885.mkv&play_token=MkzWGdPWg8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ What Happened to Mr. Cha?
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330884.mkv&play_token=vz43REAQ3V&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18deFlzabnUpYNlFUoXUDO1Pp74.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Wedding Season
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330883.mkv&play_token=1STzYanpNI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGLE9Mq5Ml9CCVaAfcZ4nrqTRWK.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Weathering
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330882.mkv&play_token=FJ3L1YsGiK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im29SG5IgKjNsmOvGmB8FMsLWo.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Imamo duha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330881.mkv&play_token=JjuCQdymIY&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Zom 100: Bucket List of the Dead
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330895.mkv&play_token=Wql6NfLpYg&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kod tebe ili kod mene?
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330893.mkv&play_token=OjzctZv3ex&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Vaši i naši
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330892.mkv&play_token=lPAgTxYlJr&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Yara
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330891.mkv&play_token=4NERUB4NgL&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Wounds
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330890.mkv&play_token=8MVdY0TVZ5&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Pero Djetlić u ljetnom kampu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330889.mkv&play_token=dP0jzLBAs8&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Razbojnice
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330888.mkv&play_token=C9MRbQIUB8&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Divlji vjetar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330887.mkv&play_token=fq6bsXYO2J&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Tko je ubio Djeda Mraza?
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330886.mkv&play_token=eJM2Xri7ui&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ What If
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330885.mkv&play_token=YqKXlNQdoJ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ What Happened to Mr. Cha?
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330884.mkv&play_token=7ghMmSFEnP&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Wedding Season
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330883.mkv&play_token=G54zRIu7cx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Weathering
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330882.mkv&play_token=wKglcsLFr2&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Imamo duha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330881.mkv&play_token=aIxaEBMZBF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbLvZNvB75nlimk82y4zAhW2GNh.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ We Couldn't Become Adults
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330880.mkv&play_token=ctgWDzU1yc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330880.mkv&play_token=kZlhUJpVmp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaa7j8WhqkIfRoakUuaSjSvlszf.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ratnici budućnosti
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330879.mkv&play_token=1b39phxi10&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330879.mkv&play_token=9s3ZkToKyA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xk9U863Tupw4ODrvgDjeWvi2qgm.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Između dvaju zidova
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330878.mkv&play_token=k4lhf84dEp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330878.mkv&play_token=imsLLvC27T&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31hmBhwU6ydT5YvLvTudCmnzMfl.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Vikinški vuk
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330877.mkv&play_token=3cyi9ZFRpA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330877.mkv&play_token=Wi1Ed41DxG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbPHJDH6cSJqOLSMduztewFGqQ5.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Vicky i Misterij
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330876.mkv&play_token=8goJJSb0Mh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330876.mkv&play_token=UQLwr8vbRD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCOUsl6aszRo6uVx7Vsp6gd8s5r.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Iščezli u noći
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330875.mkv&play_token=mwIz8N2E6u&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330875.mkv&play_token=a05rwCJODv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4YyRnqRIJUj7fWXi6hG88e7Ikh.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Uprising
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330874.mkv&play_token=NpBXqBO4Xl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330874.mkv&play_token=wZtOTtl9i0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Nk5zwg7Sx2mKotH4mkLX2lY2km.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Las hermanas fantásticas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330873.mkv&play_token=A6JguyWvBa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330873.mkv&play_token=CSkG6DDkSC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxcpbkiyv81u1frI7b0f6qaYufE.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Unfrosted
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330872.mkv&play_token=LOQWOucG1G&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330872.mkv&play_token=jPzBunpfLa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCZdRi8ioPuOgKfXOcibpWZtJVW.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ružni
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330871.mkv&play_token=n6lIiB69GP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330871.mkv&play_token=y1MO3EObTQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75wIHjwzYO4h7X07UgJXBLnClmN.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ UFO
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330870.mkv&play_token=0sNtufOulD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330870.mkv&play_token=iWllVQ9BnV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awnMWuq64kfzfKtNLctjBTJKqi0.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Dvojica potpunih stranaca
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330869.mkv&play_token=LcwKly1XmY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330869.mkv&play_token=U0RQOdfGms&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiMA6JLK3KuyXVl2Lhch0pLlxa8.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Neslomljivi duh
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330868.mkv&play_token=7YYaWPGK4a&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330868.mkv&play_token=4mFp4fFGUu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWurdf2X43ZPOmDMkm4RB7rS5SZ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Trouble
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330867.mkv&play_token=3pIG9iTiIE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330867.mkv&play_token=hSE1kJFNnf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2QJZWn5mgPjBvluEAGSPrIn1W6.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Troll
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330866.mkv&play_token=RoV4nfyhKp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330866.mkv&play_token=DiZVwZELtt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XJM3C47iGOK9nFU6yLFCSf4U5c.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Posljednje upozorenje
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330864.mkv&play_token=9uNoQ4jTL2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330864.mkv&play_token=MdsGwkxtJ2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OWTh12f8gmZ8uo4O2rE5TPKvzc.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Tribhanga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330863.mkv&play_token=WXeQ9Fqmm9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330863.mkv&play_token=QBLcuLAsdv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hfTkqiunjVliIAFAD47FIyLVTp.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Toscana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330862.mkv&play_token=N26OrRkDM6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330862.mkv&play_token=SAkxpXRk3I&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6iqoCtPelyut9OhKHJPSIL63Ja.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Hari Ini Akan Kita Ceritakan Nanti
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330861.mkv&play_token=51Z51ACXVM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330861.mkv&play_token=0A4KPf5HNh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iepqdM52f4w75fNcvgRF5QoIAjm.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ To All the Boys: Always and Forever
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330860.mkv&play_token=tJgEiyS4lu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330860.mkv&play_token=hecUOaG3m9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpKIeE27Aumesrbn6ofNCu2NlST.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Vremenski rez
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330859.mkv&play_token=mmGxZvICqq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330859.mkv&play_token=XhQ2bUdwEf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRG6VKSpdP1Fp42D3JaiDjrq2pg.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Gromovnice
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330858.mkv&play_token=Tgsd3wiQHe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330858.mkv&play_token=sKhWeJSMQF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAyJqJ8KoglZysttC6BfVmDFQUt.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kroz moj prozor: Preko mora
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330857.mkv&play_token=qsaEQduJnf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330857.mkv&play_token=RM0CiVawNE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTqTVbbHLFE7xyooehlj45YfBDy.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kroz moj prozor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330856.mkv&play_token=UsygtW3hzi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330856.mkv&play_token=0KEuzLxUQ7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tSkNmGt1K5Lgf0L0BTHHYJNz0W.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Things Heard & Seen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330855.mkv&play_token=zVRBMpHAXQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330855.mkv&play_token=la17174iEP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnzXoDaK346U4ByfvQenu2DZnTg.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Klonirali su Tyronea
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330854.mkv&play_token=DbIx9pSCM9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330854.mkv&play_token=a3VmB1aUL4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GaPJQscaH4MtYQTbJyWjCUIho8.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ There's Someone Inside Your House
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330853.mkv&play_token=5frjE3kDfA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330853.mkv&play_token=g8yQMAGYgo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CsSRswv658xjVKnDGvK2FsOXjh.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Na krivoj stazi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330852.mkv&play_token=pxq06OebnN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330852.mkv&play_token=dUS9icEyZR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MBuAxMlWQue7ELXRAukYwdVFLS.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Čudo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330850.mkv&play_token=qolXV5QRS8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330850.mkv&play_token=3NWE3xGkH3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcrjc1uwQaqoqtqi67Su4VCOYo0.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Žena na prozoru
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330849.mkv&play_token=FgDjHKvTEX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330849.mkv&play_token=h3Q1LSlCiE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EJOSQ7LHFEFz4pwumYfIYWBRPY.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Nadnica za strah
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330848.mkv&play_token=lVJZwnv702&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330848.mkv&play_token=jKQkXHna4I&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRtOX9CNOFDsn3D2l5v4nxI08VQ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Violence Action
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330847.mkv&play_token=OLQ8zIzzzc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330847.mkv&play_token=ilm1iI86N4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKAlUS86Xz33soJNy366RkZD9sy.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Sindikat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330846.mkv&play_token=GfyLuQ5dTF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330846.mkv&play_token=vHjWMiQz9m&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKClzN4PIzrh3kStNIDgoD3KI8d.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Proizvođač suza
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330845.mkv&play_token=Od3m1HDHUV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330845.mkv&play_token=feI2LvZ3hJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NHyuF440HprqRfYrecdMQH6iQb.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Daleko od ulice
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330843.mkv&play_token=r2NmtqTkIy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330843.mkv&play_token=L0Xeq1pCBQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWtD5BRynM4m2DNIIDjjwbDGpbw.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Los Nadadores
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330842.mkv&play_token=rl0NaLtCXh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330842.mkv&play_token=4JMeEqxQpb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dVjVQcgDvgclXhOjzxowGmkvmJ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Stranger
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330841.mkv&play_token=XQCnG3hKHf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330841.mkv&play_token=5eneSDtv5F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPkaPGNbjZCeRurSYGi0JD63DBa.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Starling
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330840.mkv&play_token=hKuZCw65iX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330840.mkv&play_token=6CAnXCmR9U&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tvAnzZj9e9AjdoHaN9jshm2Cjw.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ 6888. bojna
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330839.mkv&play_token=sd6XF2VTNd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330839.mkv&play_token=4LCddE2y7q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwD9rQJimSaRuYoYdgwgacrNCOY.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Lutalice iz Sjena
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330838.mkv&play_token=g3j0VyTqdm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330838.mkv&play_token=cM2NczdRsa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOh5kMzktsJyJfEUAFaTCXO84U0.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Škola dobra i zla
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330837.mkv&play_token=sCNCOOFwTd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330837.mkv&play_token=6LYBzPARlq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1Brc6vL4aKhCWzf4hgQPcmcCKD.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kula od pijeska
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330836.mkv&play_token=kdBocADH6K&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330836.mkv&play_token=hoPyyP7naH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KYJX9VTPL9C5PDPgxQnOTyWleV.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kraljevski tretman
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330835.mkv&play_token=UuUu5Qekfo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330835.mkv&play_token=Q9C40KdzIy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmzkbnBur2HxZgwGLyaRwdZOhbT.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Peron
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330834.mkv&play_token=rpfAaMfEze&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330834.mkv&play_token=0JspiNhgbt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvIex6d1owalCRMc95O2PQ2q5iT.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Platforma 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330833.mkv&play_token=pIdesB7fi1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330833.mkv&play_token=XRFNet40bV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCJ5DRE5dRGSdyeBhq8lWrZBkdb.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Pirati: Posljednje kraljevsko blago
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330832.mkv&play_token=dNOmusLD7v&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330832.mkv&play_token=18yESdZl9E&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1257jjA5796dw8RCu8Q6PcNABHI.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Pianolektion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330831.mkv&play_token=8odLixkzb2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330831.mkv&play_token=Qig8IoROjC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZXturIugHYCl7T6oLeMj1AWm7p.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ SAVRŠENO OTKRIĆE
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330830.mkv&play_token=mfkd8ojI9J&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330830.mkv&play_token=2kOvX7JZXT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNDcnemFWHitwi713l6WZqZjdys.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Pale-Blue Eye
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330829.mkv&play_token=AZEzgbLbXo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330829.mkv&play_token=lCVwOIkwD7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDnt2Vitntkv4UtBFahzAEvV2HB.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Outlaws
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330828.mkv&play_token=qltOYqOHXr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330828.mkv&play_token=2dr2whGBC9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0ffgatzOW7BqqyTxBXsHUWlyW4.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Stara garda
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330827.mkv&play_token=bBAQlAGCOF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330827.mkv&play_token=l6XWr9Uehu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HYdXsAXKGBkGTgJm9lgAl0WcmL.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Stara garda 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330826.mkv&play_token=Dn1bDdTYU5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330826.mkv&play_token=Dmx3erigdr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tugYKkRJGG5TwYRmO9jlAQlIrvN.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Murderer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330825.mkv&play_token=TbMCPpQmTK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330825.mkv&play_token=9cL2sdqMlg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9xy2CpVZhSmX8xRwupwvjtAprP.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Mother
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330824.mkv&play_token=w1EMHS7Q35&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330824.mkv&play_token=roQoFus8El&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8lXesOLXKS0VYjzWNZN6gDxv2F.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ponoćno nebo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330823.mkv&play_token=UqWRxCiKG2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330823.mkv&play_token=lmAPBLomcI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fUTCdCiXlFp1pHtFaot3WDA2mQ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Čovjek iz Toronta
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330821.mkv&play_token=VBr2VPTlUq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330821.mkv&play_token=kXDtXdqOF1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xU72geNctevcOmmJpAnhtPMdBFL.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ljubavna prevara
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330820.mkv&play_token=dnRQClwVPP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330820.mkv&play_token=Ow1oQ3eXUd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0xieVl5ms5EO6EuzxC6xFhPyg.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Le Patient
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330819.mkv&play_token=8xrehJpoZY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330819.mkv&play_token=ZZtiFVPJ1f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Laundromat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330817.mkv&play_token=XBoEVPtO3G&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330817.mkv&play_token=1aD5peeORU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysNr2cJAWUAA2IdPkNJexD1JMhM.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Sedam kraljeva mora umrijeti
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330816.mkv&play_token=uZyKC4QSku&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330816.mkv&play_token=k7UYrJ4VxP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuLyvSfzB9TW7b6tlZ62MSb9Ajl.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Killer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330815.mkv&play_token=sMjC5NajBQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330815.mkv&play_token=VLs3sBwUJC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtJl72dW97H4bU1sQKJO2LFvDod.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Čuvaj me s leđa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330814.mkv&play_token=HuOoMDPPYA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330814.mkv&play_token=lfdIkWHdzA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XgEqq8KJVW0R0NhDZCdBV2Pjr0.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Srce zna
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330813.mkv&play_token=Czt6arkpL3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330813.mkv&play_token=zVNPoAZxEx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aEUZDI0bsFAtYZnIGuzsvLpoSB.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Sivi čovjek
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330812.mkv&play_token=dOsnBELuGX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330812.mkv&play_token=HoXCcaV4Bf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bT8t0mEHl6e3g1JgwtzgDTTgwX.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Dobra sestra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330811.mkv&play_token=M9vNTTUfnX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330811.mkv&play_token=ivO8snhCRp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vWDZeVXJvCgySBzT9npAqf5p1A.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Električna država
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330810.mkv&play_token=vjrREiMui7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330810.mkv&play_token=lDG0NtRC1Q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFDNb9Gk1kyLRcconpj7Mc7C7IL.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Dig
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330809.mkv&play_token=5y5jgDi6La&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330809.mkv&play_token=8hONXcr1cQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGszUiPHlhJbSQQJCcO16ccx080.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Izbavljenje
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330808.mkv&play_token=KgJeVamZCe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330808.mkv&play_token=BacyNxw5xI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frWdWfr5Nd520Q35r28xNfyqAax.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Prokletstvo Bridge Hollowa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330807.mkv&play_token=4fiUljwFOm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330807.mkv&play_token=PYQOdc1uF0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhty2fUzMIZSSLdEWhrao2sGKAF.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Konferensen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330806.mkv&play_token=gYqQUz2e2s&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330806.mkv&play_token=Oj4tfbvYoH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0iZuYNM0hUyHZeldIdXf4aSrPy.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Nevidljivi kavez
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330805.mkv&play_token=sUfIP3JD9x&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330805.mkv&play_token=4Pv4khgCM5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUc6L5iJL91xaXjcL8eoMW9bq1V.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Bubble
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330804.mkv&play_token=RSCCLDQ2iW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330804.mkv&play_token=KqADNNjz3t&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3J57RrKvOeGgbqtBzIvRTFF55Y.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Black Book
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330803.mkv&play_token=BlZG1u0aR2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330803.mkv&play_token=nEc4WCaC4G&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Q7Zxnxdn64nGrA1qklKNnFJ7QB.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Žestoka četvorka
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330802.mkv&play_token=Xu7TLLjNUF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330802.mkv&play_token=IwwsRU68X6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Laz0p3Qg47vI2XIalpL2SlNUDI.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Predivna igra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330801.mkv&play_token=sVKeyRtr18&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330801.mkv&play_token=dQ1YrY67Ov&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86a7GRVRCwfl7wdI4QadyvKa6Zu.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Babysitter
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330800.mkv&play_token=vipBA6EcTt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330800.mkv&play_token=mMI1W8UsDq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5KQFPQP5fSjo195RnCklKxAmyL.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Adam Basma Project
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330799.mkv&play_token=9efbMADJzw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330799.mkv&play_token=rN3Gq5KgHP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfqMUpSUiPtB3J8RAKiopBNwHkf.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Abyss
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330798.mkv&play_token=iKyBb0cKs4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330798.mkv&play_token=04ky8I8AjD&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRmYjAwZjktZGVjMi00OWJjLTllMDktNjYyOGQzNGRjMDU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Test
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330797.mkv&play_token=edBbsMRze8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330797.mkv&play_token=37MeKCUpX9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyFoTy3eXG5OIXMSlKoKnsi4Cet.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Pravda za obitelj
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330796.mkv&play_token=vcxQXQcZC5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330796.mkv&play_token=swAc9EnHFm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kap
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330795.mkv&play_token=FumPwK5Wso&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330795.mkv&play_token=eWjXvZzYUt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFyRjhJfhNgM565U2mwEp5YUUOv.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Slijepi putnik
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330794.mkv&play_token=EvbgYwPUUq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330794.mkv&play_token=CrwyzIYncf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5Endhjm4soY6fPgXY0jrpDZvL.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Stolen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330793.mkv&play_token=GRX8Eotyr9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330793.mkv&play_token=ycOmuWX92e&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrw66DQFdxohmlAopUcAXYU0fo4.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Miłość do kwadratu jeszcze raz
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330792.mkv&play_token=mUOdD2TApw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Spy Kids: Armagedon
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330790.mkv&play_token=aelhlKIRIm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xARKfcqgMQa0lk8GCAg0Q80wajX.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Spieleabend
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330789.mkv&play_token=5V7fh6iPJj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bR3rlRl0dUbdpguh3nZBDSvGRMq.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Paukova glava
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330788.mkv&play_token=6noSeR6yFt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f46WvKEsBn98WJbPJcO47ZoKn6B.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Spaceman
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330787.mkv&play_token=knL1ygBbQ8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XlNXGkxm6OGptN7UCKO1N1Pk1a.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Apanhador de Almas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330785.mkv&play_token=oIqzerAcbN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Esposa de Aluguel
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330784.mkv&play_token=w08JZuOhEq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSZtnrB5a2YjpIrtzzcTATE0CEY.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Snježno bratstvo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330783.mkv&play_token=zAyUFBHUQu&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prli7u8jtDQjvRIfGXyOH6g7Py3.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Zemlja sna
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330782.mkv&play_token=mYwvnHppKs&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8yxFPOvNmhlfUXBqiNvvpMI4t5.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Skejterica
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330781.mkv&play_token=S6OqOikktG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOqmf4GQdi7SWGv9huQm8tm7vot.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Opsada u Silvertonu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330780.mkv&play_token=8vdrlLfsn6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFg0Q1kqfOhxlRvb8Dle7WF58F.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Sentinelle
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330779.mkv&play_token=5rA9xfpzom&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTJXvW3u16MwMwGYnG1k2R96zYS.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Gorko-slatka ljubav 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330778.mkv&play_token=yDrZBcp39T&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbVcZmmcfqk35Q9hNxRoR7JPiVp.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Sektor 36
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330777.mkv&play_token=yOJZpHnSRi&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNP9da2sQ7g420HqyKqswgGR23G.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Seasons
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330776.mkv&play_token=r8GphUH2Z7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330792.mkv&play_token=SgoSdjQN5M&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Spy Kids: Armagedon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330790.mkv&play_token=rC15CUXNdr&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Spieleabend
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330789.mkv&play_token=g9hCUdhzlM&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Paukova glava
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330788.mkv&play_token=fnkbohUmfd&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Spaceman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330787.mkv&play_token=pjKdJIXFT6&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Apanhador de Almas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330785.mkv&play_token=ogyKXDh9fW&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Esposa de Aluguel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330784.mkv&play_token=993ud1yu9L&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Snježno bratstvo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330783.mkv&play_token=rBkkp3fzC9&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Zemlja sna
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330782.mkv&play_token=ifsLdagN6l&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Skejterica
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330781.mkv&play_token=oRIh6l2TYS&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Opsada u Silvertonu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330780.mkv&play_token=fZbw93cz34&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Sentinelle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330779.mkv&play_token=qUkzRJfm3W&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Gorko-slatka ljubav 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330778.mkv&play_token=XB1LJc0YU7&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Sektor 36
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330777.mkv&play_token=v74vZ8QjZI&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Seasons
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330776.mkv&play_token=2bIV6Y2BbY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkaO44nUG9F7krxXmJMS1oMq1h6.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Scooped
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330775.mkv&play_token=IDaCy95SnU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330775.mkv&play_token=4yqfnFbfMn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ6rd29u0Z4ICp4QVSXm1uQ7gjy.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Royalteen: Prinsesse Margrethe
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330774.mkv&play_token=fQObbcgRxl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330774.mkv&play_token=PC9vg3PJBZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2zoUaxAvSsJikCz12lPHebAjXF.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Dvostruki agent
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330773.mkv&play_token=l8mN3Bm16K&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330773.mkv&play_token=gRw2xvKKQW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5u1b1h90GgBaukDRnQKhCjvjFt.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Rapiniamo il Duce
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330772.mkv&play_token=bbwq83qmcf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330772.mkv&play_token=kgRoMaGsXe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A7SVcEDqaTFKgzQV3ctb7g0pu9.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ride or Die
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330771.mkv&play_token=BPNcahO6Wv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330771.mkv&play_token=lvys1WYKFt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MKpjuiCTk8nYnsUf5QegiPKEDh.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Rezervatski hakl
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330770.mkv&play_token=VnpqUST64J&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330770.mkv&play_token=ptzGvhK9X9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRNbox6Yq5iDwbyRIx26ATyMvqX.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Revelations
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330769.mkv&play_token=WDbi8i3mmt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330769.mkv&play_token=SQTHjC7zZS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXAjaqIiwdRzkuq9rsPqjxCqYe2.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Restless
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330768.mkv&play_token=6OFWgDsnXN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330768.mkv&play_token=lNlXsKnORr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zWhkpXlSL8xg1C8GigUBVVzz2B.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Spasiteljica Ruby
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330767.mkv&play_token=l7P5cwoA8S&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330767.mkv&play_token=QhJI9VsAOB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vI6Td4BDYHqqyXACB6nVjGa8e1u.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Remember
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330766.mkv&play_token=yx8jxaRf7k&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330766.mkv&play_token=RL23HPuv09&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMhoSGFMOOZUyvZYB6Q9AR4t6fV.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Crvena točka
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330764.mkv&play_token=dZtb2qsUSo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330764.mkv&play_token=KvSl0Gpgz1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3raY76KtEzSHya5rcC2j37qGI9L.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Fuga de Reinas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330761.mkv&play_token=eMCKruqMbh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330761.mkv&play_token=yCdhLyios3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gn3UBxIXg4j5CIBulWmzmQFnRyk.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Purpurna srca
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330760.mkv&play_token=NYdafuT6ID&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330760.mkv&play_token=285J2iOOdt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iolOzpZILKFf2Ve88VnaKwU4DEg.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Setetes Embun Cinta Niyala
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330759.mkv&play_token=rrxnOBOPE6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6WAAhAFecJkLj6HEdanG67KJYF.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Igrači
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330758.mkv&play_token=0GXwPRVVE8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1sgSm2CLyLakTieJcDOzZ8siiH.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Phenomena
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330757.mkv&play_token=ilLy2R2rFX&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0jeH3kzoOwcljj8hmr919zGoqU.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Persuasion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330756.mkv&play_token=KXrMwzgeoY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9caGlNXkkisoheroSF9zKaBZ6wz.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Perfect Strangers
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330755.mkv&play_token=yTllkuGjpx&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBlzGm8WS0AkLFLtuJOXPfI5Y2P.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Penguin Bloom
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330754.mkv&play_token=7IPXVhxsAL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pbl0s3rRFQTDzVLAxT5aez0ADG.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Paradise
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330753.mkv&play_token=Wb806E82L6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GEMfL3We6s9JZeR0POQAUpTL3e.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Dileri boli
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330752.mkv&play_token=4NiWjYzdMh&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIFazhd0lpDXmtpkfM5WmxId2E2.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Nepoznati teret
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330751.mkv&play_token=SAFEpY1AQJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgHQPX08N19V3KiLtRgPUV0VCkF.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ S druge strane ograde
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330750.mkv&play_token=sL8TKBuhNz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PNlwMxssVhRUv7EJvEU630YPaJ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Vani
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330749.mkv&play_token=s8IydQIfYl&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0XyRsfjnxznZb803hXtleSXhtG.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Naša vremena
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330748.mkv&play_token=K8BSDAcXpY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXwRtzeYMi7cw6ed13FfCVAWZKI.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Hiacynt
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330747.mkv&play_token=jturCmfrp7&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUVuJXnBfNpSwvSDGnqzZ5VUBwP.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ One More Time
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330746.mkv&play_token=jeqjNItYg8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TZXtQaa4vOuaxeCqPbwzH8Db8C.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Bila jednom jedna zvijezda
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330745.mkv&play_token=WObSLbXlcG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uGS0RVxxkVyckm1vVerlJdMvST.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Jednom davno dogodio se jedan zločin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330744.mkv&play_token=JEZwbFTwyI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLl9sodUW7tmD0uYdCexLBIbZhB.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Stari ljudi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330743.mkv&play_token=DfNMWj2anA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jiihI4Fmu8fUhXllfPX4F8VPG2N.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Crni pojasevi u službi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330742.mkv&play_token=FYXOIsunPI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jD1zYVZy6AlMw8on2IVdEgL4fST.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Off Track
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330741.mkv&play_token=99odEJPUV6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qv7crkk9fzMrvj3WqWU6PiFm12f.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Broj 24
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330739.mkv&play_token=KFhcw2A2vz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2DsOc9zwzBinrKLO9ym99DUqsh.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Nowhere
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330738.mkv&play_token=r6Wgwt5PJv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ None
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330737.mkv&play_token=Gu4GbRUeOp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yka6u5dbx1vWoMrNIHHutluaepp.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Noise
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330736.mkv&play_token=rKjkKMi2GD&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdxAWKLpfX9CPdHCfCHgdPeBt8G.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Nitko ne izlazi živ
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330734.mkv&play_token=xjAkhYO3Rt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umTGicHu1zhwu0VxD0hYI5e2SBJ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Noćni dnevnici
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330733.mkv&play_token=ApEcyvarHz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vy7j4rYpZohvnxBvvkltICYdTRR.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Noćni zubi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330732.mkv&play_token=UbtSslT3jH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gU4mmINWUF294Wzi8mqRvi6peMe.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Narvik
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330731.mkv&play_token=WfQf4SholZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxXsGqxUwSxypffv8hn3r332jf4.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Nappily Ever After
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330730.mkv&play_token=CgImk04gOe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DhT9OSeNDpJdk2DEVfBxN1UmRk.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Moje ime je vendetta
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330729.mkv&play_token=WqGO7ejRR6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330759.mkv&play_token=yZliTNUP0d&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Igrači
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330758.mkv&play_token=HJmYJXylTp&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Phenomena
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330757.mkv&play_token=VIevepjOCP&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Persuasion
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330756.mkv&play_token=DYj8bO0EX4&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Perfect Strangers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330755.mkv&play_token=6AIJ4anzca&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Penguin Bloom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330754.mkv&play_token=CkPaIT5H12&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Paradise
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330753.mkv&play_token=E4rTyOBDHw&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Dileri boli
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330752.mkv&play_token=6q4okvgdvd&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Nepoznati teret
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330751.mkv&play_token=4377pXaTCu&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ S druge strane ograde
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330750.mkv&play_token=qkCbUPY9F9&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Vani
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330749.mkv&play_token=y36nNW3jUx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Naša vremena
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330748.mkv&play_token=zj7rTexCFk&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Hiacynt
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330747.mkv&play_token=rAu7Pkr8Fg&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ One More Time
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330746.mkv&play_token=EPxUuCkNJP&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Bila jednom jedna zvijezda
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330745.mkv&play_token=EoQw34Iohe&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Jednom davno dogodio se jedan zločin
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330744.mkv&play_token=G1gGecTUc0&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Stari ljudi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330743.mkv&play_token=GOvw2PmfX0&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Crni pojasevi u službi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330742.mkv&play_token=aXtbNsnVBo&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Off Track
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330741.mkv&play_token=9JHIqsRBRR&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Broj 24
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330739.mkv&play_token=cMAKGwXMMa&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Nowhere
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330738.mkv&play_token=HeO199no0X&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ None
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330737.mkv&play_token=CZBLEiKHYY&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Noise
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330736.mkv&play_token=5Jm5rW5kwS&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Nitko ne izlazi živ
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330734.mkv&play_token=AUJLmbvHnV&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Noćni dnevnici
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330733.mkv&play_token=EBxExaGgN8&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Noćni zubi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330732.mkv&play_token=69OuOS7eKE&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Narvik
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330731.mkv&play_token=37ThjMM5rb&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Nappily Ever After
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330730.mkv&play_token=gm6JLFVpXH&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Moje ime je vendetta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330729.mkv&play_token=AtewJiJDnh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3js2OAyYgqTv7vTpkPZEnLzLvEY.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Očeva violina
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330728.mkv&play_token=6BYniNjONB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330728.mkv&play_token=eV0nLeMnG2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/720Hb1K6gZqPxWx16XtyUHPWfFd.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Moja najbolja prijateljica Anne Frank
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330727.mkv&play_token=73MmRQsASr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330727.mkv&play_token=hzt2sf6ZA9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwxXnlGjbJVYDfHO1Kof6dStA1U.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ München: Na rubu rata
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330726.mkv&play_token=bW60JJ5Nbr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330726.mkv&play_token=huiZkNVASP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iknhPovhaGU1TWu8VEFf0FvuJgC.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Telefon g. Harrigana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330725.mkv&play_token=JXUEdgK9wZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330725.mkv&play_token=33RJveWJhb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLBo1Ca9PggcWY98ItW5ZkdxTuA.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Moxie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330724.mkv&play_token=4u5sPiphwN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330724.mkv&play_token=x1XNrc20S9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Knjiga o džungli
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330723.mkv&play_token=OXT3hY31Ra&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330723.mkv&play_token=gMlE6zrqXk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YBDdifQQJarw3bdoNUGMSrLE9N.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Monster
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330722.mkv&play_token=2lNsYjzzR8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330722.mkv&play_token=DNh1oOQFSD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrTFJkFoI6dCmStaTEo2MyqZny0.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kompilacija
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330721.mkv&play_token=C4jHaLsogh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330721.mkv&play_token=bg8dhADKE4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfu6FxzW8g1dFE251jSqwQoGlqk.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Misija Križ
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330720.mkv&play_token=EZPMxflCDP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330720.mkv&play_token=JDPtS9CUZF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEZHHgL1g4oA6OCntHGudDIgQlb.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ UPOZNAJTE KHUMALE
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330719.mkv&play_token=RTBM0fAaa1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330719.mkv&play_token=4hSHvl8nJg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbGNxKSe7owavYRyC5OuLAIehOg.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Vrijeme za mene
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330717.mkv&play_token=YvfHbFBdUN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330717.mkv&play_token=fna76KKEmJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVDCFSqfyW0fdXPEWqamTdrkaOI.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Mary
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330715.mkv&play_token=ikTXtRrSiq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330715.mkv&play_token=YvUZrDIo7d&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyzDLcUDR0LLAjVm3XPhy06OhkV.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Marry My Dead Body
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330714.mkv&play_token=7ssMkni6ak&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330714.mkv&play_token=SPLQ14jzHS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsFwoJYkWJlGdeOIS3dfwTAtkUi.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ MARIA
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330713.mkv&play_token=oVwT4xbQ3T&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330713.mkv&play_token=iYrzKheMN8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdidDnAZwchN5vTenoNuhGPJTri.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Malcolm i Marie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330712.mkv&play_token=NKPfHI5PLW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330712.mkv&play_token=RYdWEkpm8S&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0m4TM1XRAftQStgKpw024RvkJo.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Maharaja
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330711.mkv&play_token=S8qU8cQ7CD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330711.mkv&play_token=eHBRE5l8qW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNMDhAtIBbdtWpRrc0Zl9WtImcB.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Luther: Palo sunce
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330709.mkv&play_token=TKJYff7Q9v&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330709.mkv&play_token=9TQlktpXmw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Wx637kigtAABLzHT9jYaOEnK47.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Najsretnija djevojka na svijetu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330708.mkv&play_token=KEgjWlkvHP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330708.mkv&play_token=cVEu7rz60v&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tX95EgxRVE4Qv0FRQ5bD7Q8wJl2.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ljubav za odrasle
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330707.mkv&play_token=vZPk5VaD04&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330707.mkv&play_token=kAz6qovy7i&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsmLMIRgWvwU1JmEah1dydlkEyk.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ love is in the air
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330705.mkv&play_token=OxXjlzj1aZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330705.mkv&play_token=efpKbCD1sD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgWPRttsBx1q5SZ72HCVHRUyDqO.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ S druge strane zida
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330703.mkv&play_token=xBkcb3C4Ba&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330703.mkv&play_token=9H2zUpTzlE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djM2s4wSaATn4jVB33cV05PEbV7.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Lou
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330702.mkv&play_token=WkWNYuxPNc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330702.mkv&play_token=PPfc1ahp3b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klvVnrzB3N1dQCUQpydlRZRRqL1.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Zametnuti metak
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330701.mkv&play_token=JXftQm7f4M&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330701.mkv&play_token=03HGe1y49a&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWTzNTrE44RqRACrJJdk0qrCWOw.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Zametnuti metak 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330700.mkv&play_token=GWPefd9daX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330700.mkv&play_token=TKHCxiAGK4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RT0Wy7AqHDhEmlr7KUcQitVENq.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kako god okreneš
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330699.mkv&play_token=upMcSY4cKM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330699.mkv&play_token=DTHms1ECRK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnagn5vIvQ6PCQK7g7MpNqMihCE.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Samotni planet
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330698.mkv&play_token=z89oZfHmqZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330698.mkv&play_token=6P6EayW0ml&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uaQ6ETNU3osziF66Qkj0C31ziy.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Lobola Man
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330697.mkv&play_token=zuqvd5mVeh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330697.mkv&play_token=R84LqyNcmg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXpkhN2l0z8sZpijzLKYdNXdFAI.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Mali Sibir
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330696.mkv&play_token=6tLzPWBQYa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330696.mkv&play_token=2TEJedPvgF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1q3Ze0FVuV82pSrAWEGlC4PWu2h.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Lísàbí: Arugbo naa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330695.mkv&play_token=ArUTlVZSti&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330695.mkv&play_token=QLz3XpTg80&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyLKAvkKqUb57STkTiPno2nw4Fx.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Släpp taget
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330693.mkv&play_token=B3BToINxiR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330693.mkv&play_token=Vk2M5n0d9t&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8RD0lY9Y8Ccdx2EoL3g55CODod.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Nastavni plan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330692.mkv&play_token=pmxVfAAwb4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330692.mkv&play_token=JpIJHWJcrp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vgXbFWVH17L1htcF9rtMfA1moZ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Dejando el Mundo Atrás
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330691.mkv&play_token=02OkpfC1Ea&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330691.mkv&play_token=lVJb2dYboa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XAZS89FgtRa7IksdWIhtVnTndj.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Lady Chatterley's Lover
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330690.mkv&play_token=A0MhxjMT1k&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330690.mkv&play_token=2k7o3suUt7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM5e77LUC3X6K6Fy5sxGNvTv63w.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kings of Mulberry Street: Let Love Reign
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330688.mkv&play_token=q9yIX7AvS9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330688.mkv&play_token=bPynESMTMI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBz61uAt6xjJt4yqhiZXQt0a1bB.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kraljevstvo: Ashin sa sjevera
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330687.mkv&play_token=Hjgcsldd6V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330687.mkv&play_token=I30Lh5xcyd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idew42l7ILdyR97XC9yG4hFUy1Z.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ El club de los lectores criminales
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330686.mkv&play_token=HMnKu8WpRk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330686.mkv&play_token=B6tu346Hpd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUMdYxLYt3IJxV1p7PMthdZFgVb.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ubiti Boksoon
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330685.mkv&play_token=luNfOL2Wjn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330685.mkv&play_token=rfFPpAO5c4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbHUuTEo2DsYLoXCjkL8kB0oPhy.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Khufiya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330684.mkv&play_token=uJwDXbP7No&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330684.mkv&play_token=TokFbhQeaE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kate
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330683.mkv&play_token=yOD3mlJoDZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330683.mkv&play_token=kbyKDLpFTG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTbQg4zQ0eGXlKl8imLu64LLJQX.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ K.O.
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330682.mkv&play_token=mgibDkCUeK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330682.mkv&play_token=QhTDQIvdJ2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlBOTwFELUjpgZKHN3ZBiUNJJOz.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Justice
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330681.mkv&play_token=mu84E5K4hH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330681.mkv&play_token=cWWPSZZP6t&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEkatvFb6hrebLBAanb25ea26yh.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ JUNG_E
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330680.mkv&play_token=fWXPceUJTo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330680.mkv&play_token=kHTyeXxNsC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL4ukA1L17d5n2EB9OJItoHXVD7.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ JOHNNY
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330679.mkv&play_token=tHtjVFFYFy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330679.mkv&play_token=4CkJRpdnHu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaUOV9VCNM5MjrmonqgH4o3XNwQ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Jaane Jaan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330678.mkv&play_token=CAKxeqg7T6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330678.mkv&play_token=aaPIwM9kDf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Irska želja
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330677.mkv&play_token=mhBIbLPC0k&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330677.mkv&play_token=vRXTf629DB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9syR4xkBwssiw4JG96yAlKJ55O9.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ The Interceptors
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330675.mkv&play_token=83K0B3mYq0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330675.mkv&play_token=9ZneF9uC2Q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmUtTp196L4jM1rCgnagr3Wc9hq.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Pridošlice
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330673.mkv&play_token=SjAJqUwMah&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330673.mkv&play_token=1nvmshYZtr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RxhzwFkAUqMt215Brb06u8P8pn.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ U visokoj travi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330672.mkv&play_token=VtWw2bSDwX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330672.mkv&play_token=gm57gX1rgp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nizfZxyvea3xiSSkEZdykcU4U4.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ U sjeni mjeseca
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330671.mkv&play_token=omv6b8sUdz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330671.mkv&play_token=A2rxuESg5x&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzWUKzvkVGWPYSpxPkwaaBdd0ce.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Le Roi des Ombres
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330670.mkv&play_token=0TkXjzZBmI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330670.mkv&play_token=cS3vZMJOl1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brkRBj3RsNgk8ZKADEodSM4l2TX.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Usporedni životi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330669.mkv&play_token=Nfy8EMLQMQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330669.mkv&play_token=Ihl9UvNWgC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ebDnPvX9DfiTDJpUrEXvR1xTDV.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ iTalac
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330668.mkv&play_token=DLb7FChHpU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330668.mkv&play_token=G49wc7tcEZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFo47RwzR639YRLustwIyPBcLJZ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Navratih
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330666.mkv&play_token=vVE968eIqu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330666.mkv&play_token=tjgHuzE8CU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgLJ7QtPONevfL2sxhuc9mHgLQl.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Hypnotica
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330665.mkv&play_token=4MHUVW8pOV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330665.mkv&play_token=DykiAykm0f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsGJvjXGmW6y6Q3bY6cTnQFjMO5.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Hustle
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330664.mkv&play_token=Rm6B9lN6j8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330664.mkv&play_token=naA87ecKJ1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsuwnCDwFgHyCfGYub6QeynXelD.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Temporada de huracanes
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330663.mkv&play_token=UDk5hd1fDz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330663.mkv&play_token=2ixNfT52mi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPRmDS9St2o2Jvn6EfL4sDwLhJq.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Hunger
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330662.mkv&play_token=2OE3kD4EOl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330662.mkv&play_token=t4nshuJrEe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nM5i9pp24ADppiQ2EQYQXpoDXyl.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kako sam postao superheroj
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330661.mkv&play_token=SbQS7ogc6l&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330661.mkv&play_token=elBjz23yoj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzW0afBIyWZ0bjCje8GPezvETy0.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Naopaki medeni mjesec
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330660.mkv&play_token=RgORGzUciT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330660.mkv&play_token=HsHmQzky2u&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VS0FjFk0CHI4ORhAUgkRPotPfm.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Hit Man
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330658.mkv&play_token=ShQ3ESJK3L&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330658.mkv&play_token=ohRUwVLo1F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1Tq6PVfG0h34XnKXG9QlSsbcFj.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Njegove tri kćeri
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330657.mkv&play_token=05INOXl7ak&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330657.mkv&play_token=tSb9C3sUfN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubaCN0FjWhxiu1uHhI9oXSgalVK.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Hitac u srce
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330655.mkv&play_token=LIfaQoQAHM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330655.mkv&play_token=SXRHXxpA3R&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n726fdyL1dGwt15bY7Nj3XOXc4Q.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Srce lovca
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330654.mkv&play_token=81Z6tSB629&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330654.mkv&play_token=4KmNGQEFl3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDloxRCwTATLthphwpwcc2dvQxf.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Heart of Stone
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330653.mkv&play_token=5a97kOSSQt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330653.mkv&play_token=s4RHGUHCOp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rFWY88UDZ6K1DrMLq7c66LBk7v.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Head to Head
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330652.mkv&play_token=tyWoQJXRPU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330652.mkv&play_token=Pp9pLTnnTH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixbEygtiPiQaXhsZDxvkoV8PcY.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Golfbrejker 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330651.mkv&play_token=mtvQAVXhAN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330651.mkv&play_token=CkJBa2JIYV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rK4jb2t3J98IXjY9O3nc8bX9yqt.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Happiness for Beginners
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330650.mkv&play_token=hoHEWJR6A4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330650.mkv&play_token=5Qp39v0GkF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UCkXVZ4MdusIj91GniLVfl52Rx.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Metak i milkshake
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330649.mkv&play_token=Mg9mAhjLlv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330649.mkv&play_token=sP52B61HUM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCjC1RRbEJUpDjM55RNUMXQen0b.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Goyo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330647.mkv&play_token=77oR612H30&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330647.mkv&play_token=Aum4khF5xV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzCPk470MKsMHaDsM00gJERlKYv.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Krive crte Božje
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330646.mkv&play_token=fvkSJTUYhI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330646.mkv&play_token=alxnfCMWNa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7ur3dfzlNxF8tbb50FfCrWdX96.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Nož u leđa: Glass Onion
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330645.mkv&play_token=CZWF38lpDf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1yAyLZ8WipVOdtyLoCKnUqREZK.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Furies
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330644.mkv&play_token=gJnqpiOmVs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epyZbxy59fLsYv7x2nsnuNT6qvt.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Fullmetal Alchemist: Scarova osveta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330643.mkv&play_token=maEeFm1vaa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tE4isUwr8gOLXqzaitwjP3HNPN.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ freestyle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330642.mkv&play_token=U3377Mo9F1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9urHg7dyz3oj6zR0pKQXxnvAFfG.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Za Jojo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330641.mkv&play_token=eCWD8yfNDl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj6AdX1fOsMgbv60tgdxwmVIGTx.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Za šaku osvete
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330640.mkv&play_token=MNyoxcTPj6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dD4gYM9V3DhrjAcqpKJw2PcYBzl.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ ‘Ohana: Najdragocjenije blago
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330639.mkv&play_token=ymm1zZdtq8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMWpIPJgL4lYNKxSVMRDFWITeMW.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Find Me Falling
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330638.mkv&play_token=fHWA7AQSiU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaLZHylVJMpHKVdzfskJDnZEzhe.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ulica straha  1. dio: 1994.
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330636.mkv&play_token=71IGMxurV5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRSNF4NTIkkobUricWWucjtlnza.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ulica straha  2. dio: 1978
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330635.mkv&play_token=Ta5mayzqqR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAdAwmtuOh1stLRe5WbUESqhiPB.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ulica straha  3. dio: 1666
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330634.mkv&play_token=t6remJ4GzC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6S0Elz6FHbasFzGr08d2HpZPyuQ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Fanfik
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330633.mkv&play_token=uBRADFTCZ0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZwfGXzQpX4FmIWh386FLuapcCK.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Family Pack
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330632.mkv&play_token=c52I2TpEZb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vurajMDzan7t5zAP2SkVTALefwV.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Krajnje izopačen  nepojmljivo zao i opak
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330631.mkv&play_token=e1hkLb6f7k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDE036h3NgdA8Pq5RzCNVNUdVOD.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Cijena spasa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330630.mkv&play_token=C1eLvALANs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGSf76CtOvhy7IDkR4esDA6b2Ko.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Cijena spasa 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330629.mkv&play_token=HTvSjkTHEI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myobUMFqh0h8E72Uw4dRFnJ3t9w.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Eksteritorijalna
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330628.mkv&play_token=v9zDlBzPmb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMp04rYhy4yfOfjZq5F9R3wkeqo.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Eraksi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330627.mkv&play_token=AlOCwI9H8j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Emilia Perez
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330623.mkv&play_token=KEeQGoBCI2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZvYgbDGIZq8mM4vCBiaVVAdmsR.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Elesin Oba: The King's Horseman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330622.mkv&play_token=XTeSfRy3Q0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tcbdLbMzYEMBeJwf5PWcgUnmVa.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ El Conde
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330621.mkv&play_token=XfoD89Xe0k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOBkcpN49bE9WDhqjTdXgKVf9We.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ehrengard: Umijeće zavođenja
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330619.mkv&play_token=zZVsGnzapI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1oEkQjxV4Q1EL7T4lbMfxMZdde.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Dream
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330617.mkv&play_token=s3IjJ3BDew&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2Tp1nD151qU4YAAm8NcZ91gUkQ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Malo vremena za ljubav
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330616.mkv&play_token=qguqsJ9h1L&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ni makac
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330615.mkv&play_token=amNhlnISv9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4zNRyWpbt2Jg0YstH8oLtYFUZL.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Don't Look Up
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330614.mkv&play_token=sUyhr65YLI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQ2YxzSfK3jNuL77K5MoJeQk4ls.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Doll House
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330613.mkv&play_token=eUF3WSMWWj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nx3XGX2dyQSkVjyf4YayGvqBhWO.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Doi Boy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330612.mkv&play_token=A303phobRq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7Lluo1un5Jr69LwkYXRaEcp2e4.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Izgubljen pas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330611.mkv&play_token=aXLRgRLIOG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seGSWRUhooNX2LuCXSI0OGU4hyJ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Spremne za osvetu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330610.mkv&play_token=GZhXwNPmqw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8ISJHgijOLAa7xArYtvLKeLQMf.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Do Not Disturb
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330609.mkv&play_token=pGLA31TaFD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bY8puPARGuoDXXveXjF8pwPT7s4.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ DIVORCÉ
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330608.mkv&play_token=1dPUuDOXOO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2feELU5f90AKGpEIpp3O9YSIFfw.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Dhoom Dhaam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330606.mkv&play_token=G2hWQr3nWp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBh6Cljpg7678grLPZFLLmzMCPq.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Osveta je poslužena
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330604.mkv&play_token=FYgalmlHkx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNxQzm8BuQiVQlV3EMvXDce58wZ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Dnevna smjena
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330603.mkv&play_token=Tk4X5hiaEl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOE5mwQlPC2FU9flNS9nsToIsdg.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Dama
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330602.mkv&play_token=nWLnr8MW26&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxnFdLJhi37ZVFDCL1ka0yeQVU5.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Protuudar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330600.mkv&play_token=POMFmZfV8w&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itctXNhSAokPBITlz5WtqF64gxQ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kolory zła: Czerwień
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330599.mkv&play_token=bhnPE1yxRj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWk177HMwUU1dH8kSbxWqxsIdA6.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kȏd 8  Drugi dio
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330598.mkv&play_token=BNboE0VdRY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIVTJE7Ldq3uVgYNL3QP5zUXmp8.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Cash
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330595.mkv&play_token=VeXtYpMZ5r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjMN7DRi4sGiledsmllEw5HJjPy.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ručna prtljaga
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330593.mkv&play_token=hx3CV2pKwP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sioiDcvldcz36RlrsXGtAbesqwp.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ardiente paciencia
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330592.mkv&play_token=t8auSeMPCd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vZ0iNQ5JizRxHDghm0oQS855DG.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Besramno
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330588.mkv&play_token=6MWHtnxkXZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jS7bzVw3u7ydK0o5WwH9qIH2V8K.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Bezgranična magla
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330587.mkv&play_token=KA60LKQpOR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw9HTT8Dyc8OXXFRWaknPtqjf1z.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Bogotá: Grad Izgubljenih
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330586.mkv&play_token=z19eUK8lRo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlDSL8Rn4eQCzDPy1pPRkCh8H32.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Plavo čudo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330585.mkv&play_token=TEqVQW8Ud7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7nATEk0a6b3n2lqpT2DVgPQ0pc.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Krvavo nebo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330584.mkv&play_token=ZofXjddiWX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhUMXJlsRfNMbEqtigsOfpsd7KJ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Krv i zlato
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330583.mkv&play_token=1e3IWS0tkv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BGdtXfuJGUiDUqbqTyihlUAKIz.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Plavuša
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330582.mkv&play_token=K6pYUTDRkT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6swqt5IlTdSPx6ppm413TjsRlTa.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Kućica za ptice: Barcelona
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330581.mkv&play_token=aXVyTcLe0I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5wADzYqJvvC9L2YF44eL4DBQcn.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Big Nunu's Little Heist
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330579.mkv&play_token=APuKBfPKuQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Depois do Universo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330578.mkv&play_token=1G6wiTBLd7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDDLGBWPvK0upYvi6Wj2EDXGHSQ.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Policajac s Beverly Hillsa: Axel F.
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330577.mkv&play_token=aZOh1S6TOc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3G2rjJoOOMOKweAY3YTK0Tnaa0.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Vjernik 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330576.mkv&play_token=kttJYkQ1C2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Rl94Nzl912JDO6qVjtSelNxjIG.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Bangkok: Raj i pakao
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330575.mkv&play_token=oYHkk52I6k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5boTARNEddfrihsKRBhyvHwoC7Z.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Banger
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330574.mkv&play_token=Y5RJjxgAsj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WoWInEPWUjw5oKISbRPfjXVeSR.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Balerina
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330573.mkv&play_token=pVOWQs4wB7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIlO6qADF6MEhi8gijWpvaktQip.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Lovci u pustoši
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330572.mkv&play_token=1qcFRGJnKG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oogmlZekRCHP0JDhHKDZIyDIfpP.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Loš utjecaj
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330571.mkv&play_token=wVxtUuHwkt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l0smrYaKAUM6Ezr2WFSL4dxZtd.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Opet u akciji
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330570.mkv&play_token=74t2M6w3E0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwTRtDrDBVhrE094GX6I3lre6jN.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Asterix i Obelix: Srednje kraljevstvo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330567.mkv&play_token=6Eve9koW5z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3MHMnXhOYBBOlJlyojElHGuusG.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Vojska mrtvih
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330565.mkv&play_token=EgQF9RAA9g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWTqOJnqJZFWOihyylLTBsS0CNf.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Pošten život
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330564.mkv&play_token=HHBWyRlRA1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwIZp4fVMGK6GZVAM5SU5ZHXSoU.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Amandla
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330563.mkv&play_token=pdOWvSHgi4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNAb8OTrlhW5eFwlsPUW3CRXCXh.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Família  Pero no Mucho
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330562.mkv&play_token=MPlBj9MC9Q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Opaki partneri
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330561.mkv&play_token=dEkFIvrf5s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mqu7ta6ip6YS1MAdC089lCT05E.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ All the Wrong Places
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330560.mkv&play_token=EGg3CRBFbw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXNOH8pUnlWwIA5LbAr0cuT0wEw.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Tuča
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330558.mkv&play_token=RRXfoAJTws&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wofvWbk3vpwdwNgbYkFxxn1cE1.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Alkhallat+
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330557.mkv&play_token=OULjES5Nw3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BSxAjiporlwQTWzaHZ9Yrl5C9D.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ AKA
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330556.mkv&play_token=AX8m3ubP06&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Protiv leda
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330555.mkv&play_token=shotILEFwc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuabL0qp3zygLDEjImbPiWR9j2e.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Crna udovica
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330553.mkv&play_token=o0t7eF7mcT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htTS07IvYv3rv57ftzNEprefwSq.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ljetni kamp
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330552.mkv&play_token=HtlJRZdeTe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWkpjbBe4gRZilXRXbYfsMUZMhz.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ A Tourist's Guide to Love
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330551.mkv&play_token=cmRho94N1G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvpZ3pBQiX3UNHQIh39G3IR7u93.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Entre el Amor y la Amistad
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330550.mkv&play_token=TrVEmBOBwF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ya87IOuTUqp8rXxAQJfijvAwypt.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Savršena kombinacija
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330549.mkv&play_token=mRcIPjkEY7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbkIMv1EiGhPs1kSj8zLfrxIrZF.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Normalna žena
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330548.mkv&play_token=W8tQgIqERQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgxCnkiXx81uobrGouq09cOdxX9.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Noc w przedszkolu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330547.mkv&play_token=9gleEL0Gxr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sZAwJI7hPIXwQKp95RFXhCm619.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Un hombre de acción
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330546.mkv&play_token=Pd1xfQrR01&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rZQSjy3PqcLnnA1LJq6bdKxNDD.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ A Family Affair
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330544.mkv&play_token=Qdzkb2eDAW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gayPKa9VThZRqSd3OKeqUTaZfyp.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Invitación a un Asesinato
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330543.mkv&play_token=PLgvZRFw9N&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IK1sdoQScmXVfn11wFnn3Nvl4G.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Ljubavna priča u Kopenhagenu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330542.mkv&play_token=LMB2sLCggn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5x151GxV0GAwlAXua5gulP32dx6.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ Sedmorica zatočenika
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330541.mkv&play_token=8a0tYeQWQi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd940KzuIZwbdOvOUF7XDTzn8te.jpg" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ 22. srpnja
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330540.mkv&play_token=zthP0ZKXDK&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ NETFLIX FILMOVI",┃EXYU┃ 13: Mjuzikl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1330539.mkv&play_token=ccJwZ1B648&type=movie

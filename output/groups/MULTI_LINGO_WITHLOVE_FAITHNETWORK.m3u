@@ -1,373 +1,385 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ A Vintage Christmas - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312662.mkv&play_token=ZFytVDGYFt&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Don't Forget I Love You - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292764.mkv&play_token=dlfVGZhUEE&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ An Ozark Mountain Christmas - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292763.mkv&play_token=ZZzScASLvV&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Problem Attic 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270409.mkv&play_token=pR3k5XVTX8&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ My First Miracle - 2015
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270407.mkv&play_token=TnvNj0lXSE&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Consider the Lilies - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270402.mkv&play_token=3aKaQnpadg&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Christmas in Amish Country - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270401.mkv&play_token=Ci7X0LA5nu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr7AI4AnkucXPaYdoMXN2CSjMax.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ To Philly with Love - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336168.mkv&play_token=GswNG3s0sA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpdLAbE4C7AMY77xFNguMX1XIb8.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ The Matchmaker's Playbook - 2018
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336167.mkv&play_token=9mwEfx1jLV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIPLLQHAg6Vp9Gcfs6XUuodE6UD.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Paw Paw and Dayja (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336165.mkv&play_token=WlsBOD4vN1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1zNWIxwFV5p50lNcUMx798TCqF.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Moving Mountains - 2014
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336164.mkv&play_token=e9JYehrwwU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEHNtqsreine1bQ0Di3feYzgQHS.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Christmas on the Ranch - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336161.mkv&play_token=1cGcHoAKeU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXdvqXv8SJ2khhvOgE5CHRiy1Ix.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ A Soldier for Christmas - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336159.mkv&play_token=9evkv4B3Fj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezekm0dgGYknIN0Fgrqi36yCrh.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ A Vintage Christmas - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312662.mkv&play_token=oesS2TSkOW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPdrSlHZv1TpQeNwNQncgJ0mTLQ.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Don't Forget I Love You - 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292764.mkv&play_token=CxVeZKKcua&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epsYl1pEpDUMdc7D99SPaMQIgY0.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ An Ozark Mountain Christmas - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292763.mkv&play_token=OQpDlPtGu5&type=movie
+#EXTINF:-1 tvg-logo="https://newfaithnetwork.com/_next/image?url=https%3A%2F%2Fdc-nfn-cdn-resources.newfaithnetwork.com%2Fimages%2Fproblem-attic%2Fportrait_9x13%2F3bf186bdefc4f18b103b402d0bd826c7.jpg%3Fw%3D360%26h%3D520%26query%3D360x520&w=256&q=75" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Problem Attic 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270409.mkv&play_token=IFa7r7KpQe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQwyhz6xAaAkzCPVoxuFy3WQA6m.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ My First Miracle - 2015
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270407.mkv&play_token=t1xQcBLhMy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4Rp09caSalE6lOO9dUBsmt16Do.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Consider the Lilies - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270402.mkv&play_token=mxXJkw4Jyw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLhGncH4IuxF0pIGO1T3RnncgQd.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Christmas in Amish Country - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270401.mkv&play_token=NtuBYpfwpF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frgS14bRTultXUbEMhqNUo8wsYs.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Christmas with the Singhs (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184068.mkv&play_token=Due0KwCDWe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184068.mkv&play_token=O0aoQ3my19&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNHN88QVgFWC1lMoqXqrHyeCAXK.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Autumn at Apple Hill (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184067.mkv&play_token=Y2h55u4Olz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184067.mkv&play_token=DnrFYNgrQj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1czsAXl9sGD5eS7LlaA6qC7mihZ.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",A Champion Heart - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165917.mkv&play_token=h53bupkQ79&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165917.mkv&play_token=ombAuY8vt9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwaUvfkURWHlHlJnZkJZoE6k4Sl.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Along Came a Nanny - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165925.mkv&play_token=9WFl1KeUGA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165925.mkv&play_token=XHFLTGhJ0H&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEV6RkaHcMfq372sRaVZWbMuWxb.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Princess Cut 3: Beauty from Ashes - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165924.mkv&play_token=Oo3Ss2DbH5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165924.mkv&play_token=9f9tkFpvEu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfnJ5qIYx7q33fY4jqv9Pu95RSg.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Lucy Shimmers and the Prince of Peace - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165923.mkv&play_token=KYuAtH5J2C&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165923.mkv&play_token=hCd8x6M6wf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8munjaSfqp561Dj98GHRLZdFscd.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Love Finds You In Sugarcreek - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165922.mkv&play_token=sftSBgNYKH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165922.mkv&play_token=xfGvdfM4wi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQ9uEVjnUMHgj390by1jWnRCODC.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ From the Heart - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165921.mkv&play_token=gEqyTCkdtN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165921.mkv&play_token=INWG84K9WB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4WXmBjfeA8QgOOG8isuiXbUPbA.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Deck the Heart - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165919.mkv&play_token=WSXf9kThSO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165919.mkv&play_token=xGEH5LIdm2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFQYIrS32BlSDdqDx0fps4eZllc.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ A Sunday Horse (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165918.mkv&play_token=6aTChngO5X&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165918.mkv&play_token=hrnt2ywhWA&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTc0Z_WLJAiam5D5PUr1B67RMJusaM2B9ZIarWGm0-nnJ8h4exWVdNZm64&s=10" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Problem Attic 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149505.mkv&play_token=ImjXYrOJhJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149505.mkv&play_token=xrzCNPHmRP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orRDKjEaCdWNtWkEbFubhAPtYAE.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Christmas Scavenger Hunt (2019)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149502.mkv&play_token=63U2UvdC1M&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149502.mkv&play_token=aoyECDFwJC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJxHoF3xqXIqamM0j9WlKxGKZ6a.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Chasing Waterfalls - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149501.mkv&play_token=rgA5yvUm10&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149501.mkv&play_token=3QDSNN0cis&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zpXyRmKHwrfAarrigYKfE2iNWz.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Catch the Wind - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149500.mkv&play_token=1aTzMeYmAq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149500.mkv&play_token=Am3FJ6iXnV&type=movie
 #EXTINF:-1 tvg-logo="https://newfaithnetwork.com/_next/image?url=https%3A%2F%2Fdc-nfn-cdn-resources.newfaithnetwork.com%2Fimages%2Fwealthy-soul%2Fportrait_9x13%2Fb899c2f1291f1f35b9003a0d9c8188b6.jpg%3Fw%3D360%26h%3D520%26query%3D360x520&w=256&q=75" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Wealthy Soul 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144473.mkv&play_token=F5YkCjuJsS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144473.mkv&play_token=TtgPuxkCXK&type=movie
 #EXTINF:-1 tvg-logo="https://newfaithnetwork.com/_next/image?url=https%3A%2F%2Fdc-nfn-cdn-resources.newfaithnetwork.com%2Fimages%2Fshall-we%2Fportrait_9x13%2F60c031fbab2be714d31ae9709cf031c9.jpg%3Fw%3D360%26h%3D520%26query%3D360x520&w=256&q=75" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Shall We? 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144470.mkv&play_token=AoLibpjPsx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144470.mkv&play_token=x8wU0ywnx5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtLW91kzC2GXnykYxAx5PZEDIwx.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Rideshare (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144469.mkv&play_token=Gb1JC2HyKt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144469.mkv&play_token=w73nMUlPE6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrXWB9CRwfohsIXDi0VkUg4jBwO.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Lonely - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144468.mkv&play_token=70CN0ytYUx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144468.mkv&play_token=jk0Nd1vWIn&type=movie
 #EXTINF:-1 tvg-logo="https://newfaithnetwork.com/_next/image?url=https%3A%2F%2Fdc-nfn-cdn-resources.newfaithnetwork.com%2Fimages%2Fkan-ik-dit-nog-geloven%2Fportrait_9x13%2Fa9b04b6e09ce77086dd7273e618f96d8.jpg%3Fw%3D360%26h%3D520%26query%3D360x520&w=256&q=75" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Kan Ik Dit Nog Geloven 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144467.mkv&play_token=mEC79BLCbK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144467.mkv&play_token=TL0mP6tg6h&type=movie
 #EXTINF:-1 tvg-logo="https://newfaithnetwork.com/_next/image?url=https%3A%2F%2Fdc-nfn-cdn-resources.newfaithnetwork.com%2Fimages%2Fgenesis-the-bible-collection%2Fportrait_9x13%2Fb8aa613e0eee5fc2740c0023b3b4dc88.jpg%3Fw%3D360%26h%3D520%26query%3D360x520&w=256&q=75" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Genesis - 1999
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144466.mkv&play_token=z9FBmDKClF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144466.mkv&play_token=Gvxej0b6uv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bX8Fms7kP110yjLsfR7d9XOSWJg.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Craft Me a Romance - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142022.mkv&play_token=8WmLomNTPa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142022.mkv&play_token=iIHmBuZw5I&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QBwknZ5N2XOHlLHUWVw2cg03ZX.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Christmas star - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142021.mkv&play_token=UFxeT6d2OK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142021.mkv&play_token=A6TksqF0ms&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIpADs8uh2mH2nkq9ThMs81bdGE.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Rent a Groom - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130333.mkv&play_token=5LZR0ROZ4n&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130333.mkv&play_token=Z5ncu3zIi0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pGmTVv1S0WQkFeaFaDZKU0zyr8.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Sense and Sensibility (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2038613.mkv&play_token=oPXOlx6eu4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2038613.mkv&play_token=kal15SEksc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34cgjVoAIXVsZ2uZkTsdxWhv2Si.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Wait with Me - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2022341.mkv&play_token=ATq0Ii5GzF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2022341.mkv&play_token=IHmpckHPXx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UIzhAUdQAN6Rb7niE7l8o9t0wA.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Tangled - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2022339.mkv&play_token=alWHczduml&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2022339.mkv&play_token=PvSpDkN7Aw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2tGupOkhPwem8IODazDiWqmKQK.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Love Unleashed - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2022338.mkv&play_token=SA8dKmp1R6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2022338.mkv&play_token=eS3Di4VsVP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjpapEg0xOHDYEwhC6h4LsBrFdm.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ From Italy with Amore (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2022337.mkv&play_token=Rw39Da5YvD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2022337.mkv&play_token=7ceWh1Ok5L&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4k3pwqUNLNo807G7GiPghkrRsGB.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ A Whirlwind Wedding - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2022336.mkv&play_token=wRi4Ya7piv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2022336.mkv&play_token=XVGUySY0Em&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZApkiBXieXndkwrRPcP8KXyJ0T.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ The Nature of Romance - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986213.mkv&play_token=CmpazsCIpF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986213.mkv&play_token=tzaqd8uupi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GnFR8qCyC1p4woK3kE5CnRRdx7.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Paging Mr. Darcy - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980816.mkv&play_token=ncnYZkQtxB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980816.mkv&play_token=iPB7ofd59m&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXPJYxOkqxHPHpHVqMAfp76MbwA.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Missed Opportunities - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980815.mkv&play_token=vcsV0QSBLy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980815.mkv&play_token=8J9Qvjrx0d&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsqw2fdGb13VryEo7kKMr1F3GJz.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Amy's Orgasm - 2001
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980814.mkv&play_token=zfb2W4UJSr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980814.mkv&play_token=YPbtilye4v&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bxZpfxjqwDQqeE69u63LJ3x5lr.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Love Stories in Sunflower Valley - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1976993.mkv&play_token=qMVakdvbmp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1976993.mkv&play_token=zLpSIcTU5W&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0jo6gwhaaoDzthfOcjpNWAHuk7.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ The Hail Mary - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968048.mkv&play_token=wKqN5U5fOL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968048.mkv&play_token=JR7Vrc6Xyr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3eLufr2QT2MtuAuh3Tb874m7OK.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ God is Good 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968047.mkv&play_token=SDJU0DXjdo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968047.mkv&play_token=0xE8orUpfT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RDrdqSr7PLrNxgdIM1UeXi2HFX.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Do Not Grow Weary - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968046.mkv&play_token=NpK15CSCmO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968046.mkv&play_token=Amro4WiCct&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PsH2ucY2cjSTH4vFWfCWs5sMhv.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Bee My Love - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968045.mkv&play_token=KEt8jLs01E&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968045.mkv&play_token=JsbTyKWg5j&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rJFqlzubrAbnPZCfFWf4GHF74e.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Haunted Harmony Mysteries: Buried at C - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1952816.mkv&play_token=7UdLRL2eEH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1952816.mkv&play_token=VjhbAR0V1g&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idHfCXxnanDIODJM4UzXyR64kdm.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Falling for the Manny - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1951748.mkv&play_token=2VLwfLHy7e&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1951748.mkv&play_token=S1mWAeDO81&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azL8xUAXTnW700ffzchkKmUCvp8.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Summer Sparks - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1932639.mkv&play_token=6LjySSEnUg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1932639.mkv&play_token=k7UrS1tzLM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZj8mogbWSSX07Yad2sWrGjnR3c.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Royally Screwed - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1932638.mkv&play_token=J8ZKo0wFKj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1932638.mkv&play_token=fP8nSuk9RG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCuWdSSwth4m0RIdin9z4Nz8Il9.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Romance on the Ranch - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1932637.mkv&play_token=4450gFHFP8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1932637.mkv&play_token=NWqA2gIbTx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCuWdSSwth4m0RIdin9z4Nz8Il9.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Romance on the Ranch - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1896415.mkv&play_token=BDe4kSecDd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1896415.mkv&play_token=VMah9WyxxY&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY2MzBmNmMtZWM2NC00YzUxLWExMmMtMGY2MWZlMmYyNGZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Breaking 27:00 (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1896414.mkv&play_token=nk2TiaKsPU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1896414.mkv&play_token=890Bsw70qU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFQYIrS32BlSDdqDx0fps4eZllc.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ A Sunday Horse (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1896413.mkv&play_token=zUr6MOSgs6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1896413.mkv&play_token=TQQ0ZBCmrP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRyFY1t2cgaToQ5Y5zq4GfQuAhu.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Amazing Gracie - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1896412.mkv&play_token=2EKQyWe9Lj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1896412.mkv&play_token=UFIP7zmCqx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uK8HLze1WHwi5hnQcs38YD7fNR.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Me and Mr. Right - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810038.mkv&play_token=EDrJnMWEbn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810038.mkv&play_token=Lz2DphRj6j&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dalxqiwfsKwaQ1B2G43cGiTKzui.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Heavenly Deposit - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810037.mkv&play_token=lpEAckoDbL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810037.mkv&play_token=ut7tgjqP8X&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t92TNgjLUWA2abTOM1aF8jilUPZ.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Time for Her to Come Home for Christmas - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808451.mkv&play_token=bGBZXtx08v&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808451.mkv&play_token=31cZZabiwG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LApt8YBzKlQpAnHnKFpVjEpphx.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Testament - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808450.mkv&play_token=1PP4AuCppE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808450.mkv&play_token=h0dChMPurq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hi61wGtefUZDInbnLYOM39mlW0V.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Stranded Pearl - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808449.mkv&play_token=LkpNBpzPL1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808449.mkv&play_token=l1n8ZQQ0Fo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1u5hK2yQvBdwifaJ2icCs6MTjQj.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Ordinary Things - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808448.mkv&play_token=qOz6sIyS8Q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808448.mkv&play_token=lJ7WPrOyg6&type=movie
 #EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/5/6/7/7/1/0/1567710-love-in-lapland-2017-0-600-0-900-crop.jpg?v=04468cb389" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Love in Lapland 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808447.mkv&play_token=yv7vGV5Ok5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808447.mkv&play_token=REK1ctADOT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqPqEtJWT9U4EuOi1N7t26xRZJF.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Family Practice Mysteries: Coming Home - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808446.mkv&play_token=EcWXEvCvdE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808446.mkv&play_token=TkAqUIPSFP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5cxq623rfwcfB9VIsFQqIehZhN.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Augustine_ Son of Her Tears 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808445.mkv&play_token=lV288hdjxo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808445.mkv&play_token=oPnyavQbzi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isNjadTxFWks3L36anDy24K3qqu.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Written in the Sand - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797422.mkv&play_token=2nUufIHqiL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797422.mkv&play_token=6NQuo6kF7V&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GkR6VwocQleAlVeiycv5JfU1RS.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Where the Heart Lands - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797421.mkv&play_token=rqDtbHNepR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797421.mkv&play_token=SS2Wdi54O7&type=movie
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NfNujntN1ZU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCO4Cv3iRnWNpvh0rWs2FZyOsFFnw" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ The Keepers of the Convent (2015)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797420.mkv&play_token=KLzVz9o4AH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797420.mkv&play_token=Y2cKyUBQD3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dislfjEbXBiiVWLVvYcOgUYs0R0.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Broken Church - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797419.mkv&play_token=0IDgm4Quqm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797419.mkv&play_token=gSTnbc7IUD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecbW1epnLqY7lgzk1hVQdfN7wT4.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Final Broadcast - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797418.mkv&play_token=GkrY5jAySv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797418.mkv&play_token=JhM4LF8otA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruHDFumJfW7F2vEqTZEQQ9xT7CA.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Jackass Forever - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779784.mkv&play_token=vNWRAwGRO8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779784.mkv&play_token=PzeDKplbGk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehUwoQUnFZ8vo1gg1JCTMKFXScs.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",The More Love Grows - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779759.mkv&play_token=tbOTj0Vob5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779759.mkv&play_token=XL4Iwmco1a&type=movie
 #EXTINF:-1 tvg-logo="https://newfaithnetwork.com/_next/image?url=https%3A%2F%2Fdc-nfn-cdn-images.newfaithnetwork.com%2Ftransform%2F1i8ggn3ohoqtvtza4j71i6xxu-6g5ajtm9e29ui8h3uqv9axlb2%2FEskkDXqToKpr7LwLW3UgEL.jpg%3Fw%3D360%26h%3D520%26query%3D360x520&w=256&q=75" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Rivka 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779758.mkv&play_token=FNNwIdBPNv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779758.mkv&play_token=weRJnMoAwC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkVkKtUwV3r1KckIQAFFWVM316v.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Come Fly with Me - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779757.mkv&play_token=uo6cLmL4cZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779757.mkv&play_token=6FZGVeLvL2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zr0po0JyU5m5f9KRVccGDfPSpy.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Amazed By You - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779756.mkv&play_token=Orr6sKlUa0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779756.mkv&play_token=0DZ0RdYUjB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPMPUpCIC62fjicT2a1gkFcHkv8.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Extraordinary (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761891.mkv&play_token=7O6iw8ulVw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761891.mkv&play_token=DirKhmjEiG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggzQdT1x2yfzXR9GUqsrCV614kI.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Valley of Love - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761890.mkv&play_token=Xr5nj5nXZU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761890.mkv&play_token=vmcNreq4Bz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLbG5DcBHcDXop6u8ILurKols14.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Touching Wild Horses (2011)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761889.mkv&play_token=fn00qkhBuB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761889.mkv&play_token=QundKQEVGM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukSh7ywRRPPUncQ7zVS3eTaslTh.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",The Shell - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761888.mkv&play_token=n3gTD9DGhT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761888.mkv&play_token=pylSsy9OHy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOHtls5NV4VD5rojA0pCLhhfhH4.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ The Savior (2014)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761887.mkv&play_token=ru0zC6rqx2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761887.mkv&play_token=uhwcn9p0tq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pf9q9eQFGww3DBvyMIrVAn9pIm.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Romance in the Wilds - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761886.mkv&play_token=j12Br9F9FH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761886.mkv&play_token=97gXangpFK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufPZ73SmKejMpmPM9ugnnPdkNId.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Princess for a Day - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761885.mkv&play_token=b2Dk74Tqp8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761885.mkv&play_token=MI12j9a4Ff&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5FmWZwja2txw69zqmXyW8PPiwk.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Paper Dream - 2012
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761884.mkv&play_token=ir7mQqB2xM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761884.mkv&play_token=wPzApIjfIV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQEhZ07rspuxt7QKVh3CWry0LsF.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",On the Edge of Freedom - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761883.mkv&play_token=JXU42Lh4N7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761883.mkv&play_token=fOOeAZcCZv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5p01Qeiir449BUmcdY9z1xkDXk.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Boonville Redemption - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761882.mkv&play_token=qRuCo1GJeP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761882.mkv&play_token=Cp9IqsDovJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4b5waxz5jeRctnaP2sAZMXzQM6.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Me & You  Us  Forever (2008)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761881.mkv&play_token=ElJxXWuc8a&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761881.mkv&play_token=smmMX1uO1M&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hx2jS5Jv8Dx5tdb9YpdSTpHed3Q.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love Under the Stars - 2015
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761880.mkv&play_token=eoB3ChJJN7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761880.mkv&play_token=vosDcCLXiY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xi57bQTg33RpduDphkvtdWkEI7b.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love's Unending Legacy - 2007
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761879.mkv&play_token=XO6oo2Cxoe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761879.mkv&play_token=wLrkATjX0D&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSkkofYLcjFSkb2o3rZuUBWu92P.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Left Behind: World at War - 2005
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761878.mkv&play_token=gp4Tt5o3Rw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761878.mkv&play_token=SnVk5Duoqf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yseigOgQaXpyflaprAkE2Qg2Zuw.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",God's Country Song - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761877.mkv&play_token=3NwarrTgO0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761877.mkv&play_token=gRsE9bzyPz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/881ao6NCGf0Sqojxf1o9AG7WPoE.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Christmas in the Rockies - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761876.mkv&play_token=pt2QyotsdO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761876.mkv&play_token=ONvNW7GMxE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TV76zCTNfEFnOPpWFFopMrmDq7.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",The Book of Esther - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761875.mkv&play_token=lS0edJcCUf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761875.mkv&play_token=picHuB7uvx&type=movie
 #EXTINF:-1 tvg-logo="https://dc-nfn-cdn-images.newfaithnetwork.com/transform/1i8ggn3ohoqtvtza4j71i6xxu-6g5ajtm9e29ui8h3uqv9axlb2/KGgZtDJfMjSG9sXh2rE4NH.jpg?w=2880&h=4160&query=2880x4160" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Undaunted 2012
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758694.mkv&play_token=uGeVLxJBAQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758694.mkv&play_token=nwxvd0t9rD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6bM8dmSbEHDv9hHIJCZjbgIkbV.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love Takes Wing - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758693.mkv&play_token=GOOvBWwqrp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758693.mkv&play_token=BsRIVqovF3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzvkk5W0yqyyNESMzhOz9oYL95H.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love on Safari - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758692.mkv&play_token=ij2TTceSel&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758692.mkv&play_token=SvApS3kRp2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1DMrdFvkaCMlAxr9cgzI3pfpCz.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love in Storytown - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758691.mkv&play_token=ijzgstWuHs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758691.mkv&play_token=ZMgujVNDtm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8munjaSfqp561Dj98GHRLZdFscd.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love Finds You In Sugarcreek - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758690.mkv&play_token=ZEnLaDjM5Y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758690.mkv&play_token=rgmep8z3LV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGWw4foAzmPvtr6DSd3XIgzbEpC.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love Finds You in Charm - 2015
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758689.mkv&play_token=qYZW3lmRFV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758689.mkv&play_token=CObmpJC0Yl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgFi7OtOeMmvH3stWJSpazJGaSJ.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love Finds A Home - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758688.mkv&play_token=F8wx3puBmh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758688.mkv&play_token=2n99bfHTms&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shyGlG9BJtb8k201XP6R17niKU5.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love Comes Softly - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758687.mkv&play_token=oUOn1HbKIp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758687.mkv&play_token=eiFgWFwSir&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0JiPlWEZ8cnhhgVOWo0rnbGuvh.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love Begins - 2011
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758685.mkv&play_token=mH1FKphHY0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758685.mkv&play_token=bi55N84872&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OCcCfioaoUS1q5nemO8uSciKRj.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Love's Unfolding Dream (2007)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758684.mkv&play_token=rIhD1DKl7s&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758684.mkv&play_token=Zr3eM4g5cU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYPJFCO5h2Cd46ObIqeuelNX8EW.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love's Long Journey - 2005
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758683.mkv&play_token=Jq6A2rCB7N&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758683.mkv&play_token=aAT0iwB55r&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIZoXDvpmwF70KsY8lByku5SwgF.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love's Everlasting Courage - 2011
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758682.mkv&play_token=GI2stDH4Vi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758682.mkv&play_token=da5K2AwRKf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aakkjr1wjTO8T2a3bPsYKGkKtLX.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love's Enduring Promise - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758681.mkv&play_token=G4VmqQAIkp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758681.mkv&play_token=8Bn3hOrn8h&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnaJeSqEy4svDD0zaEdgoXtY4ug.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love's Abiding Joy - 2006
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758680.mkv&play_token=K9yyteUGZw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758680.mkv&play_token=9Ij5DLZKTi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGdXvXhbVO4a9ej3G8IE76wZK3m.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Lifemark - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758679.mkv&play_token=tc6hQPOhBZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758679.mkv&play_token=kHud4iPNeW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epJPN97rN4mOtd1CtgocJLZnUKj.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Jacob  Broken By God (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758678.mkv&play_token=KR9jEqfG5O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758678.mkv&play_token=ncgFnDswts&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgN0zkX4rDJQbz5fhnmVPLKMP2u.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Hoovey - 2015
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758677.mkv&play_token=yiBsH8AYdV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758677.mkv&play_token=ZGRqRElJQM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7saxCzw1C4KyCUdlqps7QJtghO.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Healing River - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758676.mkv&play_token=MbbEIWcoTR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758676.mkv&play_token=TaLNZPvuVe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsRYqQJv6t0f4J6DYeYraM9uKKT.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",God's Not Dead 2 - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758675.mkv&play_token=DB4i4r0ZtP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758675.mkv&play_token=xP1R2IWFH8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hg5bjGbxVcMYsjc20EPBd1cNlLI.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",God & Beer - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758674.mkv&play_token=2krinVSuNs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758674.mkv&play_token=tz6vGt08vs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yk8xDUbvnJIElgnkW3YZ3eAwiLO.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",The Book of Daniel - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758673.mkv&play_token=kj3LAGASuJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758673.mkv&play_token=jofifukyIF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1imcDcDrVL4NASdQ9cPRBCSKQt.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",A Paralyzing Redemption - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758672.mkv&play_token=ak2l5YBPuv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758672.mkv&play_token=SofTy7qPfx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuJAWszTt1fUSzHFJVmyj3zvKN9.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",A Chance in the World - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758671.mkv&play_token=OLcWFGnT6W&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758671.mkv&play_token=TqgUqpy0qe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFZfqW7vrI0CdJl8C9U4wRORDM3.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",A Carpenter's Prayer - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758670.mkv&play_token=WGOvSBz4lP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758670.mkv&play_token=93lm2phMvx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/643I1ehH8ldJ7QtWiY6qtegQ1o5.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Until Forever - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756493.mkv&play_token=pdJxTGUmdf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756493.mkv&play_token=sQiTN7KLyZ&type=movie
 #EXTINF:-1 tvg-logo="https://static-a.eventive.org/16972225987344aa8614980f3d72ec965.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Unfailing Love (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756492.mkv&play_token=KzpsubVPs0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756492.mkv&play_token=EdDIBkpSBf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ijWWFzjfqaAFkddcs46wlGROVH.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",The Secrets of Bella Vista - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756491.mkv&play_token=7vANQEVK6M&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756491.mkv&play_token=MucIpPDbGQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47JAImJzUaIEzr3bHtSTqX5VO7e.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Temps - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756490.mkv&play_token=HuhZdEco3q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756490.mkv&play_token=99arKHYAZG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZBo4TCtsL4xuig4Zp9I5tuo0Wk.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",The Last Bridesmaid - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756489.mkv&play_token=WqV8JEuzaF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756489.mkv&play_token=uY17poqk5N&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MHou88Z9AcvfXYeDsw5bDxB2GY.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Miles Between Us - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756488.mkv&play_token=4mmrhz8VVK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756488.mkv&play_token=V5hWNZ4SYu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYWTeTmmRpJot6QBXu1On7L8nvq.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Married by Mistake - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756487.mkv&play_token=xdmVMkaUg9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756487.mkv&play_token=07rY38qrXM&type=movie
 #EXTINF:-1 tvg-logo="https://dc-nfn-cdn-resources.newfaithnetwork.com/1-0-magi/list/2880x4160/10magi_list.jpeg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Magi (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756486.mkv&play_token=kJ612XbgiN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756486.mkv&play_token=NtSgjMEMEw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ji5kI51joPnHSEZTV4UEDXaHcMe.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Polycarp - 2015
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751442.mkv&play_token=GYjUtOeSWo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751442.mkv&play_token=BmvXYkPWoo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Pocahontas: Dove of Peace - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751441.mkv&play_token=DGLW4pF3do&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751441.mkv&play_token=OIIsYWIGWT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhm7XQabdl9HWapOYCjrgFcz236.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Plus One at an Amish Wedding - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751440.mkv&play_token=wvLRCjLddN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751440.mkv&play_token=0zDSFaUN2d&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfH1nvKOXYYVL9OFjteosNgYkd5.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Peace River - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751439.mkv&play_token=vrVom069ZJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751439.mkv&play_token=zF9q0CbEli&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mb6ZfsMSCE5caSgZEtnCzzFoqt.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Pamela's Prayer - 1998
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751438.mkv&play_token=Y4yLjmxOal&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751438.mkv&play_token=7h03N3HnmE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpsYMzbGyVOk5NQIBhGZpzOXZS3.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",My Name Is Sarah - 2007
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751437.mkv&play_token=FOVCSA2ck6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751437.mkv&play_token=cX2a9bubNX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ukm9EFHL5qDhkZLy5O6I8xeuG5.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Magdalena: Released from Shame - 2007
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751436.mkv&play_token=ceFmkhimLU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751436.mkv&play_token=95tB2jv0NU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4R0xYkKIOInESYvQcnODukSz5t.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Left Behind II: Tribulation Force - 2002
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751435.mkv&play_token=n71LuSIhXu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751435.mkv&play_token=S0UI3jUZd5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGoYjcEm6jk3RFe4iT1LmmIPYNl.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Meet Jimmy - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751434.mkv&play_token=LgNj6xbYzG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751434.mkv&play_token=WHJhrGsSiA&type=movie
 #EXTINF:-1 tvg-logo="https://newfaithnetwork.com/_next/image?url=https%3A%2F%2Fdc-nfn-cdn-images.newfaithnetwork.com%2Ftransform%2F1i8ggn3ohoqtvtza4j71i6xxu-6g5ajtm9e29ui8h3uqv9axlb2%2FFa5mmLZbh8tZQHGTUgRVqX.jpg%3Fw%3D360%26h%3D520%26query%3D360x520&w=256&q=75" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ In a Silent World (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751433.mkv&play_token=wTt4Ace763&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751433.mkv&play_token=pVmoBLfvOQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTR6lnN6BDarUqOD7N3BDrSydB1.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",I Can - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751432.mkv&play_token=4lYQwgoMnz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751432.mkv&play_token=BfnFnSPzJ4&type=movie
 #EXTINF:-1 tvg-logo="https://newfaithnetwork.com/_next/image?url=https%3A%2F%2Fdc-nfn-cdn-images.newfaithnetwork.com%2Ftransform%2F1i8ggn3ohoqtvtza4j71i6xxu-6g5ajtm9e29ui8h3uqv9axlb2%2FTotViKgGm5mz6g8Lzeeewb.jpg%3Fw%3D360%26h%3D520%26query%3D360x520&w=256&q=75" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Hope for Ukraine - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751431.mkv&play_token=qOhhgoHCVf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751431.mkv&play_token=LHVhKt1iiI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3d5BPSr0TxLNJAvPsV0lXZiA0dZ.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Forgiveness Girl - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751430.mkv&play_token=VF4Rlrd7Dj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751430.mkv&play_token=JSNoYkM28Q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwjvHpwwx9GU3YnU0Ld5NcfdPNS.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Desires of the Heart - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751429.mkv&play_token=Vs6533nkly&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751429.mkv&play_token=GFfbTkAuMX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EqbA1E399gjRuCusHjzykCvY2u.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Amazing Love - 2012
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751428.mkv&play_token=tB3Y3y6naz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751428.mkv&play_token=pScg1ioPPn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjgCEz2KI5glqksAEyxMwWAWl3O.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Without a Doubt - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751427.mkv&play_token=QkGKYZ5VjT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751427.mkv&play_token=Jh15cttzsu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vzLE6bQSzgCfhFIRYjwSaslGrW.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Why We Breathe - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751426.mkv&play_token=gRqhzJ25lj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751426.mkv&play_token=SkvvhhIOsO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EgAVmG4gyBQis9CMrunsrZ0cqr.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Vindication: Search and Rescue - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751425.mkv&play_token=3jnAkxTvHU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751425.mkv&play_token=VX0prHe0vU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4i3qCbZkHrVUYImxBUM0ua84S49.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Undeserved - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751424.mkv&play_token=Q2A8eCjSFt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751424.mkv&play_token=39zjGwGXps&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fU2WM833aAx02ODfzLTAClVzRoY.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Under Pressure - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751423.mkv&play_token=6QpW3cLz9R&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751423.mkv&play_token=phYSjrKenZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtJrFdGB5QyatbNgLGXy1BogYtP.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",To Save a Life - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751422.mkv&play_token=yOV2wVblMy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751422.mkv&play_token=KAHl4HWT7E&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",The Unsinkable Entrepreneur - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751421.mkv&play_token=1zQBuKW2Cu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751421.mkv&play_token=YknGMimFfT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBpo9Fe6WmtBNHjbm1S75D3okzz.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",The Redemption of Henry Myers - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751420.mkv&play_token=t7wwdZPYhu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751420.mkv&play_token=01VdUlv8CV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4STZuRIJJHGf40dadW3yKjuDYS.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Saved by Grace - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751419.mkv&play_token=mBDKgY2Cns&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751419.mkv&play_token=nSJYn8XZtI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1w4sOQL837CeUOd34GRRSelg0z.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Sabina K. - 2015
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751418.mkv&play_token=wbV1AoKFZo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751418.mkv&play_token=DHLI7vgQsU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEhxcrIJpfG4DmZGY8kGsR7uPir.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Runaway Romance - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751417.mkv&play_token=rC2dIHSyed&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751417.mkv&play_token=SGgfgAPTyc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9ndMEkTLlcnKmevQ4wCzmn7Gwu.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Remember the Goal - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751416.mkv&play_token=EZVHvNQS2p&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751416.mkv&play_token=7nGnO1EmaB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEV6RkaHcMfq372sRaVZWbMuWxb.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Princess Cut 3: Beauty from Ashes - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751415.mkv&play_token=UJGCfWLUAb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751415.mkv&play_token=X13o5gHZl2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNCfiomDjAVMpB5E6VLu5yKrSNf.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Princess Cut 2: Hearts on Fire - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751414.mkv&play_token=ijz3cJGoAp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751414.mkv&play_token=OIVXxr6v4H&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdXB1k3xOXYV5mMHxGxNBWAtxoC.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Princess Cut - 2015
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751413.mkv&play_token=XXVTwmhOLn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751413.mkv&play_token=lyU2iZems5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bdfGfWj3Ef9Gucrxysbcwyx7Uo.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Jesus - 1979
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747191.mkv&play_token=2IZOu89T9C&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747191.mkv&play_token=EkMff2Gnz1&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRjMTVmMDgtMTVjMy00YzA0LWJkZmItODEyMzFkYTU3NGNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ Ignatus of Loyola 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747190.mkv&play_token=3ghQQrO6Dp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747190.mkv&play_token=tlHEaHJD05&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AoZV04OpNz2u1UiE2vC9O7gz5U.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",If I Could Ride Again - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747189.mkv&play_token=MW0cfI7xbs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747189.mkv&play_token=9Pdii8a9Ib&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFiNzViNGQtNTA0MS00MjYwLTk4NDItOTIxM2E0NTEyOTg3XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ I am Patrick (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747188.mkv&play_token=CfMVAKNgJ8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747188.mkv&play_token=RyEgyQNvFH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whpqdyQq8a22QApLoZIa7WzNrhR.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Terry McMillan Presents: His  Hers & Ours - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747187.mkv&play_token=NfTd7HRre1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747187.mkv&play_token=FtUK3m0IFY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQ9uEVjnUMHgj390by1jWnRCODC.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",From the Heart - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747186.mkv&play_token=PfqviN4Hyh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747186.mkv&play_token=mLkkafaAI5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jq4YcJdj2DF7Ko6WWR9OvlTa9Ws.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Fat Chance - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747185.mkv&play_token=M3lSsBMpqH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747185.mkv&play_token=QjSUAWISuH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pYA8kiG52xCsmtF7ibHAs8CTlv.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Dog Jack - 2011
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747184.mkv&play_token=Njhf3jHCv6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747184.mkv&play_token=eyB0hYB8bz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqzMig3RAjak5Q2Hwq2PymILDj5.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Discarded Things - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747183.mkv&play_token=15TjljXDmg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747183.mkv&play_token=AHnH4YDs86&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bA1feEKg5xw9kxcQvrY7jSsbve.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Civil Love - 2012
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747182.mkv&play_token=NbzhuOzd8V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747182.mkv&play_token=e1A6OGVYvc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tn7VPw8yRdkXhJgdxzUY1DsgJTO.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Between Borders - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747179.mkv&play_token=WfZnrL9RHS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747179.mkv&play_token=xOWKFVLvK1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6POowdcyU9v8IZqDQKMXXnPsmzv.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Beauty and the Beast: A Latter-Day Tale - 2007
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747178.mkv&play_token=LhvCsrc61V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747178.mkv&play_token=IHz4bW6Kcn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NSqTYqVP9CH1pYmN3dhfwKyV9.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Beautiful One - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747177.mkv&play_token=in9BDiTOdP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747177.mkv&play_token=DhjIoTCKBj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ju55r2YeVlz0rUKWYUzl0LW8d1N.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",An Uncommon Grace - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747176.mkv&play_token=BxmCAfVruv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747176.mkv&play_token=2BujgKOOVU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rN2d10jgDUyWYsMbJMl1KFTZHOO.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",A Greater Yes: The Story of Amy Newhouse - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747175.mkv&play_token=4M3DC4qo67&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747175.mkv&play_token=QGWU2zExaB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKP3CiBZXqFd8wy6BNP0joj8vQ0.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Walking the Dog - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742886.mkv&play_token=KeQsyQFpPf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742886.mkv&play_token=dOtw791Py2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ijWWFzjfqaAFkddcs46wlGROVH.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",The Secrets of Bella Vista - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742885.mkv&play_token=o8Z8H9LYt7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742885.mkv&play_token=PrFILiPt20&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZBo4TCtsL4xuig4Zp9I5tuo0Wk.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",The Last Bridesmaid - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742884.mkv&play_token=Ap6zwSZudx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742884.mkv&play_token=PhoWyWhBvY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",The Greatest Night in Pop - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742883.mkv&play_token=LZn8z24BSG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742883.mkv&play_token=vDhNNMfwSc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vutHT0se3PfPUgprEvdLMWNBnOG.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Parchís: El Documental - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742882.mkv&play_token=DibaEWPi9C&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742882.mkv&play_token=TAtQnTL09O&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYWTeTmmRpJot6QBXu1On7L8nvq.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Married by Mistake - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742881.mkv&play_token=QtVqq3i7ib&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742881.mkv&play_token=yffTd7PPkQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzvkk5W0yqyyNESMzhOz9oYL95H.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love on Safari - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742880.mkv&play_token=SFDJNLEfWO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742880.mkv&play_token=FvpdDuqF3h&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v8UUT74F6cRO38D6I6SlvQnHOF.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",An Easter Bloom - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742878.mkv&play_token=FBqqGq4imM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742878.mkv&play_token=uPKTwC9LPa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMCnFOisGwNLGeU3f0xquhggxdl.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love in Wolf Creek - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741895.mkv&play_token=9RFiFGNuZ9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741895.mkv&play_token=pvoHc91xwY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrAH2x1qPKXzCyBV0gV3sRSvN8I.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",All of My Heart: Inn Love - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741894.mkv&play_token=I26S9pLglx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741894.mkv&play_token=SxoWBl3OxG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kthAngUE4OBtiMgr2x9oLN4CAgx.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",The Solution - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741827.mkv&play_token=bTTagr1zp8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741827.mkv&play_token=ownE5dyxNs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYOFzUn3RAsSxB4tTt6G0HNYzvF.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",The One I Wrote for You - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741826.mkv&play_token=YimpytHsMk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741826.mkv&play_token=KbzXuNRY1L&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEROoQpyo7pdx3U8wE34KBD19ZS.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Sabina - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741825.mkv&play_token=bK0yIacwxC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741825.mkv&play_token=Fbo6UrswSu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxTgQaYYyBrYt5MOdbmwDo3QNHP.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Miracle at Manchester - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741824.mkv&play_token=9nNypTFEEA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741824.mkv&play_token=7S7Aiz0mV7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kySD1Datq8cgWOWvHvmdKyr2do7.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Love Switch - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741823.mkv&play_token=nfWfJ1xVlr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741823.mkv&play_token=Do7LmPclbc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cFcySsLs6wiibh7alsNTvNF3iF.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",I Can't Breathe - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741822.mkv&play_token=v1zbmzMp0g&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741822.mkv&play_token=iZYwh6dhLp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OxUH0bd6UfcOLvvUlYv6AXrtY0.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Home Sweet Home - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741821.mkv&play_token=3B4E55pqkS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741821.mkv&play_token=SIlsTfRNdZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i09a12E1ZvbIS9vXTkGvSr0LuHV.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",Between Mercy and Me - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741819.mkv&play_token=1uA7VRPlYs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741819.mkv&play_token=a7ieePhyUQ&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNlNDY1MzQtNTExNS00ZDEzLWFhZGMtYTc1MzcxMmEzZjcxXkEyXkFqcGc@._V1_.jpg" group-title="┃MULTI / LINGO┃ WITHLOVE | FAITHNETWORK",┃MULTI┃ 18 The book of Job (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741818.mkv&play_token=aZWaHN2Lsl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741818.mkv&play_token=Gzh21VWV4u&type=movie

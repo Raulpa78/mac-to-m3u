@@ -1,337 +1,339 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Avengers Endgame Encore (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2322592.mkv&play_token=QF1wVgrScY&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Wolves Up Close with Bertie Gregory - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312673.mkv&play_token=tKHwrk2XWc&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ A Cinderella Story - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312663.mkv&play_token=rqnkDoGIzn&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Mysteries of The Underworld Cordoba - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292669.mkv&play_token=lCqguhYTQS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwKRHKjKZz9dCsGhWrXf1wUrCKw.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Drain Alcatraz - 2017
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336163.mkv&play_token=vSybQ7rdP7&type=movie
+#EXTINF:-1 tvg-logo="https://i.abcnewsfe.com/a/d944e248-5c92-4818-b048-3a8f6cc0f02a/avengers-ht-gmh-261112_1794495201809_hpMain_square.jpg?w=384" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Avengers Endgame Encore (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2322592.mkv&play_token=5sn9XJM6GZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fopmDU345HPkMC9iUaNQEY0uRkk.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Wolves Up Close with Bertie Gregory - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312673.mkv&play_token=Xh8flUU3Fv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukwP7gDPWxj1R1dW5iN3mnxkL3D.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ A Cinderella Story - 2004
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312663.mkv&play_token=Y6EyYucWQB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7d3yZBxKa1luQmmaNhNDA1s9RDi.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Mysteries of The Underworld Cordoba - 2019
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292669.mkv&play_token=g0Dcg8S96X&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y07DF84TR67NVAevJR6JMydIL5H.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Super Scam Me - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147297.mkv&play_token=nNKQPGCbcI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147297.mkv&play_token=vOcMiHuvTs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9CxXe4Q8lpbLd2DdHzuk7rB1Xx.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Sharks Up Close with Bertie Gregory - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147296.mkv&play_token=F5UDQIogLj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147296.mkv&play_token=qdL1xStIEQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iMiErHxi3prW3J2ZjFiChfhptt.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ KATSEYE: Wild Hearts - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147293.mkv&play_token=vi3fLctiH1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147293.mkv&play_token=XVTrxlB6rz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qSoyXh55bRMYByBCMgIddcWJwO.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Hammerhead Sharks Up Close with Bertie Gregory - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147292.mkv&play_token=gJbTK6a1ms&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147292.mkv&play_token=3JFBdor5Nn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Oasis: Don't Look Back in Anger - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113570.mkv&play_token=X51DWWb94F&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2113570.mkv&play_token=30pnyB2Rky&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfQtVlIHljToOwYjhe21KPGzZWK.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Toy Story 5 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042759.mkv&play_token=lyUPENoTW0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042759.mkv&play_token=oOnffHavYC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uXL16pegV9mccBeUqB9VGos5hv.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ #SKYKING - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980817.mkv&play_token=COj6SOsRHc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980817.mkv&play_token=H1FFwbiDKT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Get Out - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968556.mkv&play_token=NQpiWL6nYo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968556.mkv&play_token=AvTnzA1jPD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Mandalorian and Grogu - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968052.mkv&play_token=FLJzdoidvj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968052.mkv&play_token=3KIpRrB4tE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s06sbzsQd7WDxDUJC1ZVSWqGhml.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Hannah Berner: None of My Business - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1943466.mkv&play_token=BnWr5WuaS9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1943466.mkv&play_token=FPjoMNKziW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQ69OZWDZ90ktHcW2Ku01ht4eis.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Last Scene - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936949.mkv&play_token=AyGOZR7jKx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936949.mkv&play_token=Fv3nOXLPPX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD8nxSEstIGpxcaWl7Pd6SbwNXh.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Travis Barker: Louder Than Fear - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1903262.mkv&play_token=WEAYyR6c3v&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1903262.mkv&play_token=xrF8Fdwcb0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIIcUNjuMvF3TLqb5JPSPKwYPcA.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ My Grandfather Charles Manson - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810040.mkv&play_token=k5nu5corA8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810040.mkv&play_token=gu8OvSYQEb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rfJ8hbtneCYE63PRqceARgRdbw.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Day Diego Returned to the Azteca - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802247.mkv&play_token=IK4wt0MRDy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802247.mkv&play_token=hXlLh8d57k&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Descendants: Wicked Wonderland - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802239.mkv&play_token=S24bQuAPpN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802239.mkv&play_token=LHdoRf4DjX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",WHO - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763484.mkv&play_token=DR3pLMjxgY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763484.mkv&play_token=ncu6mFgXh4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfFxXrQzZPY3LHkNhxwmGgTvWQj.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ A Spark Into A Flame: Hamilton & Hip Hop (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758669.mkv&play_token=utH0khXz3i&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758669.mkv&play_token=uJ1ODaIX3F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lf1bwcuLOuBbsLw9wO2EMhNsNtU.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",Jumpers - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747170.mkv&play_token=62UcaEp68f&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747170.mkv&play_token=Nx4xkzbqRf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S1f8REqAu3kUjN6M8hWAgdQh8s.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",Cleopatra's Final Secret - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1736622.mkv&play_token=5wVzNbuNp0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1736622.mkv&play_token=ArqTm7EyK3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c311sN931DixuZRer0JGYCwpx9N.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",Tora! Tora! Tora! - 1970
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735011.mkv&play_token=k19nkVsCvX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735011.mkv&play_token=qlyStQlRqB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7eYO3t7oZQdfJj5KlJBI7GhT9H.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",Tolkien - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735010.mkv&play_token=pkXb6uDayR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735010.mkv&play_token=7p0tOYrsZd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",Patton - 1970
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735009.mkv&play_token=3Ms38uggxE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735009.mkv&play_token=K42RVVw9iV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfZ3wcPoKNk8pDD6EG5wZpVAfTF.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",Is This Thing On? - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735008.mkv&play_token=jvcMW0llal&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735008.mkv&play_token=4Aey5qjc6S&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taUkn5MsZIq5kpTABsF2563j5zp.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",A Hidden Life - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735007.mkv&play_token=R00LN5WRif&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735007.mkv&play_token=CcAffsa5XS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNUAnXV1mzOOfvnVBIYsalkk078.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",Men of Honor - 2000
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735005.mkv&play_token=OtgHCp6D5s&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735005.mkv&play_token=CCgGcKRnqb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xencQzZnUWDRAOUydjf9PWet8Ae.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ A Walk in the Clouds - 1995
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1733260.mkv&play_token=DKdGVItRCf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1733260.mkv&play_token=St2OEpVKTp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Testament of Ann Lee - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1730584.mkv&play_token=u9ub4GJAb2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1730584.mkv&play_token=fvlZFwXw7f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjcPbV53ovhlogVFYdmkTDBooqg.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ A Marvel Television Special Presentation - The Punisher: One Last Kill (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1729651.mkv&play_token=mg4GTLGT48&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1729651.mkv&play_token=xd2XzaHMMB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Sixth Sense - 1999
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727054.mkv&play_token=fpVJVtF59R&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727054.mkv&play_token=Rf48GfDOHT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBcoxveWzzXQrCrwWMGAROcqgpP.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Rock - 1996
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727053.mkv&play_token=oJc38esKts&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727053.mkv&play_token=BK9Mpmgmib&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Day After Tomorrow - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727050.mkv&play_token=mVVDugxSbr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727050.mkv&play_token=WPmDlbov5d&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Signs - 2002
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727048.mkv&play_token=1un6WkD2eP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727048.mkv&play_token=p06siLrfL5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1q3FkqFHBkMeKnHiS6GYgdLvUs.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Not Okay - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727046.mkv&play_token=QqcrimYtTm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727046.mkv&play_token=8n8jT20RBn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cm4M9xaBu78IjuAVNG4LCXdXsg.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Dark Water - 2005
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727044.mkv&play_token=onn8k29Wr4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727044.mkv&play_token=6SVhoijHUm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AKitfwCoCmHU4PTtC5oF6LImlG.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Cold Creek Manor - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727043.mkv&play_token=pGBMRJgwxn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727043.mkv&play_token=ZYGdgLiz67&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Armageddon - 1998
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727042.mkv&play_token=XupuZZ3Lkt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727042.mkv&play_token=0mAVAQdfs3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJtA7hYsBMQ7EM3sPBMUdBfU7a0.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Bridesmaids - 2011
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1723097.mkv&play_token=kLCzQZSzya&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1723097.mkv&play_token=U2nC6IAIZX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mk8UH7JRmK8adcqJJpB1ygP7B1C.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Three Musketeers - 1993
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716652.mkv&play_token=Vpk6JZ2XnV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716652.mkv&play_token=AcOIQk8KKA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Thin Red Line - 1998
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716651.mkv&play_token=GaT4BeMi62&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716651.mkv&play_token=V7tPh8xEAr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiWAg4mKV2S4vImPxsPRIdj2R2B.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Monuments Men - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716650.mkv&play_token=iUaiu98VVc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716650.mkv&play_token=NNFdyOSGW2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UG91TJ4DKI6FGdqXZfDBeRZHX8.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Finest Hours - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716649.mkv&play_token=MKsZJYM9cT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716649.mkv&play_token=L1pXYAwp4e&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTJPT1jFz94vSkmiHMUxQTfQsL7.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The East - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716648.mkv&play_token=pZc9ZU68OA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716648.mkv&play_token=YtqoQlHK0P&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZrWYkxCCwSPKp4VjVvn46uHbIX.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Alamo - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716647.mkv&play_token=12ot7pGICo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716647.mkv&play_token=esNZHUlRTY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdefNr6aS00IwVbSlxdFJnfmzKh.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Red Sparrow - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716646.mkv&play_token=RvVHlJfBSV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716646.mkv&play_token=KdfHJTISHk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1cVTQEZYn4nSjZLnFbzLP0j8y2.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Master and Commander: The Far Side of the World - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716645.mkv&play_token=gkunadyO0R&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716645.mkv&play_token=s9CLWmG6iD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYsSu7DdgU4yqbekTvAevrv6dSP.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Iron Will - 1994
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716644.mkv&play_token=Abfuv1AI8L&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716644.mkv&play_token=iOUZsRz97c&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39hR806Me4wI42LCFcK2LBiCRGW.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Eight Below - 2006
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716643.mkv&play_token=P1FtLXEnve&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716643.mkv&play_token=9heTptEsV6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Crimson Tide - 1995
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716642.mkv&play_token=9T4YFYB38J&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716642.mkv&play_token=JmN95pZ04G&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or1gBugydmjToAEq7OZY0owwFk.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Braveheart - 1995
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716641.mkv&play_token=zjCSz604Te&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716641.mkv&play_token=Ed1PxmdGMk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZReMWU3zszvaktDUqOoWCzHssZ.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Behind Enemy Lines - 2001
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716640.mkv&play_token=TL6gJMO2wk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716640.mkv&play_token=kZFO8T26MC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxwxts8NMAgA1z6h7wzuhigTpCN.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Zarna Garg: Practical People Win - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715487.mkv&play_token=jh0TdbO5MT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715487.mkv&play_token=jXHwhjEVUK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKvHwL0GqLOear8rTnUPSTRYY0r.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Unstoppable - 2010
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715486.mkv&play_token=U1YLLe8TFT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715486.mkv&play_token=ZT8hv1qc8E&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbeeWu8rYaIYMyq9ayN1AepjNxP.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Siege - 1998
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715485.mkv&play_token=CjtziLA2e8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715485.mkv&play_token=w9fusx9bky&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6stnAm1wSek8ZrislwK4xGTyCnt.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Proposal - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715484.mkv&play_token=ffCVViOWiO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715484.mkv&play_token=CUEtb0FPia&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSw4lzhDGeM5MjQc86BLzJALhBs.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Princess Diaries - 2001
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715483.mkv&play_token=NPx449fS5z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715483.mkv&play_token=UtVRoasnU0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XToqGcE4qdfOSaCPWI7kAb1bm7.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Princess Diaries 2: Royal Engagement - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715482.mkv&play_token=RivpLkCW6W&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715482.mkv&play_token=rYDwds0B7P&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Equalizer - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715481.mkv&play_token=36JpGpJicK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715481.mkv&play_token=HrXi8cS4aC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Equalizer 2 - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715480.mkv&play_token=oTyEzqQPtD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715480.mkv&play_token=5wyLDBbTcB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/698cbxq0SRwCdOPG5Bwi7JDk12d.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Sweet Home Alabama - 2002
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715479.mkv&play_token=879PIns0Vc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715479.mkv&play_token=fp42N4tCH9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmbvVjDFXR9ATykIA4jXe9rtkL6.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Sebastian Maniscalco: It Ain't Right - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715478.mkv&play_token=rUfunENEjR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715478.mkv&play_token=971zGgQowp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzivR0yWJStVdhcl0A5rQvVdTQ7.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Runaway Bride - 1999
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715477.mkv&play_token=QUs25vvFHW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715477.mkv&play_token=PmeO6yd7jQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxAJmb9RDgT9udAMALBjLEWKCpj.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Roy Wood Jr.: Lonely Flowers - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715476.mkv&play_token=kDp6rl693A&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715476.mkv&play_token=CtrT7B0wQA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZwQuqC1dOcVqeGYF5gDsO8GPyO.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Patriot - 2015
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715475.mkv&play_token=7Gaphfrbco&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715475.mkv&play_token=K2mD4jc5Kd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AogOHnmfBQAZBEE1FvH6dpBSUKF.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Waves (2012)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715474.mkv&play_token=XCuk32BQWS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715474.mkv&play_token=ZuyDU2RTss&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Nikki Glaser: Good Girl - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715473.mkv&play_token=EykE5s1b0b&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715473.mkv&play_token=mrBYZOjsKm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWdN9adXKhST0KpEnC3dJTA6pm0.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Mumatar - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715472.mkv&play_token=ecGly778dn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715472.mkv&play_token=GLKppj4voz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQxT9Piea1pGzHp4MKlUuwQySHf.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Matteo Lane: The Al Dente Special - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715471.mkv&play_token=Cr7PYQGBnv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715471.mkv&play_token=92sGhS4jlK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grCGLCcTHv9TChibzOwzUpykcjB.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Man on Fire - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715470.mkv&play_token=y6TO1u9y0R&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715470.mkv&play_token=g6aiaXfYsp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4cBtYKz8oQy7zGvW571qDIol6b.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Jessica Kirson: I'm the Man - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715469.mkv&play_token=SGgUXxevHz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715469.mkv&play_token=FbdDN04L0H&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44Os1Qu4mrjtDbnzcSPLkFCiZJb.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Ilana Glazer: Human Magic - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715468.mkv&play_token=bYgf01XKv5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715468.mkv&play_token=zDzsPvvNhs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PRFM09xjGSWpXObW87CT5JELGJ.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Hope Floats - 1998
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715467.mkv&play_token=NgNZyGWSi3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715467.mkv&play_token=SwjQqp7w78&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/advsp2BXSDQx6igHI9FrgYcISVU.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Hard Way: The Action Musical - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715466.mkv&play_token=aW04PXDXAm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715466.mkv&play_token=BDw205850F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNjZFzbe7PfF3TxztNHDkinOPyB.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Flightplan - 2005
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715465.mkv&play_token=R5f3IZ5pjC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715465.mkv&play_token=Wy0nrmF2G3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rj4LBtwQ0uGrpBnCELr716Qo3mw.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Father of the Bride Part II - 1995
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715464.mkv&play_token=9m5icNC1Pp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715464.mkv&play_token=DYEtYpnkdO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bU7HzJbJpY5OiLdqWhKSqGPtYii.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Father of the Bride - 1991
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715463.mkv&play_token=ERpKyZVkVU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715463.mkv&play_token=vHFf3MmFua&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTX6hklzFOiEVqVukNCEedZKhix.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Déjà Vu - 2006
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715462.mkv&play_token=c8MaeXGOWu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715462.mkv&play_token=3elIqR3vna&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GHVM5MtITdt0R7q9H6nBcDss2k.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Distances (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715461.mkv&play_token=5yVDRP5m0O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715461.mkv&play_token=AFVQAaMOuP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDJurMJkrx049AiXa3DJx5Zx7a4.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Courage Under Fire - 1996
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715460.mkv&play_token=J4yMKmkTBq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715460.mkv&play_token=utrXcTX6pA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kG8loSHTu2mWefkF54O30Z8gXFB.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Chris Distefano: It's Just Unfortunate - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715459.mkv&play_token=VQr9Vr4d3s&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715459.mkv&play_token=6nwloc2Hq9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2N0BHecXnzBSW3wkeWLVsGeGhhs.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Kids from the Port - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715458.mkv&play_token=uSk1ewcjbi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715458.mkv&play_token=bcHNN7eVuZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyXT8tmUoyHrg7YX1UVjmecHCWP.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Bride Wars - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715457.mkv&play_token=WxivHwk8CD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715457.mkv&play_token=WhsCHMrBJ0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLvLM5lJ4i2GpPCjy0Eo2QCfRRr.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Blockbuster - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715456.mkv&play_token=HiXeVuYwZE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1715456.mkv&play_token=QoqME981u9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bsOuq34lbMb74OEoJ62aR7Bm2E.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Orangutan - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1709001.mkv&play_token=KZeQ1ZWQSf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1709001.mkv&play_token=Quewr4P7P0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UllIft2jLSBaay3zQyMV4GNdfy.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Hulk - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1701398.mkv&play_token=Rand0yKYPy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1701398.mkv&play_token=Ji06b9sHpB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Zootopia 2 - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1671149.mkv&play_token=nPKaoqqAsO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1671149.mkv&play_token=WeIHDylag6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o6lkhL32xQJeB52IIG1us5BVey.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Smurfs - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1671146.mkv&play_token=6ZWSmMW5zT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1671146.mkv&play_token=lyLb2z9TBp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9o93aS1yJlIgwV3iJV3kstAmSfW.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Stolen by My Mother: The Kamiyah Mobley Story - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1665335.mkv&play_token=8aVfLlCdWh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1665335.mkv&play_token=RKkuUn8CSm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vWqIdoBavo1htxmxlScDniOS9C.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ In the Blink of an Eye - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1659129.mkv&play_token=MR3gFX2pT4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1659129.mkv&play_token=cXLBeZ6xBg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Inglourious Basterds - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1654278.mkv&play_token=9xE0VEVWW6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1654278.mkv&play_token=eW6aV6OhDu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btC4819GhihmkCELqO3qgepNGos.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ What's Love Got to Do with It - 1993
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652027.mkv&play_token=Rj8m6ODT3Z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652027.mkv&play_token=HqBngBPH89&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDuJGq8biNMW7zM3w95UaDJv0KG.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Lone Ranger - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652026.mkv&play_token=2BFNAY4Ax1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652026.mkv&play_token=jw3GcvuZv8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTcsoaYkQnOj6YSPDpeLv9kpaPm.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ She Taught Love - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652025.mkv&play_token=kbBF0lQO7N&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652025.mkv&play_token=8UxZTDAlZP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BnFvDXO7UVXhxTCUvhf7R3UirK.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Solo amor y mil canciones - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652024.mkv&play_token=TbGGfONScF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652024.mkv&play_token=BEPqe3TRgh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUi6nEbo04DR1YwflbZX1RR7UwS.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ I Love You  Beth Cooper - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652023.mkv&play_token=tDK1BFxYdB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652023.mkv&play_token=meD4uIxEMT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10ZyBjOCEQUEVlw232zcUWYmY0C.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Edge of Space - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652022.mkv&play_token=pkSjSfHO5I&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652022.mkv&play_token=0kmtgYbsdz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74lG2SGDJdyiS8hB4kkFcRIviSi.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Down with Love - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652021.mkv&play_token=JEd2ZvcvS4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1652021.mkv&play_token=YSRyCakn8E&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcwar1rL0neoLvnklL7DzYw7sN8.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  The Muppet Show - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1612919.mkv&play_token=TyzT9ozF8m&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1612919.mkv&play_token=OiszbZP2r7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Die Hard: With a Vengeance - 1995
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600680.mkv&play_token=0t5ceAUKUw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600680.mkv&play_token=KRrHk6ucnL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Die Hard - 1988
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600679.mkv&play_token=c5QuWLQLZQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600679.mkv&play_token=20C1JrjY83&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybki0UWO3OPhaM6MSniuKC7sy1R.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Die Hard 2 - 1990
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600678.mkv&play_token=sO3rlW1ig5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600678.mkv&play_token=XcuotoTlOj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ0csDXAVFMsNn0cRcjy6W6PxAK.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  A Good Day to Die Hard - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600676.mkv&play_token=PGOCaUIIWy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600676.mkv&play_token=sanj2GH5NO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Prometheus - 2012
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595934.mkv&play_token=wrOHCdstUG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595934.mkv&play_token=VXyGK84Wcj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phIbIGEAFCPo8xw2i7Wajjgayle.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Hoops  Hopes & Dreams - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595929.mkv&play_token=66SiGbXMtA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595929.mkv&play_token=nyUzT17v03&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cBOYLDhHMA351ndLthSxBCwO5N.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Herbie Goes Bananas - 1980
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595926.mkv&play_token=rZTo25cFeM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595926.mkv&play_token=f09kBORQ0O&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lTfTZ8CDfXw09eAv3OOvsbCVgs.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Herbie Fully Loaded - 2005
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595925.mkv&play_token=1izRoh2BII&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595925.mkv&play_token=vIfaQltiJ0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Lc1efdYZUZia2zsRWcUkiD1KdN.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Love Bug - 1968
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595924.mkv&play_token=uA9C74xcHA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595924.mkv&play_token=6013DDSMxW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qscKjr7kGmihLdAYcS0zO69xMk.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Disneyland Handcrafted - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595923.mkv&play_token=ovm5d5wuJj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595923.mkv&play_token=bYIluoWoVh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/737hppvYVz8Wx9I2McyQPHCD7PB.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  The Pearl Comb - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1576524.mkv&play_token=zzt5Q1ZghM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1576524.mkv&play_token=eImOTq86XS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Pearl Harbor - 2001
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1576518.mkv&play_token=Pf73CJEO3b&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1576518.mkv&play_token=H9JbG5JpJb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ National Treasure - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1576517.mkv&play_token=QtihHDYDtd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1576517.mkv&play_token=T1eWaqrVd5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iceZ1S5TEcKNE4qpu9yoiNqz4vk.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ De Wederopstanding van een Klootzak - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1499922.mkv&play_token=14Aj8fWws8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1499922.mkv&play_token=I6GrnyDYPs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9K3ktUeQLbxogy4H7XHZTQEMZXA.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Guardians of the Galaxy Holiday Special (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1445625.mkv&play_token=gsqykQHDxK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1445625.mkv&play_token=VoLCyvkame&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ A Very Jonas Christmas Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437932.mkv&play_token=gikFiI8LCH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437932.mkv&play_token=pQubmDQqJM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKLATvYcVUn6FfmgOU811TJgHWl.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  The Cheetah Girls 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420190.mkv&play_token=idCAGqpVX0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420190.mkv&play_token=ViArF2U2UJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBmsHHLwvwI29oyFE48fKAnSQyk.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Summer of 69 - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420188.mkv&play_token=6ILFvaeLXu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420188.mkv&play_token=aB0LK2aCsK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPRSDBGIUe89pDXUp6DMmtkmDzC.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Sneakerella
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420186.mkv&play_token=SQRNWBcC6P&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420186.mkv&play_token=e11sWacWcl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Avatar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420155.mkv&play_token=2OIYu3LJx8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420155.mkv&play_token=TFV0TJDNsS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8K4iDnODk3lXEIi6Ou9DfRz4Z48.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  A Celebration of the Music from Coco
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420152.mkv&play_token=snsGznKlun&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420152.mkv&play_token=PXOwKlBhFp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12Va3oO3oYUdOd75zM57Nx1976a.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Eenie Meanie - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1388991.mkv&play_token=elO6dtmElr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1388991.mkv&play_token=dlWHfJOU3b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGgvXjoMZf8x1m3BHsMxVXPyck.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Obi-Wan Kenobi: A Jedi's Return
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356586.mkv&play_token=RuNOTBYRbR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356586.mkv&play_token=9bBpeUl95v&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbpZW0TOykpaEZwEIO5RR4ul3ca.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Kaizen : 1 an pour gravir l'Everest
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1183258.mkv&play_token=RXGp3kvgH9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1183258.mkv&play_token=5bEjj4QS6o&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18URyTcpuJOrbPDrld9v4YGh8gk.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Me  Myself & I: Lost in Time
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1136153.mkv&play_token=F4gf92woVV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1136153.mkv&play_token=rQrHUobhoe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLpIMf6jfdWg9mxIm8RP5uzdp47.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Alexander and the Terrible  Horrible  No Good  Very Bad Road Trip
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115276.mkv&play_token=PTah1X7eW1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115276.mkv&play_token=g4yl7P1GFZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50lPmjIpDs8gKfgK7fPIeKzpllh.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Kinds of Kindness
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1106202.mkv&play_token=pNibFtKApp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1106202.mkv&play_token=sNgQiffkp9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7PveIDeYyKOv936w7mIttc9H1l.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Alleen Eline
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1092389.mkv&play_token=eFU7t5pDiB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1092389.mkv&play_token=cBVCSvnjSJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Inside Out 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1077056.mkv&play_token=5fxqrohYCX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1077056.mkv&play_token=zDETyL6876&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyCj7r1ThSF2eaaWhLFnfBxXjdB.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  LEGO Star Wars Griezelige Verhalen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=891530.mkv&play_token=ryLhoKzBcy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=891530.mkv&play_token=DB4BPfAk0R&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMUc6YfWhnspXNdt25moChr4JYQ.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Inside Out 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=890033.mkv&play_token=qNQfh7LC1j&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=890033.mkv&play_token=UaUzail5Wy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Guardians of the Galaxy - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=886558.mkv&play_token=bYhpdxu6Zo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=886558.mkv&play_token=yyxOUH5tvn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqzdv4nArhuZxd7il0boKaVxQMF.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Z-O-M-B-I-E-S 3
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=885004.mkv&play_token=dUl6IYmZzA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=885004.mkv&play_token=VQLqB04tEe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDaZZzO8U6YWLmw4XV18auB3VHC.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Turning Red
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=885003.mkv&play_token=hoeV8IwkRZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=885003.mkv&play_token=hV92axG5r0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIyEnaojpRiVDIDqcg9yDxaIvxM.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Black Panther: Wakanda Forever
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=882720.mkv&play_token=K2xYjtbmfB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=882720.mkv&play_token=XpJOzUkqRj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0GrGE3GylrZ6GrkSQWqiMfFLzz.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Marvels
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=882025.mkv&play_token=u0AU1T0wlC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=882025.mkv&play_token=aeS4vVcwip&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hobObqQMRK5eqy7NM5uIpb8vZvF.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Indiana Jones and the Dial of Destiny
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=881167.mkv&play_token=2yHpuDWH9f&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=881167.mkv&play_token=FdR7NNe8Us&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKLpOTdDaNIIPGIh062BCrJCS4T.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Ant-Man and the Wasp: Quantumania
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=881153.mkv&play_token=2Ow5klLOBO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=881153.mkv&play_token=3D0liRHFV7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjEzlTLyeDba1yqF7lZQrbRjlR6.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Kinds of Kindness
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879676.mkv&play_token=1kgJ7EumNx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879676.mkv&play_token=UDvaKKUIbt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIzk6GhxEZuweekGFXWEoAyuaMX.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The First Omen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=870618.mkv&play_token=7pNiBmWeSj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=870618.mkv&play_token=TPlY7eY0Y6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZlecCuBVvKuarNGvchBwaOsQ3c.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Young Woman and the Sea
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=859049.mkv&play_token=2sKy4Ih54J&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=859049.mkv&play_token=XBlq28idTi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajzbmi1iLMoVm0yEGyumEEGI8zC.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Werewolf by Night
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=859048.mkv&play_token=ImcJGnqTct&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=859048.mkv&play_token=UKpkAkHk7M&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvgQi586ZB8h9T4Fj0qcgUrcX4e.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Haunted Mansion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=859044.mkv&play_token=gk59asKcjl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=859044.mkv&play_token=PQIWlyyfeP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Descendants: The Rise of Red
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=859042.mkv&play_token=3fStilctb3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=859042.mkv&play_token=WkYbk3wfb2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thZHluscCvT3SCzVckmFszOVVtM.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI ┃ Mater and the Ghostlight
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=753530.mp4&play_token=vtZGWhluHf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=753530.mp4&play_token=GnOq0RBQeP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Ujbtp0NklUoQ67s32HyW6R5540.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI ┃ Iron Will
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=753492.mp4&play_token=SBvBOinbUN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=753492.mp4&play_token=CR45aG8K5L&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHd1OBpWLxSN5UPSJrjwYeT4PPZ.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI ┃  Descendant
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=750950.mp4&play_token=mcZwKGmmef&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=750950.mp4&play_token=tjL4uyybwy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKPeajBl4mQQbOZsTxOZfTdrUkX.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI ┃ A Mob of Women
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=749974.mp4&play_token=g1Au4xqk0a&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=749974.mp4&play_token=aqVNWnDenQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1q3FkqFHBkMeKnHiS6GYgdLvUs.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Not Okay
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=727033.mkv&play_token=TublFlHTBt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=727033.mkv&play_token=7e2tYUg9vq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Pinocchio
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=726724.mkv&play_token=1MC8yNTMn2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=726724.mkv&play_token=7yaqNpCMnW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6w6ugAk27xDh5jvGdxMPqUBU4Z.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Hocus Pocus 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=726711.mkv&play_token=9CiUfMnUkE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=726711.mkv&play_token=SgdF6j8OGK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbkpPHtR4D5PTr2rPthSddJn8e8.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Little Mermaid
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=720289.mkv&play_token=uLumpXCRth&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=720289.mkv&play_token=FsqnYLidNR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SWlvHb0fRzGXw5Od44ZNVNDFDr.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Lady Bird Diaries
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=720288.mkv&play_token=apWZkW1P5v&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=720288.mkv&play_token=kErRuOQ4wW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqKiprkTUfXWi8bOjCl0lHtCwod.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Quiz Lady
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=720286.mkv&play_token=3P96U4QVrK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=720286.mkv&play_token=47KTKWY9Cq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Aladdin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=720279.mkv&play_token=TtmDow4Suv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=720279.mkv&play_token=5Swfwsd65S&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pz5yThLVJYUcovZtc6JALatha1b.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Mickey: The Story of a Mouse
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=718340.mkv&play_token=MhtkLwvNC5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=718340.mkv&play_token=8IhpLs3eVr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvg75YJMfbHeDNirUrrgBMQImRn.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Grimcutty
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=718335.mkv&play_token=se4HPVTG0T&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=718335.mkv&play_token=SgIXd6NHnt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cB4bZUVZOQlnhXLDzN2yOrQSl5r.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Squad: Home Run
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717946.mkv&play_token=JrWIliueD1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717946.mkv&play_token=jWno4guRAA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BWy7bgE4nTXf7hhooFNqVBJXgU.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ The Last Repair Shop
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717941.mkv&play_token=j5gqzBRla5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717941.mkv&play_token=dqh8cwiyQV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEy4VFXn3fukXRhx8TnSZtOnlcm.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Night at the Museum: Kahmunrah Rises Again
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717914.mkv&play_token=z9D4DqxfoR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717914.mkv&play_token=fBwxm25AZp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phhp52CZZJiGYmiOTp9ZBDkGHB3.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Knight and Day
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717899.mkv&play_token=alZyX7obbM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717899.mkv&play_token=KAGvcb8A1Q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hobObqQMRK5eqy7NM5uIpb8vZvF.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃  Indiana Jones and the Dial of Destiny
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717897.mkv&play_token=O5kDlOuF2O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717897.mkv&play_token=1nMCIOx4Gw&type=movie
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/Doctor_Who_Wild_Blue_Yonder.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Doctor Who: Wild Blue Yonder
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717661.mkv&play_token=CvnxGldGAx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717661.mkv&play_token=dPa8PbL9QW&type=movie
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Doctor_Who_The_Star_Beast.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Doctor Who: The Star Beast
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717660.mkv&play_token=maWjYtZTew&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717660.mkv&play_token=2Jo6xv667R&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgVTgjMdwVZfMfg-g7ZJxkge54a_YouWaQGw&s" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Doctor Who- The Giggle
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717659.mkv&play_token=BFTLiUxS0c&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717659.mkv&play_token=Ua3YPeAVUq&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq6_E7QPP-AhpOboDyIpUVXfmtfrLN2vKxWw&s" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ Doctor Who: The Church on Ruby Road
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717658.mkv&play_token=Z6ZOmfTAIm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717658.mkv&play_token=wb4tAZTGdo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHbiXDWetNGTeWGJRXwSRJBDVqM.jpg" group-title="┃MULTI / LINGO┃ DISNEY+ | HULU",┃MULTI┃ A Hero's Journey: The Making of Percy Jackson and the Olympians
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717647.mkv&play_token=9JwBzbqCDe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717647.mkv&play_token=Fhd8g07UXE&type=movie

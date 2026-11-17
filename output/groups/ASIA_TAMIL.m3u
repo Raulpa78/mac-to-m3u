@@ -1,253 +1,421 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOGzycGyu67TiXZCves37CDZoL6.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Veppam Kulir Mazhai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811130.mp4&play_token=9843lk5RDo&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZKIcCTLTmc2jn8sieFj5sIyrjF.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Veeram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811129.mp4&play_token=0xPfVTAsL0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aISxbDBgdeiPRbhVyfGP7a4LYk5.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ The Boys
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811128.mp4&play_token=hzBrkB6xai&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t715SsMHG6tF3Jd25xLyBIZgswd.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Raja Vikramarka
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811126.mkv&play_token=nKbe4DQj4U&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcDBe82K7wHq1BDiJiPE66dM72w.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Pallimani
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811125.mp4&play_token=Fvf5LxiGXx&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxHLUNw1t9TA9gvNNuBie8yYvrk.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Operation Valentine (TAMIL)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811124.mp4&play_token=7qK25LM00q&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5fIPUTiMMlTbbyJIq3XNeCWs2S.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Netru Indha Neram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811123.mp4&play_token=evKlLAj74Z&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wwe88VqucH5k9D1wYhidjcIazd.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Mix-Up
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811122.mkv&play_token=iAr1Fd5KtW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Konjam Pesinaal Yenna
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811121.mp4&play_token=KyqQxB5ROe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JcvlnklqXzWdRJiVme46Dpz1uY.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kanni
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811120.mp4&play_token=Kog24ohy8u&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4HWcEKLXWypjRzYfCrcgNNjgrl.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Dil Pasand
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811117.mp4&play_token=NItBaWVKGU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Yvr5pbYluCkq3hGzTwk9jGgAh.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Boomer Uncle (பூமர் அங்கிள்)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811116.mp4&play_token=nrdFx4t66F&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07Zm4uGED4znLwrkfrFS2zBXB5.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Bhuvanavijayam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811115.mp4&play_token=STPcgmVQft&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ddSW2WkYl89fDfiD9gxc5eQV12.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Ayalaan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811114.mkv&play_token=I9j4c61ReN&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Veppam Kulir Mazhai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811130.mp4&play_token=Om8onoy7vv&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Veeram
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811129.mp4&play_token=BZyp1FJgQp&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ The Boys
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811128.mp4&play_token=kxkSdrZI9F&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Raja Vikramarka
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811126.mkv&play_token=wERWVcyrT6&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Pallimani
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811125.mp4&play_token=HM6O6R36vS&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Operation Valentine (TAMIL)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811124.mp4&play_token=CxUBm1swp2&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Netru Indha Neram
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811123.mp4&play_token=l9TxMGALRb&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Mix-Up
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811122.mkv&play_token=N4EPxlLMuW&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Konjam Pesinaal Yenna
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811121.mp4&play_token=TXiDoPksDH&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kanni
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811120.mp4&play_token=2LSngK9AYx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Dil Pasand
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811117.mp4&play_token=JuoNaX3DyT&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Boomer Uncle (பூமர் அங்கிள்)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811116.mp4&play_token=f2jYdyXr8f&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Bhuvanavijayam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811115.mp4&play_token=KgtZc8mnMW&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Ayalaan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811114.mkv&play_token=5kix2xoACV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eejQLAR6YpbXEm9K2PVKWA52EC.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kalyana Samayal Saadham
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795763.mp4&play_token=DIpawS1ipI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795763.mp4&play_token=FlphPf12jR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kalyana kanavugal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795762.mp4&play_token=JjQGYg3v4V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795762.mp4&play_token=Fb7YeukZyr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃Kalyaana kachcheri
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795761.mp4&play_token=NC7ZBQJFj1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795761.mp4&play_token=24PLVj6yya&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9W805bulxFq71ugKVxyZcovbQkZ.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kalloori Vaasal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795760.mp4&play_token=xUJfDHE9qJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795760.mp4&play_token=F8zSpa12kM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aupuHpaEjkUGjGzZLPho5KpSOM5.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kallan D'Souza
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795759.mp4&play_token=YVqT2UQeSz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795759.mp4&play_token=xZvNTl45rX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kallamellam un mediyil
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795758.mp4&play_token=guTyQ41Cri&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795758.mp4&play_token=VaCX54XlT9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kalkandu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795757.mp4&play_token=es4lamDwXF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795757.mp4&play_token=pEuC3Wm4Hl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaliyugam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795756.mp4&play_token=CMz1r2cK2j&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795756.mp4&play_token=2oB6c2RinK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1lfcLMJ8Wd4YIwKjbtLUaY44kz.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃Kaliyuga Kannan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795755.mp4&play_token=PnMdS2Nl2Y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795755.mp4&play_token=nLIEMqYK35&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kalikaalam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795754.mp4&play_token=oyZSAZXbnK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795754.mp4&play_token=HUNQGGxz0F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEJlE0RpaCuToHbmGt6wQzmV5jJ.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kalavaadiya Pozhuthugal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795753.mp4&play_token=8YxQCKCKsd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795753.mp4&play_token=MKqy0QMZOQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmuA7oLjLsS5aVRO9fmEw2OUG5S.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kalathil Santhippom
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795752.mp4&play_token=wcA55wWrT1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795752.mp4&play_token=3E0IHqyRZx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kalankari vilakkam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795751.mp4&play_token=MT8rPJObCD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795751.mp4&play_token=1mmE56RNYY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kalam mari pochu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795750.mp4&play_token=IaMIWINPj2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795750.mp4&play_token=4FE7xrLdL5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kalakalappu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795749.mp4&play_token=xx9tKS9ndY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795749.mp4&play_token=A0YBTevJNr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kalaiyum neeya malaiyum neeye
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795748.mp4&play_token=NH63XZPzkU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795748.mp4&play_token=qu3WmruhmE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kakkum kamatchi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795747.mp4&play_token=Pafom7d1rU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795747.mp4&play_token=BZgzdwbLpi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaiyodu kai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795746.mp4&play_token=tfy89DB5h1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795746.mp4&play_token=8gJUZiXAbu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaithi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795745.mp4&play_token=fsEPuaTP4Z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795745.mp4&play_token=0fRjVdmoUo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kairasi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795744.mp4&play_token=tEmneWqgVz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795744.mp4&play_token=HYf0H5XkQw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kai varisai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795743.mp4&play_token=ZZ84dyB2cW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795743.mp4&play_token=qir7CyYYvJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLvPT2TTpHcliyqsqcg9URxHhOD.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kai Kodutha Deivam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795742.mp4&play_token=zVV90k3Lex&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795742.mp4&play_token=ElsBl5Cun3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kai kodukkam kai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795741.mp4&play_token=tUNWREFQEn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795741.mp4&play_token=a9ZgSpUd1w&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadugu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795740.mp4&play_token=LjdNSoV1PH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795740.mp4&play_token=mNWK4tBe5d&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dZgmGSJF1eGWec8xRHH9YrpArF.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadhalna Summa Illai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795739.mp4&play_token=BgyqVq4Lfj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795739.mp4&play_token=gc93Y6WalD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIuEtDFiXVeFTZw4ezrdNhOK9T3.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Sollividava
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795738.mp4&play_token=ZZ8YXMPQz9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795738.mp4&play_token=XJ9sZfe0Gb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awPnswextuyFTU37kOyj0m63o4S.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadhalan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795737.mp4&play_token=fFVW2fvxe2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795737.mp4&play_token=FGzlLvTWao&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6S8u7UeMSPVtaxjBy1JBhGhp2e.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃Kadhal Vaaganam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795736.mp4&play_token=GJCWQU8d7k&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadhal solla sasai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795735.mp4&play_token=kkCncORLCB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadhal kisu kisu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795734.mp4&play_token=LC5cBiPIMl&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadhal kiligal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795733.mp4&play_token=WxRcSF4NYr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃  Kadhal kiligal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795732.mp4&play_token=1pCKPdpHXs&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadhal Dot Com
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795731.mp4&play_token=kUaXpuMzfK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadavul amaitha medai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795730.mp4&play_token=iZXXG8MD21&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2PRmI0OikPyWT75rDBmXk1Sj3Y.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadaseela Biriyani
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795729.mp4&play_token=KdYFwXflaO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6HGrhMvhq6tYJV4nb2ktNZWXCn.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadaram Kondan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795728.mp4&play_token=H2LEpdAisy&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadan Vaangi Kalyanam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795727.mp4&play_token=UaSu9Sof4G&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpI5T7Eiq4s5sWHnyQeGZXL0JH8.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadamaiyai Sei
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795726.mp4&play_token=mBqegJOBCJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRyJqZ3X1MUsEbivc0X4NFaAnAA.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadaisi Vivasayi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795725.mp4&play_token=r5EFxU4YXi&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNeOevqxOrqwWJUJS2EIuufVf0B.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadaikutty Singam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795724.mp4&play_token=Ep3yWqin5h&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadaikan parvai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795723.mp4&play_token=oFeJa0xyU4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXfueox9ZSF6YS01ggOHBHQJcPu.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kacheri Arambam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795722.mp4&play_token=BOvy7wabkG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795736.mp4&play_token=9eMK9yeKRM&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadhal solla sasai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795735.mp4&play_token=1cRnpCX8VO&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadhal kisu kisu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795734.mp4&play_token=RTR4aAeYAs&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadhal kiligal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795733.mp4&play_token=afUwhEwXht&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Kadhal kiligal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795732.mp4&play_token=8pKP4NQuhD&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadhal Dot Com
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795731.mp4&play_token=4WP9pNgNDR&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadavul amaitha medai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795730.mp4&play_token=tsBDIVIJYC&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadaseela Biriyani
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795729.mp4&play_token=qIiWMHgW8K&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadaram Kondan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795728.mp4&play_token=hyADhooAkh&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadan Vaangi Kalyanam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795727.mp4&play_token=QULglHMGbo&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadamaiyai Sei
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795726.mp4&play_token=MQAwMjanSr&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadaisi Vivasayi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795725.mp4&play_token=jb0X7wATjK&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadaikutty Singam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795724.mp4&play_token=LYNGyTuhqA&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kadaikan parvai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795723.mp4&play_token=wyudNrgSHV&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Kacheri Arambam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795722.mp4&play_token=OQV5COOv1S&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgIFKJN7EXE094ZDfXaYvXNkyPe.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kabadadaari
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795721.mp4&play_token=yFbuCZ8Oqn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795721.mp4&play_token=LqGmiADib2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaayam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795720.mp4&play_token=N70S0Tpxgf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795720.mp4&play_token=0EuTKDerph&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaaval Geetham
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795719.mp4&play_token=nqpVKU9Nve&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795719.mp4&play_token=ThISSCEqYs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaaval
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795718.mp4&play_token=hm9tL87EqI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795718.mp4&play_token=VDkmgnoIul&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaatrulla varai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795717.mp4&play_token=gALE1hNEpb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795717.mp4&play_token=XTZO5NDt8Z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAhi75mHLylj5J0ZsjhaVTtHhQD.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaatru Veliyidai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795716.mp4&play_token=Xq05cHJrYQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795716.mp4&play_token=tsZCDHbXpY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbchNilJzUp4bzxDOY6EnlaTxo2.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃   Kaathuvaakula Rendu Kaadhal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795715.mp4&play_token=iIzokHReVv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795715.mp4&play_token=CcsKpobPqS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaathiruntha Kangal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795714.mp4&play_token=2ms35APa35&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795714.mp4&play_token=oNQCtuc1Qo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhWdd4obIA9ASc7xYfo38JyLqpQ.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaashmora
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795713.mp4&play_token=EgtS94vFoU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795713.mp4&play_token=LUtd9UBWwL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4Yz12Bv7wZbTySJmlpYzSuLbQj.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaari
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795712.mp4&play_token=ck11TzeaOl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795712.mp4&play_token=ONqT3fDM9n&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hllm5duftEJDHQAPjK94DHisaE.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃   Kaapa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795711.mkv&play_token=Ejb98L6UNY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795711.mkv&play_token=QYP9dDxVXY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃     Kaali
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795710.mp4&play_token=FuuR2CUgwW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795710.mp4&play_token=I4aL96vmqw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃  Kaalamellam Kadhal Vaazhga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795709.mp4&play_token=ymzB2eFqsh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795709.mp4&play_token=K7ROv5ZuZS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃  Kaala kattam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795708.mp4&play_token=S0Gl2X3e7z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795708.mp4&play_token=P1kVZgOlU3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃  Kaala
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795707.mp4&play_token=O4xtp9Ht3J&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795707.mp4&play_token=MEwr1L3Wko&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaadhal solla vanthaen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795706.mp4&play_token=459dX7K9kH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795706.mp4&play_token=3eF7AmKkNU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaadhal mannan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795705.mp4&play_token=7YljOXLZRQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795705.mp4&play_token=TtpyWQarYh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Kaadhal kilukiluppu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795704.mp4&play_token=fUcw9eIZbL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795704.mp4&play_token=rg87JechfU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrzAsQBI4MoOjsEo8M7hZynfQI1.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Ka/Pae. Ranasingam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795703.mp4&play_token=b2oHvjYqRp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795703.mp4&play_token=P8MT7gL68l&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8St0xtX8nc2EnIHhXIwRX45K5e.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Junga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795702.mp4&play_token=m1v0CgAjYw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795702.mp4&play_token=eYEvvwIJvG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ June r suriya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795701.mp4&play_token=Y8vVskOl4h&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795701.mp4&play_token=bIu3J4HdP5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gChw8ncSoUmUkbvNAyMlxPsMam7.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Julie Ganapathi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795700.mp4&play_token=uXRXRKaXL9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795700.mp4&play_token=PgwUtSjTmI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Jughein and anukrishnan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795699.mp4&play_token=P3aOEuiJMC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795699.mp4&play_token=jLzj9XPZGV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Jothi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795698.mp4&play_token=JxxF2fXxAh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795698.mp4&play_token=62lNai5ZiU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Johnny
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795697.mp4&play_token=YuRmNWImAu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795697.mp4&play_token=K9EdSNr8fg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ John ahiya naan 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795696.mp4&play_token=JF9Y9l3ve4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795696.mp4&play_token=eQqFnyLY0u&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Jippa jimikki
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795695.mp4&play_token=17taGXwo40&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795695.mp4&play_token=xuCuncL1Ef&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6fAIyYBA0gUluwg8whx7DJfFIQ.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Jiivi 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795694.mp4&play_token=YfkhwXTQyR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795694.mp4&play_token=XkK36MI0X1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjqzne0lJCAulScQf0v2Gkk0KId.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Ji
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795693.mp4&play_token=RuUlGnNYDT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795693.mp4&play_token=yUwfC3JqCY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃    Jeeva
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795692.mp4&play_token=JuCCj1waas&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795692.mp4&play_token=9ASC0bACB1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃   Jeeva
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795691.mp4&play_token=7h8HFvqoHq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795691.mp4&play_token=XH8BOHX3zd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃  Jeans
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795690.mp4&play_token=ClspGBaQD9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795690.mp4&play_token=aCDoOe13l1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjuvqT872bmohQE4aGh816QWg2f.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Jayam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795689.mp4&play_token=NDX1jbRGnc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795689.mp4&play_token=d2ZSBZYeyn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃  Japan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795688.mkv&play_token=ZVAKzAjhc4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795688.mkv&play_token=DIdS5W7DSM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ January 1st
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795687.mp4&play_token=bLPNKEYCx6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795687.mp4&play_token=N0yXFXjfjp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Jana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795686.mp4&play_token=DTFKByCKHS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795686.mp4&play_token=BeKeBkifDg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVNt8mjNK18Q07hEmKFxEykwCTc.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Jameen Kottai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795685.mp4&play_token=LPtozTkJ30&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795685.mp4&play_token=mE5HUYlQPS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRvvwNNZlxWBglrUu2NA2o4Mgqi.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃  Jambhavan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795684.mp4&play_token=AlTlVKs46g&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795684.mp4&play_token=HB9uMGnSzk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRQRdNMYzO2LPTfHGprIytlL7br.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Jai Simha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795683.mp4&play_token=gdrOewI6Uj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795683.mp4&play_token=OxXifvXebk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehybiOtBUtrMkmtB39zQEtq1Jie.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Jai Bhim
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795682.mp4&play_token=c67z2pOoqv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795682.mp4&play_token=L29roHgvta&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Jai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795681.mp4&play_token=4kslibSAPV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795681.mp4&play_token=VIOpHlMme9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃  Jada
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795680.mp4&play_token=CfcUZ8XHTF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795680.mp4&play_token=Q8SYDgnkDN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2O6n1tHgDjYRBDKSeo1nUj2Tib.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Jackson Durai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795679.mp4&play_token=l4Piymlquf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795679.mp4&play_token=5pqCKaSIXF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃   Jackpot
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795678.mp4&play_token=79xgdR7Vxz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795678.mp4&play_token=8h9TS3ExU0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Jaathi pookkal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795677.mp4&play_token=G89yr0S7G0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795677.mp4&play_token=mIDFayJCMu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYSPzKWxin646wVGznZgaYqto6K.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Iyer IPS
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795676.mp4&play_token=LKKE8AAxw3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795676.mp4&play_token=UfZCrztTXq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IhWzaIOowmXattw8Xozwr9rJ76.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Sarileru Neekevvaru
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795675.mp4&play_token=3UhB7Rljq2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795675.mp4&play_token=MUs3RFigp1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Ithu eppadi irukku
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795674.mp4&play_token=AT1ZnXWcMs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795674.mp4&play_token=J18FRv5JZi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsiChegfsDU0nfrF8vl5LfiVpw0.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Ispade Rajavum Idhaya Raniyum
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795673.mp4&play_token=518svJzD64&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795673.mp4&play_token=Vuwteeup5H&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyg4Fi9d6SzsemN8uhTuznKZUmD.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃   Iruvar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795672.mp4&play_token=bC1zabmmOe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795672.mp4&play_token=hvX3FqOpRW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Iruttu araiyil murattu kuththu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795671.mp4&play_token=kPPw2wVQp5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795671.mp4&play_token=89tUkyGdSf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃  Iruttu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795670.mp4&play_token=7JGETxxAgv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795670.mp4&play_token=HYBbdkJNWN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3HsNJppxdYSkMj6F52hoDT0ty3.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Iru Mugan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795669.mp4&play_token=prnwaVjuyg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795669.mp4&play_token=dQD2bIuIAd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Irumbukkottai murattu singam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795668.mp4&play_token=jqrqLFSmML&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795668.mp4&play_token=JDeu9vBvnc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28AzafDajgmd53F2DgMAK2ncu3K.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Irugapatru
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795667.mp4&play_token=8HEnHQIDdw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795667.mp4&play_token=Rb2zB8vOwo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRZfW50FvjPpA72V0EJxyC0TRNf.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Irudhi Pakkam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795666.mp4&play_token=ltbqBUPzpf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795666.mp4&play_token=L4vBiVMkwu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Iru Medhaigal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795665.mp4&play_token=iAcHN7UUya&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795665.mp4&play_token=14bYCria2z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyvL2tKKsIPZTcJE34GQxUKcP6b.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Iru Kodugal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795664.mp4&play_token=M6p4bg1qV9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795664.mp4&play_token=kuXDMBbWH2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Iridiyam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795663.mp4&play_token=lZU11scd1w&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795663.mp4&play_token=q9aw2koLVs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gtw3n7dCYvwga4Kid3a7UJLkp7.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Iravukku Aayiram Kangal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795662.mp4&play_token=EJsj5TNshn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795662.mp4&play_token=qH5VfIB8CR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/516hZIuxhb0jRxlu7iTrMjixOHx.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Iravin Nizhal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795661.mp4&play_token=p3yYDWOOFU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795661.mp4&play_token=rDdpNfnE09&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Iraniyan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795660.mp4&play_token=RzzZEpSx4W&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795660.mp4&play_token=nCKVsQ1Lfu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63Z2ag053jXXtVIcNx495OtOmPH.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Irandam Ulagaporin Kadaisi Gundu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795659.mp4&play_token=E7fXiRnwZb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795659.mp4&play_token=qfBUDi4vsT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iIZotqK2zkbWUADRGkDItwnxiA.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Irandam Ulagam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795658.mp4&play_token=79VeGuwGHT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795658.mp4&play_token=isz2WyXyMH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRusAvFszxi96hzBfAQWezqnUQl.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Iraivan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795657.mp4&play_token=Um7h90TICq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795657.mp4&play_token=tPxDzTI4Rd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Ippadikku kadhaludan seenu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795656.mp4&play_token=EXoJK06SKY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795656.mp4&play_token=x0biY8no3t&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Innuma nammala namburanga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795655.mp4&play_token=sxWZJfghnp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795655.mp4&play_token=Y2f5hhjCpW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Innisai Mazhai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795654.mp4&play_token=8UZ2WfIGm6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795654.mp4&play_token=P4yDTJAh8V&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Iniyavale vaa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795653.mp4&play_token=E6jEJtZrtD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795653.mp4&play_token=08N0ko3s6S&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃Inidhu inidhu kadhal inidhu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795652.mp4&play_token=MEu89ZoLdI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795652.mp4&play_token=JMuMDiibUb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9ybpjJKXb340ZB0ztJSRlymPTz.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Inidhu Inidhu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795651.mp4&play_token=UnsL8tUlPm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Ini Oru Sudhanthiram
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795650.mp4&play_token=UAzgETudxg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22Tbh2o83U5mTUloahUVSIe8fap.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Indiralohathil Na Azhagappan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795649.mp4&play_token=p0wsnL6uTq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Indira
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795648.mp4&play_token=orVvLbV4iV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqLODRtuvqm9jIGAeH4a37OdBwn.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ India Pakistan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795647.mp4&play_token=ORvqFzGcDB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Indhu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795646.mp4&play_token=9KU6jMNgkz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Imsai arasi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795645.mp4&play_token=3P4BIMOI3Q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Imayam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795644.mp4&play_token=rzzN8Svcp0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHkeMrAqW4TnRkeI1Xl8qwuGyPg.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Imaikkaa Nodigal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795643.mp4&play_token=6SrlZqpRJn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Imaigal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795642.mp4&play_token=lLXYj2o6UI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Illara jyothi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795641.mp4&play_token=nlj3PWTSxW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ TAMIL",┃IN┃ Ilasu pudhusu ravusu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795640.mp4&play_token=dZFUWQTQMa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbW0RzY2dOoVVwj94NAkwaxc2p0.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Ilamai Oonjal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795639.mp4&play_token=lTAAEXhoKe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BDExKEnZ6K3kPKukhmsqm7eqkt.jpg" group-title="┃ASIA┃ TAMIL",┃IN┃ Ilamai Kaalangal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795638.mp4&play_token=G7fWOibd1V&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Ilam pookal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795637.mp4&play_token=blFKCSX05h&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Ilaignar ani
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795636.mp4&play_token=tncxMhOgDd&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   IIT Krishnamurthy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795635.mp4&play_token=55PJp12wDq&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Idiot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795634.mp4&play_token=Z1AUHh7yw4&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Idhu Oru Thodarkathai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795633.mp4&play_token=8mTxrERIMU&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Idhu konjam pudhusu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795632.mp4&play_token=kHqvk9DPFF&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Idhu Kathirvelan Kadhal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795631.mp4&play_token=wsjZr94jEJ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Idhu kadhal varum paruvam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795630.mp4&play_token=5BSWfJvyhG&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Idhu ennoda jilla
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795629.mp4&play_token=lEwaR5d44A&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Idhaya vaasal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795628.mp4&play_token=s7EnUpoUrg&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Idhaya Thamarai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795627.mp4&play_token=OBjxqIuajy&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Idharkuthane Aasaipattai Balakumara
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795626.mp4&play_token=oVeCGNHY0i&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Idhaya Kovil
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795625.mp4&play_token=Zc3gzT7Dc2&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  I
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795624.mp4&play_token=65uVrixBAJ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Hunt
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795623.mp4&play_token=FXPZs9HsZy&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Hitler Umanath
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795622.mp4&play_token=bUAPmFkcX8&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  HIT: The 2nd Case
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795621.mp4&play_token=UfS8sEYEpo&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Hello sundari
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795620.mp4&play_token=KHaBATHusg&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Hello Naan Pei Pesuren
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795619.mp4&play_token=MVb9pGlivf&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Hello
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795618.mp4&play_token=9vcL4Wmyl5&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Harichandra
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795617.mp4&play_token=uPFMEgFsSy&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Haami 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795616.mkv&play_token=BQc4mqucgk&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Haami
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795615.mkv&play_token=WpuwXFEjuy&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Gypsy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795614.mp4&play_token=5oPqoLScms&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Guru sukran
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795613.mp4&play_token=zCAD29l7gG&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃    Guru
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795612.mp4&play_token=8jgs001YhM&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Gurkha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795611.mp4&play_token=1wZl51Svrw&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Gunaa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795610.mp4&play_token=GfYEe2QpWp&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Gulu Gulu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795609.mp4&play_token=56KkLBpXCT&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Gulebakavali
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795608.mp4&play_token=W9HDqao7AM&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Grihapravesham
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795607.mp4&play_token=30jqlZhgfi&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Grandma
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795606.mp4&play_token=7F9fFg3Bhx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Gouravam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795605.mp4&play_token=ngVwI6UpxE&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Goundamani
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795604.mp4&play_token=nOmcUCycj8&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Goripalayam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795603.mp4&play_token=j7GpHHVplA&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Gopurangal saayvathillai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795602.mp4&play_token=d3Uq2p5jh8&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Gopura Vasalile
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795601.mp4&play_token=5JINF0009T&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Good luck
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795600.mp4&play_token=JhTtn9FsGD&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Gomathi nayagam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795599.mp4&play_token=8LikywNdJo&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Goli Soda 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795598.mp4&play_token=a8qHbu0EGu&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Goli Soda
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795597.mp4&play_token=lEWTpObBZp&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Gokulathil Seethai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795596.mp4&play_token=QxhphVZnAB&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Gnana Paravai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795595.mp4&play_token=tP5i6xWd0x&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Gnana Oli
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795594.mp4&play_token=Pyl6hDXME9&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Gnana Kuzhandhai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795593.mp4&play_token=PV8KZfO7d2&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Gilli bambaram goli
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795592.mp4&play_token=lUJLwaBjei&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Ghilli
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795590.mp4&play_token=KkZwDW2tZS&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Ghajini
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795589.mp4&play_token=7VbhnRKLpL&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃     Gentleman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795588.mp4&play_token=MQnxbG4hfw&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Genius
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795587.mp4&play_token=Q7BE6W1Ct5&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃     Geethanjali
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795586.mp4&play_token=KHQRRawd1j&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Geetha oru shenbagappoo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795585.mp4&play_token=ZtzUr8dNt6&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Geetha Govindam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795584.mp4&play_token=iQJaDqtYmz&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Gautamiputra Satakarni
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795583.mp4&play_token=UgysSQjIpP&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Gauravam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795582.mp4&play_token=vcvPMvvE4a&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Gatham
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795581.mp4&play_token=GVIBLT6vrC&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Garuda sowkiyama
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795580.mp4&play_token=sCXfedBjSn&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃     Gargi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795579.mkv&play_token=yStaEMqc9B&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Gangothri
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795578.mp4&play_token=1Jb93mHJu2&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Gangai Karai Paattu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795577.mp4&play_token=VUKuWoCp1u&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Ganga gowri
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795576.mp4&play_token=5H6sCCRNcC&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Gandhi pirantha mann
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795575.mp4&play_token=PtTghgmujc&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Ganam courtar avargalae
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795574.mp4&play_token=lesfNSaSOD&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Game over
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795573.mp4&play_token=mBPlMlPvly&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃   Game
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795572.mp4&play_token=IY4nC8mZrH&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Galtha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795571.mp4&play_token=MoS6M1H972&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Gajendra
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795570.mp4&play_token=mwxqNLnals&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ Ft viswanath divya
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795569.mp4&play_token=ihodV7Reum&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃  Ft jayaram bhavana
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795568.mp4&play_token=c8Lz1VMqe5&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃ASIA┃ TAMIL",┃IN┃ The Colors of Fire
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795567.mp4&play_token=NOrXgQUenO&type=movie

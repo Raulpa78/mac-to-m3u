@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/int5eEKNc8g0V5i3XYaPeaC6paD.jpg" group-title="┃PL┃ DISNEY+",┃PL┃ Rye Lane
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813874.mkv&play_token=vK28ZLMsWO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u056hk3at4ukf9DWASVjogXyZfn.jpg" group-title="┃PL┃ DISNEY+",┃PL┃ Old Dogs
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813862.mp4&play_token=U18kpzgb5M&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cve12HkI9psBUfmkx7FeBciaQN7.jpg" group-title="┃PL┃ DISNEY+",┃PL┃ The Greatest Hits
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=794129.mkv&play_token=Pvo8P7Nelp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf3YO8hOqGHCupsREf5qymYq1n.jpg" group-title="┃PL┃ DISNEY+",┃PL┃ TAYLOR SWIFT | THE ERAS TOUR
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=794127.mkv&play_token=NF9nWcMtV2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLYAq5d6pk8mXKzigfwcBn543lf.jpg" group-title="┃PL┃ DISNEY+",┃PL┃ Carrot Cake Murder: A Hannah Swensen Mystery
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=794110.mkv&play_token=ctAkB5zAXe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aZbOI0EbIloc4Huuf5JdPbFrUD.jpg" group-title="┃PL┃ DISNEY+",┃PL┃ Freaknik: The Wildest Party Never Told
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=794108.mkv&play_token=niRpk3CHJY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ql1OIPj2FgxO6FlRMhGfWlzA83N.jpg" group-title="┃PL┃ DISNEY+",┃PL┃ Zapped
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793265.mkv&play_token=Jl0tvmI63u&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t37Xa74GFO1R3kebocqSV4hFrPO.jpg" group-title="┃PL┃ DISNEY+",┃PL┃ Kim Possible
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793264.mkv&play_token=3ZzHxpr1PP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xweQBQSYQyHKiUxN1nCDQbLvJE0.jpg" group-title="┃PL┃ DISNEY+",┃PL┃ Geek Charming
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793263.mkv&play_token=CfGM87cr78&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfEUQG5Jv5SHVgq6pPfybS57ORO.jpg" group-title="┃PL┃ DISNEY+",┃PL┃ Frenemies
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793262.mkv&play_token=HA7fwvF0S1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gsWYYYOCVWFy2JyMD7HRg6KfyC.jpg" group-title="┃PL┃ DISNEY+",┃PL┃ Bad Hair Day
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793260.mkv&play_token=QgIha9szKx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃PL┃ DISNEY+",┃PL┃ Rye Lane
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813874.mkv&play_token=VwrqAFJZJQ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃PL┃ DISNEY+",┃PL┃ Old Dogs
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813862.mp4&play_token=7xqBAQbWb1&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃PL┃ DISNEY+",┃PL┃ The Greatest Hits
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=794129.mkv&play_token=BdRX22KxL1&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃PL┃ DISNEY+",┃PL┃ TAYLOR SWIFT | THE ERAS TOUR
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=794127.mkv&play_token=N9wcLznM17&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃PL┃ DISNEY+",┃PL┃ Carrot Cake Murder: A Hannah Swensen Mystery
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=794110.mkv&play_token=E8MTKBojRD&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃PL┃ DISNEY+",┃PL┃ Freaknik: The Wildest Party Never Told
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=794108.mkv&play_token=o5eHgmvvnw&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃PL┃ DISNEY+",┃PL┃ Zapped
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793265.mkv&play_token=zgUhpkoxfA&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃PL┃ DISNEY+",┃PL┃ Kim Possible
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793264.mkv&play_token=1zgLwXMlsm&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃PL┃ DISNEY+",┃PL┃ Geek Charming
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793263.mkv&play_token=FjTE5ZyxRP&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃PL┃ DISNEY+",┃PL┃ Frenemies
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793262.mkv&play_token=R1Xd3Uu3eE&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃PL┃ DISNEY+",┃PL┃ Bad Hair Day
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793260.mkv&play_token=ZrFC1nWGc3&type=movie

@@ -1,227 +1,245 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RcBuU8cdxFxCJibbiYCGNLApfz.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Star Wars  épisode III - La Revanche des Sith (2005)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2358525.mkv&play_token=1qwrvBTkoc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjXKy5b2M3fDelAQItIswcDNvwm.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Il était une fois dans l'Ouest (1968)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2358524.mkv&play_token=V7qILzIZo7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMnfize1bUFzHUwSoayGJmvrzYZ.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Stalker (1979)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2357504.mkv&play_token=XmK49T76s8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzF8b44dAvXFagQnB1UZa2AF87q.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Psychose (1960)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2357503.mkv&play_token=UJ6AnxpwQH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t30GjttOdb5At1sYy8b3TOwFgWV.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Les Évadés (1994)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2357502.mkv&play_token=OtPRarMuWZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVHBqQYLDRs7ESjP9q6o9iPHLWj.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Seigneur des anneaux : Les Deux Tours (2002)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2357501.mkv&play_token=mqmp9ytmN1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2E2dKGPTWoyiaSzgNaer9zpP49n.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Jurassic Park (1993)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2357500.mkv&play_token=wZQ3ouo4W8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPKwFzX4TiWLA4Mo5Bnf8aIIrJm.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Inglourious Basterds (2009)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2357499.mkv&play_token=azSJj5mHPC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57sqCOLupae705vfs98YeSfKpqA.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Harakiri (1919)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2357498.mkv&play_token=igoGT1iZom&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg" group-title="┃FR┃ TOP 100",┃FR┃ The Grand Budapest Hotel - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300014.mkv&play_token=PdGnJ3DBG4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300014.mkv&play_token=iuUNddyJWm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMbxRIUEDtiI2HDmD76zE2lTuQp.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Shocking Dark - Spectres à Venise - 1989
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300013.mkv&play_token=fCvXvwdWHq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300013.mkv&play_token=Lu38yW440N&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg" group-title="┃FR┃ TOP 100",┃FR┃ L'Empire contre-attaque - 1980
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300012.mkv&play_token=pUuwuXlVzc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300012.mkv&play_token=q0FILuMxZd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fai0rspsNeJCS69wHNjOdWxcI7P.jpg" group-title="┃FR┃ TOP 100",┃FR┃ La Guerre des étoiles - 1977
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300011.mkv&play_token=jafNjBaHyV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300011.mkv&play_token=Wt1Cn6urWw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fATmEcLwO3tTiisa8gYxhV3x4sS.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Parrain  2e partie - 1974
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300010.mkv&play_token=pth9E7oYrW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300010.mkv&play_token=yd046EAt7N&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGSOgu01djJmKGAiWgeqIfpYvs4.jpg" group-title="┃FR┃ TOP 100",┃FR┃ The Dark Knight : Le Chevalier noir - 2008
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300009.mkv&play_token=A2hUtCmI8Q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300009.mkv&play_token=X37ASVGufa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0byHUHMwZ7dtBQtfZ44QIgDbjo.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Barry Lyndon - 1975
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300008.avi&play_token=h71cKdbAg8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300008.avi&play_token=1U6jRkLhz5&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcyM2U4MWEtM2NjMS00MTMzLTk2MGYtMDZlMWYwNmNkYTY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="┃FR┃ TOP 100",┃FR┃ QC Mommy (2014) (VFQ)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300015.mkv&play_token=Hdg582QOER&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2300015.mkv&play_token=ffsrM3Cr2w&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdnHKtpkB2csewlk6QWBKF85i1D.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Vol au-dessus d'un nid de coucou
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332408.mkv&play_token=JWceVi2w3w&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332408.mkv&play_token=j7oFpTkNiK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HFt1jyjZD3MssiyNPJLToqGd1v.jpg" group-title="┃FR┃ TOP 100",┃FR┃ V pour Vendetta
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332407.mkv&play_token=Z5LipXHhoV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332407.mkv&play_token=rTXDPMF6rZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h06jDZB4Y9YQJiSGTcUwbhuiUrB.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Usual Suspects
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332406.mkv&play_token=TTfxFTTkQv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332406.mkv&play_token=kpiaz7lg0W&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSjSdfnVjD6r8Fnn0K8FXz3JciM.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Trainspotting
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332405.mkv&play_token=CEttHKhPNQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332405.mkv&play_token=WoxnEeW4H7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CntjBo7aRRnoi4ZwDDTQ0UD54s.jpg" group-title="┃FR┃ TOP 100",┃FR┃ The Thing
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332403.mkv&play_token=fmuXoMbKf5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332403.mkv&play_token=dRS87rxGKW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oK83kjwZw3KwPBlJiGaAmlZbJ9L.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Shining
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332402.mkv&play_token=L8CXFZ6cLT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332402.mkv&play_token=mwiROtMy3y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fdLDGSggKaTkwWWaiX11I4Aoss.jpg" group-title="┃FR┃ TOP 100",┃FR┃ The Big Lebowski
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332400.mkv&play_token=Mn5BFKDJps&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332400.mkv&play_token=vZuOi2eZJ9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnvUndOuRmnMwTghMLhwsTMY4mf.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Terminator 3 : Le Soulèvement des machines
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332399.mkv&play_token=sjmptwTtXP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332399.mkv&play_token=CGRJbsiQDS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRtFOHF93zW4kTp4JOYrH71vxBh.jpg" group-title="┃FR┃ TOP 100",┃FR┃  Terminator 2 : Le Jugement dernier
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332398.mkv&play_token=cuc9H8tfyq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332398.mkv&play_token=hswJxnpM2g&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oShNrYScpLBi4pyOjytPy9BerRr.jpg" group-title="┃FR┃ TOP 100",┃FR┃  Terminator
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332397.mkv&play_token=I6DHrskwNF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332397.mkv&play_token=T5JuFaGfH6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0qDNLurxpbxkNPMOYn3ZvWFsv0.jpg" group-title="┃FR┃ TOP 100",┃FR┃  Taxi Driver
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332396.mkv&play_token=9lFUF5GfIm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332396.mkv&play_token=LuPz3A5ftJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkhbbSQdsV3U0HtuPugHfx2wOi9.jpg" group-title="┃FR┃ TOP 100",┃FR┃  Sueurs froides
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332395.mkv&play_token=tc1bchgITk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332395.mkv&play_token=6oBhhioPsu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLi9cokiFU20mLUPvQ0IRok3ELY.jpg" group-title="┃FR┃ TOP 100",┃FR┃ La Guerre des étoiles
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332394.mkv&play_token=CX1bGUPL25&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332394.mkv&play_token=gZQQygoRCa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkK2EHhhij0L5ePWLQORBrzO4IN.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Star Trek  le film
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332393.mkv&play_token=UK6DoaReRb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332393.mkv&play_token=g4kVZnf4Eq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA1lEjn8kGIrYKiw29sZE3qB7HT.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Star Trek VI : Terre inconnue
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332392.mkv&play_token=Lfv1MYR6Kc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332392.mkv&play_token=kyC9mL2DzQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwBoOjAEWSAXtib2Y6Jw96H6DNg.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Star Trek V : L'ultime frontière
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332391.mkv&play_token=igkdsgiOgU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332391.mkv&play_token=QmtsgkdIRE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9XEl6WP5IFixRhpQBezZ6TDbk4.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Star Trek Into Darkness
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332390.mkv&play_token=YlzqYMdLhW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332390.mkv&play_token=OX69PwmXf6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1feYVjxUb8QGdVxsmt7Q2FIzc.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Star Trek IV : Retour sur Terre
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332389.mkv&play_token=q9tN8mm8vG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332389.mkv&play_token=Jhn06osw8N&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4U4it6vaTSqUDaQMXzujTIvu01.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Star Trek III : À la recherche de Spock
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332388.mkv&play_token=iUoNC0IVIC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332388.mkv&play_token=h9JKFK9Njf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avb0wORx5CzhSfs0ZnKh1UeBsya.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Star Trek II : La colère de Khan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332387.mkv&play_token=KbpfYNHrXN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332387.mkv&play_token=wvzpvD8n8i&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uS0YI879KkgUCk5tvbqDZXLb8mU.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Star Trek
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332386.mkv&play_token=lE5f0pwZwJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332386.mkv&play_token=cBMopC1ill&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iBOsMZ61fGsaOu6arem8EnOD4B.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Star Trek : Premier contact
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332385.mkv&play_token=0hBY2DF40D&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332385.mkv&play_token=BCqeCcbKHW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adjTXEaAQmu8WX2UEnjFc1jSs8C.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Star Trek : Nemesis
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332384.mkv&play_token=iBWgXJhA8D&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332384.mkv&play_token=Lu1Dj2sK1X&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opQjWTGt7jIAt9g647iaX4cc63e.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Star Trek : Insurrection
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332383.mkv&play_token=bwXcqMb1R7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332383.mkv&play_token=xR7EsXsd5z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YlXnG9DwBarTdeGc8yoq8c6dFi.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Star Trek : Générations
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332382.mkv&play_token=32X9R6Tne0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332382.mkv&play_token=jjzrdPPHZB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCJSanfnNimhbrI6KMZqEXbE9IA.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Snatch  tu braques ou tu raques
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332381.mkv&play_token=DGcM9yYFzf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332381.mkv&play_token=oOVLSRsbLa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQ0vGVTtxjCdAJnxwPZ88O3Wzrh.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Shutter Island
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332380.mkv&play_token=V53bQVMlUG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332380.mkv&play_token=gSMrNc0wwa&type=movie
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Seven
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332379.mkv&play_token=fQDTHqVvYu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332379.mkv&play_token=i6bkHnsq15&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xormrixo6PYdjyh31JWT2LCBmjO.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Retour vers le futur III
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332378.mkv&play_token=Jb1bmYsBZt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332378.mkv&play_token=9gfoZ4OdA1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvSf95zo0GZNp83QCtmK1GFLHtT.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Retour vers le futur II
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332377.mkv&play_token=AwgL5TIatK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332377.mkv&play_token=MReVGWqRvy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCgFtDUZxN8iUzNBCisjUrBmg2q.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Retour vers le futur
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332376.mkv&play_token=7VxdrEVmkb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332376.mkv&play_token=u5PqW9Cf7v&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61wwD0jWfgbhg9Ja9uoDZdS8YE.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Reservoir Dogs
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332375.mkv&play_token=ria2g0K9Nz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332375.mkv&play_token=8VfbLuVw2f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRqCRaYXUnAtBBuU1J3DVA4yc5V.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Requiem for a Dream
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332374.mkv&play_token=V1j10evZy3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332374.mkv&play_token=86U73vBjHr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TBdF7nFw2aKNM0gPOlDNq3v3se.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Pulp Fiction
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332373.mkv&play_token=BvF3tryZ59&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332373.mkv&play_token=coIJi2XDHz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AfSDxBTYYtQRVY2V1ISgxXNPVx.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Princesse Mononoké
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332372.mkv&play_token=o5i9l9Y1s3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332372.mkv&play_token=qrVVzrqJ7Y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hLSzZX2jROmEXz2aEoh6JKUFy2.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Parasite
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332371.mkv&play_token=gMg2idjEkQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332371.mkv&play_token=p48o9hXqlP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2oKNiEq9DZljqs6xsxs8hnsW9p.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Orange mécanique
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332370.mkv&play_token=6pbRGESadI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332370.mkv&play_token=0eLGAKlMOB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEvRQX3X6xCaB45zPr6rIj4inou.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Mr. Nobody
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332369.mkv&play_token=yqHKtHolf2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332369.mkv&play_token=n4513T3lsa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbkEpzotHJfotpSUSYI36aPC1WN.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Memento
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332368.mkv&play_token=fgvoCqlu8L&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332368.mkv&play_token=MGP129s7nJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfFD10ZqEx2vkxM2yvRZkybsGB7.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Matrix
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332367.mkv&play_token=HNCFjZNTFx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332367.mkv&play_token=Eh1sQyZlv8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Mad Max : Fury Road
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332366.mkv&play_token=AWuhaRGetc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332366.mkv&play_token=2hNvgEEoEi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUDD5bfF5EHzBwPhL9iJeZuHjVE.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Lost in Translation
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332365.mkv&play_token=ojl9vshoJP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332365.mkv&play_token=He2JkxVRor&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvABa9EuAK9XeqBojYyb3Yaahcf.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Les Fils de l'homme
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332364.mkv&play_token=Gf1nrZRFj0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332364.mkv&play_token=0PgqTwBpwn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc55cCUCZKtAFpsCnZKM5uLBzwh.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Les Affranchis
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332363.mkv&play_token=48ZmEVMqaU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332363.mkv&play_token=DfJbB1BeXb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBhmd3261OkJ4Yg2FdSiD2wnyfe.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Léon
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332362.mkv&play_token=ZKUjkUCw6L&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332362.mkv&play_token=oNPFktKYEw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9a6jyW4CBsQ5QyF12eJC84YdAd.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Tombeau des lucioles
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332361.mkv&play_token=Ph4Jimw1Wk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332361.mkv&play_token=7H8RgTCmpI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37Fr7lY4QBHsuxlLJIfTNxW6nGW.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Prestige
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332360.mkv&play_token=WMEiPgUz3m&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332360.mkv&play_token=7hZCKd2mBt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12TAqK0AUgdcYE9ZYZ9r7ASbH5Q.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Voyage de Chihiro
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332359.mkv&play_token=NqDQOJ1A6s&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332359.mkv&play_token=J5XCqLySWt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSQDxwm4r28YpJSQVyVOtpYVs0E.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Silence des agneaux
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332358.mkv&play_token=M8liv7Xqdh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332358.mkv&play_token=yULEIHm3yP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH5at1RvvglQmnoBkytTTPZfw94.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Seigneur des anneaux
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332357.mkv&play_token=WF03WIInoL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332357.mkv&play_token=zUTPelL3By&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqiFUqswXVM58Tamux1ilnNvVRs.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Seigneur des anneaux : Le Retour du roi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332356.mkv&play_token=bLIcjQOcwT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332356.mkv&play_token=nQ9W7owIsA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OPg6M0yHr21Ovs1fni2H1xpKuF.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Seigneur des anneaux : La Communauté de l'anneau
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332355.mkv&play_token=FVPOv1PdMD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332355.mkv&play_token=VM0VTfXSZ5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6UChiAOSTHGih2FBactLjA4Cdt.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Roi lion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332354.mkv&play_token=uB65VkMyeY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332354.mkv&play_token=jENbRWVFup&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fATmEcLwO3tTiisa8gYxhV3x4sS.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Parrain  2e partie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332352.mkv&play_token=soF3SB7d0v&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332352.mkv&play_token=mwk8sJkyLD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3uIbYtiuK8pwbCcbma29nTqmgG.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Parrain
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332351.mkv&play_token=sbE6dixL5H&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332351.mkv&play_token=a6jivAXS1e&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdXtLG6L1QMwrv0MNdW6B9IwC8B.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Fabuleux Destin d'Amélie Poulain
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332350.mkv&play_token=lzuWiC1dna&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332350.mkv&play_token=mE4VKQfcQJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45PVXJUYfH6yIINcQKelQ0SJPvh.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Château ambulant
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332349.mkv&play_token=Hlfe3gYFwA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332349.mkv&play_token=ANTMngboYS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHBdsvdlPhzkJZOfax7Oy3X5mm7.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Cercle des poètes disparus
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332348.mkv&play_token=VuzAZA0tNe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332348.mkv&play_token=sCktLalQWR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEr65B4yGlsmLQjcM0xjSUMfZS2.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Le Bon  la Brute et le Truand
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332347.mkv&play_token=4zSE1xa9HR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332347.mkv&play_token=C0faU9EHf7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLRbv1fGQD0OCPWkFy7PI2sESLj.jpg" group-title="┃FR┃ TOP 100",┃FR┃ La Liste de Schindler
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332346.mkv&play_token=vKqJ6NJ5Sc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332346.mkv&play_token=j72HZ5h6y8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfdhSzPyAWtAizqs4ytc0MwOlQg.jpg" group-title="┃FR┃ TOP 100",┃FR┃ La Haine
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332345.mkv&play_token=5maw9so2VO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332345.mkv&play_token=whs1eMkkja&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZPvaW7ftDotiy9dP52lBC18mr8.jpg" group-title="┃FR┃ TOP 100",┃FR┃ La Ligne verte
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332343.mkv&play_token=QGm9bBQ29l&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332343.mkv&play_token=7VYGLs9cMb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KIj6aioW1UtUT1IV0qqW5iZbNH.jpg" group-title="┃FR┃ TOP 100",┃FR┃ La La Land
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332342.mkv&play_token=CdnxqSUuLM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332342.mkv&play_token=pHXqrkEPXt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaTVWUrPbGM4SgrLOaaWLeUEafI.jpg" group-title="┃FR┃ TOP 100",┃FR┃ La Cité de la peur
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332341.mkv&play_token=Rhn9n4VyMH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332341.mkv&play_token=23AvzVJjsl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rhgbRN1ecG7Y96yNrWA9D5Xu2v.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Into the Wild
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332339.mkv&play_token=FOJ6lsRVmO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332339.mkv&play_token=JNUo8WhHNL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pnigkWWy8W032o9TKDneBa3eVK.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Interstellar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332338.mkv&play_token=ad123yxWoA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332338.mkv&play_token=DeuBn9M5hR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Inception
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332336.mkv&play_token=vaSFDqDhvp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332336.mkv&play_token=FyKNCThQhz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfuO1yue5bQnocFiOUM07dwLdmo.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Il était une fois en Amérique
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332335.mkv&play_token=eJz27grx4e&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332335.mkv&play_token=LVriFcoNsB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkWXW5blXGmOEoDejRgy83sSb6T.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Her
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332334.mkv&play_token=6uKhyWAXhg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332334.mkv&play_token=2CUfZiq3Vp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0xv5Y7UVrhKEVy1g3URMLLVDYB.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Heat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332333.mkv&play_token=fZiwn2rYE9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332333.mkv&play_token=cDeAWjrpKo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zupc9rj5Qn6Ou6Q0mq9PNPM05OQ.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Harakiri
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332332.mkv&play_token=7wBWaSaDaC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332332.mkv&play_token=ByrLuIhY3q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVmDIIFPzbyEz87dZYpLfetn4Lm.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Gran Torino
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332331.mkv&play_token=jf4NTBP9RU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332331.mkv&play_token=ZjRm0Db4Sh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cShwwkz4gBBIRj8yFy8TP2tEWZ4.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Full Metal Jacket
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332330.mkv&play_token=rKY2u7mWqS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332330.mkv&play_token=NFtl0SBaPO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0Th0x8QIzP0njrFAJnYQ5ouIoB.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Forrest Gump
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332329.mkv&play_token=HWyTIXk1is&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332329.mkv&play_token=veEMnbLk00&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5FwaNDvTOHLjS2RK4WcVI7AwgK.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Fight Club
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332328.mkv&play_token=hzomk2FQri&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332328.mkv&play_token=TA6k36BNHh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMCj9KY70NasF2KsiXWpg0m7smK.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Edward aux mains d'argent
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332327.mkv&play_token=3aEtduq2gR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332327.mkv&play_token=3ZUraby3Bc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4J8X86u9wH5ywk9rCIIPlwgIrdG.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Driven
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332326.mkv&play_token=y7Ypon9eWO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332326.mkv&play_token=EkBXF2XDQn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7mnYxf51x4ya32WU5oyivqnEMf.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Douze hommes en colère
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332325.mkv&play_token=QdQe5PgNZv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332325.mkv&play_token=wXFhJ2Loc2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3gIuT4e4tjCKYEYJChcBI44U21.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Donnie Darko
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332324.mkv&play_token=T4flxbrULm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332324.mkv&play_token=Iaqx6rUKO4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRXUnWrXUgXRoX0BaEcuNMfyeQt.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Django Unchained
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332323.mkv&play_token=XSp5UvW7LH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332323.mkv&play_token=VU5ZYNjYSJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/745fbQQG6MEr9n3Fovj7clf6AT4.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Brazil
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332322.mkv&play_token=jhSSMaF3tO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332322.mkv&play_token=DCmtBlNWDp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHKWxyG4j404HVeSYHNH4niUpkW.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Blade Runner
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332321.mkv&play_token=dZGSWnXTLS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332321.mkv&play_token=PkMOvo9XQ7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SF6pWtcdu1GEQxzeeYBEP1yEcK.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Big Fish
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332320.avi&play_token=O25Yq2qvBQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332320.avi&play_token=JM0EJvV2WG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9KIIpkR6sXGHLJiXse9A7p7l9k.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Bienvenue à Gattaca
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332319.mkv&play_token=g07ndCC1Gq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332319.mkv&play_token=rr8d0xhQc5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e15wNHmLX7PJUo8lqzQRhwbX7PL.jpg" group-title="┃FR┃ TOP 100",┃FR┃  Batman Unmasked: The Psychology of The Dark Knight
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332318.mkv&play_token=OnmuMfJVFP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332318.mkv&play_token=dEZZw2DwBu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yygSRdHdcIVPRNC0rDv658ZdJiD.jpg" group-title="┃FR┃ TOP 100",┃FR┃ American History X
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332316.mkv&play_token=nU1AEqW2iB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332316.mkv&play_token=4hx7UGNZX8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ri7gRI9e0pCtyCYAcc8qJSCPn6V.jpg" group-title="┃FR┃ TOP 100",┃FR┃  American Beauty
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332315.mkv&play_token=RWp6Ll10ey&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332315.mkv&play_token=CsMQXPf0zU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwd79G32FPIL5B9UkRgSZvS0gbe.jpg" group-title="┃FR┃ TOP 100",┃FR┃ 2001 : L'Odyssée de l'espace
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332314.mkv&play_token=Nnf3xomV2w&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332314.mkv&play_token=v8IPmoDqlh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XriEpTdnplQRzyphAC0cu3emns.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Whiplash
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332313.mkv&play_token=TaaiYQUknq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332313.mkv&play_token=omjaQJmC1w&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s27zqyyCJvSm72f3uThjxcgmX6M.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Voyage au bout de l’enfer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332312.mkv&play_token=wRNxaWA9dz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332312.mkv&play_token=PkzGoy7gRP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7p5MzMb4h0Y2WUn73r4MHKNeh3X.jpg" group-title="┃FR┃ TOP 100",┃FR┃ The Truman Show
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332311.mkv&play_token=QpRSL19eJq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332311.mkv&play_token=AOXNdzV6y5&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIzMDRiYjgtM2U1Yy00MjlhLTliODMtM2E5NDI5Njc3YmZkXkEyXkFqcGc@._V1_.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Stalker
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332310.mkv&play_token=dYgH8Gj8zM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332310.mkv&play_token=6cH6IwUfgy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kR02ScqKhRwivaCY550V1JEyVZ7.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Psychose IV
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332309.mkv&play_token=tG1KUCwkrB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332309.mkv&play_token=nPKVeQ8c28&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NzI0V3xgtfZdSNqQ8YrBgTSjNC.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Paris  Texas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332308.mkv&play_token=7662UTkRpV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332308.mkv&play_token=EsLVePUr0R&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0Ct3708zXaoJCkF65bLfenQmhM.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Old Boy
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332307.mkv&play_token=4xNz3AB7mi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332307.mkv&play_token=ec6nxHfq2E&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4ZLWoqsXFrkwA1m1T3OQg4P5Z7.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Mulholland Drive
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332306.mkv&play_token=mhgHTpm6NO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332306.mkv&play_token=DBG6cig9wv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y6rOuxx9TnhL0HSx6v6BdloCm6.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Monty Python : Sacré Graal !
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332305.mkv&play_token=HSxq5cHyOK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332305.mkv&play_token=XsWNaUq1FC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz5NYI8PUmPplu3UA70AOqEDJL7.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Memories of Murder
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332304.mkv&play_token=voEDiM5ARE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332304.mkv&play_token=ETBPnYUKTN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itaaGjeYL5ZzufV8BOxkTYQxx4K.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Les Sept Samouraïs
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332302.mkv&play_token=bGzFyLctto&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332302.mkv&play_token=qOwv4A8jpf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lI1idojUCegX0e6CPMooNugb7O5.jpg" group-title="┃FR┃ TOP 100",┃FR┃ La Ligne rouge
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332301.mkv&play_token=ZN7LscTTmL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332301.mkv&play_token=e4k0noAsuv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udRaQKzT0LG4iQFxHLaYjno9uAT.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Kill Bill : Volume 1
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332300.mkv&play_token=pt5cdt3XAA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332300.mkv&play_token=M5NItD0Jxz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iciwUJTFBbjnmwfgkg6jmt8zHa.jpg" group-title="┃FR┃ TOP 100",┃FR┃ In the Mood for Love
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332299.mkv&play_token=x0pOscAXrW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332299.mkv&play_token=hsFLeD3W2Q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bGrJkzRZxF8rOWZxX5roE6d89Q.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Gladiator
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332298.mkv&play_token=jpxhpAPcNH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332298.mkv&play_token=FrMyZFVZFu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irOva4gtlWK5Tkk3OuMvr0oVRms.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Eternal Sunshine of the Spotless Mind
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332297.mkv&play_token=MpWlYk3TMX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332297.mkv&play_token=Z3bGmxmIIQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scaiAT7I2KZ2GAeMvoU6Ro1515J.jpg" group-title="┃FR┃ TOP 100",┃FR┃ Apocalypse Now
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332296.mkv&play_token=cGmC0p3XoD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1332296.mkv&play_token=0KUH3USHFb&type=movie

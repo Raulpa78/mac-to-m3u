@@ -1,729 +1,589 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Fxy0yTc4oJEMAtbNtuidhGFjBo.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Winter of the Crow (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2352103.mkv&play_token=DZ89eur1cj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/313RVYAdotWQQRuUSrZj9CIoEdk.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Nights Before Christmas (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2352102.mkv&play_token=IYPa9PhDcP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFjWt33Atg3j43hR7Q0cH1y9uY6.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃No Rest for the Wicked - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2352101.mkv&play_token=ghCAPBDBGm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WHyLhAvjbnW2c2srR6SZGyBssm.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃My Christmas Cowboy - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2352100.mkv&play_token=pS1MFUhVcg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Madden - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2352098.mkv&play_token=XPkax5hiFp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBmfiHfNzIR7szmbSwYaB5z2Lnv.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Last Shot (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2352097.mkv&play_token=1lBkHRki4T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Guarding Stars - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2352096.mkv&play_token=Hf4IqT3VfZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Appofeniacs - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2352095.mkv&play_token=glwahJ8v7J&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ A Talent for Murder - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2352093.mkv&play_token=gTqEKvu08m&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9aKkiCwlQWri27z9WEwezfkUcw.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Restoration at Grayson Manor - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336193.mkv&play_token=Ksko6ro7Km&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336193.mkv&play_token=RfqYH7pwOo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocg5JfJP19fodcv5uQUApkmZMdI.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Beast - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336192.mkv&play_token=ZADHAZszu6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336192.mkv&play_token=TMux2vE0b6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSDX9TKJ0y4Jn5CDR0qLral5G2Z.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Second Chance Holiday - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336191.mkv&play_token=HTvwmmd9dm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336191.mkv&play_token=bghPhPWoKp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdz1dwRXDQgBYW3Riaht26OtwKY.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Insidious Possession - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336189.mkv&play_token=7xOXqB5Z05&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336189.mkv&play_token=aoTqgJoq4a&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Heartland - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336188.mkv&play_token=F023iJMKx2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336188.mkv&play_token=OBxbIM0iP1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDcws8pGIRgxwq7CoSL1MbFbvEz.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Falling (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336187.mkv&play_token=zQ08VrmoXj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336187.mkv&play_token=jrdlx2gWWj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhHRpLhtaFXGYMsE5LuaRvZYs77.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Extra Geography - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336186.mkv&play_token=XvOnjvbixK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336186.mkv&play_token=oapHpranvh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ecp59fHPF5Uq6vRQ6CJtyx4iAp.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Double Trouble - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336184.mkv&play_token=Qs5MMxbH2M&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336184.mkv&play_token=3mx6803nIS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1vpLPnHVAZq1CyJlpVS8YI7a93.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Dead Howling (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336183.mkv&play_token=vcwOKlta8P&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336183.mkv&play_token=Hm3gyVIa4K&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbZ1HbrM5Cf6U7mnJLQV6Td9L2s.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Brawlers - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336182.mkv&play_token=Z94T67MzCL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336182.mkv&play_token=2QbX2nXVS0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Being Heumann - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336181.mkv&play_token=D7WdvxYaW3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336181.mkv&play_token=nO72OaptWn&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Avengers Endgame: Encore (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336180.mkv&play_token=bbxL5beNuc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336180.mkv&play_token=xx3szYgabb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJe53zlhGBdcjtN1GqncNZ5Unm0.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Angel and the Badman - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336179.mkv&play_token=x6HUd6wRrl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336179.mkv&play_token=cVlgJcxaGm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pO3BpFyC9B2fnfByJulxjs3hM4P.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Unthinkable Daughter - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318806.mkv&play_token=7qCEJWvcJP&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Rivals of Amziah King - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318805.mkv&play_token=9ZYtexSeLQ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Christmas Switch - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318804.mkv&play_token=zipxMQrrED&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Prison - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318803.mkv&play_token=N9vPRxooKM&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Other Mommy - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318801.mkv&play_token=ZCQ4zXWgJe&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Gaskins: The Hitchhiker Killer - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318799.mkv&play_token=1GUZ548Ko6&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Finding Emily (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318798.mkv&play_token=gi4NwgAA3Y&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Double Trouble - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318797.mkv&play_token=KdL1VsmmKK&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ & Sons (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318795.mkv&play_token=BCrXUcpMtC&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Allen - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318793.mkv&play_token=d8Hq0D2HNn&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Virginia Woolf's Night & Day - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285040.mkv&play_token=0npYZ9dgwy&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Unprotected: Murder in Galicia - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285039.mkv&play_token=JHDRgHdyYr&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Odyssey - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285037.mkv&play_token=rSI4cipWMF&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Model Citizen - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285035.mkv&play_token=1em3aczbto&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Misty Green - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285034.mkv&play_token=O4QjYyEEUj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318806.mkv&play_token=TC5QS87eyV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLT5AWSnBSbBcMixYJxVhbtlbMX.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Rivals of Amziah King - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318805.mkv&play_token=PNqAEg8GTE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Christmas Switch - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318804.mkv&play_token=6boUt5Cu2z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87kLBPMeQN4NDKt3BrozsQunnXP.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Prison - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318803.mkv&play_token=ohA1fWXDf0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNxRgcTeqeU5jauBackTERoO2De.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Other Mommy - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318801.mkv&play_token=0xDWhq5Jn8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hQX3DJlN5aH3mNCR7w84n2t2tr.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Gaskins: The Hitchhiker Killer - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318799.mkv&play_token=AJRjPoOTjs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Finding Emily (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318798.mkv&play_token=MhBKGP2hjd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ecp59fHPF5Uq6vRQ6CJtyx4iAp.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Double Trouble - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318797.mkv&play_token=GZx7ViXZs6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slE4Q17nZe3Bd7PFCrgXXLm6reL.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ & Sons (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318795.mkv&play_token=oKFlq4MSgI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Allen - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318793.mkv&play_token=d5gogRhFVu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6psNzdIymhnN8KQggL4tiZRNIXg.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Virginia Woolf's Night & Day - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285040.mkv&play_token=1uap8ID1Dq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljDe9CMzO7PpM86WOqIZzDfokgE.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Unprotected: Murder in Galicia - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285039.mkv&play_token=WXOEWazv5m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Odyssey - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285037.mkv&play_token=KrCpyq8Ycw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Model Citizen - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285035.mkv&play_token=pKhf9ZqIyR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Misty Green - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285034.mkv&play_token=u6J3AAUgoa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taVz0AaGDTKIZ8GWYvbsLW5ueWW.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Merry Christmas Aubrey Flint - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285033.mkv&play_token=l9Uwt2iKoK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285033.mkv&play_token=EQ3RDKvwjM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Best Pancakes in the County - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285030.mkv&play_token=gWJs5YU7Sa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285030.mkv&play_token=RmhyZdOQhk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJe53zlhGBdcjtN1GqncNZ5Unm0.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Angel and the Badman - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285029.mkv&play_token=Req2jcTtPD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285029.mkv&play_token=V3IjWbB0SD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VuimSXLB2U6t8txrWSpYaIM3m7.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ A Prayer for the Dying - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285028.mkv&play_token=hTCWw6HFWf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285028.mkv&play_token=uxvEyl9Ds3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Uprising - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282526.mkv&play_token=afmEUW3DK1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282526.mkv&play_token=SMkoXi7YJW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ck3ku5E7h42mtVV8FsrSBJ8kG4n.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Otherkind - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282525.mkv&play_token=Uo6vSfRVkM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282525.mkv&play_token=h3UvXnbivw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Mongoose - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282524.mkv&play_token=e2XP0kDQ8q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282524.mkv&play_token=CUU6qGPGiw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUuM3btuuNd0n5oZI7Phen5tVc6.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Devil is a Liar - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282523.mkv&play_token=LEYHpGbJKY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282523.mkv&play_token=KYUXMdRNm9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Super Troopers 3 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282522.mkv&play_token=8Z212HZ4G6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282522.mkv&play_token=ygiZCJqA20&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gi7wHSk0ZoUgPYn2bQaA03eB9Bg.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Shark Lake - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282521.mkv&play_token=1IUg3y6goR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282521.mkv&play_token=LgSwfNXrUG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sw51DrxbE1PuJxiqfl3dsZHA3tX.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Savage Prey - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282520.mkv&play_token=Z9jPDCSBRh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282520.mkv&play_token=uP597a2eyq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xd6c6evoWm6NHIjMlC7Y357crxf.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Alta Gama: El Caso Relojes - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282518.mkv&play_token=lFtZxsneCr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282518.mkv&play_token=MhzH8EIyiK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Heart of the Beast - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282517.mkv&play_token=2XS3O1RXcY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282517.mkv&play_token=tJA6UQjU7x&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃WHO - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275904.mkv&play_token=M1aosSV60c&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275904.mkv&play_token=8jixHYny6I&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ck3ku5E7h42mtVV8FsrSBJ8kG4n.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Otherkind - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275903.mkv&play_token=90m2cMRe2b&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275903.mkv&play_token=MixripHs6y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFT8SPdPwgYCtnESmMJt9zAqR81.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃KILL/SAVE - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275902.mkv&play_token=ZKHCMS86M3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275902.mkv&play_token=yBakawxlQU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXL5YNUvubq5Z4EjhEEYc6bA7hf.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Forgotten Holiday - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275901.mkv&play_token=HjNxqCldPx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275901.mkv&play_token=FVfJWvnwXy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvatbJxHHeF0hFzhfQgqA4pbx4b.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Bloodstained Ivory - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275900.mkv&play_token=mBDolaVbOg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275900.mkv&play_token=cpu4qRgX8z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koNUflGEz6Fdy1GCqpvqBOcIaTP.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃April X - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275899.mkv&play_token=AZMtqXpmCo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275899.mkv&play_token=QdTaAgh0IG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃A Dog's Perfect Christmas - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275898.mkv&play_token=gNGUqpiJTC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2275898.mkv&play_token=EQjqeNgIIo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KaPZSKnInnArErTTgy9Oy14leR.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Your Mother Your Mother Your Mother - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261657.mkv&play_token=rqOVv27wZq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261657.mkv&play_token=j3t81IVnSK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGBJgX3Li3I1YdNLvno1AwTZ4fr.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Living Tree - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261656.mkv&play_token=YBiiqpACVA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261656.mkv&play_token=pasLyWczKn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVNyp3H28aSULZB4gUrmkZTClgJ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Holiday Spark - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261655.mkv&play_token=p4zU0JjhJY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261655.mkv&play_token=nt8X9YB2Dw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Fix - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261654.mkv&play_token=jK4ARelVhb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261654.mkv&play_token=7JlnFoWJo5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93IYPILeLLbrs3BIQqG4tNJoPgF.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ La toile (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261653.mkv&play_token=k2Oodk2LVy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261653.mkv&play_token=9XUxODVMih&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOO8M71ROj5V8gsC2O2gRt52YDV.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Scorpion (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261652.mkv&play_token=2tOardNQWX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261652.mkv&play_token=493DrLvGxD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiJ0koqejP1zTFFvl1xtcXfZgaV.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Satan's Peak (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261651.mkv&play_token=fEOZVITNYy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261651.mkv&play_token=FbpNmgNm4h&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAgWJhUSQWCgtKR8170nMkYlBda.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Resident Evil (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261650.mkv&play_token=KgNdotpznD&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Primetime (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261649.mkv&play_token=T5zxa6PsHg&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ My Best Friend (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261648.mkv&play_token=V0fXGte91O&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Don't Trust the Couple Upstairs (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261647.mkv&play_token=GO54FNgE59&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Beware Boiúna (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261646.mkv&play_token=7I32Ujyzmf&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ A Wicked Muse - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261645.mkv&play_token=13rCNxmkMG&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ A Story of Derry - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261644.mkv&play_token=kQnsTILh4n&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Psycho - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217275.mkv&play_token=UNVBKvGAUF&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Dobbeltspil - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217271.mkv&play_token=fABzKmvZP5&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ You  Me  Us (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184314.mkv&play_token=UOz9iT5zR9&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Teenage Vampire - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184313.mkv&play_token=NDI8nWHMQz&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Dobbeltspil (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184312.mkv&play_token=d5BZtUeobl&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Hunted (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184311.mkv&play_token=7A6XbxwgAK&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Birthday​ Gift​ (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184310.mkv&play_token=9sSmP1xirc&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Drive – The Pretenders - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184309.mkv&play_token=wZfoEMtBkn&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Collision Course (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184308.mkv&play_token=1oyUWK8ZgS&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Apocalipsis Z: Nuevo mundo - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184307.mkv&play_token=vFpLjUweHM&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Ali G: Who Iz I? - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184306.mkv&play_token=VW78NQVctA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Verity (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150236.mkv&play_token=6wF1fCt1L3&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Stunt Driver (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150235.mkv&play_token=wO6BC43gMv&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The 3 Killer Pigs (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150234.mkv&play_token=lkWjkGc5NH&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Sense and Sensibility (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150233.mkv&play_token=9bTirMANRi&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Ever After (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150232.mkv&play_token=yzCteycc7y&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Written In Blood - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149202.mkv&play_token=Hkcbmb0Snb&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃World War Bigfoot - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149201.mkv&play_token=bQhsoVVk4H&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Toxic - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149200.mkv&play_token=IknFTtfwRA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Thingy - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149199.mkv&play_token=Pvw5FxbFje&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Yellow Knight - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149198.mkv&play_token=Z9YaM66FqZ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Wrong Baby Daddy - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149197.mkv&play_token=cuxJLta2x0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261650.mkv&play_token=Uxknwl1Mbg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmrulvLbmaejTix1YaMxo1oGhH1.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Primetime (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261649.mkv&play_token=Uv3co6BnBG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ My Best Friend (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261648.mkv&play_token=QuwhHAMP6l&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIBHe9mQDJNQgZ3ZWpCAu03ofJf.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Don't Trust the Couple Upstairs (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261647.mkv&play_token=vGAKZ0aXca&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Beware Boiúna (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261646.mkv&play_token=hGcZD6RLnR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43O9DP9u77w0FBnCqYhgcuAk2S9.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ A Wicked Muse - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261645.mkv&play_token=7eIMLHZk6c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ A Story of Derry - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261644.mkv&play_token=Ra5c1M4bk4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJuiQlIOf4RFw6L4zLdyfWBkggP.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Psycho - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217275.mkv&play_token=6h96hfEt3a&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBwqhsGxkFP7KzY2fN7C57AqwDU.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Dobbeltspil - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217271.mkv&play_token=fz2eTr5Ihc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Gw8ukw5aAUP1uzNtYZ0CNTUy5A.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ You  Me  Us (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184314.mkv&play_token=P98eSl71ON&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhbcC4lUcaU7YW3Miq4XzUVEJY8.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Teenage Vampire - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184313.mkv&play_token=FqCB85MyS8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBwqhsGxkFP7KzY2fN7C57AqwDU.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Dobbeltspil (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184312.mkv&play_token=XBq6nhEvR6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgx7I0JfmHbGcbveNk4EK3jFuMk.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Hunted (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184311.mkv&play_token=YvEn121vir&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqGFILLsEDwsLteNDQextojsYFV.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Birthday​ Gift​ (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184310.mkv&play_token=KDY3mrDqg9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Drive – The Pretenders - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184309.mkv&play_token=nThJnSNupU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Collision Course (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184308.mkv&play_token=IYgAiVvLLF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plu8tTviVZDO5jP7nzNXsDHLu8P.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Apocalipsis Z: Nuevo mundo - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184307.mkv&play_token=obycaJWlsP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Ali G: Who Iz I? - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184306.mkv&play_token=MJ3rLxBYTZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Verity (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150236.mkv&play_token=L4JQkv5jlF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Stunt Driver (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150235.mkv&play_token=QwIjMm1aUx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfNvQfGDRVp4NWofAtxNaZsLJDq.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The 3 Killer Pigs (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150234.mkv&play_token=Tpp2OYdLcw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Sense and Sensibility (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150233.mkv&play_token=R6nncCvKRU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghL5WDgc1dvvNSEQ0dld7k6CTnt.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Ever After (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150232.mkv&play_token=zYoKYWYsZ9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScgvOU394qGoKfJCiX35LaNn8G.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Written In Blood - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149202.mkv&play_token=NDH7miQkOx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k94AIYLUXkhT6j4nfxdK5s36bXh.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃World War Bigfoot - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149201.mkv&play_token=zcuCRthVYC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Toxic - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149200.mkv&play_token=IqrUaqe8Kz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5x6m28kFZiRm9glqL6tTUkqqhBg.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Thingy - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149199.mkv&play_token=NYr3nNvWVw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTwwklExd8A5oRsPqMxISVV49kw.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Yellow Knight - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149198.mkv&play_token=HqtHAoyxBH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9rqFxmmYHEa7XTRk0sOu35T3yI.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Wrong Baby Daddy - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149197.mkv&play_token=mTy0DwsN3w&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80oQCwA8SJrjBiFarxzkEXZxxDT.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Exit State - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149196.mkv&play_token=1p7XhBlWKN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149196.mkv&play_token=0wVLfkqBZn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Musical - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149195.mkv&play_token=FE5uiDoYbl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149195.mkv&play_token=YRxcNXAQB0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Cycle - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149194.mkv&play_token=3gTw62XNe8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149194.mkv&play_token=DSbqZHrr5k&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Awakening - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149193.mkv&play_token=NDZUPh0Z7i&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149193.mkv&play_token=er1Q7ICLsm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfNvQfGDRVp4NWofAtxNaZsLJDq.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The 3 Killer Pigs - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149192.mkv&play_token=890ZjYzTJq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149192.mkv&play_token=XTZ2Y6U3Rk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1h5WGdkWVab3xYPUA6Hsha5nfJD.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Rescued - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149189.mkv&play_token=Ck5FkuUKK7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149189.mkv&play_token=M9PShJKqWl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueYawr1nldKchzyP8Q9KJpn31SK.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Queen at Sea - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149187.mkv&play_token=y3vhVylwmE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149187.mkv&play_token=DGAXUk0MKE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z2e8UCzVVsHjuqDIZvOdQhySht.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Nickels - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149184.mkv&play_token=mrHJ4nLYGw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149184.mkv&play_token=dbMKxdpUIm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XqjJ4iobn199K9Ox1rUREjV8lN.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Mag Mag - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149182.mkv&play_token=jMWGqQeq55&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149182.mkv&play_token=RH1ebcNfM3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Love Language - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149181.mkv&play_token=qjXPPI5t6b&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149181.mkv&play_token=3FewFsT9p7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znWUESPFa1QlvHii4Zc6d0pUxmH.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Land of Wolves - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149180.mkv&play_token=Vf9ZCfAm32&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149180.mkv&play_token=upenYSb1sq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by2OjJrCXzcHMFsL6bJsjPhtVjh.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Forever My Lady - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149176.mkv&play_token=bEExFI8RfY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149176.mkv&play_token=H77cQUsUv5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1NTX3sATeNdHFA0lnfHW8H6xMD.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Fettered - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149175.mkv&play_token=3XQUccUuFB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149175.mkv&play_token=CyF3NdDs46&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unJWfg66bFwrGD31nBFoOQfkuba.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Tiny Fugitives - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146056.mkv&play_token=QKw11pqYkM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146056.mkv&play_token=HoJIyKCnOS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Weight - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146054.mkv&play_token=ibhbBHri6D&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146054.mkv&play_token=aJQmpJAMyW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Florist - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146053.mkv&play_token=Mnqz88dEP6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146053.mkv&play_token=LJuVMIJlib&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chZa8Jd9kSDj11bekGjwwotFPEw.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Contra el huracán - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146051.mkv&play_token=henwkvm7Wg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146051.mkv&play_token=oggSSYmJC5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLAxffrOZkghXrmf98MZniy5prL.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Star One - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146050.mkv&play_token=SYHs9sJl5C&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146050.mkv&play_token=8TdcYnlWGr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFTnPf9EydMKVCD6YBspvAo1qwZ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Sleep Stalker - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146049.mkv&play_token=aRfLGH3JIi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146049.mkv&play_token=mast2oFkQT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGbzqom7NWWCSL6hy44OHrRJVo7.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃It Wants Nightmares - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146048.mkv&play_token=y6ru2pveLW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146048.mkv&play_token=LKXfFBQo2A&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XMvAhNdDKP1lIP3pZn8Apbg0Qh.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Grizzly Attack - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146047.mkv&play_token=tQJ9CbGLG9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146047.mkv&play_token=jr3qWj8kCU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUUQXiiGA3LFHHemf3UgHVF4y5C.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃EB - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146046.mkv&play_token=nLNRxe1sSj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146046.mkv&play_token=zDbVAtHehg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWeUbgZvrfbEFYra8omnqJQJZid.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Deadlocked: Dad of the Dead - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146044.mkv&play_token=SINTxJmtSW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146044.mkv&play_token=Ly6p994ehY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgGC1l5ZnpDyHzR5WWY94KxBGgI.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Mummy (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146043.mkv&play_token=z60IVoYZYY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146043.mkv&play_token=MnvrS8ynLv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnr0QkZSDLlrJTvU2ecco65wcHo.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Barreda - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146041.mkv&play_token=tvw7o5O1nZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146041.mkv&play_token=1RATMRQep5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIIZ3qIh7A3B8Y1VVo5laFyusVV.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Gentleman (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142888.mkv&play_token=JZYDEOfQmS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142888.mkv&play_token=EVDiIO7BU1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsPulaQpmrR02NZIkPcReSG9tsc.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Wuthering Heights: The House of the Damned - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142887.mkv&play_token=3E9njgFbsw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142887.mkv&play_token=nvgwA0J05k&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xdLmP9ksISVyNg0kKUlI3DWtQg.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Leaching - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142886.mkv&play_token=3q1tfGk37L&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142886.mkv&play_token=NbChD4nO0K&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Weight - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142884.mkv&play_token=dOovyZ0qPu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142884.mkv&play_token=SnMqEjik6r&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4ZAO2HkmuPbxfKvhluNpSOcGDl.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Night Terror - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142883.mkv&play_token=Hl8FfLwSb7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142883.mkv&play_token=TWARuN3I3E&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Minions & Monsters - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142882.mkv&play_token=6S5gz9NIhV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142882.mkv&play_token=Q05q9gXbuG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1sxYpzsLLMnX1p5mpUKbPRBXt2.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Its Presence Between Us - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142881.mkv&play_token=Z3czeSOUY9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142881.mkv&play_token=m7LHmLgX2o&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UD22ksodyDUsFJsPNB1MOoJ7Cn.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Holiday Touchdown: A Bears Love Story - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142880.mkv&play_token=jIBb5w7hzV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142880.mkv&play_token=5T2b8Ct1Zo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWeUbgZvrfbEFYra8omnqJQJZid.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Deadlocked: Dad of the Dead - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142879.mkv&play_token=dQAK8B7nZg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142879.mkv&play_token=BmaOmEEVlY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMeFBggRmBANCQ5Y2Xl6zzp6cwM.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Curse of Crom 2: Crom's Fury - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142878.mkv&play_token=Y6p0Hf3iT2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142878.mkv&play_token=PXrMuG4ZXx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vww1uAUCAXfLyyhy3bY21Co8XdB.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Crude Awakenings - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142877.mkv&play_token=bu4kFkY0ov&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142877.mkv&play_token=9b9oI7LMs5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Crawlers - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142876.mkv&play_token=Dgb2EanQ2u&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142876.mkv&play_token=BbF6HNW38P&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0gvXQOXqF8QWTrJPTK7IG16o3J.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Beyond Boy - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142875.mkv&play_token=lSzKbXhapZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142875.mkv&play_token=w6bsBYyhD3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Bad Apples - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142874.mkv&play_token=us70y422TO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142874.mkv&play_token=KT0D42HltY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycWlX8TDKm31owAeClxyOoP55uX.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Adored - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142873.mkv&play_token=E003NVkPcp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142873.mkv&play_token=cMs9TGs7hP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqLfe6Ixz1lVGnQeICA8NsZpQTu.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃49 Miles More - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142872.mkv&play_token=tVkj7BZQVk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142872.mkv&play_token=nhyjsIYNrc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Therapy Done Right (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136804.mkv&play_token=o9d4lNgZLN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136804.mkv&play_token=Id4uEslr5i&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Storm (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136803.mkv&play_token=dwuxPOqCKO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136803.mkv&play_token=j528YpyToj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Tenzing (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136802.mkv&play_token=iQDYpx9bH2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136802.mkv&play_token=rTxea8k4Rs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1dxZt7rY11CAWIa3iELNq6CdqU.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Siccîn 9 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136801.mkv&play_token=I2NvW7tXLK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136801.mkv&play_token=mbxnEMdSS1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Norm: The Tale of Norm Macdonald - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136799.mkv&play_token=ndtiWhftVy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136799.mkv&play_token=LGkqUkWVUH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvU3VCzQbNzu0opcjOroUuVd3f6.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Clean Hands - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136798.mkv&play_token=rL75gxp25y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136798.mkv&play_token=4dmASp9zpR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iccroKK1eUTdCnLfmp7I3YXwAKF.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Incomer - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134321.mkv&play_token=cHzkObrHU4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134321.mkv&play_token=qfVUo3rj2x&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Florist - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134320.mkv&play_token=I2sWwOzZST&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134320.mkv&play_token=AXGAwQMnWS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE0q4awk7zto3Eql4cAeJuVAns9.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Saint Clare - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134318.mkv&play_token=fEGKJ8mK6T&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134318.mkv&play_token=Dtn4fissrC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Sacrifice - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134317.mkv&play_token=lGnDDJMr9u&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134317.mkv&play_token=XcGEGn0qyh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Czi3k9zc8BhJFaz6XNDKC4AUtm.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Rise of the Footsoldier: Retribution - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134316.mkv&play_token=l9LyPkMr2C&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134316.mkv&play_token=Z0BirIf54p&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ncfrt43mLLFB8yWcWON8imHr0Q.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Reporting Live (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134315.mkv&play_token=v8G0EADItq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134315.mkv&play_token=tYLii2A3WH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Let's Have Kids! - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134314.mkv&play_token=z5of2a9000&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134314.mkv&play_token=O58MPEBsEI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Buddy - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134312.mkv&play_token=tVboosOxOh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134312.mkv&play_token=JvYNddP6YX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Practical Magic 2 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127931.mp4&play_token=EvX4Bw6yH1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127931.mp4&play_token=LoH5z5wqdb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Onslaught - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2114693.mkv&play_token=lWuZIBV2X5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2114693.mkv&play_token=KAtdYwr4lP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z2e8UCzVVsHjuqDIZvOdQhySht.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Nickels - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2114692.mkv&play_token=D3VMP8kWoS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2114692.mkv&play_token=19LyzQJxge&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Matchbox the Movie - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2114691.mkv&play_token=kfqX6W2HO5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2114691.mkv&play_token=tCwsYJgXXB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Family - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2114690.mkv&play_token=bsUEvP6UgL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2114690.mkv&play_token=Lf0DKexF5M&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Insidious: Out of the Further (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2066783.mkv&play_token=TIG5xpfQOB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2066783.mkv&play_token=TTLeIKnkn4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Spider-Man: Brand New Day (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2066218.mkv&play_token=KDVTGsBIzm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2066218.mkv&play_token=jDKfoBhdAl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1QIAmdHspNtlTFSV3BuTms7Ncw.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Union County - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056755.mkv&play_token=tGYevDOYuH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056755.mkv&play_token=MiZc5rSNlu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Weight - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056754.mkv&play_token=MBYOt3PNK3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056754.mkv&play_token=yVO2j5fONG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Uprising - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056753.mkv&play_token=urrj0vYNlu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056753.mkv&play_token=cEbIjsj8Jv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCALD2uCetzUjj40k8TUMnsA397.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Swan: Behind the Mirror - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056752.mkv&play_token=W9lnKfTrl2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056752.mkv&play_token=QUKDBoZHDP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akMSRVUZRBZlR9nzbEhRPoQ4xSu.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Nice Ones - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056751.mkv&play_token=Dkb8wtQRww&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056751.mkv&play_token=IVTUHRFyCA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5qjpG401icYMQC4aaCYZFElD7B.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Stranglehold - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056750.mkv&play_token=R0WkJilgNM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056750.mkv&play_token=ZKCHeOR5ok&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50lPmjIpDs8gKfgK7fPIeKzpllh.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Kinds of Kindness - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056749.mkv&play_token=KHLcOQCnme&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056749.mkv&play_token=2rNohOJuPm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFNQoqUok0cYKqZTmK8kVk5ZVbB.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Hollywood Grit - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056748.mkv&play_token=DFmAqbBBCl&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Hokum - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056747.mkv&play_token=2Von39kUyL&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Hellfire - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056746.mkv&play_token=rDlxBOco9M&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Ghost in the Cell - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056745.mkv&play_token=i8juMsmOYB&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Buzzkill - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056744.mkv&play_token=MRl0nZsIJ8&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Drama - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992570.mkv&play_token=41Bq5JG2fp&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Deputy - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992569.mkv&play_token=FswDJpp7uk&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Runner - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992568.mkv&play_token=nscs0JA10O&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Mother Mary - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992567.mkv&play_token=3qXzF0eYA0&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Influencers - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992566.mkv&play_token=ZcEIWcoqSm&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Baby Do Die Do - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992565.mkv&play_token=KPSDB6mqLG&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃A Love Like This - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992564.mkv&play_token=zccsLOn4Rk&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Love Hypothesis - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988849.mkv&play_token=rMNyTPcw4y&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Spa Weekend - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988848.mkv&play_token=YY1MOcfN3i&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Diots (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988847.mkv&play_token=YoMH1924JU&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Ice Cream Man (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988415.mkv&play_token=bc9jhuMlcg&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Blue Box (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988198.mkv&play_token=6CiLiG1zpo&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Without Blood (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988168.mkv&play_token=ZxXWlfcp7Y&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Rage of Stars - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988166.mkv&play_token=Wkw3kUId2P&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Hamlet (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988164.mkv&play_token=8fSo93qKM8&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Turbulence - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986968.mkv&play_token=4myYnvdW0h&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Last Kiss - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986967.mkv&play_token=whVRa2zHBo&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Mr. K - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986966.mkv&play_token=cPfOHLpT5N&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ You+Me – Against the World (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986384.mkv&play_token=3MZUdEVdTX&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The School Duel (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986383.mkv&play_token=mN3jq8WMQC&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Lust Stories 3 (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986380.mkv&play_token=ma7OZvZBc7&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Black Box - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986379.mkv&play_token=t2J2zkMUH3&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃We Bury the Dead - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985966.mkv&play_token=lX7k7G7GUE&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Toy Story 5 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985964.mkv&play_token=6bmjgFrG8K&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Tony - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985963.mkv&play_token=wW3zsml2zD&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Fires (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985961.mkv&play_token=2rKybwIxqf&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Rivals of Amziah King - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985960.mkv&play_token=wpW2bmlbGs&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Lion Fist - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985956.mkv&play_token=qC6E65M5ds&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Gator Face - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985955.mkv&play_token=wmW3pSdbfs&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Solo Mio - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984433.mkv&play_token=d7cYfMKiJb&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Saipan - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984432.mkv&play_token=3W8WaLEcOE&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Rose - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984431.mkv&play_token=ElRUkvB8t5&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Portal to Hell - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984430.mkv&play_token=Xnq6idmInR&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Little Lorraine - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984429.mkv&play_token=Tps3rhpaR3&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃In the Grey - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984428.mkv&play_token=R0aaoEwwYo&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃H Is for Hawk - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984427.mkv&play_token=6tiAKIGusR&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Drive Through Fire - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984425.mkv&play_token=HAwkD5K4sc&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Couture (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984424.mkv&play_token=5UmhGdhU1V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056748.mkv&play_token=JQ53Gg6JtP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6rHcQFiYcczLQPrmxXPAicm54E.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Hokum - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056747.mkv&play_token=3FCOeiZTdG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQti9QTf13MfzNpXguijgNh7ojE.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Hellfire - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056746.mkv&play_token=GGYhRykOKr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Ghost in the Cell - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056745.mkv&play_token=Z4IBg9eT27&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLftvCgy9WFGRnrGbMer7i61Zkn.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Buzzkill - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2056744.mkv&play_token=DtwOFGXsij&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Drama - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992570.mkv&play_token=0PaCRMDu1Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qL654LNOfBu49e12jnnQIv6mny.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Deputy - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992569.mkv&play_token=ZquztmMlwy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Runner - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992568.mkv&play_token=QKbvZfNpku&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Mother Mary - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992567.mkv&play_token=TrFaoNCMma&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRdjGDxBW60OhzjAtikLgQBwt3B.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Influencers - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992566.mkv&play_token=Eud60ctvsM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvfqp6gMlvHODYnBXoogqRyIs0k.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Baby Do Die Do - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992565.mkv&play_token=DoqyQkvcxV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcD5V2RfnvoNUYQibmvLhiLAsmV.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃A Love Like This - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1992564.mkv&play_token=4eAPFQAp0N&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfZxVHextAGC70zrNhS8lsROqP1.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Love Hypothesis - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988849.mkv&play_token=GEjxgPyvXO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbfU7fNwEeVWLfNEnt3MmvLbTO9.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Spa Weekend - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988848.mkv&play_token=OWcyETqkGa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Diots (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988847.mkv&play_token=jjwidOYIZw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Ice Cream Man (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988415.mkv&play_token=Yvj7UbEs0t&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Blue Box (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988198.mkv&play_token=5Sxdfd0IQl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhljcpKJbqe9qr2HRGcAIztVeJa.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Without Blood (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988168.mkv&play_token=8F9hykg4ap&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLld47ZT1I3iecM3OWhIphohQUJ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Rage of Stars - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988166.mkv&play_token=oRgEjRbz5g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cBh6fWchOJY961A8F1rT98HDdA.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Hamlet (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988164.mkv&play_token=rT5suPu7Zb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggCueswyZYkHqQcbJuKgteshY2F.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Turbulence - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986968.mkv&play_token=XcHQnK8fzG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLZ7iFZc25vluSIKt3XtdSTait4.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Last Kiss - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986967.mkv&play_token=YeIQkZmJK1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRpGcAYC7cm1QnInz8P3xHvm7cV.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Mr. K - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986966.mkv&play_token=xuwlFGdOnG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAbBNVplg7h79sm94OyHeKk8Phz.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ You+Me – Against the World (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986384.mkv&play_token=GVNLbsdDrc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqKBehMZP3JNJSTJanqCViss2ci.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The School Duel (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986383.mkv&play_token=umUYqqWoZx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GBe4TeCeXa1ENg0rv2JH8cH0ry.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Lust Stories 3 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986380.mkv&play_token=WPV4OABgej&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6dsUKxz8O5rD3lzayJgvFpW58s.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Black Box - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986379.mkv&play_token=5BwVm6mKh4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZqo0yPARmyF8TACVNyaOACkYWG.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃We Bury the Dead - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985966.mkv&play_token=KtCBK5Y2fq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFoE3hYk21Qkru7WP2EMmzvxFmY.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Toy Story 5 - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985964.mkv&play_token=SHdZbtkq0W&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Tony - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985963.mkv&play_token=tNp0Ow8OEu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxy00nU5mmlLljh8ys6bLXIP1uw.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Fires (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985961.mkv&play_token=5eP6iXzAeK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Rivals of Amziah King - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985960.mkv&play_token=FigNJk4mZ3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Lion Fist - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985956.mkv&play_token=GdoNNeP5RA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUkIHTfiMIa5ipTvgYZW86fIoQX.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Gator Face - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985955.mkv&play_token=jNECOWch5h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efSsZJaddeq0LOABZqpCXdMxv9P.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Solo Mio - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984433.mkv&play_token=8sG4jTkDk7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Af6vLWQk8gj5099GhgpgY0jCiu.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Saipan - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984432.mkv&play_token=EENu20DD3y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzP8uKQsVQlyEnfqa2f2nAgVjnI.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Rose - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984431.mkv&play_token=N9VJvF8KFP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuXCPJZjmP2FuGG3U16sI1TYEdR.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Portal to Hell - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984430.mkv&play_token=Zu1XhxSQwe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUzBqWq7idfMTBLCWs55Hkt9lpq.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Little Lorraine - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984429.mkv&play_token=O3YBgPVImd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃In the Grey - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984428.mkv&play_token=DCcNZRbbBW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eg301AEGyYX4gtc0A8DEXQ0VMhK.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃H Is for Hawk - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984427.mkv&play_token=21r94pty0E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmQKEJ4Te7CQ5mhnXwr3zCLnOvc.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Drive Through Fire - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984425.mkv&play_token=Tk4AEztR9G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pie2ouNdXYKEMXtF2Kvj0H4LzOr.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Couture (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984424.mkv&play_token=qzQ5ZfsMiV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXS4A7VmWT3p1Bc4KyTapOviUmw.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Corina - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984423.mkv&play_token=hCygoHfqvp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984423.mkv&play_token=KQXsvag6bl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5016vxLjYd5pmXezXNHYTbsjro.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Hanged Woman (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1982549.mkv&play_token=4CJWvHaX1J&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1982549.mkv&play_token=zUHZiBTY69&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7yyC7tBmoaRP515CGWCCm99oHr.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Knightfall (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1982548.mp4&play_token=58QUi0QYZX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1982548.mp4&play_token=zTzzFy0CAs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Go Team! - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1982545.mp4&play_token=a7QMT4aZt8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1982545.mp4&play_token=Z3mkNSSHKe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whk02IOeEHz8KCYZGm3fF92zg0v.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Beloved (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980551.mkv&play_token=ET5S1PYYxr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980551.mkv&play_token=TJOuzkiQT4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Reminders of Him - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980550.mkv&play_token=wYHxNdfx0K&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980550.mkv&play_token=9am4s8Pemb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Hot Spot - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980549.mkv&play_token=6FQCGGUmlF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980549.mkv&play_token=0ZYPmSPBV3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgZN3gniRohjfKdsw1Q7EGBAyqz.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Why Did I Get Married Again? - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980361.mkv&play_token=fNMvQoJ6Rz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980361.mkv&play_token=AsBkux4ojg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4apG9Xk6HQvV48JKEjSUeiebju7.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Breadwinner - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980360.mkv&play_token=fUswEjYxCx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980360.mkv&play_token=6XJ71Klysz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Power Ballad - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980359.mkv&play_token=UpBq5ogOKA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980359.mkv&play_token=sWiVbPv5Tn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWb841fMkSNly5gfL9J1N0xzVYI.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Good Boy (HEEL)(2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980358.mkv&play_token=w0chjcEkJi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980358.mkv&play_token=ys0c33Kk8Y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Greenland 2: Migration - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980357.mkv&play_token=pefKuDsdBN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980357.mkv&play_token=wjfBzJvSmd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96O3Ol3f2veMxAxYqsML8rOumB9.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Father Mother Sister Brother - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980356.mkv&play_token=a4tNIasmSc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980356.mkv&play_token=2qOOR2hFYl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Drawn Together (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980355.mkv&play_token=SlZYhGeZlt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980355.mkv&play_token=VRuW0hamMh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Dix Pour Cent ! Le Film (Call My Agent! The Movie) 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980353.mkv&play_token=om1uRwJwXg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980353.mkv&play_token=4viez7bZia&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGIjFMxPgoVVnTPpAFRAkf8TH9M.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃One Night Only - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1977647.mkv&play_token=xpAsllzGDN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1977647.mkv&play_token=JuXz9FZM2A&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Moana (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1977645.mkv&play_token=Cixk1tx1QT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1977645.mkv&play_token=DWhgI1uhcu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xv0v1XUNhtWOIYBiABc6qcozEy1.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃To New Beginnings (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975953.mkv&play_token=0wY7cOPBKU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975953.mkv&play_token=sNOoIvOd2E&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eycVPsYXsLMRXgAPGqJTzKvnlzX.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃This Tempting Madness - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974108.mkv&play_token=Xum48XB14W&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974108.mkv&play_token=86emaCGykx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zk2saSFclmoJDxBovrOTp8W6NSz.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Girl in the River - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974107.mkv&play_token=HqZRuxa6wA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974107.mkv&play_token=bHPsOgGmaF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZWcrfj3mFf9LGItIFwa7DSkedz.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Baltimorons - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974106.mkv&play_token=keIIpTlZF2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974106.mkv&play_token=aHtiq5dqzO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/al6yVdj0T3gghSonUFXTgilaXQo.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃He'll Never Find Me - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974103.mkv&play_token=BRBo67wVTe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974103.mkv&play_token=d6YGEp5XID&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Coyote vs. Acme - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974102.mkv&play_token=liT89L4n79&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974102.mkv&play_token=McMP5sS2c2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Death of Robin Hood - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972900.mkv&play_token=aqe0CGcJYY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972900.mkv&play_token=fI3Epx9iCg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOdwaXV1w3vvTn1s7FTvqBQIDp.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Splash City - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972899.mkv&play_token=YepP0QS5Hn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972899.mkv&play_token=M6VTnGxpB0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDBZ2PGgUbcGjyX7ZCXLOk4AFQH.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Rose of Nevada - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972898.mkv&play_token=kgR6cOOecy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972898.mkv&play_token=ou88puUBsE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDBHihihRvhwPvcVptu1jXMWpri.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Parasomnia - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972897.mkv&play_token=KurDVwVWYJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972897.mkv&play_token=n5TgRgocNu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Mayday - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972896.mkv&play_token=Stj5tR5Tq9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972896.mkv&play_token=fL45g3QiU9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSWYnBFJroVGtf6QeDLAeqhojiS.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Les Rayons et les Ombres - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972895.mkv&play_token=YDM8YSbuCs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972895.mkv&play_token=Re686MuURl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMbhJKv5bvVnh9HUwm1mTKmZdeZ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Dark Hollow - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972892.mkv&play_token=UYjhNDY560&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972892.mkv&play_token=YMgaqZjFIv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnQ9kmxEr332OSYhVcQqIsHgXI3.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Room Below - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966606.mkv&play_token=kMc3LXUILD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966606.mkv&play_token=uKYcR8Sbkl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Runner - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966605.mkv&play_token=w6aKRJFhKm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966605.mkv&play_token=slftECVgVC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvqW8mOm818QDio3GKKmPLK8kXj.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ She Rides Shotgun - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966604.mkv&play_token=AafoGEuE66&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966604.mkv&play_token=ZVaWLWCrR0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Just Play Dead - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966603.mkv&play_token=VrCcEMgbqo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966603.mkv&play_token=NOxVCWR2g3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i92X6pBSqZgHAvIX28p0AZJU8xz.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Confinement - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966601.mkv&play_token=xzIjizQd0U&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966601.mkv&play_token=cY8l8ufAqo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aOxnMaDkr792WOZFJUb6LxcR74.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Way to You - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949868.mkv&play_token=3VVNcIzvGQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949868.mkv&play_token=W0PYVA1mib&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Mongoose - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949867.mkv&play_token=i8f8FZywe8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949867.mkv&play_token=H6FAEgl0vT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zShaBZCBknqIFEzZp5BfETKV5ho.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The End of Oak Street - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949866.mkv&play_token=p8kL96Z4vU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949866.mkv&play_token=8iHmIl7Zh2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFborW6HmffKL05GIWlkTFdvVpN.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Brink of War - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949865.mkv&play_token=AYCPxarBIM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949865.mkv&play_token=sEVTCj1MJf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Wrong Girls - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949864.mkv&play_token=jrqAOkx47P&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949864.mkv&play_token=DNeckCQsJ2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCEvwyR3XlTos78iHZzPa8a3urg.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Last Assassins - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949863.mkv&play_token=apOGNM8kOK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949863.mkv&play_token=xfHVCkQEQT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Spider Island - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949861.mkv&play_token=rEvZGF9rPV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949861.mkv&play_token=GhZrj7i3KC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4X0r7ggfYIupyCZqeLH34T7m6Lg.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Potopa - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949860.mkv&play_token=KUbWBNr1Zt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949860.mkv&play_token=WtBoObwT7U&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51wG0sPe7SfehmEvVZNpRqOVbTj.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Flood - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949859.mkv&play_token=2teIaVXTRX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949859.mkv&play_token=JdJU9mZ9ZA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIFl8WiKgxAU91XjreyCHSl8YmJ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Blood Shine - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949858.mkv&play_token=QPI5BxGGSo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949858.mkv&play_token=7SPXJPg18h&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Whisper Man - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936908.mp4&play_token=873Wb0nch6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936908.mp4&play_token=UqZCZA94T9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6L6idylNhJdtnL3tVsmXIO7xJV.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃The Last Woman Who Lived Here - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936907.mp4&play_token=8p1jyDhJfD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936907.mp4&play_token=5uZZOrIOic&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipAyHghFvnelEVHRMsUnsRXUwO4.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Penny Lane Is Dead - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936906.mp4&play_token=hk7GCZK7W9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936906.mp4&play_token=zwv9btORFu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Motor City - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936905.mp4&play_token=AphOr1IK3G&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936905.mp4&play_token=yRvjymCeem&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/360qdtu2hLnqMu8SVHMywn420w1.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃Batman: Knightfall Part 1: Knightfall - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936903.mp4&play_token=ozoexv1Agd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936903.mp4&play_token=d4iZspAhzH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0hCOPsYHFc7qok51canND9TVoN.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Pinocchio: Unstrung (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1892693.mp4&play_token=XtegOiQgqj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1892693.mp4&play_token=hhsiOzJQ3f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Mutiny - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873226.mp4&play_token=mmFTL6ssIq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873226.mp4&play_token=qrXQ65kFtg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkMOruokVnD05xSiwI2hWBzG7UD.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Midwinter Break - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873225.mp4&play_token=wNkcLLVMif&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873225.mp4&play_token=zi2i6nB5HV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPYTq7YznBlI60ntPI9bdw57qT0.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ La Gradiva - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873224.mp4&play_token=awUm4poIYy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873224.mp4&play_token=ryYT9OVTIz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ To the Max (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873223.mp4&play_token=UiXTKP27Xv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873223.mp4&play_token=5gEDkYw221&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWgaHEgorSUPHLUKLhvavkEDuLK.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ I Live Here Now - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873221.mp4&play_token=tlcccQM0vG&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Quinze Dias - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873220.mp4&play_token=5bTzB9Xlhp&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Breach - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873218.mp4&play_token=sXVxKD0sfT&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Toy Story 5 (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1855177.mp4&play_token=7KHh0drJlm&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Whitmer Thomas: Terminal Crew of Dudes (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1846830.mp4&play_token=VkCVpik9yq&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Gail Daughtry and the Celebrity Sex Pass (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1846829.mp4&play_token=UkgdfWJP7S&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Agents Un Peu Trop Secrets - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1846827.mp4&play_token=MjjUzM0mCI&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Birthday Party (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1844822.mp4&play_token=Bg2d8lATYJ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Feed (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1844821.mp4&play_token=cVB8uBiaBK&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Evel - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1844820.mp4&play_token=DNEXAKnVym&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Cocktail 2 (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1844819.mp4&play_token=3dMkT2UdWr&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Camp Rock 3 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1844818.mp4&play_token=L3aKkbKn6M&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Boy from Below (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1841218.mp4&play_token=LwP7vlwGco&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Gail Daughtry and the Celebrity Sex Pass (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1841216.mp4&play_token=CInAVO1F0R&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Don't Say Good Luck (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1841215.mp4&play_token=fpWc6q4rVb&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ All Night Wrong (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1841213.mp4&play_token=xIH56Tmewy&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Travis Barker: Louder Than Fear - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1837174.ts&play_token=rVXx7v4Mfd&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Jackass: Best and Last (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1837172.mp4&play_token=ODXnnt6qTG&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ A Child of My Own (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1837171.mp4&play_token=yRRFZET6ps&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Addition (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834831.mp4&play_token=g7O2uUWWL9&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Our Hero  Balthazar - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834830.mkv&play_token=sXtkVyu2F9&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Invite (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832794.ts&play_token=8FGjMoo9to&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Paralysis (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832793.mp4&play_token=dD8XDB7jOx&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Night Nurse (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832792.ts&play_token=YDzvv55hSR&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Big Baby (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832791.mp4&play_token=qxaP8xa2s5&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Beast Race (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832790.mp4&play_token=1nBwKwpr1C&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Young Washington (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832788.mp4&play_token=MYoHGERfAd&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Rental Family (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832786.mp4&play_token=erki99Sds9&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Soulm8te - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1825420.mp4&play_token=Vco2MBgE7C&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Corrida dos Bichos - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1825419.mp4&play_token=0sbl6UR9FY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Isolate Thief - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823826.mp4&play_token=u0a2WgcQVL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873221.mp4&play_token=8qEYPB3YkM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SkSZOAHPJbks40PQYwIH2bV1f2.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Quinze Dias - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873220.mp4&play_token=TmakLjuhaA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKmFVkPSQs1Gs26vyTEfNW73kxg.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Breach - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873218.mp4&play_token=ahLYpyEY3h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfQtVlIHljToOwYjhe21KPGzZWK.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Toy Story 5 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1855177.mp4&play_token=2ATSfLo0dc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PzBwUDlVv9b2ISrVGApPNpnCls.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Whitmer Thomas: Terminal Crew of Dudes (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1846830.mp4&play_token=6NppN7d7Xm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Gail Daughtry and the Celebrity Sex Pass (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1846829.mp4&play_token=4fxuOIKIou&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7R05LaU8Em2zN0LaAqEZMVCx3wb.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Agents Un Peu Trop Secrets - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1846827.mp4&play_token=W3LKsbL4Wv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83lV38lQ96UxSNbAdlPBCCcLYl2.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Birthday Party (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1844822.mp4&play_token=2gWtjZDIf3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AI6GBlESvZ4RWhreSWHfqg03HA.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Feed (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1844821.mp4&play_token=Z9zN6XKX7h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rPj6C64Z537pPR0FnbKu8hgBHR.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Evel - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1844820.mp4&play_token=a22g4ZhtaE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Cocktail 2 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1844819.mp4&play_token=rsxm9wWKpX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Camp Rock 3 - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1844818.mp4&play_token=g6gvW9csaq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6boCGBq6PYULSraA6PRUt9nuA93.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Boy from Below (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1841218.mp4&play_token=Oxi9ODvnwH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Gail Daughtry and the Celebrity Sex Pass (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1841216.mp4&play_token=15P8qRvKP2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Don't Say Good Luck (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1841215.mp4&play_token=eDhBciz38E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ All Night Wrong (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1841213.mp4&play_token=XzaaP4MdD2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD8nxSEstIGpxcaWl7Pd6SbwNXh.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Travis Barker: Louder Than Fear - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1837174.ts&play_token=AzXJzyzDBl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfgccePxnswMqhmtxafliLlcCVR.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Jackass: Best and Last (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1837172.mp4&play_token=LMn8M7nFHu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ A Child of My Own (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1837171.mp4&play_token=6DymMVsnQj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGhd37yFzGBX7NLmKxv8LPvRo9c.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Addition (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834831.mp4&play_token=IMqKYEaLPT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxVTarvl5OLoU9YWIYygby6R0KI.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Our Hero  Balthazar - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834830.mkv&play_token=RaQ5HwuInc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaOytZrLtTf8Z7llXjjKkp9XCYY.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Invite (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832794.ts&play_token=BhUPmTFjSA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0j1VVHbJYUFmAmskDp8UJCSvjE.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Paralysis (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832793.mp4&play_token=aT3uhgTfyM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Night Nurse (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832792.ts&play_token=OBEwfOxgbl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7psYxnfWGwNCJvGLFOYQ197lXW5.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Big Baby (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832791.mp4&play_token=3mnVmavJpV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Beast Race (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832790.mp4&play_token=0ngqIxOcdE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Young Washington (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832788.mp4&play_token=NzTSTQCFI5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Rental Family (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832786.mp4&play_token=yfRkfLg9m4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNErActDctl6cdUGw9pnjSCmyhQ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Soulm8te - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823825.mp4&play_token=oBpaxuMBo6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1825420.mp4&play_token=kzBm0DsRTy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Corrida dos Bichos - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1825419.mp4&play_token=6cNgObZLep&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Isolate Thief - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823826.mp4&play_token=aT9le5eOA7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNErActDctl6cdUGw9pnjSCmyhQ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Soulm8te - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823825.mp4&play_token=0X5HW3cvAR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Marave - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823824.mp4&play_token=NBlCYS18A2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823824.mp4&play_token=c0moCnUFwP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Lucky Strike - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823823.mp4&play_token=pUWKNLWwfZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNJ9u1uL12wOzOvvjjdXX8MqrBT.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Lockbox - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823822.mp4&play_token=Ek3NsXN3re&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FoJ5yI1sJGAiehBnIaxraWp6Gp.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Las corrientes - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823821.mp4&play_token=aj5ROTClZq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Inside the Trustor Scandal - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823820.mkv&play_token=8OEGSzsPfB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Evil Dead Burn - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823819.mp4&play_token=xTYSWwUob2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Big Chicken: A Fast Food Conspiracy - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823818.mkv&play_token=dB2XhKxwQP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpyoEZr66AfObydVrowC5r7Tzl0.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Run - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1820333.mp4&play_token=rgL571Uiog&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijXBOzwDoqEz6oPZGe9FuJeZAdi.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Penance - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1820332.mp4&play_token=uZbMMw9ljr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Devil's Mouth - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1820331.mkv&play_token=k4HqNFv1r5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jspztckSybRKigzz5IFueP8qptV.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Outer Threat - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1820329.mp4&play_token=K07zcswsUb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlkd8rmU3DMFKqCGOchAH1avrfM.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Pitfall - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1820328.mp4&play_token=4Ictk5jBOX&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddMt3IAgEHE0SWBjm97jR8gKx9B.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Yön lapsi - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1820327.mp4&play_token=LPRUDYQDDU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1820326.mp4&play_token=OGiCMhY0Xh&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niSvU02l2BONH9ivubV6K1a5QiK.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Supergirl - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1814830.mp4&play_token=IHfUpMiqLG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3fTSiQ19uIpYDHVAHLHvgLwzPD.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Newborn - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1814829.mp4&play_token=4kUEh2e2Mz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiFacg75KVjy0AM3S4QmbPas8zL.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Her Private Hell - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1814827.mp4&play_token=rpMM9r9whL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v05PSRSJtcGHGmI5Egte76sav7g.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Cruel Hands - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1814826.mp4&play_token=DFZvqRBgTP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t70Jano5laAybW9EDJAYWT4tnxL.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Summer's Last Resort (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811332.mp4&play_token=hi8Wz6e35A&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",The Dink - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811330.mp4&play_token=0c83121Cye&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSuPA6FjmCEkWMDD0AzCIzykIhN.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Memory Keeper - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809654.mp4&play_token=9b9AZYeSgH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu2MUD6vCJ6MN2BhcWPVysSND7V.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Sukkwan Island - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809653.mp4&play_token=FBsIaowl0k&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Normal - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809652.mp4&play_token=rUG8HrXVMm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sa7Ko9iXItGwtBmsBSehSyz6mk3.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Night of Blood - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809651.mp4&play_token=W9oQvWRKFV&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6b8V7tLg6l8tvh0LRCorIMSyvhd.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Crybaby Bridge - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809650.mp4&play_token=vk24zRS8Z0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afSUoOxq0oAVQcQzUfWMvcEc8vO.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Caretaker (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809067.ts&play_token=oYYpSKQ2qw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bV0HUg3xU0APddmja298tVOQNy1.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Fence (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809065.mp4&play_token=nlt5ulDfCI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnJ8IQJI23hNpYXVNaythu061Ru.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Disclosure Day (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809064.mp4&play_token=PScLXttPOU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6afis4jZrXZZ9ImvZD9NW9qhyB.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Rio de Sangue - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809063.mp4&play_token=SFuCf9VLPo&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFjEggtrejCN79r6SXRjM269OtG.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Pressure - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809062.mp4&play_token=FIGUzmmNkN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Mandalorian and Grogu (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1807847.mp4&play_token=WToUETtEQG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Death of Robin Hood (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1807846.ts&play_token=tOctxMYW1c&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/259wnijEJoJLPuZuscxDTqwnypw.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Disclosure Day (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1807845.mp4&play_token=ramvn5Mjpm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4apG9Xk6HQvV48JKEjSUeiebju7.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",The Breadwinner - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806737.mp4&play_token=1AwZSveJRS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ocGuTdAg9xPT5XIZHGR8rg1KiX.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Sunset Strip Killers - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806736.mp4&play_token=ts5zR5LnQJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djR0N6yPwspOlCk2u5MWto7ZGM6.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Sukkwan Island - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806735.mp4&play_token=RRr2F3YZ4Y&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frZLn0bjQgnSTtuDFPo3oo7b0Nr.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Scary Movie - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806734.mp4&play_token=2X9AoDZzAD&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lchd153kuw8NB6s2mOC1kE8hTzn.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",A Gangster's Life - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806733.mp4&play_token=hQUB4QBAyk&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",They Fight - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803445.mp4&play_token=PQlJicqXyK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6F1UlF8YCtSDAoTpPY7WIkpm9sw.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Bay - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803444.mp4&play_token=HIaoJ6i5xu&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHEXW63p1NcuoyCGQHDroi4HV9V.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Kill Trip - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803443.mp4&play_token=kg6JUxqYIe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Borderline - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803441.mp4&play_token=xVLLDJVITz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Stop! That! Train! - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1801259.mp4&play_token=CrnMq9ZLwt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEMkoxMuyemveSWnnXWfNhkUyKb.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Ether's Paradise - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1801258.mp4&play_token=5VQb15NEiT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMd9UIyRYjnZLP0VcadMCeFHwKp.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Tow - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794139.mkv&play_token=U5RoU1EPap&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8S3Tt4gQudJUsK9jKu5Gy1mDfvb.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Butcher's Blade (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794137.mkv&play_token=wz6xcNcvfD&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAKOp4AHaDiVdDMlobMNCNgJVD7.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Boulevard - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794134.mkv&play_token=WClFORickX&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udXvLxC5gAqN8SinemyFBEcHpTf.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Magic Faraway Tree - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1790984.mp4&play_token=XgpOVIoAE7&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DoDjn3HKXmn2zIsnATVEePuzFT.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ The Furious - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1790983.mp4&play_token=LHgZ0C6RBA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlkd8rmU3DMFKqCGOchAH1avrfM.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Pitfall - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1790982.mp4&play_token=wUsFRmqRX4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYQmXiKEooImScqysi2HbjjRrgC.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Nothing to Lose - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1790981.mp4&play_token=MtUpWKr59i&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQXPcNgtx5vIHbh3UNomRUi9WyW.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Dead Man's Wire - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1790980.mp4&play_token=KdygqTVIes&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tYRbCPZVQD1AjZ6YGMRx71lbDU.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ California Schemin' - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1790979.mp4&play_token=zBJuHgzwNE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tYRbCPZVQD1AjZ6YGMRx71lbDU.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ California Schemin' - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1790978.mp4&play_token=ZAJNkRM6Tr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Black Box - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1790977.mp4&play_token=0zmLZx3G0d&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y81t8iuiEwsxdE5snmjjZMGmTjW.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Worth the Wait - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1785451.mp4&play_token=VNPyiTWzgp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Passenger - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1785450.mp4&play_token=6MEVmO6p4C&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr7Nq23daobppAg7NmdPPBBcQte.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Jacked - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1785449.mp4&play_token=lTfEs3XVDp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opjyy6Qp5n3QnuMgFeAxx55e7B8.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Bad Man - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1785448.mp4&play_token=RlB8fCFpps&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fA7ByoOADIcwq363GdLbFZl2zgJ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",┃AR┃ Kafir: The Spirit Gate (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781641.mkv&play_token=yeep8O0bPs&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTdamL46xHJXipmoHlx0GUxuE9r.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Unconnected - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779444.mp4&play_token=YjiYY6RhuB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qd18QHsNurNAil2QCeIePXAd0W.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",The Devil Wears Prada 2 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779443.mp4&play_token=8iijBbV0yl&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYAKhRyRcoijGoUUETVTQm8xqzj.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Obsession - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779442.mp4&play_token=SkNmThj472&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃AR┃ ENGLISH CINEMA MOVIES",HOMAGE - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779440.mp4&play_token=jMOB0vqm6w&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5eSf9AIWyW4kzVWbu9ysQjXweS.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Finding Emily - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779439.mp4&play_token=rIbZ8gOmza&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h51c4ZeOaWNO5oSQALOtNRHQD4r.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Bare Skin - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779438.mp4&play_token=xOJ47QywF6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eycVPsYXsLMRXgAPGqJTzKvnlzX.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",This Tempting Madness - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765988.mkv&play_token=qyA5B5dZU1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuNToCHZyZybJQ89HSiAR91JEiI.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Never Change! - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765987.mkv&play_token=EYIYTftzJZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kw7x5mSmHhoeeqwXLwXTBsofD1N.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",How to Make a Killing - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765985.mp4&play_token=JlhXPYCjfi&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnq6itOtvCXRBjwuq96hkYu0pCX.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Hold the Fort - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765984.mkv&play_token=tmse6LjWAd&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6XxbOjeDyHChXlJ7CVEolNCq2o.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Chris & Martina: The Final Set - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765983.mkv&play_token=3Ut9Cil3ij&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx8rkZWmVbc6Zy9PSBUx5c7yjYn.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",De Schapenspeurders - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764090.mp4&play_token=OiRJnzknqP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAnLeakkcgsp7KahiQ43T44Wkdg.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Avatar: Fire and Ash - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764089.mp4&play_token=bcPlvkt0So&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7x7JtopA1q0ATHnDGK83feSSXP.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Tuner - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764088.mp4&play_token=TLW4T4qcA8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx8rkZWmVbc6Zy9PSBUx5c7yjYn.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",De Schapenspeurders - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764087.mp4&play_token=M41dRRhiKc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upix8bo5uJ5NUamttLvqUZDwzQE.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",The Love Heist - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764086.mp4&play_token=3kcGLgdmps&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Power Ballad - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764085.mp4&play_token=DONzryfO7E&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",In the Hand of Dante - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764084.mp4&play_token=RaI2dMhniB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",I Love Boosters - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764083.mp4&play_token=QzGGzVn0Sw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWe4NUeuh7nOpoZk0WTiWxMadlJ.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Hungry - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764082.mp4&play_token=0tQuZbomYS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJ54frFq1NXvpvkP19bWwwFQ8uU.jpg" group-title="┃AR┃ ENGLISH CINEMA MOVIES",Hitman: The Slaughter - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764081.mp4&play_token=rqKENOdnZo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1823823.mp4&play_token=IFw7GAfFsG&type=movie

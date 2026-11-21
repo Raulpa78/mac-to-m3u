@@ -1,203 +1,203 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃Osmosis Jones
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327531.ts&play_token=zXRe9TmGVm&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃Bedknobs and Broomsticks
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327529.ts&play_token=DLPqA9WuqT&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃Escape from Planet Earth
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327518.ts&play_token=4PhWGZW2vc&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃Minuscule en de Mierenvallei
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327517.ts&play_token=S3ZzCls92z&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃Underdogs
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327516.ts&play_token=N26ep30dKN&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃Antz
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327510.ts&play_token=7cQR3HGKqR&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃Alicia en el país de las maravillas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327498.ts&play_token=ArXKybi0TQ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃Space Ranger
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327069.ts&play_token=KmxxjPquJs&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃Monster Summer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303789.mkv&play_token=AdrwP9vd0g&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃Dungeons & Dragons: Honor Among Thieves
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1261948.avi&play_token=zWn8haaNKE&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃The Pilgrim's Progress
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1261105.avi&play_token=EQvaGPK7yT&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃Zeppos: Het Mercatorspoor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1255384.mkv&play_token=2DJzCmeIai&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃Historia de pastores
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1250995.mkv&play_token=4UEfWojuyD&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃Don & DJ: Vrienden voor het leven
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1250994.mkv&play_token=4VKHNJxrcg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foZpSG88IQUCEBJE3unc5QzO6bQ.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Osmosis Jones
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327531.ts&play_token=44aGRSkpjT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BBzsThIZ06UmjZ3rChYGZhJtFQ.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Bedknobs and Broomsticks
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327529.ts&play_token=Z32MBM4duT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9la0CSCJqwh6io3yk4Xv3aEZxEA.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Escape from Planet Earth
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327518.ts&play_token=N2p4k6JI8B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMJfzlsVrksccAxwSbzfs8cFkKs.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Minuscule en de Mierenvallei
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327517.ts&play_token=FMaq1tg4MB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJL0oyVmrwSpULCAGaTqs9VMTdM.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Underdogs
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327516.ts&play_token=iZcojV56ZY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvpJfkzcqENTSlBKCSImi05WlXK.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Antz
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327510.ts&play_token=xpHOyLjFQR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCr9Ui8DPh9jqtB0GFRdj3HzTIw.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Alicia en el país de las maravillas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327498.ts&play_token=WOD48AnIa8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZBZYPRyj3zvjUl4bijqx7PcYV6.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Space Ranger
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327069.ts&play_token=d22YQzpIfq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD2UZkh0DwbDEMuOKIR7jgwgulZ.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Monster Summer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1303789.mkv&play_token=LGBPqYjhfQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIy3wbRxFoDbV3yAkwtXB831GYh.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Dungeons & Dragons: Honor Among Thieves
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1261948.avi&play_token=4wHHshhZZ3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtfsNxAsDHElFvYHUc9Khwqg17Y.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃The Pilgrim's Progress
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1261105.avi&play_token=gRxk4YdynJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IQLVTK1Mfqm0ysJnJPCtPuGBi2.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Zeppos: Het Mercatorspoor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1255384.mkv&play_token=USeZAcyT26&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrMM5hhQVuud5Or1TaXCAbmIfkr.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Historia de pastores
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1250995.mkv&play_token=3uUHY4kiKY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uddYSa7NFus1UeAhlDHlY7bpovm.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Don & DJ: Vrienden voor het leven
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1250994.mkv&play_token=uZ4QqlLhdd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voonpzOubmJODWGTgh27EoD5r7s.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃Phantom
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1248429.mkv&play_token=l17ZZXxqow&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1248429.mkv&play_token=WNNdovsFSR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsIuPVujug3lK08UMzwQNnQXhVs.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃  La inmersión
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1222125.mkv&play_token=yAn8csru3K&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1222125.mkv&play_token=4L2gLfDc1n&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WtPRtnlNh3DhKVL231NgO07cUA.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃  La maniobra de la tortuga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1207048.mp4&play_token=8pYG0oKcmJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1207048.mp4&play_token=Vfstd2ZOnK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6U3JjInVibVMThVp5YSrufAdSVX.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃  Exoplaneta Dune en Peligro
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202036.mkv&play_token=yT1kldCVhC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202036.mkv&play_token=No2x6ABJEd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peIB7KBBrqW0JsCLQBt9ChEtZ7m.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Transformers: El despertar de las bestias
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200206.mkv&play_token=eAaFy4f9n5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200206.mkv&play_token=hK33z5Nmgt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KFS7tb9aYRnnH3AfXZeRZf62a6.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Destino de caballero
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1198138.mkv&play_token=5tCClfy1p6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1198138.mkv&play_token=O3r7cZKglD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6Vg1xxFqaORvw4GuOLnxQAeVhV.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Paddington 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148490.mp4&play_token=dvFN2GL60L&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148490.mp4&play_token=YFa67iX8Gu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhQBj1lqwCpC4oCiX2eVuVKtHVV.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Isla bonita
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148323.mp4&play_token=dhzptYR3lT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148323.mp4&play_token=1S7wv9lZnC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veuymcth1kMReKJHjgqX26KJ6xN.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Yomeddine
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147566.mp4&play_token=pPV8jdriwd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147566.mp4&play_token=Mc9V67XjjK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGfq90BF8QGCMpncF2ag0lGTgKk.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ The Lion King
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147535.mp4&play_token=4RdMdeYiYd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147535.mp4&play_token=FqTeCs6jUx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elXjJ0ZicX6417ckMfmw5ZRwD1T.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Si tú bebes  yo conduzco
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147291.mp4&play_token=qGHLAhHgq7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147291.mp4&play_token=t6cq4lz0k7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEuMGToIOtQPTQmLVJK15nWteIR.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Dunia y el eco del tambor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1008017.mp4&play_token=BXjQa5ECCk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1008017.mp4&play_token=qHwaEOcauA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aq3u6Jv7GXSNFCS0Tu7w7nmI2J9.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Flora en de Fantastische Eekhoorn
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963728.mp4&play_token=pUm2z2uXQ9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963728.mp4&play_token=ngXD3ri5QV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMmMGwAQoJZba76wv4BCGiqDggD.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Diario Tamil
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963671.mp4&play_token=T3QvCiiRRM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963671.mp4&play_token=c1vjw4NlDn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mcovnajaLoy7dbv5arykJjDFFC.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Kaamelott - Premier volet
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963181.mp4&play_token=ay5InoA5xu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963181.mp4&play_token=iNpQ0ipckr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Jurassic World Dominion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963178.mp4&play_token=4y1kLN4NOP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963178.mp4&play_token=52KfmAJiDC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bm77tBJy28DA1DzP7qExKOPWsEL.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Acampamento Intergaláctico
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963156.mp4&play_token=4XukCzBVpm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963156.mp4&play_token=JRl7kaJGu9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pFimosDngknypmNIFg8E0zcVhz.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Hui Buh und das Hexenschloss
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963128.mp4&play_token=fpe2sR8hvf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963128.mp4&play_token=yT8v0fTuiA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmB48zCTE4pg2OmxvL436Z8IOlU.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Gump – pes  který naučil lidi žít
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963105.mp4&play_token=QKPDk8amjl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963105.mp4&play_token=4yQHhltCBJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uL3cuadAkkjdZq1ZJslpvP4Wu5h.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ My Sweet Monster
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963079.mp4&play_token=UvMFKGqHAY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963079.mp4&play_token=w2LRFO8FN7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tshRx2EfnNG6wwjpUJatlBHovjL.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Maxie en haar ondeugende tandenfee
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963074.mp4&play_token=MEdnGuBVzj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963074.mp4&play_token=y7IyWeVyj0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jE2TpPTCQhM7VdFBJZojG5Ja00R.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Scarygirl
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962942.mp4&play_token=vZEU2Ukeqf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962942.mp4&play_token=Dpp4rP5A2w&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dE9IUD6L1HpIctd9KEZtJlzDS29.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ 小虎墩大英雄
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962933.mp4&play_token=No6lrc0uvg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962933.mp4&play_token=2HzWkkt9sE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYNQFBwLRMrulCYE59aMmPZl4Ma.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Orkestra Lurtarra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962855.mp4&play_token=IszMlDg6u2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962855.mp4&play_token=9l7N7jUpQW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UdM7zwNvjmfKermfolXQFZ7P8f.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Le Règne animal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962823.mp4&play_token=lcRxScA7M3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962823.mp4&play_token=hn0sfjjCa6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akWDID6zfsWHJhGCAAcbwbytU55.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Spirit Halloween: The Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962787.mp4&play_token=uGHnAHCaZ4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962787.mp4&play_token=hZVs9T9RJw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAF2WOmTg3y8u2SB0Xi4bo190S8.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Titina
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962731.mp4&play_token=TgCiUr5AZj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962731.mp4&play_token=9IR2lOui3G&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxxVeWHFxe48nmMVpWHIE4cLOJf.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ La Otra Forma
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962680.mp4&play_token=5qT7IvSrZw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962680.mp4&play_token=y0R1eaWNBc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCwm7Iy8ZpfCf0aFmyJR9xeWhTq.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ La Guerre des Lulus
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962665.mp4&play_token=hdMm2D5NwL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962665.mp4&play_token=x18q0ul8xY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aayn0BuqROMfgKWrOVWxEc4aZ0X.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Una aventura gigante
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962601.mp4&play_token=ZOVhgEseaI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962601.mp4&play_token=LYTYfY5uYK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCPF8qNmzzjmIMeeCt7KaCTH02b.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Gueules noires
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=958386.mp4&play_token=qM8o9UQNZm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=958386.mp4&play_token=fXhkf2yOxn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6J7QGCSrtvwvqAt6783BbO3h61.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ The Brothers Grimm
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=958353.mp4&play_token=zqqhg9gIel&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=958353.mp4&play_token=sDEtuLhxTs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IasOA6Nya8jJHwBBmKoXMAGcwz.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ De Jungle Bende
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=958323.mp4&play_token=581WPye3mw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=958323.mp4&play_token=rOGXGAmiQq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQAxvuCKqNNWWeRWG1oqRUUa4qD.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ The Jungle Bunch – World Tour
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=958322.mp4&play_token=HWthUd5J6d&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=958322.mp4&play_token=tq9CUYvtuh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktusrsXnxVEuiBupCi4m5KuENEy.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Elcano: lehen mundu bira
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=958270.mp4&play_token=aT4lhabCb0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=958270.mp4&play_token=F8rOpihsy5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2zDJe9MaBW7XYjRdbYNlIqRNvZ.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ The Escape of Prisoner 614
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=958257.mp4&play_token=2Ga8nU5Gyv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=958257.mp4&play_token=3NeKXTgtzE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGfRWFJEybNVxxJUa9hYk8VQJFC.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ The Primevals
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957997.mp4&play_token=Cn2FXoFSef&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957997.mp4&play_token=XR9fTmTLuC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4cbaE1azKbYfk9HVvytEBLRCHN.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ De Peperbollen en de Vloek van de Zwarte Koning
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957982.mp4&play_token=Bccm250kyF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957982.mp4&play_token=fXpu4AIurO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyQcRGvdW3VtxHR4fSDgPOePEip.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ The Peanut Butter Falcon
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957980.mp4&play_token=VTWRqsWvAm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957980.mp4&play_token=avq4hXaSLc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0rKADffll1kdXQYTXNUeZCFvfo.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ The Magic Flute
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957940.mp4&play_token=p1MLtA5baC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957940.mp4&play_token=AiEbIN5eww&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgDVkGFltTm1MCoFtlq91r7jwi9.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ The Lost City of Z
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957937.mp4&play_token=DNDjYMw3s7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957937.mp4&play_token=3mCEDJSwFo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9Yoy1bPFdeXYiqoe3oIXtMGR0U.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ The Shonku Diaries: A Unicorn Adventure
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957828.mp4&play_token=jeDKaqvHY4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957828.mp4&play_token=KdiSAHjfMk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvzQvHcuVfqY3GtQGxqi8N5OuGm.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Un Camino Mágico
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955688.mp4&play_token=IQ5aE5Ggvb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955688.mp4&play_token=vPvFIKePFT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ctAvTAXwcA74RWCDdZcvCOCBKK.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Emily och den magiska resan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955536.mp4&play_token=OUZtF9S5ay&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955536.mp4&play_token=NX3C58BMbw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxmHrv2dCSoULvkT3jfStNKJeOw.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Valle de sombras
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955520.mp4&play_token=es8de9nK5N&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955520.mp4&play_token=zDFui3panK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oGBEUoVbNzx7IFIEi7Yty4Gygs.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Zambezia: De verborgen vogelstad
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955498.mp4&play_token=dbZrNRacHM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955498.mp4&play_token=uBDSa1YLXp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6rz1Kz9YA9TOVRk0R5OUJhg7ry.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ The Book of Clarence
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955419.mp4&play_token=981pkKG1bL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955419.mp4&play_token=yzoScPHUWN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uGmKTJl4ttgLb2OseGE2jaldcq.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Thabo y el caso del rinoceronte
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955077.mp4&play_token=q51CJyUlPw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955077.mp4&play_token=22M0jZPlbL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsaGcfQcGuRmSHfvQEbjj4gR9jP.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Tadeo Jones 2: El secreto del rey Midas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955034.mp4&play_token=qL6lKcsMoT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955034.mp4&play_token=MGOu7uBU6O&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnJUhmknSFTmgA2pZHwId8ahBvq.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Las aventuras de Tadeo Jones
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955033.mp4&play_token=AhWXdLf9C6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955033.mp4&play_token=DVWTaTzEAL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvHGVEKM3vM129XPRT5MShqOQSL.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Survive
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955021.mp4&play_token=H8njMwNVgp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955021.mp4&play_token=AGSinoSHuz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scfkj0ooLv1v3KjzZejDNq5QDof.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Scooby Doo: La maldición del monstruo del lago
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954904.mp4&play_token=LeSNWsMTCy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954904.mp4&play_token=PJq9KjqQE5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YiHAxavhMLaBqOzx7ZirmOwNkD.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ La fiesta de las salchichas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954901.mp4&play_token=0O09qhVSy6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954901.mp4&play_token=eIPyWjGJBN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6qp51WW5DsYcjc0elXnn6YGiRv.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Spy Cat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954871.mp4&play_token=SXntGYT6ye&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954871.mp4&play_token=7FdXzR1qWw&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃ Ribbit
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954833.mp4&play_token=Ch4kw2aRRR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954833.mp4&play_token=OlT9i4qOOD&type=movie
 #EXTINF:-1 tvg-logo="" group-title="┃ES┃ ADVENTURE",┃ES┃ Rebelion.en.la.isla
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954807.mp4&play_token=C2hOm3O1x6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954807.mp4&play_token=z7XRsacgMa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9p73gp8ugku8n1YNhO0dYryF1ll.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Rango
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954796.mp4&play_token=r3vzvOQFRg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954796.mp4&play_token=aAy4JS9hhT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZnrFOmJqVcHLkQEjtrrMLttUe.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Profesor en Groenlandia
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954744.mp4&play_token=TXkpi2m1jc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954744.mp4&play_token=NqRPTxArCf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eU0QHFGA3f9yEQpLnkJjFs0vrUF.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Hopper  el polloliebre
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954730.mp4&play_token=rDiWERj7uN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954730.mp4&play_token=zl75GXLImp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6L92Mv2kbMOguFt6Hr4eZoYJvRF.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Nina y el secreto del erizo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953699.mp4&play_token=bK6syF5YS1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953699.mp4&play_token=IVUKZjgAYX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72XYwdIugXnjHxS6upI6U0yeTBU.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Mulán
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953638.mp4&play_token=aDYvCgNrUj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953638.mp4&play_token=18T0kfBFBY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/te3xEhB257GXTaDk2UsqA3HDtvF.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Mi maestra se comio a mi amigo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953561.mp4&play_token=CIyOAG35B0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953561.mp4&play_token=IvnoQeHyVv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1tudkx8FlE8czxC4hE7J2YQFEz.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ ¡Menuda momia! 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953555.mp4&play_token=QvaIt0a75d&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953555.mp4&play_token=aTWx2ssahx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGw0VVpI4R2X1peldQMkJV0GGi2.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Maldita jungla
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953494.mp4&play_token=z0QF1wkWgw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953494.mp4&play_token=xnIfLHFbgW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYMLgryWifP0Zmk7zKeaVOUcuKV.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Los Fixies contra los Crabots
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953417.mp4&play_token=l7B4NXrZ0Y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953417.mp4&play_token=W0p5iBhdbH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uMWKEmegf5aTJnp1u98JF4QerP.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Los Croods: Una nueva era
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953411.mp4&play_token=xXGTjNkBPV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953411.mp4&play_token=qLde3yq9oG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSXbiGWoouWvjnxyYIi4GMJ5uN0.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Los Cocodrilos atacan de nuevo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953407.mp4&play_token=HeZCerSh2C&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953407.mp4&play_token=Yr7NHLdLr5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHGDNOK8gs3hSMMSfVIessiLZ4H.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Land of Smiles
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953301.mp4&play_token=AyX0Tk36f9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953301.mp4&play_token=cT8mt66O9h&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j14T7JfdN0XEgLao56aYKQoGwq7.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ La princesa y el monstruo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953272.mp4&play_token=HYVnfnKFqG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953272.mp4&play_token=pafMHZ0RDt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9iVJVfLOjhDkcGBN2X4OmYTQFF.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ La leyenda de la daga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953243.mp4&play_token=ygPpiTKcve&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953243.mp4&play_token=ROSRMxIYnO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPmERFtFBi1LPjBDRS3J0i2rWL6.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ La jungla
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953242.mp4&play_token=vvwNNjnBLq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953242.mp4&play_token=T8cjb1Aavj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzHBLdSrmvTNYsUJOP4O9A2c69U.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ La cima
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953226.mp4&play_token=jSTA5CR6SW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953226.mp4&play_token=opHemTk0P3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJQ1O38B3LUhpHmRZPN7MUCB7lz.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ La Balsa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952899.mp4&play_token=Iv04Sq7MUC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952899.mp4&play_token=AR0tqRdN2S&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySWayaStxjpTXuwyRdKrPkicBFI.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Jim Botón y los trece salvajes
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952854.mp4&play_token=FEg0FrwXKS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952854.mp4&play_token=LGagLRcoOC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHEDqandy8QX7FNJ7kWmSlMk1GY.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ En busca del Palacio Dorado
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952409.mp4&play_token=Dq8ofSmluJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952409.mp4&play_token=AYycsGQ6u4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zAIxFOAuh8M7YOHRXsPJbkjvA7.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Emma
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952408.mp4&play_token=U8AmGSQTCD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952408.mp4&play_token=rTHVUCY4Nb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FZSC3AFbvWH9BIgW2uhmztMcsQ.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Celestial Camel
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952399.mp4&play_token=hANVSAvUNu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952399.mp4&play_token=1wX4j1qNGO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8MObKaFdpQoWeVhJBOBv7d8hrq.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ El secreto de Vicky
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952385.mp4&play_token=wg2oZ0pBGt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952385.mp4&play_token=cD41UA37s8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EyHuCA0rOXpccm9vzuXPRgZva2.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ El reino de Dunark: El don de la serpiente
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952379.mp4&play_token=GhX6DCc6NI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952379.mp4&play_token=iYJIRn0ZNU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Yid4SbKnR6Su9RfRwAINCk06fY.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ El lobo y el león
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952363.mp4&play_token=7Z7C5fgrbm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952363.mp4&play_token=2Ny2SMosBZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBjRUELwITj1q7ooHHJAf6G1C9q.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ El príncipe olvidado
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952296.mp4&play_token=NVGEn3TEAA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952296.mp4&play_token=njCcrJIlFS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkQYRjYRq6eU6hyf6BPwcEQhud.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ El Cid: La leyenda
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952261.mp4&play_token=6xWZxFStqv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952261.mp4&play_token=faLDnErGI9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slyetWArMvWg6cyXz2kr2OAmYP6.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Dunki
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=951052.mp4&play_token=A5oLxFgK63&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=951052.mp4&play_token=7FpOvyBLRI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qfpOsPzxPGtVC3xrzRyDsRWneW.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Hermanos del viento
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=950628.mp4&play_token=saQ6O6vnGq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=950628.mp4&play_token=pbceXHgaXx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU6962lzuC26fVbKPAWHBKiuk2N.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Milagro azul
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=949824.mp4&play_token=3WiInXoqQh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=949824.mp4&play_token=b8fUnZDX3G&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ62EECB9ZxbUHsSb14ZxmSStaj.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Annie West - El Tesoro de las Seis Caras
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=949266.mp4&play_token=XVxvXLzMEV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=949266.mp4&play_token=febgu9V96i&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZkhIiJRYLzghOkHrA9X6dbcK3K.jpg" group-title="┃ES┃ ADVENTURE",┃ES┃ Animals on the Loose: A You vs. Wild Interactive Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=949260.mp4&play_token=qdSJEZINKZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=949260.mp4&play_token=y6uZIFmar8&type=movie

@@ -1,29 +1,147 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDYenRpwuP4emstC3mmmfc4VPbm.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ البطة الصفرا
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1366425.mkv&play_token=tRv18j1Z6H&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUH9g5gOBuCdJ8WrxVIYN2zdrkq.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ شوجر دادي
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364008.mp4&play_token=nUy0Mdkyqa&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8GFYXGutZEMfcT5yYyWiscQvYF.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  شلبي
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364007.mp4&play_token=Gdsb53qeTx&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm8koOrIHqxIpRasoONoAaNO7JW.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃   ساحر النساء
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364006.mp4&play_token=WV1wxB9p3T&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlPnA57Hs1CkVqZPq3sWkqs8Mqp.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃   ساعة إجابة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364005.mp4&play_token=2fkAawiuvt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GTNxTIgeZpHoauWcLLNvPDbPXc.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  فضل و نعمة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364002.mp4&play_token=8ljaGF2ABW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qUsYcoztD7crttFwOZTBXMBYoH.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ كذبة كبيرة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364000.mp4&play_token=c0mEKrSUGB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvDJMrv5LilJMV4ZDtPtTb5abkz.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ عياض في الرياض
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363998.mp4&play_token=knfpIpg15G&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruN70UXQjj7U9CgsYJ92dvNCM6b.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ الفيل
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319040.mp4&play_token=HdXJ7MZyBh&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhIPprTzuP0cXSribq4LiYjPbjr.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  تاج
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319039.mp4&play_token=hKEU13U01y&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pqrjWCq4ojshgtJca1qat9wvmc.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ نبيل الجميل اخصائي تجميل
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319033.mp4&play_token=FQTaXMKRkZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nS3zPByLIWjLgjqYj4uJKa6g1BJ.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ حسن المصري
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319027.mp4&play_token=deuNveHfNe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj1jl3csdFvQdwUsHyTqyiF9zhx.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ حاسب تحلم
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319026.mp4&play_token=ZB6spQQrW5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIAhfD901aIblHSyKiEHKW95EZ4.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ البعبع
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319020.mp4&play_token=9ggdiE2SkO&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ البطة الصفرا
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1366425.mkv&play_token=PfgE4cpfXX&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ شوجر دادي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364008.mp4&play_token=L5IwJJBvZI&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  شلبي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364007.mp4&play_token=mqujBeJr1W&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃   ساحر النساء
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364006.mp4&play_token=Rpxag02lLB&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃   ساعة إجابة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364005.mp4&play_token=qfx9Tmh8Rm&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  فضل و نعمة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364002.mp4&play_token=9MM9q91x7e&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ كذبة كبيرة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364000.mp4&play_token=NPKzxmVxFt&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ عياض في الرياض
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363998.mp4&play_token=9ZFdib0q6O&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ الفيل
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319040.mp4&play_token=olh52nwyBI&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  تاج
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319039.mp4&play_token=lxiPsm3u5J&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ نبيل الجميل اخصائي تجميل
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319033.mp4&play_token=vItzy3wNjV&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ حسن المصري
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319027.mp4&play_token=DVIQTOKFlg&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ حاسب تحلم
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319026.mp4&play_token=r3jm84oJIk&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ البعبع
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319020.mp4&play_token=GCHIG92vIa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnBDGJoyXH09BPIplceAFWK1kIE.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ بعد الشر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319019.mp4&play_token=6I3gmRS8gg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1tc3i5pALTpVkSpElilE7BG2Gr.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ ڤوي! ڤوي! ڤوي!
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318805.mkv&play_token=PJtHWLIBRv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yojqkRR0N4pogOsiuGPEP81drzx.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ عصابات
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=965302.mkv&play_token=OxYfCTAZJ3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nToKXhkvvEc74GG03RGgRxtmd5M.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ تاج
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=940423.mkv&play_token=eRX7SwOW5Q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qNfhpGtMgqskKH9HSTv2l1D1uF.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ الهامور ح. ع
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=935752.mp4&play_token=oy25LUTJ01&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfPjPZF2AqB2XnXPFcHlYtlQRS3.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ Frida
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848128.mp4&play_token=ICyk0PCXU3&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0TXBkWh/ltfpcqop84l7wibcmacl.webp" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ شاي بدون بندق
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848126.mp4&play_token=iLvj0zaHul&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bv3d0fq4/pazrhsw5ruwzhvpiqyut.webp" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ ثلاثة نساء
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848124.mp4&play_token=qLu6FsJL10&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFrFPbsB/pjtmvmw0zgweicswd1ez.webp" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ Izanami
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848122.mp4&play_token=CNYVV8UNI0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcXcYOANOzw6Sy3Acm91pUQ8BON.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ رهبة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=819893.mkv&play_token=QAgmAFyyN4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCPftYdrGK8rkEAo9NcKmEgXwoE.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ اختفاء سالم
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=819890.mkv&play_token=7l2ZJVIdrG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUPsmx1lM8uieZnh5j51JmIWr8I.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ أخي فوق الشجرة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795400.mkv&play_token=cfsKs5Km1F&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64Fd7nDGv7VvwTpc8Olr2cCcefb.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ ابو نسب
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=791809.mkv&play_token=dWu8oAsNDD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlPnA57Hs1CkVqZPq3sWkqs8Mqp.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ ساعة إجابة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=779854.mkv&play_token=NsD1OdO2nT&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ طريق الوادي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=770060.mp4&play_token=jUW7NYx4Ih&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ ع الزيرو
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=770057.mp4&play_token=RpuX3dtOao&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ راعي الأجرب
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=769953.mp4&play_token=Es6jUnhdZI&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ يانال
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754030.mp4&play_token=ikEjAvfcdU&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ 13 يوم
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732175.mp4&play_token=ONa8Z6nPc2&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ ولا غلطة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732173.mp4&play_token=pReX3cRw5m&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ ورشة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732170.mp4&play_token=LqLfqN7KAd&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ هارلي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732164.mkv&play_token=mHwtBBKsdw&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  نزوح
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732163.mp4&play_token=vkvGF0tfx6&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  ناقة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732161.mp4&play_token=hqudApv30n&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  مخرج 56
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732153.mp4&play_token=QCh86rd1EC&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  كذبة كبيرة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732148.mkv&play_token=dA35oXP9k7&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ عبود في البيت
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732138.mp4&play_token=AJLGkc30rV&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  ساعة إجابة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732132.mp4&play_token=irO8wCox8I&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  ساحر النساء
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732131.mp4&play_token=PLVobkzl2U&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  راس براس
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732130.mp4&play_token=hmtxAEyDds&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  خطة مازنجر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732129.mp4&play_token=m4gZBbbGHx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  حسن المصري
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732125.mp4&play_token=p89LyLd7yn&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ حرقة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732124.mp4&play_token=A9CyphCUTC&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ جروب الماميز
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732121.mp4&play_token=O9Qw3D1QsK&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  تحت تهديد السلاح
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732118.mp4&play_token=yxmsimUvHT&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ تحت الضغط
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732117.mp4&play_token=5UTTM0jzMk&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ تحت الشجرة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732116.mp4&play_token=SBv6mXSB18&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ بيروت هولدم
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732114.mp4&play_token=oLHst7xXU7&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  بيت الروبي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732112.mp4&play_token=LWp2YJ7Obl&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  بعد الشر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732111.mkv&play_token=BTPPsOEN2h&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  الكمين
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732106.mp4&play_token=mPa08gl2Z3&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ الغضب
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732104.mp4&play_token=ubPhY6YzaA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/433GNczdvKOAAcwDtsoq7yFrdvZ.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ السجين
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732099.mp4&play_token=Ob8hJ21QjE&type=movie
+#EXTINF:-1 tvg-logo="https://media0065.elcinema.com/uploads/_310x310_ab49f79f57cd84a25a333a8b02e8d3c23f89ba7847d1fcb54c7764e2dcc13474.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  الخلّاط
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732098.mp4&play_token=gfuJdNAXS1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53h5Z8ll4ahF08CQcZvDeRVGyvw.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  الخطابة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732097.mp4&play_token=tixm9dS9i7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykNyRtQeebGh2P6kNHh7Tv3EHPc.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ ابن الحاج احمد
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732090.mp4&play_token=TuXYDxIlTP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb2Tcl5X1jr0S0kggPJv5cbXhNd.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ إتنين للإيجار
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732089.mp4&play_token=RnVfVAut57&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mr4T2539fogjPxdIO8cXpeZlsjk.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ أغنية الغراب
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732087.mp4&play_token=Y2hAZYJ4oB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58rx7ibBm3suoDhDU6QA6ZcsPBA.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ أرض الوهم
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732085.mp4&play_token=yupibSM8Cv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4IRp6TLAJxmLfPSI7DBxNHywMd.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃  حامل اللقب
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732063.mp4&play_token=VENOgLWXCu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQlIYgHpQPIYtUruYMLuJlLQCU4.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ مستر إكس
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=731497.mp4&play_token=lqHBOLf2ED&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXAZqau0NUWpa3IgctlnjGquQIw.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ مغامرات كوكو
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=731060.mp4&play_token=HF7dtA67Tt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjcD2TZnzPmhRBvj6SQDdXBm4je.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ 5 محي الدين ابوالعز
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=731052.mkv&play_token=ezk8FtLyvG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjcD2TZnzPmhRBvj6SQDdXBm4je.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃5 محي الدين ابوالعز
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=723531.mp4&play_token=ZffQznPC4Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8GFYXGutZEMfcT5yYyWiscQvYF.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ شلبي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722511.mp4&play_token=CN9yXfOJq4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm8koOrIHqxIpRasoONoAaNO7JW.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ ساحر النساء
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722510.mp4&play_token=mMlcEdEKVt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIgJBpZy6DewEocSZNDbxEPPgem.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ ناقة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721623.mp4&play_token=O7oOSGmPsp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpmfv10xQRoGDSZR23d2c8r5epS.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ الباب الأخضر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=663927.mkv&play_token=fRuNgNQZct&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqdLsMSMenIcjHYuHvQG0Rt4q1N.jpg" group-title="┃AR┃ ARABIC MOVIES 2023 | افلام عربية 2023",┃AR┃ ماكو
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=663920.mkv&play_token=wO01SFYmlu&type=movie

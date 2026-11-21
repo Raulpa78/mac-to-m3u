@@ -1,29 +1,147 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doOEZ3OV8O7bvGRnOPevO8B382y.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ الدعوة عامة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1405031.mkv&play_token=jikxW5YS0T&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXD23v93qyFwXNBz3Z5kaTMac9h.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃   كيرة  والجن
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364004.mp4&play_token=10YFHPChfz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1wRIwEttuWUByTm1wXsfCstNlh.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ الرجل الذي باع جلده
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326106.mp4&play_token=6uiZIasuwn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1ZodPxxpjz7BNCo6h4q8M9iR65.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ 90 يوم
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322409.mkv&play_token=fHMkX7jwvS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sx4cvAJaG9Uk5NkK8doG4j13upQ.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ وقفة رجالة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319099.mp4&play_token=9ehKRk0TFo&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64JNudrfAbV3uEy6s1EdJ0yHttt.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ ١٩ ب
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319016.mp4&play_token=v8lyJZxp66&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGvqPQ07IEEnygNYFBr2xp0ZxSt.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ 11:11
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318781.mkv&play_token=LZ7HCWTLEj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGiwg30vb0ir5yNhuZpVrEDXzo8.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ كاملا
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191218.mp4&play_token=ockgSfkCc2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41tQUgUXh0fHB9vGoLJRmmLuCW9.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ مشكي و عاود
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1032285.mkv&play_token=F07xViYKqE&type=movie
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjM4WfKw/150x150-20bd64c248f3b9cdfc1190773c42fd6cb987e0690c7d93a385462816a1873791.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ أخ
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=997134.mkv&play_token=DQueSTycNY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJOPgEAAO7FjV0ODrSuw3CFALG8.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ ضيوف شرف
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=974295.mkv&play_token=lbqc9WHBDs&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxOpp3SiJybVITFhK1B4uKz6wax.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ المدفون يجب أن يبقى
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=965321.mp4&play_token=zIeh5ATsXB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gA0DiFwY6Zh9XoHTGop28vMHdo.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ تسليم أهالي
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865905.mkv&play_token=3Vv2eXovQa&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/un228GFGzr1ZLG0VvqeSP4P1C8P.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ فجوة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848127.mkv&play_token=f2Kl3EsJQM&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ الدعوة عامة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1405031.mkv&play_token=mowU8kalae&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃   كيرة  والجن
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364004.mp4&play_token=R0duojE2kX&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ الرجل الذي باع جلده
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326106.mp4&play_token=Yu7if95fWJ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ 90 يوم
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322409.mkv&play_token=haenMJD2kw&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ وقفة رجالة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319099.mp4&play_token=mjiVwL1aVZ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ ١٩ ب
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319016.mp4&play_token=oETuIFBC6y&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ 11:11
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318781.mkv&play_token=FPlOEGMbOs&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ كاملا
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191218.mp4&play_token=D0wDWjCx8x&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ مشكي و عاود
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1032285.mkv&play_token=C0g7N9yWPA&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ أخ
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=997134.mkv&play_token=7tN5B4vf22&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ ضيوف شرف
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=974295.mkv&play_token=VNMFHbs1FC&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ المدفون يجب أن يبقى
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=965321.mp4&play_token=ExMB2lzcPc&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ تسليم أهالي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865905.mkv&play_token=fwpv8ofIQi&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ فجوة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848127.mkv&play_token=uJbE86QVUp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r171FkeIUvxYReLqr5xDkhBMZDu.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ رحلة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848125.mp4&play_token=s2sALYt3PK&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgQkzBz0/djqwucynhprpkzsqeklk.webp" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃  فلفل أحمر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848121.mp4&play_token=7ml1h1vF8J&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yQRJKNy/e-Bu-Ebgo-ED3rko7-Efg-O29a4-Oq-FK9.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃  DNA
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848120.mkv&play_token=cYNTZUgflo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y92cTW9pIw3K2AX7l9R6GS1FKZ2.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ أشباح أوروبا
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848102.mkv&play_token=fzx7Va76Xg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WTbZcNj7fWmzYGQGlosInfZCLA.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ صالون هدى
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848100.mkv&play_token=2mxM7sR1vB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j34pZc2dMgqiyDth0fkXteWEviZ.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ فرح
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795402.mkv&play_token=vBbJ2XpVDL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GQ8TDOhCT1t6UW50qfAQjp2aFa.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ طعم التفاح أحمر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=771219.mp4&play_token=v34lmckq2G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZWHKh9gQwlDn8gDTj9InIgWg45.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ تحت تهديد السلاح
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=770886.mkv&play_token=AY6zbu6TEO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFoXZV1wY7LykyuZJPV0zoYRTdF.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ أصحب ولا أعز
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=770884.mkv&play_token=unJvBLWkA1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uM7cL5jnXvKMHtDploJu30Gfu27.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃عمهم
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=770882.mkv&play_token=2Zc5LzKiKA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6SxJqwMYmBstrcVLsjbdtiMZJT.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ كامله
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=739249.mp4&play_token=M4apjpoZDi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ajq4nT460EZFZisSrhl5xQOyaz7.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃  واحد تاني
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732169.mp4&play_token=zFPerzzDT2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8y8ufYZHNuh7Y58kmA9byvPoWBz.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃   هاشتاج جوزني
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732165.mp4&play_token=OtKNuOMX7J&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pqrjWCq4ojshgtJca1qat9wvmc.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃   نبيل الجميل اخصائي تجميل
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732162.mkv&play_token=ok7U1gH4z7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TlpIP3dE0Z9MhBhQiayLLUmuvK.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ مينون ومناخوليا
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732160.mp4&play_token=uLqQghEZbT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xItlrzGki3bI6hHC9lXLEAz8gO.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃  معالي ماما
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732155.mp4&play_token=rpciJWIuTe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMGbNF3lGIZIarAc8pmiqX1mDAo.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ كيرة  والجن
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732149.mp4&play_token=aPN4Ysc7tA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6nQfL4KuDBrqzzUiBlWtq39m3T.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ 14قمر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732147.mp4&play_token=QtQ20Uh8FJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fyBWTFlJDnH3R31h746mxzC8Xp.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ سفاح نابل
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732133.mp4&play_token=AWxne1Fueu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gA0DiFwY6Zh9XoHTGop28vMHdo.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃  تسليم أهالي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732119.mp4&play_token=LmGMRGJYvs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyIKLxluJQVUHKbyNUbkvgr3avd.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ بحبك
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732109.mp4&play_token=XMORaHsaiF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djrr4soQVEMNqcs64u700HcjmTr.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ أميرة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732088.mp4&play_token=JIfevhAUlp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y92cTW9pIw3K2AX7l9R6GS1FKZ2.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃  أشباح أوروبا
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732086.mp4&play_token=W0bu9Fp2E8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zta3iaJRh4Zty5n1o3N65PRYbKX.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃  تماسيح النيل
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732080.mp4&play_token=tmlbYNVeQg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbISOCWGfoDWz4tSDkRxYlKbiHi.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃  الهيبة الفيلم
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732079.mp4&play_token=FrtMcMNF89&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oESEbowjIbmSUBbqX1Fd4JRSZzC.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃  كوستا برافا، لبنان
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732076.mp4&play_token=D1yykx9QRh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2An6vEAdQKmMDf6aae8YV1QZnOe.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ الرجل الرابع
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732073.mp4&play_token=yLRo2sPeh3&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkHq3LL3/five-minutes-560x315.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ خمس دقائق
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732065.mp4&play_token=ENh5wwuEkf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEUJO3KSiQnGrFwHqIPV0FsQGa1.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ حدث فى٢ طلعت حرب
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732064.mp4&play_token=033tilXOp2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CZhP9hGBhUmRqWT5PwrFVSTOoL.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ النهر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732061.mp4&play_token=suFWyG5WN5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxLL3IrwMI58oLw7YxTr8R5VsHK.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ الجريمة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732060.mp4&play_token=1L4yDB6hHS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Kn8ESWTC20AlFqUnwahGZbzSl8.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ فيلم الاختيار 3: القرار
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732059.mp4&play_token=eMzCgjk1wd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFoXZV1wY7LykyuZJPV0zoYRTdF.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ أصحاب... ولا أعزّ
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=730860.mp4&play_token=vD8n1nwtO4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbIG1u31qzyLMtnMU29R1SKbG6O.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ من أجل زيكو
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=730853.mp4&play_token=jfTIcvj1TM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2U0oAVAE0lDRhNmJPPYhDW9kQ8t.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ آنا
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=730834.mp4&play_token=NBngO1kuF9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6nQfL4KuDBrqzzUiBlWtq39m3T.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃قمر 14
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=730832.mp4&play_token=TfInojAmk9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eZ3W3bzOY0QU6wdX13xSMKVKQB.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ 6 أيام
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=730830.mp4&play_token=5mxKo8ZSEP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbMWtalJT2hBwUfa0TiFWPhZwd3.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ فارس
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=727660.mp4&play_token=bV6ScNyiaY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqoubLur5xjUMLkPMQSr9f2qiBd.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ زومبي على جنبي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=724552.mp4&play_token=nWfOLaNwAc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4IRp6TLAJxmLfPSI7DBxNHywMd.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ حامل اللقب
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=724542.mp4&play_token=kCILvxg8V1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvL3QfygKKh4yV3dRDrYYn4oiRy.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ جدران
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=724541.mp4&play_token=57ry7uEtdS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltpfqNusMK8OR1Z0cVNMbqoDlkL.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ الكمين
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722891.mp4&play_token=E1aBVGtCSH&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ سكة طويلة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722762.mp4&play_token=YcMNjSu4O7&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ خطة مازنجر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722747.mp4&play_token=494emRJc2P&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃  حظك اليوم
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722740.mp4&play_token=oO0ob8eARa&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ هانوفيل
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722739.mp4&play_token=igIku7o81s&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ غدوة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722736.mp4&play_token=r5ME3Rgzsw&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ مخرج 56
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722730.mp4&play_token=EPdPEVuKJB&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ عمهم
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722715.mp4&play_token=4odKTNPEVM&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ أما عن حالة الطقس
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722713.mp4&play_token=mPCbqigpxr&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃  الخلاط+
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722711.mp4&play_token=PDkdvrDYLU&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃  الباب الأخضر
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722707.mp4&play_token=jidGEx6Xle&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ حياة امرأة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722703.mp4&play_token=Y5OHhr8Vc9&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ طرف ثالث
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722513.mp4&play_token=l8SyjRRhGS&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ فضل و نعمة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722506.mp4&play_token=bW90D5GgHY&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ حظك اليوم
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=663962.mp4&play_token=Gc3kvdGn76&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yodXPhHH0tGlRhvRuQgI99EcLdB.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ الشنطة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=663929.mkv&play_token=yVTf6achmf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9r36FCAEW3WPmNdCC60rY2KkGuj.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ عروستي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=663925.mkv&play_token=z9vCMYgUMv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBmzQ30n6hrWecT3GTOFcMhZ3Cb.jpg" group-title="┃AR┃ ARABIC MOVIES 2022 | افلام عربية 2022",┃AR┃ مهمة مش مهمة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=663919.mkv&play_token=EV4W3H4J0O&type=movie

@@ -1,121 +1,121 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfQtVlIHljToOwYjhe21KPGzZWK.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃Toy Story 5 - 2026 (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127932.mkv&play_token=2P9OfbUbKR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YbC4SlzE030BgxWdKDdlatMh5W.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃Snoopy Presents: There's No Place Like Home  Snoopy (2026)(DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1982564.mkv&play_token=rLWF8jA5tb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJ95RnlammhYb6ZvBbQFLq8Jqnl.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Lamp Life (2020)(DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1982550.mkv&play_token=Zx2Wyf88s9&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃Toy Story 5 - 2026 (DUBB)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2127932.mkv&play_token=uytYLyg0bf&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃Snoopy Presents: There's No Place Like Home  Snoopy (2026)(DUBB)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1982564.mkv&play_token=tHgWqlqlmz&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Lamp Life (2020)(DUBB)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1982550.mkv&play_token=SfyQEliK1Y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Lilo & Stitch (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1343693.mkv&play_token=d8d9gErrH0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1343693.mkv&play_token=zSXhqbwKXE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Magician's Elephant (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319124.mp4&play_token=QnkpmGJfI3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319124.mp4&play_token=39fO9mu10B&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Inside Out (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319113.mp4&play_token=VN2tAWTQfk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319113.mp4&play_token=FCPW4X3n76&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xIIo4FMquy5SRqn8hppyr2QadR.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Home on the Range (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319111.mp4&play_token=MLRwFcIf9U&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319111.mp4&play_token=w4VUTzVILr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV0996od52EJ6S8dLKvcVGsO7B.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Diary of a Wimpy Kid Christmas: Cabin Fever (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319109.mp4&play_token=QJnZk69pbD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319109.mp4&play_token=ZkXBOWvDMZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/434GKJXwIye4Y7QXJy80azM38hX.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Winnie the Pooh: Springtime with Roo (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319096.mp4&play_token=tfyTrijM6v&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319096.mp4&play_token=suwU0bMlP5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Vivo (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319095.mp4&play_token=1dmG1wpz5d&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319095.mp4&play_token=LnQBZ4irsV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY6WRn3vwjZq5Y1B2E4pmzJr1kF.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Valiant (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319094.mp4&play_token=vfMSuYIPdL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319094.mp4&play_token=m31MapkeKu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMKatZ0c0NCoKzfizaCzVUcbKMf.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Treasure Planet (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319093.mp4&play_token=Dz6hCgGBAy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319093.mp4&play_token=t8TlGqaiwa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81oxrsugqqs8sAVNX9fdlz57cVU.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Tinker Bell and the Pirate Fairy (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319092.mp4&play_token=gUMmEnkh2l&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319092.mp4&play_token=j48pJPxJjN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5q72GagtB9NM4i3z7M40EXLb3ut.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Secret of the Wings (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319091.mp4&play_token=tcSo6Z7sYt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319091.mp4&play_token=tdD6WTKZOk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tNldk2zPUzXVKkU9aeirM9Wotu.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Tinker Bell and the Lost Treasure (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319090.mp4&play_token=NjcuMBcBoX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319090.mp4&play_token=4hpg5kwI9H&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S0mmmpYStB3GqodRghcfOt81wQ.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Tinker Bell and the Legend of the NeverBeast (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319089.mp4&play_token=YbwLzN1SJq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319089.mp4&play_token=kC2PkOsBnm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ma0r1n8kfH7UaQMS7bJ9KsYUjT.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Tinker Bell (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319088.mp4&play_token=rBHQUCPndf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319088.mp4&play_token=820OFWjh8Q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5koTDBmMAkJOgAe4PL4163UKjvG.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Rescuers Down Under (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319087.mp4&play_token=ojHsEDBbKB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319087.mp4&play_token=S8P96YgzQu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Princess and the Frog (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319086.mp4&play_token=A4cPM2Leaj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319086.mp4&play_token=SDytJe4oc3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xwaFVLv5geVrFd81eUttv7OutF.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Many Adventures of Winnie the Pooh (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319085.mp4&play_token=OSuKjvU4g9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319085.mp4&play_token=afjcDxBeoA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7dM5DILTl9ddpjvnJhs2nA1U9Ru.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Loud House Movie (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319084.mp4&play_token=3RSkhxfICf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319084.mp4&play_token=soO04Z6agY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVJME5R1NmTXtbdnAxYPx7Xa7kr.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Lion King 1½ (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319083.mp4&play_token=h51iB2Ucci&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319083.mp4&play_token=TAlSRkzcje&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWR1x6UCMCGN9xEf8RGhPS934X0.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Lion King II: Simba's Pride (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319082.mp4&play_token=tBPvtWvCfT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319082.mp4&play_token=p1cJaOkPud&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21GanxizOIL1CN0HLx7j3je8k87.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Jungle Book 2 (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319081.mp4&play_token=du23yDwC0n&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319081.mp4&play_token=ijkSv0OBGD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hImMgT9B27evYSRmfztqdDtX6qi.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Hunchback of Notre Dame (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319080.mp4&play_token=r6tge7JgQl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319080.mp4&play_token=xfmJnQjsmK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Good Dinosaur (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319079.mp4&play_token=oIMmBfREq2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319079.mp4&play_token=0oyMwWYBFQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC3k6XBaYnulGSkK8263ABjU3Md.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Fox and the Hound (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319078.mp4&play_token=BUPMwXQU3r&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319078.mp4&play_token=dKZMShYziF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3b8nenAzu5OJk7sbPJURwmeHSV.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Fox and the Hound 2 (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319077.mp4&play_token=BOxKIHX8kd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319077.mp4&play_token=Le8cuQcfPX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xU635vn1lMD9DWDloeuKmuhxxnQ.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Emperor's New Groove (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319076.mp4&play_token=QWVvVBG2Sf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319076.mp4&play_token=5OXFoU9FKq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dz3AjGWAPV4cK8lRDY0DdaVfGUK.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Angry Birds Movie 2 (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319073.mp4&play_token=nDwp1vbCF0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319073.mp4&play_token=idYs3lrY3J&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6GfVkgPaaHJnXNywDLpHJII2tW.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Adventures of Ichabod and Mr. Toad (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319072.mp4&play_token=jsbMyOKSpW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319072.mp4&play_token=S8cVSF313A&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esRxshmD2BY1UPkiUHt7Gn2mksl.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Tarzan & Jane (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319070.mp4&play_token=12JFkKssGM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319070.mp4&play_token=SB6vq4Bt6h&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flwMGZcOO80lqsnZ6lIwsKja5N.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Stitch! The Movie (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319069.mp4&play_token=2KZBZAC0NT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319069.mp4&play_token=lejmTZRaeY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Ratatouille (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319068.mp4&play_token=KO3OJaczyE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319068.mp4&play_token=xdGNp5KuH0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Ralph Breaks the Internet (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319067.mp4&play_token=izZX9vOaPP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319067.mp4&play_token=cejiCVB0Y8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zat2MMhejQyJJN6CucLI9Or9kdo.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Pom Poko (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319065.mp4&play_token=Wopt3xWrwH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319065.mp4&play_token=ISpF51HJqz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Pinocchio (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319064.mp4&play_token=vLQXC8QhQM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319064.mp4&play_token=jCbdlu9EFR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wB3r2b8sxUZspqNyr8copMlt7se.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Return to Never Land (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319063.mp4&play_token=bmLB0bVYJ2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319063.mp4&play_token=llBNjeaL9I&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Peter Pan (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319062.mp4&play_token=ZRjsayZAYy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319062.mp4&play_token=dTPMsuhA2V&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naya0zF4kT401Sx15AtwB9vpcJr.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Meet the Robinsons (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319061.mp4&play_token=DPaNBjeQje&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319061.mp4&play_token=SN57IaQBx9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ How to Train Your Dragon (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319060.mp4&play_token=1OtAZAGdMU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319060.mp4&play_token=XkygvF0ZBq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ How to Train Your Dragon 2 (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319059.mp4&play_token=5POOETGley&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319059.mp4&play_token=cmP3bIGqFI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nFnrivNgipSKZ8LZJJbRSlAcTR.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Hotel Transylvania 2 (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319056.mp4&play_token=CH5lOKrGds&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319056.mp4&play_token=81yU9i4or6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/da68a2KZ5P2ZuDiQoFwM6iYhLRM.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ DuckTales: De Micro-Ducks (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319055.mp4&play_token=uM2DTgui65&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319055.mp4&play_token=T0pVErAm72&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Despicable Me 3 (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319054.mp4&play_token=WqqiSkefa2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319054.mp4&play_token=uxUcEdfpUz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Despicable Me (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319052.mp4&play_token=eqyt4PgjDb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319052.mp4&play_token=SAQaJGqF5L&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Elio (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1315157.mkv&play_token=Yj5A6XbQ0H&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1315157.mkv&play_token=hl24Xvv21k&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzWt8ECED9kGm4LSXLSkPGBWpjE.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Tom and Jerry: Willy Wonka and the Chocolate Factory  (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282317.ts&play_token=DTbp4odmqi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282317.ts&play_token=CStMgRPtRE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k68ZB5trRKcEJSQdPiY6jtxVq14.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Tom and Jerry: The Movie  (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282316.ts&play_token=T5gkKm8Wgp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282316.ts&play_token=PY9PvHDlWP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2Tegfa5IOUkFx988FgTFZth189.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Tom en Jerry: De Verloren Draak  (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282315.ts&play_token=977P2ujRtU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282315.ts&play_token=oK6nYwT0sw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tCVbv0OlEdhBSnK0f7xO39uLwn.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Tom en Jerry: Spion Zoektocht (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282314.ts&play_token=J96xeXOWBU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282314.ts&play_token=hN3ZtENvpH&type=movie
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgr8T0Cf/MV5-BMGY1-Yj-I5-MDIt-MDM4-NC00-Mj-U3-LTk2-NWEt-YTBh-MTgx-MDA4-NDQ4-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Tom and Jerry Blast Off to Mars!: Blasting Off (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282313.ts&play_token=pHooYTgEbj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282313.ts&play_token=xERYRsIdsG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kilE7AJV1gEecTzW51XNi8YHBvs.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Tom en Jerry: Terug naar Oz (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282312.ts&play_token=AyWo0sQaXX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282312.ts&play_token=YLFlqjMhJS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pQhh5bU1KcUeXqPOteWsCkNZPK.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Tom en Jerry - Een Bonte Race (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282311.ts&play_token=e2gXv50u4K&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282311.ts&play_token=tOmNY3vMCN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwMfAavFAysc9cQELGerQErmQhE.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Tom en Jerry's Gigantische Avontuur (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282310.ts&play_token=RScaWxzHyk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282310.ts&play_token=0Zb5yavcNr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Incredibles  (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199473.avi&play_token=KOSQjco3Dw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199473.avi&play_token=VWfcmUI5cB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Hercules (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199455.avi&play_token=LU2Bv5ncpi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199455.avi&play_token=S5fBnGGrYN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWryCBKt8Ai27DbjZaNojDE7NlB.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Dinosaur! (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199454.avi&play_token=bD3RdXLUoZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199454.avi&play_token=F3OGtfaXzB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO8MtukKUZkkkt0r88HS6sN0Jih.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ Big City Greens the Movie: Spacecation ( DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=867394.mp4&play_token=aJONt3bc9K&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=867394.mp4&play_token=hfx0JF76hC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qddUnMT7CgIISEpZi7VCAwDiei.jpg" group-title="┃AR┃ DISNEY+ KIDS DUBB",┃AR┃ The Little Mermaid (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=748836.mkv&play_token=if96M6BCSE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=748836.mkv&play_token=SLtNUQzTWA&type=movie

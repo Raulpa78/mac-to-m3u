@@ -1,243 +1,245 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Kattenkwaad in Egypte - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318796.mkv&play_token=21vrzQj9d1&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ A Magnificent Life (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318794.mkv&play_token=vSiyRMuwkH&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃Shaun the Sheep: The Beast of Mossy Bottom - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149190.mkv&play_token=HYWl6whllG&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃Evolution - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988196.mkv&play_token=leCrwDk15k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg" group-title="┃AR┃ KIDS",┃AR┃Steps - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2365535.mkv&play_token=SxdOgLS7dS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHoC5cTWxdeo0vBHqgeNVewdb7m.jpg" group-title="┃AR┃ KIDS",┃AR┃ Kattenkwaad in Egypte - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318796.mkv&play_token=Ng0EOTxsZY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnYryuWqCGPBggGDNHeY6dI6AWQ.jpg" group-title="┃AR┃ KIDS",┃AR┃ A Magnificent Life (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318794.mkv&play_token=OENwk9fZsq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg" group-title="┃AR┃ KIDS",┃AR┃Shaun the Sheep: The Beast of Mossy Bottom - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149190.mkv&play_token=Hf97X0ZB3G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tMZOnlFUa6zxlEF84QfghXnjuD.jpg" group-title="┃AR┃ KIDS",┃AR┃Evolution - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988196.mkv&play_token=9o8vimIv9N&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg" group-title="┃AR┃ KIDS",┃AR┃ PAW Patrol: The Dino Movie (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986381.mkv&play_token=dSqJi3WD3O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986381.mkv&play_token=MuObI05GlQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg" group-title="┃AR┃ KIDS",┃AR┃ Minions & Monsters (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832785.mp4&play_token=8ARPNyPoqF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832785.mp4&play_token=EnvSQFOoGg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Super Mario Galaxy Movie - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1820330.mkv&play_token=SGExMXn96B&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1820330.mkv&play_token=zwahLCoaS6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MFMZRDTWngjVCQILVkg2JaT7kL.jpg" group-title="┃AR┃ KIDS",┃AR┃ Boonie Bears: The Hidden Protector (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811331.mp4&play_token=3A6ZPTw00Y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811331.mp4&play_token=yt9tRPe4o4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pzI1DIlxwAFffw9OZcG6cr031U.jpg" group-title="┃AR┃ KIDS",Animal Farm - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741327.mp4&play_token=VdzVDPxkOk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741327.mp4&play_token=d0mHB6dXQ4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcDXgGL14qL46It1XOozEjX5Jws.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Pout-Pout Fish - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1725666.mp4&play_token=ZY1YkE5sZH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1725666.mp4&play_token=ow5QXCxaiv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="┃AR┃ KIDS",┃AR┃ Swapped (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1720378.mp4&play_token=90G0ug9grv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1720378.mp4&play_token=YYPjGCYipW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUAP8vw4Bklp9Z01H9K0k6iRihk.jpg" group-title="┃AR┃ KIDS",┃AR┃ Rebellious - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716144.mp4&play_token=aYgY9MfRwL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716144.mp4&play_token=mrikeX88Ip&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whvkL0wzxgKmVbaPontq9NlVd5z.jpg" group-title="┃AR┃ KIDS",┃AR┃ Charlie the Wonderdog - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1705411.mp4&play_token=1yzaIJ89iQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1705411.mp4&play_token=TaC0iiyf1u&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faGb17pJnCPF7eA6RXqb2rIJH5S.jpg" group-title="┃AR┃ KIDS",┃AR┃ Pinecone - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1700993.mkv&play_token=VxsewO8A42&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1700993.mkv&play_token=0qUqHLF95r&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg" group-title="┃AR┃ KIDS",┃AR┃  Jumpers - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1687951.mkv&play_token=v1cMzvMIpq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1687951.mkv&play_token=hEVyUNwosk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg" group-title="┃AR┃ KIDS",┃AR┃ GOAT (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1684491.mp4&play_token=1kh7QThCtn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1684491.mp4&play_token=dpSD8gxtcd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg" group-title="┃AR┃ KIDS",┃AR┃ Gabby's Dollhouse: The Movie (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609810.ts&play_token=lhquAZerUb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1609810.ts&play_token=bXLyq2g7vB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg" group-title="┃AR┃ KIDS",┃AR┃ David - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1607020.mp4&play_token=PMni8IkC53&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1607020.mp4&play_token=VY2v5YNKqo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohB1fdL0p9nHllCsQddgOTnDhPD.jpg" group-title="┃AR┃ KIDS",┃AR┃ Tafiti: Across the Desert (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599712.mp4&play_token=hvFEy74egi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1599712.mp4&play_token=FCPrHRrCtD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg" group-title="┃AR┃ KIDS",┃AR┃ The SpongeBob Movie: Search for SquarePants (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1593227.ts&play_token=q1bn2ZCMTt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1593227.ts&play_token=IpASihyUff&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpZdjnoJ6Z3NsSxI6HjAIggrcEv.jpg" group-title="┃AR┃ KIDS",┃AR┃ Kayara - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1593217.mp4&play_token=rzxylV82n2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1593217.mp4&play_token=3PB3jX2rDT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2J70guF8wcErbYbRgZUBcvShgI1.jpg" group-title="┃AR┃ KIDS",┃AR┃ Merry Little Batman - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562840.mp4&play_token=k0AmwqhY4A&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562840.mp4&play_token=yLyYNtJjSt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVVT6GYFErVv0Lcc9NvqCu0iOxO.jpg" group-title="┃AR┃ KIDS",┃AR┃ Batman Ninja vs Yakuza - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562814.mp4&play_token=nJrI9TZyqY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562814.mp4&play_token=oR9MgOHjNA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJeGQ67XPRkr9lpUOIUYLOhPNf.jpg" group-title="┃AR┃ KIDS",┃AR┃ Mooned - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1486191.mp4&play_token=byIHdFsitk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1486191.mp4&play_token=2luutQmWjZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg" group-title="┃AR┃ KIDS",┃AR┃ IF
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1389576.mp4&play_token=HmGTYXL7Y0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1389576.mp4&play_token=SvXuRv4jwF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaqSskw7kNNpyZjtW5QA8nnKQUn.jpg" group-title="┃AR┃ KIDS",┃AR┃ Robosapien: Rebooted
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1366420.mp4&play_token=ZgFjDDJedo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1366420.mp4&play_token=MTacbtU55u&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozJA81S5r2ynrHwlzSBh4aMgeZA.jpg" group-title="┃AR┃ KIDS",┃AR┃ Panda vs. Aliens
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356140.mp4&play_token=PdC7bcx985&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356140.mp4&play_token=076uVX9iYl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NQljeavtfl22207D1kxLpa4LS3.jpg" group-title="┃AR┃ KIDS",┃AR┃ Nimona
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356137.mp4&play_token=ZzPZSfJI9B&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356137.mp4&play_token=YBIqS69IvE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaH81xFP1EfoL0RBURuJQHFQhB5.jpg" group-title="┃AR┃ KIDS",┃AR┃ My Father's Dragon
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356135.mp4&play_token=xr4UGWDIJY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356135.mp4&play_token=yRKrzWIWfs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6Ghtw9ENhTXfeUsd1Al20ZAvX.jpg" group-title="┃AR┃ KIDS",┃AR┃ Mummies
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356134.mp4&play_token=J5vd7GVZsr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356134.mp4&play_token=TRkSFBfBG9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgH7Wej9922C1MQv0wciAfesKH8.jpg" group-title="┃AR┃ KIDS",┃AR┃ Monkeybone
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356132.mp4&play_token=mTM7doQlts&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356132.mp4&play_token=E8uIGflvez&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg" group-title="┃AR┃ KIDS",┃AR┃ Marcel the Shell with Shoes On
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356131.mp4&play_token=svcrlOSXgM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356131.mp4&play_token=NEHycFnaYZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M8J7tpy5Vnkewp1BFS82abGOFD.jpg" group-title="┃AR┃ KIDS",┃AR┃ Madly Madagascar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356130.mp4&play_token=7H1Uiscnzg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356130.mp4&play_token=DSkvmUPPd4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg" group-title="┃AR┃ KIDS",┃AR┃ Luis and the Aliens
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356129.mp4&play_token=RHSlD02r5I&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356129.mp4&play_token=Kf9gu5bdgg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6d2515LFOKzqwvhhnfcNsf3lIUe.jpg" group-title="┃AR┃ KIDS",┃AR┃ Lamya's Poem
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356126.mp4&play_token=L6JyG4JP9R&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356126.mp4&play_token=9809bTJR9Y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udUnSnQKzYddDpU6WNdTMB5XVEE.jpg" group-title="┃AR┃ KIDS",┃AR┃ Hulk: Where Monsters Dwell
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356124.mp4&play_token=gySH8Ut7Gz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356124.mp4&play_token=wYTdeLSB5t&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etxcq4qiFNi5p0q71APw8MNzPPT.jpg" group-title="┃AR┃ KIDS",┃AR┃ Hey Arnold! The Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356123.mp4&play_token=RfjWoysveZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356123.mp4&play_token=UjJQ9x7TFQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddbcOYQaDbxH5R42DlrK7txVbIG.jpg" group-title="┃AR┃ KIDS",┃AR┃ Henchmen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356122.mp4&play_token=1FsHoabVrB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356122.mp4&play_token=ABCjBzlYyr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mxS4wUimwlLmI1xp6QW6NSU361.jpg" group-title="┃AR┃ KIDS",┃AR┃ Big Hero 6
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326166.mp4&play_token=vJ3cMNBhV0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326166.mp4&play_token=dZ1AjuFRvj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KomINZhIuJeB4oB7k7tkq8tmE.jpg" group-title="┃AR┃ KIDS",┃AR┃  Wonder Park
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322468.mp4&play_token=JSdfhRBQAX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322468.mp4&play_token=i51nf2BJSj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEbDvivUfsCupngKIfMJJ725eAD.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Star
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322459.mp4&play_token=A4tTgjjrQd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322459.mp4&play_token=nDknpcEVen&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZejGKCSd6nwfMx8U0Td37U2fTc.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Rugrats Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322457.mp4&play_token=cds9CAN9u6&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ The Magician's Elephant
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322455.mp4&play_token=7tOfhRiACL&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ The Donkey King
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322453.mp4&play_token=bKjHw57zdq&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ The Boxtrolls
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322452.mp4&play_token=uFNmYFKGSo&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ The Boss Baby: Christmas Bonus
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322451.mp4&play_token=MWoSHy2sM8&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ The Big Bad Fox and Other Tales
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322450.mp4&play_token=1EaRPPPItf&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ The Amazing Maurice
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322449.mp4&play_token=i8T9AamoSA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Spycies
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322447.mp4&play_token=ZIrXh6nhXv&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Rugrats in Paris: The Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322445.mp4&play_token=UPE4ngGtch&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Rock Dog 3: Battle the Beat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322444.mp4&play_token=kDSAif3BIY&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Batman and Superman: Battle of the Super Sons
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322415.mp4&play_token=0fNb31jNqX&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Barnyard
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322414.mp4&play_token=fyVCRxi2IH&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Elio - 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1315156.mkv&play_token=SvM3eJdy0F&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ LEGO Disney Princess: Stop de Schurken
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275772.mp4&play_token=2W3c6JfKIS&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ The King of Kings
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1272452.mp4&play_token=E0S6nG8Spc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322457.mp4&play_token=sfCTBToud8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Magician's Elephant
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322455.mp4&play_token=tv57YzRPFd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzotyfHaej5bcMli3clQD4qcPXx.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Donkey King
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322453.mp4&play_token=6DgVgA4QRS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npBf0yc5Gt7aAyyVOcYtFyT2IPa.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Boxtrolls
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322452.mp4&play_token=FNwHfS2GJu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Boss Baby: Christmas Bonus
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322451.mp4&play_token=mbnCr6a7cA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Nib5a3p2O7yPFSTTNwChp0cnsh.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Big Bad Fox and Other Tales
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322450.mp4&play_token=vScCPl8Lpl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydhZeUjbzVEFclUpMhLfDZSavUY.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Amazing Maurice
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322449.mp4&play_token=02eLUUeXoS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGfZfSDdi58LlygEC8FAwCUsnXC.jpg" group-title="┃AR┃ KIDS",┃AR┃ Spycies
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322447.mp4&play_token=nMCIkY8snL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsuoVtmQEuXFwoXEi9pSLW49umi.jpg" group-title="┃AR┃ KIDS",┃AR┃ Rugrats in Paris: The Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322445.mp4&play_token=POnbyYuz8o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39Hr1FKfqqvx0umS60PCCWtBOKd.jpg" group-title="┃AR┃ KIDS",┃AR┃ Rock Dog 3: Battle the Beat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322444.mp4&play_token=sKCJmGg3tB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvffaexT5kA3chOnGxwBSlRoshh.jpg" group-title="┃AR┃ KIDS",┃AR┃ Batman and Superman: Battle of the Super Sons
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322415.mp4&play_token=pKurjCetNP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qB9jFInwUEb2VLhMeKQX17Vdrnp.jpg" group-title="┃AR┃ KIDS",┃AR┃ Barnyard
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1322414.mp4&play_token=ELDA22t9zY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="┃AR┃ KIDS",┃AR┃ Elio - 4K
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1315156.mkv&play_token=TDfNwPIxjk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajcRSuv1rYbrDxnlNN5xx5H44Ft.jpg" group-title="┃AR┃ KIDS",┃AR┃ LEGO Disney Princess: Stop de Schurken
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275772.mp4&play_token=FZ1bl1em4n&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg" group-title="┃AR┃ KIDS",┃AR┃ The King of Kings
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1272452.mp4&play_token=CWnlpxCUNs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efssbXSURxoO9g8SfeXZO5N5wBS.jpg" group-title="┃AR┃ KIDS",┃AR┃  Looney Tunes: The Day the Earth Blew Up
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1230013.mp4&play_token=0F8oQUCm4f&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1230013.mp4&play_token=W7uZiP6Z0P&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5RriNlmRK9Efcgi1zXHZqOp8vU.jpg" group-title="┃AR┃ KIDS",┃AR┃  Storm Crashers
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1230009.mp4&play_token=3WQN544riP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1230009.mp4&play_token=lBtmuEPesR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30YnfZdMNIV7noWLdvmcJS0cbnQ.jpg" group-title="┃AR┃ KIDS",┃AR┃  Sandy's grote film: Op zoek naar Bikinibroek
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1230003.mp4&play_token=Bg6Qa8zLnv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1230003.mp4&play_token=uVwPAjBTBs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dm7b4IAvgCLkao6mKIXvYxHsvPs.jpg" group-title="┃AR┃ KIDS",┃AR┃  Rainbow High: Rainbow World Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1230002.mp4&play_token=DCTYP35JM6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1230002.mp4&play_token=3ApJrx5nDu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCejOVZcOxKS27nnbh28NKXOdXF.jpg" group-title="┃AR┃ KIDS",┃AR┃  Night of the Zoopocalypse
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1230001.mp4&play_token=VYqHeuFxtF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1230001.mp4&play_token=31iifYR3RB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h34lkT2CFufYuzmP0CEgn4lghyY.jpg" group-title="┃AR┃ KIDS",┃AR┃  My Freaky Family
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229999.mp4&play_token=SpxohkXUUs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229999.mp4&play_token=jXIxkzlQN7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzL083cvIR28XkqFXITQeOq4XgH.jpg" group-title="┃AR┃ KIDS",┃AR┃  Magic Beach
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229997.mp4&play_token=EPxsVNgSua&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229997.mp4&play_token=uE2mI4rknB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg" group-title="┃AR┃ KIDS",┃AR┃  Leo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229996.mp4&play_token=sqV2vSjE0H&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229996.mp4&play_token=z5qCCTHAoP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfdzBx8on6mHdXusi08ZEEPSFqx.jpg" group-title="┃AR┃ KIDS",┃AR┃  Kiff Lore of the Ring Light
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229995.mp4&play_token=xUYpHuYhfb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229995.mp4&play_token=TCuz8rTv9k&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg" group-title="┃AR┃ KIDS",┃AR┃  Dog Man
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229989.ts&play_token=TX3phk8q10&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229989.ts&play_token=HEOGVQfevE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pF9Y5H5x94Tuo6xAZBCrGG8Wvq5.jpg" group-title="┃AR┃ KIDS",┃AR┃  Baby Shark's Big Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229978.mp4&play_token=mokk7xkALf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229978.mp4&play_token=1F6mfz3ino&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8Ob85i772akIhwUlkBWpu5yRUu.jpg" group-title="┃AR┃ KIDS",┃AR┃  Tabby McTat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1208309.mp4&play_token=89vqzlh2de&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1208309.mp4&play_token=fg9eCC2K3T&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1zZnDu0Y0JdozO8tnVuG8Ua1aX.jpg" group-title="┃AR┃ KIDS",┃AR┃  Little Emma
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1208306.mp4&play_token=KV61sbchay&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1208306.mp4&play_token=pXK3m6foxf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg" group-title="┃AR┃ KIDS",┃AR┃  Thelma the Unicorn
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200991.mp4&play_token=mdE6TZZOY8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200991.mp4&play_token=foK3wAfASG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5hNlse0idKlOSrtYBq8VFpMMzr.jpg" group-title="┃AR┃ KIDS",┃AR┃  Beauty and the Beast
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199548.mp4&play_token=Lltds6vgqU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199548.mp4&play_token=wHufH2CMqq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Yq33EXs9YpgrwGXJlJL73OTpt1.jpg" group-title="┃AR┃ KIDS",┃AR┃  Barbie: Starlight Avontuur
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199512.mp4&play_token=x365dyhzF5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199512.mp4&play_token=P9yDVLbFJQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pf8lHZusuQoTr3dCD5EwM2nw9Gi.jpg" group-title="┃AR┃ KIDS",┃AR┃ Super Charlie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1198849.ts&play_token=kAsnUEoq02&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1198849.ts&play_token=8h8NPmvgji&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJeGQ67XPRkr9lpUOIUYLOhPNf.jpg" group-title="┃AR┃ KIDS",┃AR┃ Mooned
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1192039.mp4&play_token=qtYp3Pj1Ha&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1192039.mp4&play_token=ougb7QwZi2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg" group-title="┃AR┃ KIDS",┃AR┃ Vivo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191263.mp4&play_token=C6gynzqpti&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191263.mp4&play_token=tn4UthZZob&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY6WRn3vwjZq5Y1B2E4pmzJr1kF.jpg" group-title="┃AR┃ KIDS",┃AR┃ Valiant
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191262.mp4&play_token=32QPn5oY9n&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191262.mp4&play_token=LfEItNnDIT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMKatZ0c0NCoKzfizaCzVUcbKMf.jpg" group-title="┃AR┃ KIDS",┃AR┃ Treasure Planet
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191261.mp4&play_token=v5HA64JwMu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191261.mp4&play_token=srVgBVVDcx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5koTDBmMAkJOgAe4PL4163UKjvG.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Rescuers Down Under
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191254.mp4&play_token=NLs8bQ7JR3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191254.mp4&play_token=Pb2SnPnL1A&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7dM5DILTl9ddpjvnJhs2nA1U9Ru.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Loud House Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191251.mp4&play_token=k14GdamVZI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191251.mp4&play_token=9dA46bIeej&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7k0fr2xLCTChjN8MnGNThTP9uEB.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Hunchback of Notre Dame
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191247.mp4&play_token=OSWYrzA5VK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191247.mp4&play_token=90FjY7OTr0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Good Dinosaur
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191246.mp4&play_token=wcVAzuu8ZL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191246.mp4&play_token=iiLCeOrlfY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6GfVkgPaaHJnXNywDLpHJII2tW.jpg" group-title="┃AR┃ KIDS",┃AR┃  The Adventures of Ichabod and Mr. Toad
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191239.mp4&play_token=eANmiO94Pc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191239.mp4&play_token=10KeUNRbcb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg" group-title="┃AR┃ KIDS",┃AR┃ Ratatouille
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191232.mp4&play_token=DdUzw6Uf4a&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191232.mp4&play_token=MAg4hnO585&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg" group-title="┃AR┃ KIDS",┃AR┃  Ralph Breaks the Internet
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191231.mp4&play_token=gMn0wPi8qh&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃  Meet the Robinsons
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191223.mp4&play_token=Tz0inscDG0&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ The Snow Queen 3: Fire and Ice
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1166411.mp4&play_token=UqX33Jj5Xp&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ The Snow Queen 2: Refreeze
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1166410.mp4&play_token=WKXLJ4qoYx&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ The Snow Queen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1166409.mp4&play_token=RmqgSVp2GH&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Robot Dreams
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160798.mkv&play_token=Q1wZ96Rz6N&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Migration
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160791.mkv&play_token=uJuXgDpZzO&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Kung Fu Panda 4
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160784.mkv&play_token=1rUUdItpDu&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ SuperKlaus
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160132.mp4&play_token=J3Q27uQ6Cs&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Sneaks
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160130.mp4&play_token=j8pTb4Q1Zh&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ King Shakir: Rise of the Giants
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160115.mp4&play_token=lfe6XctJm7&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Paddington in Peru
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1101673.mp4&play_token=fYPlUn8MSM&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Dog Man
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1075582.ts&play_token=IK0DVOpkDx&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ The Casagrandes Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1046758.mp4&play_token=1JmQS8Bc0T&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ KIDS",┃AR┃ Wonder Park
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041282.mkv&play_token=kLcS5MH1Ua&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191231.mp4&play_token=KcHnDxLr1W&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naya0zF4kT401Sx15AtwB9vpcJr.jpg" group-title="┃AR┃ KIDS",┃AR┃  Meet the Robinsons
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191223.mp4&play_token=jIarpMwMLd&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN1PTHrM/VV.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Snow Queen 3: Fire and Ice
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1166411.mp4&play_token=uGyHUHT1yl&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j51sG4rb/R.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Snow Queen 2: Refreeze
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1166410.mp4&play_token=HIPxyEQOR6&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jXwKbb7/W.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Snow Queen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1166409.mp4&play_token=eFZnGWyfWK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYoCJYDiVoAsW65imOOKrHDmQ6n.jpg" group-title="┃AR┃ KIDS",┃AR┃ Robot Dreams
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160798.mkv&play_token=v0TY81ISc0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpXxBDi0ut5svjh5fbAqLoaJSq8.jpg" group-title="┃AR┃ KIDS",┃AR┃ Migration
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160791.mkv&play_token=B7M2iy6vlM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rX9pFsmXU1ZzFlqYYRWPUj70Z5d.jpg" group-title="┃AR┃ KIDS",┃AR┃ Kung Fu Panda 4
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160784.mkv&play_token=AP4GeZJNlm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sgc5TA8xsi4wpKrf7XrFKscujQ.jpg" group-title="┃AR┃ KIDS",┃AR┃ SuperKlaus
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160132.mp4&play_token=U5AaRgiCFt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLQqoRaw0x2ORm4PbW4Rz5Pb6CV.jpg" group-title="┃AR┃ KIDS",┃AR┃ Sneaks
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160130.mp4&play_token=5bMG7XPwdO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHEEILa0Ee3PMkZ6jF547O1vR69.jpg" group-title="┃AR┃ KIDS",┃AR┃ King Shakir: Rise of the Giants
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160115.mp4&play_token=9gfIgtsOXj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xpY8j4JwggDMuRf0XIQfGhwXfX.jpg" group-title="┃AR┃ KIDS",┃AR┃ Paddington in Peru
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1101673.mp4&play_token=UhazLCRdzm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ad0ZK9wUOKjyB8J90JvMUh0TQ4E.jpg" group-title="┃AR┃ KIDS",┃AR┃ Dog Man
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1075582.ts&play_token=aRlDWoSsP4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZHetsKD44xB63ZjTjqryC0CtoL.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Casagrandes Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1046758.mp4&play_token=wpbpVgZs5B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KomINZhIuJeB4oB7k7tkq8tmE.jpg" group-title="┃AR┃ KIDS",┃AR┃ Wonder Park
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041282.mkv&play_token=7wz7Dn8I3G&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdjKXvXsLd7KiFhvzpezP5RYF2b.jpg" group-title="┃AR┃ KIDS",┃AR┃ Treasure Fellowship
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041281.mkv&play_token=oTnRtsIa4M&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041281.mkv&play_token=0ibkcFIU2W&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dujTx4ZNu1xgIVMV22nge0jfwRs.jpg" group-title="┃AR┃ KIDS",┃AR┃ Muhammad: The Last Prophet
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041279.mkv&play_token=RbqVQRI59y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041279.mkv&play_token=xCezAu9Q9e&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAs7SMytvszn7If6fsgvXcXgOp4.jpg" group-title="┃AR┃ KIDS",┃AR┃ Hanna and the Monsters
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041278.mkv&play_token=GCtFrHBQ4y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041278.mkv&play_token=iF5sTg4Saq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWsqdJ6XUvwimqxwlplIazKjpve.jpg" group-title="┃AR┃ KIDS",┃AR┃ الحلزون والحوت
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=888327.mkv&play_token=pQNCyUDypV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=888327.mkv&play_token=M7unxb1W1O&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWmKdDakRsABTorw40qhyb0Q9lM.jpg" group-title="┃AR┃ KIDS",┃AR┃ Noah's Ark
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879164.mkv&play_token=H2OCCCLiBv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879164.mkv&play_token=mS9553PQ0G&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KTLBbirJnSlZ4aM8qwqloaXz34.jpg" group-title="┃AR┃ KIDS",┃AR┃ Deep Sea
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879162.mkv&play_token=vBK3dn3lJb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879162.mkv&play_token=ukeOmT1faJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMUc6YfWhnspXNdt25moChr4JYQ.jpg" group-title="┃AR┃ KIDS",┃AR┃ Inside Out 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=872726.mkv&play_token=1t5RwGJpXi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=872726.mkv&play_token=44ny53Q6e6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/212IQVRfVBW5su7GubXmezAgBYw.jpg" group-title="┃AR┃ KIDS",┃AR┃ Puffin Rock and the New Friends
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=858349.mkv&play_token=czHx1BB5fN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=858349.mkv&play_token=FJpxvO0KRF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMDTF0rTc2MsXTWPqGxaobcPXdC.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Snow Queen and The Princess
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=857774.mkv&play_token=CTyiqCKGwX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=857774.mkv&play_token=qt5BdrxkrL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTZSqK5yauDzoozLsuTQr5q3T0O.jpg" group-title="┃AR┃ KIDS",┃AR┃ Magic Arch
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=857773.mkv&play_token=0iAjrWo8pc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=857773.mkv&play_token=XehlRqvev4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caoE99m4tHqR02S3KLRwzzJ9YeN.jpg" group-title="┃AR┃ KIDS",┃AR┃ BURN·E
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=770906.mkv&play_token=RF6nw6WbZG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=770906.mkv&play_token=2rItS6UAt7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nVhgCzxKbK47OLIKxCR1syulOn.jpg" group-title="┃AR┃ KIDS",┃AR┃ Raya and the Last Dragon (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=727669.mp4&play_token=z1bHiJkGoK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=727669.mp4&play_token=Yp6VvRWPs7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg" group-title="┃AR┃ KIDS",┃AR┃ Onward (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=727666.mp4&play_token=pgXoeq6mSY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=727666.mp4&play_token=9KjI1AlEik&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg" group-title="┃AR┃ KIDS",┃AR┃ Moana (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=727664.mp4&play_token=DojJLCpJtj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=727664.mp4&play_token=rY5kCrMXhD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mINJaa34MtknCYl5AjtNJzWj8cD.jpg" group-title="┃AR┃ KIDS",┃AR┃ Frozen II (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=727662.mp4&play_token=wFdDPENem3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=727662.mp4&play_token=Hs0m1pjhk5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmWheq3cFI4tYrZDiATOkCNTqgK.jpg" group-title="┃AR┃ KIDS",┃AR┃ Frozen (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=727661.mp4&play_token=hHQC8DzZyk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=727661.mp4&play_token=hT3trAmN7k&type=movie
 #EXTINF:-1 tvg-logo="https://media0065.elcinema.com/uploads/_310x310_5f6f856dba6a837b856a2e7d6a0cc066ee621ae4c650a991a93901e1066b1a27.jpg" group-title="┃AR┃ KIDS",┃AR┃  سر الكهف
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722887.mp4&play_token=Icw1a5ErsU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722887.mp4&play_token=BYknRAD0GS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSmTqtb7gICeRwvsEmq0uJxR4XU.jpg" group-title="┃AR┃ KIDS",┃AR┃ Rise of the Teenage Mutant Ninja Turtles: The Movie (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722886.mp4&play_token=9clttBIHnX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722886.mp4&play_token=PrlZiVC0Mm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUL5UXsL5DaYgGVd2GSeqIvMKfK.jpg" group-title="┃AR┃ KIDS",┃AR┃ LEGO Star Wars Summer Vacation (DUBB)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722881.mp4&play_token=HLEeARd6yZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722881.mp4&play_token=liqvWLmbCQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg" group-title="┃AR┃ KIDS",┃AR┃ The Boss Baby: Christmas Bonus ( مدبلج)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722773.mp4&play_token=XuG0kA0kjT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722773.mp4&play_token=zM5KZ1b0qv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="┃AR┃ KIDS",┃AR┃ بينوكيو غييرمو ديل تورو
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722737.mp4&play_token=EX6ptPINit&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722737.mp4&play_token=pr0m5fmjS8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iW6ixzkrvdrcxk0umiLZMtlSl9L.jpg" group-title="┃AR┃ KIDS",┃AR┃ يوميات طفل جبان: قواعد رودريك ‏
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722724.mp4&play_token=p2513J8owM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722724.mp4&play_token=bU1dBX897k&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLPOtmljthjLFQ1vpPL9vSxat6b.jpg" group-title="┃AR┃ KIDS",┃AR┃  (مدبلج مصري) مدينة العناصر
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721613.mp4&play_token=DKgaaZPav4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721613.mp4&play_token=JysFwsSwWe&type=movie

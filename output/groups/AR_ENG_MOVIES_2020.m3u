@@ -1,51 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ The Island
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327355.mp4&play_token=AH7yk7EwJ9&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ The New Mutants
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326154.mp4&play_token=n7RyLN74u7&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ Breath
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318718.mp4&play_token=h9FvK34TcH&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ Brahms: The Boy II
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318705.mp4&play_token=loYhIqu4P0&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ Blood From Stone
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318660.mp4&play_token=dI3J5raJZL&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ Bleed with Me
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318652.mp4&play_token=1jhPHKZJdP&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃  Bill & Ted Face the Music
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1215135.mp4&play_token=iGgpO8aMiz&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃  Blood From Stone
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1206839.mp4&play_token=fWPErzc6XY&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃  The Way Back
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200989.mp4&play_token=D5Y6ZGNFkC&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199607.mp4&play_token=Umq4aIBE7b&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃  Berlin Alexanderplatz
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199573.mp4&play_token=fZlMGkJxFo&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃  Before the Fire
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199556.mp4&play_token=91JD44KgbA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃  Becoming
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199551.mp4&play_token=v5IbSa9Pt3&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ You're Not Alone
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1016118.mp4&play_token=byHeiZRj4y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwa74ntxUBzaAxznBg8fyfHQH43.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ The Island
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327355.mp4&play_token=HKOtGpRNNf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ The New Mutants
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326154.mp4&play_token=bwQK4n7YI8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRMIISLmt6CTHrS1saAvmWh51Yn.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ Breath
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318718.mp4&play_token=WBhrRSpdqp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swTC1DSZcvdxTOzmAKrtoUUPiDW.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ Brahms: The Boy II
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318705.mp4&play_token=CIJ0pgkxy0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1UYyOm5H3fJjuL8J0nXNXgSyk9.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ Blood From Stone
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318660.mp4&play_token=G5kxuQ6AV3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3speI5oGXTRETSXBP8T91aM0lq.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ Bleed with Me
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318652.mp4&play_token=7MFsvEMP5j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃  Bill & Ted Face the Music
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1215135.mp4&play_token=xjMYRy1So7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1UYyOm5H3fJjuL8J0nXNXgSyk9.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃  Blood From Stone
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1206839.mp4&play_token=9YHMCHH7Ki&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylPnfaphW3FrLBUVwAREVtiL9My.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃  The Way Back
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200989.mp4&play_token=nciKOubymt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199607.mp4&play_token=yXneo7kWjy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5i3ZUjsjDWrcqPGRoKrHsAltBvD.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃  Berlin Alexanderplatz
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199573.mp4&play_token=NxVj87QcJI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAwtbmCzhFwKf2wN6QQH301ylbO.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃  Before the Fire
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199556.mp4&play_token=cpERBPGVAa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0vo1yoEVlbpJ0Fkn0FgU7dTrO8.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃  Becoming
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199551.mp4&play_token=XgZ86skQYd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aBF1D5CXnYZ4eWLHHP3HtKCFph.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ You're Not Alone
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1016118.mp4&play_token=ThOF4oA61U&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ7TH5x2VVZgazvUxbLm4CSdHNK.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ One-Way to Tomorrow
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=965309.mp4&play_token=8LMxfx97re&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=965309.mp4&play_token=uTviBWFOBl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80tDCErk6ymHS7YfvqJcbnnTtqa.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ Godmothered
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=945086.mkv&play_token=3bp308XF2f&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=945086.mkv&play_token=z2sGfPADAL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ The Old Guard - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887703.mp4&play_token=8JsGnmx2Wy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887703.mp4&play_token=6jmZzFKY14&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ The Last Days of American Crime
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887699.mp4&play_token=7Qp4ODxLSl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887699.mp4&play_token=Niss0CrIOM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVL7LGq528h3KzeNI90HOVbV5uW.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ The Devil All the Time - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887695.mp4&play_token=2DtMh8CKPO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887695.mp4&play_token=seoI4VEs0R&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8kRdW12mhOakR9WqVnarQbqGNH.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ Ricos de Amor - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887686.mp4&play_token=AMKxhcxJdh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887686.mp4&play_token=lYGzWYkMok&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TnOeov4w0sTtV2gqICqIxVi74V.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ Project Power - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887682.mp4&play_token=TX04s22jgV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887682.mp4&play_token=NYaRFUFRg8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBXbcx9dckITjIHm8O4tOMf27Fx.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ The Nights Before Christmas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865914.mp4&play_token=UvA4uHgT7O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865914.mp4&play_token=3wyRo8pcC7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPWjid7yMatyIDHvku7lCMN7zSi.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ The Night Clerk
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865907.mp4&play_token=6neGIUo7wI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865907.mp4&play_token=FXv4hMmcWN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMUpzTRF4f4MkScDkUZM030H2t0.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ The Owners [المالكون]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=850274.mp4&play_token=f2n9DNxsn1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=850274.mp4&play_token=QIyS3RpkVn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkqY2EMqWUnFEoedukilIUieVG.jpg" group-title="┃AR┃ ENG MOVIES 2020",┃AR┃ The Outpost
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=850271.mp4&play_token=IJht2VwJfy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=850271.mp4&play_token=qQMS7nAlAr&type=movie

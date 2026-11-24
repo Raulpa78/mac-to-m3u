@@ -1,29 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Winners and Sinners - 1983
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1572001.mkv&play_token=2NtajfHn37&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Who Am I? - 1998
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1572000.mkv&play_token=mZ9paPruQb&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Wheels on Meals - 1984
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571999.mkv&play_token=MgtQWIlbVA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Twinkle  Twinkle Lucky Stars - 1985
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571998.mkv&play_token=eQY7v6IvF4&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Twin Dragons - 1992
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571997.mkv&play_token=BiVQTFkxZF&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Thunderbolt - 1995
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571996.mkv&play_token=dgnR38PaTA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Young Master - 1980
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571995.mkv&play_token=o4RDitHUlr&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Twins Effect - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571994.mkv&play_token=618s6WQh9V&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Twins Effect II - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571993.mkv&play_token=U7wjuGkwhn&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Spy Next Door - 2010
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571991.mkv&play_token=aLsfmANQRg&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Protector - 1985
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571990.mkv&play_token=0QnvWmFXhZ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Myth - 2005
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571989.mkv&play_token=6IFo4mRi7v&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Medallion - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571988.mkv&play_token=GrmQozMaYF&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Legend of Drunken Master - 1994
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571987.mkv&play_token=0DVaVrS4Qt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngFYme3fGnwkssHkPXZr3peI6iW.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Winners and Sinners - 1983
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1572001.mkv&play_token=xaNZuWL8UQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YDKLbBmWGpxG5bO3TBawtNNOAr.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Who Am I? - 1998
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1572000.mkv&play_token=nEjtYkDdAx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCii0fXuI7xzroEEG1KBJDlqu0O.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Wheels on Meals - 1984
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571999.mkv&play_token=5KeXLCATzl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojeCl4Qw4CmMP7jjpiJU4ZlbsV.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Twinkle  Twinkle Lucky Stars - 1985
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571998.mkv&play_token=AhcPnot8NU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tm153lMrHy6HykEYwoP0EI3dQ8k.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Twin Dragons - 1992
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571997.mkv&play_token=IdXc5RbOLF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81D5xBlnTAdJs19dbkfw8eK0oWA.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Thunderbolt - 1995
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571996.mkv&play_token=ayP0kttupR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSZwTKQgY9pudxFOqxKCSf8r5qF.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Young Master - 1980
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571995.mkv&play_token=20ACFtj6JZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frwUWEGWFiIlYekPRuZFG5N250Q.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Twins Effect - 2003
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571994.mkv&play_token=SJ7I5S9DnY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UNGA2zrHgHmQQ8LY7S8uEKL3Dv.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Twins Effect II - 2004
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571993.mkv&play_token=um6CxivR9s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJJrceb2xHGIA0irADX0JvWSIHT.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Spy Next Door - 2010
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571991.mkv&play_token=5WnwcZtdE5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ri2yctGQr4DPLBODZZ2Ky2yqBoL.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Protector - 1985
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571990.mkv&play_token=ZojfCO22pv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBDFnLkTZZxQlbb6IIeYkufnPCY.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Myth - 2005
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571989.mkv&play_token=gjr0up0M0b&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbjFWKfe8WdS8Pj6WVPlyEKeVEo.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Medallion - 2003
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571988.mkv&play_token=IgFp43fbg5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqUBrSBtPYLvCtfqHF5sapU6Div.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Legend of Drunken Master - 1994
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571987.mkv&play_token=ORzX20vKOw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1RBy3l297N0c7PHjlz35cClWju.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Karate Kid - 2010
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571986.mkv&play_token=RkuJLVMFlV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqLl0KQzj74yx1QQ1gyrpqjOhJh.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Founding of a Republic - 2009
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571985.mkv&play_token=oFQoLBsn2j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8chF1Z7hyuSVqLYTgElkQZh2VB.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Forbidden Kingdom - 2008
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571984.mkv&play_token=NxkmsV9bPP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmQR6gtoBJHUkgALLb1eGruKPll.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Fearless Hyena - 1979
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571983.mkv&play_token=wsrTAHin5G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70OnveJQzlYji1TOoODNGrU9Mjj.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Miracles: The Canton Godfather - 1989
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571982.mkv&play_token=KI1VHT4DiT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPW4Qn9wm82uOexHMB3TC8x6lRU.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ The Accidental Spy - 2001
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571981.mkv&play_token=3k937EaEa7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NwhAvXqaVDacl3fvXlfsYXt8Dw.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Spiritual Kung Fu - 1978
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571980.mkv&play_token=RuFBuauns5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCt4990zVSNILSU0Q6DStmdbpIA.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Snake in the Eagle's Shadow - 1978
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571979.mkv&play_token=hn8kjQV05u&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4okXfWfTdnZESaEkBeFnAJrTmI.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Snake & Crane Arts of Shaolin - 1978
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571978.mkv&play_token=RfWvtqthBl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zWliijoTsk3kUdUJpbjqWgV617.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Shinjuku Incident - 2009
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571977.mkv&play_token=h8QUkp5uOl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNeXr9PRv8m83BjfL4K6wP5oPZq.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Shaolin Wooden Men - 1976
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571976.mkv&play_token=NL6FqXWQnm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stvd0u2Pmy2VjdZHbFIEvCwDzRV.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Shaolin - 2011
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571975.mkv&play_token=XMUAjVgTD0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0WwWRcDiDahkah5vZ0KjB4N9ZZ.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Shanghai Noon - 2000
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571974.mkv&play_token=OApw1ADR1v&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVNQStMlZS9mn2AKBEpadRunHgt.jpg" group-title="┃AR┃ JACKI CHAN | چاكي شان",┃AR┃ Shanghai Knights - 2003
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1571973.mkv&play_token=3ifyCbBi7Y&type=movie

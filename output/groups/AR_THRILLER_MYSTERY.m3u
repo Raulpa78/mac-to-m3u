@@ -1,127 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Exam - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732280.mkv&play_token=wIYx0gTHfk&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Intruder - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1521361.mp4&play_token=gy5dDoYyaZ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Infernal Machine - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1521355.mp4&play_token=0DTlNQ1FmC&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Huntress of Auschwitz - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1521345.mp4&play_token=JRDsQWQdoL&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Honeymoon Phase - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1521333.mp4&play_token=35PrZ6oe9n&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Tales of Babylon - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1486196.mp4&play_token=ckwLljz3MJ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Sex Doll
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1343710.mp4&play_token=Lyq1oJN0QB&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Mean Dreams
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1343696.mp4&play_token=lmQyr0yMko&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Deadly Ex Next Door
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334553.mp4&play_token=qpO5Bidbbn&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Deadly Dorm
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334552.mp4&play_token=o8PEYrw13D&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Foxcatcher
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328631.mp4&play_token=0gfdTzSSDe&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ A Most Wanted Man
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328607.mp4&play_token=twFiEiSm1L&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Kingdom
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327367.mp4&play_token=PT8JlcRkAw&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Killing Pact
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327364.mp4&play_token=XkqjzlMHr2&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Gone Girl
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326175.mp4&play_token=3aMe1LAxd5&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Catcher Was a Spy
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1319122.mp4&play_token=OpDcZiJLG5&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Buster's Mal Heart
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318757.mp4&play_token=fEsxR2dP2m&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Broken Vows
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318737.mp4&play_token=3r2793HAko&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Broken Star
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318736.mp4&play_token=I1itc6Fosq&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Broken Horses
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318734.mp4&play_token=uWU8gZBe92&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Bound
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318699.mp4&play_token=5ZJKZr4I18&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Bottom of the World
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318697.mp4&play_token=WXbQXvR3rf&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Bodyguard
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318678.mp4&play_token=qrOsUuuD9I&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Bleeding Heart
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318651.mp4&play_token=mTDawHmrmh&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Blame
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1318645.mp4&play_token=PVwSg3eJ9e&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Identity
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1254169.mp4&play_token=MZkDy8vLBH&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Twisted Neighbor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1253806.mp4&play_token=LSulhbMTE7&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Lyvia's House
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1246778.mp4&play_token=mEP6GSeDPf&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃  Blackway
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1215173.mp4&play_token=omszRJJB9t&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃  Billionaire Boys Club
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1215136.mp4&play_token=gBpMcdlTWg&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃  Broken Vows
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1206916.mp4&play_token=woOa1Lj802&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃  Broken Star
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1206915.mp4&play_token=uKR3mw05iR&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃  Broken Horses
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1206913.mp4&play_token=HGZUZRIvKJ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃  Bridge of Spies
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1206900.mp4&play_token=DUZXUMODt0&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃  Bound
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1206878.mp4&play_token=MQBzy1lton&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃  Bottom of the World
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1206876.mp4&play_token=QBcnwsNg5h&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃  Blood Money
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1206841.mp4&play_token=2GM2xImJAT&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃  Blame
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1206823.mp4&play_token=oQrlmkgpkO&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃  The Wild
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199875.mp4&play_token=F7fzQd16Xq&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃  Between Worlds
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199583.mp4&play_token=za3bYoGLeJ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Bad Times at the El Royale
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1003747.mkv&play_token=YkyA8i3ivr&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Stanford Prison Experiment
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1001226.mkv&play_token=fxwpTSym7z&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNIppgHZTlDqypRO1qad5x7H8Ak.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Victoria
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=981641.mp4&play_token=cumIKpyzNe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtJ4u0fpTZhibxAJHzXtcdCxhsL.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Wave
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=981639.mp4&play_token=J52i2EWL6l&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4HHAWJthAGxnvefLGSyeSInZZx.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Firewall
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=980959.mp4&play_token=0Qb93rGAZC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIIERAso7BYRvfMU8zqmnYLpm8D.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Tashkent Files
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=960160.mkv&play_token=EZQFu1gkAN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQD8NLW8ZsKHZMx9n7dLHSDgseH.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Puncture
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=960158.mkv&play_token=g95xfLsH3J&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dAAl5Sm4XzSU5D0IozMTCliT1V.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Dark River
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=927002.mp4&play_token=n8zSwHxmba&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bokS83zGdhaXgN9tjidUKmAftW.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Girl with the Dragon Tattoo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=925162.mp4&play_token=jSDoU6Fyog&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjMJy5OxJHpFIaboCklDIYdcfpD.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Motherless Brooklyn
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=925159.mp4&play_token=PVLzSgUGEF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZTMFDk5VRQuvkJaCFFAXFV65G6.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Locke - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=925157.mp4&play_token=UhmeykvkyU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4shf5Alq4KWCKqrAAQe0JGJHYp5.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Legend
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=925156.mp4&play_token=vNAUuHsxBb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Beirut
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=925148.mp4&play_token=M7e5UcIZUq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvJeDDYKlfvtYayfOj5sAUXxUju.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Berlin Syndrome
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=918494.mp4&play_token=t6ElLR2bx0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gBFkDYBqvSzrPOWlpGTXRp97NQ.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Enigma
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=917505.mp4&play_token=Q01Mtg8oaa&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KCOv0hL37IN3tWG3j86eZg3xDH.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Eagle Eye
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=903460.mp4&play_token=7gAqICaAZy&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6U7RT5qp97DZhPD5ldAYHFYeggE.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Persona
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894023.mp4&play_token=SeYzEeO45B&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fSghhD8QVqpJxmDO3xd3sCqTs6.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Charlie Tango
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=888900.mp4&play_token=LIbE0kZgP7&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7cvgWyZWuk9GbaErLEXvPfSBZ9.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Rooster
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887704.mp4&play_token=2IQkmmXdAU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibMksKc5cMxrNX3JF6Bs2EIW3Cb.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Dead County
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887110.mp4&play_token=NI2VRJ3F4q&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikPzv7el0RcBhtXj3ElCoH54icd.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Skincare
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=885386.mp4&play_token=rnCNrMuVx7&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIUZiciO0nMh8MrhmsTaMWZvEWK.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Greedy People
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=881229.mp4&play_token=vkYdHAEXqc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nRpZmvdEgq8hMu1rNyc90XQtH6.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Nightingale
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865911.mkv&play_token=ZX7Oq3rQVb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1J2zBCyOQJKsQipqJ0qXERC1Ma.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Exam - 2009
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732280.mkv&play_token=IgbbHmTK9C&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9xKyetr0ihJ2K6HJMeXzc4IwEv.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Intruder - 2019
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1521361.mp4&play_token=JMB4i0hark&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Infernal Machine - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1521355.mp4&play_token=WTHHHw0PmC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Swo97IutuMDSUulAfpPvmZ7ybp.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Huntress of Auschwitz - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1521345.mp4&play_token=yUFjEDEQxa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUR787PgFeUqkbUGfAusbQL91cf.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Honeymoon Phase - 2020
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1521333.mp4&play_token=i8hCiXn5er&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cX2A6fCQqOT44BKBCR2YGkwuZMF.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Tales of Babylon - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1486196.mp4&play_token=G3RofSsio2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grWS1nNexgCQacAIF6Um5PS5N5y.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Sex Doll
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1343710.mp4&play_token=JrQEJRix2l&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf1yPzqPNfmwh7RumTunOUir3f0.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Mean Dreams
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1343696.mp4&play_token=I5HRqK16Ij&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2mp22yfl6ut7SxL9eigNgxp3ZE.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Deadly Ex Next Door
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334553.mp4&play_token=arbgGKBeGm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0U3E7rIJ8ep4INKuHsEUnM3U0T.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Deadly Dorm
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334552.mp4&play_token=kppdYiCDJ7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6Sl079QtUcQ9dVQ2RP6aN9NBXx.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ Foxcatcher
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328631.mp4&play_token=PCyODOoTRw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6B76Z5Ct758RfKFoFg37skVRiMp.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ A Most Wanted Man
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328607.mp4&play_token=tD3DzPB66K&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CSiRnMRLuKT58JiOGzQ7p1oa1b.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Kingdom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327367.mp4&play_token=WN0cJ36bGB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hl0Au8OBwYlIYIWodburEmu4RmO.jpg" group-title="┃AR┃ THRILLER | MYSTERY",┃AR┃ The Killing Pact
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327364.mp4&play_token=aqgu48eMv3&type=movie

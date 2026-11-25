@@ -1,79 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Şımarık  2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975956.mkv&play_token=n43GpxzkeA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Züğürt Ağa - 1985
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975955.mkv&play_token=k7Ip4Dpl9r&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Ümmü Sıbyan: Zifir - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975954.mkv&play_token=JwGLA6BiiX&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Rüyanda Görürsün - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975951.mkv&play_token=IKnadQDush&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Kurak Günler - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975950.mkv&play_token=k14nJW0TIk&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Kiki: Lanet-i Cin - 2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975949.mkv&play_token=oME5zGzA62&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Kaybedenler Kulübü Yolda (2018)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975948.mkv&play_token=mI8tUy8JcS&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Kadınlara Mahsus - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975947.mkv&play_token=y6SQZRCtJj&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Hatıran Yeter - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975946.mkv&play_token=ByKnNVKuuz&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Bihter - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975945.mkv&play_token=2njGgXLvE3&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Aşk Mevsimi - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975944.mkv&play_token=stBJY037rz&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Aşk Sadece Bir An (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975943.mkv&play_token=CZRfiWKCLP&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃49 - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975942.mkv&play_token=Apj9MduzVA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃  Mommy’s Lambie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360737.mkv&play_token=fdWVsskKxm&type=movie
+#EXTINF:-1 tvg-logo="" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Private Lesson 0
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2436143.mp4&play_token=mdEbXXxcKB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2mkICURVmNciiKQaYZdZ0eHE7d.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Cin Azabi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2436142.mp4&play_token=jJdeeuwfPn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mF0tx550p3ViekKX7pfSXKzkXnd.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Anka
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2436141.mp4&play_token=j4OsRxt0Ic&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CF9or2174WFbBbXb5SvREau02H.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Şımarık  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975956.mkv&play_token=8X5SFjRXTw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJjrLFc2ean5CKbwO1LI7B8xecN.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Züğürt Ağa - 1985
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975955.mkv&play_token=MBEaFxD4S9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Hd1JchIhcK5CTw2v7flmmE0OK9.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Ümmü Sıbyan: Zifir - 2014
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975954.mkv&play_token=P5CMuPOmFW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr9Yel6jjlNe1O3xBnrndZDL3nC.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Rüyanda Görürsün - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975951.mkv&play_token=NMJ4caCPpf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZQxyEnT1Lodz6KIfZ9gAVKqCq5.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Kurak Günler - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975950.mkv&play_token=NGQbrrOyLA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TSR7RuzypnUkmTxW608TSi9dLb.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Kiki: Lanet-i Cin - 2020
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975949.mkv&play_token=RAgxd38v1h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swl2YNUjirhLpCnDfrokjYiaoWO.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Kaybedenler Kulübü Yolda (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975948.mkv&play_token=Gj9iIDvq7s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doK9M8vAUtmzfgz02SQLvshhzRq.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Kadınlara Mahsus - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975947.mkv&play_token=bgQeYGMmJ8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFBszSskJV3pgKBxyAxyZxIun2y.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Hatıran Yeter - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975946.mkv&play_token=wyo6k3yNhW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfn5p0uC7cuxQSLvBNSWWQ7Iz6j.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Bihter - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975945.mkv&play_token=LeTWZmIJYz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYus8GNVi8BYIubE5bsPkrz6u13.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Aşk Mevsimi - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975944.mkv&play_token=8OVU3UDljM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwiMs8Lr6FAjvXEiQzTJyxLqZee.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃Aşk Sadece Bir An (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975943.mkv&play_token=J8LfIKJVnm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJNbyUFUt3c14CoIjLSn8ZxPw.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃49 - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1975942.mkv&play_token=66qy6GxLpV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UIxCUQdtuJC2dYMMHH7sghZ856.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃  Mommy’s Lambie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360737.mkv&play_token=Fw2QPqtddW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CF9or2174WFbBbXb5SvREau02H.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Şımarık
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1205459.mp4&play_token=7D0MS2JzAV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1205459.mp4&play_token=nsHTD2NXha&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ykNHGS101LDiFrprD37dhGuug.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Merve Kült
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721444.mp4&play_token=9b5WYdp6hT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721444.mp4&play_token=83cpV9MFtZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMtKov3q8stWGcy7UFuRzpMliUy.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ UFO
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721442.mp4&play_token=3sz25GV2JG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721442.mp4&play_token=KZk4HGD1Bh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xiV4iaUIskBZovcu8UoKSo3vAw.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Bursa Bülbülü
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721441.mp4&play_token=lDMzAq3Yts&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721441.mp4&play_token=Bph7xBbVEI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4TDTYRTWEJcqdzeDPQjB72crTn.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ مهرجان التروبادور
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721440.mp4&play_token=KeGNVZ6rVZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721440.mp4&play_token=b1Sltj9XAy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKL4CA8BsdDlKFiF0gaLQAYG4rp.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Özel Ders
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721439.mp4&play_token=ZupYOX7Cc6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721439.mp4&play_token=kK475AdAKe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXbs90UPMn7pioX5euaKTzhi5Bi.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ آه بيليندا
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721438.mp4&play_token=2mmWuK5m4X&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721438.mp4&play_token=DsvlP7JD51&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDhoeAnOKY8jR6BJbhDYm3y4dT4.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Babamın Kemanı
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721437.mp4&play_token=D508wZxVsH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721437.mp4&play_token=0J4mXcTIKw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDQcaeIAn5WYvXkgi5BCqAkF3N1.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Özür Dilerim
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721436.mp4&play_token=Xcdc5LYdQF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721436.mp4&play_token=n9cL6B8m5s&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TB7s2P4UAVYlkgyv2ox3OGXBPL.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Muallim
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721435.mp4&play_token=SjfwnDpczh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721435.mp4&play_token=GnuOB7Ihc2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioyIeuzTp41HL7917xcGQWvhalB.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Misafir
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721434.mp4&play_token=NgQ3XaM7W1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721434.mp4&play_token=neJXMJYs1C&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ملاذكرد  1071
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721433.mp4&play_token=9jHhJadMzs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721433.mp4&play_token=gTFJUBgP11&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2OVAX58bmTqYG1B4lP802n0YNZ.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ اجعلني أصدق
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721432.mp4&play_token=dCEFnTET0f&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721432.mp4&play_token=msGSMvVWI6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xDN6XlRHpsr1HUbdm0Q3grDeeC.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ النداء الأخير إلى إسطنبول
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721428.mp4&play_token=FPCF1h9u6Q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721428.mp4&play_token=C7TODIX1xY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3VqCDI5IPwNhuV7i5M2dFnk6Ci.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Kerr
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721426.mp4&play_token=ZS9oqgENC0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721426.mp4&play_token=D8qWh95O44&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr9Yel6jjlNe1O3xBnrndZDL3nC.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Rüyanda Görürsün
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721425.mp4&play_token=IMNPFYoLrX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721425.mp4&play_token=z3GezkrCJt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wW6MFMV3hG7tQ6YkcsuAHKtCwmt.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Sen Yaşamaya Bak
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721424.mp4&play_token=sjowoTAzQJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721424.mp4&play_token=HSOoGeIM8D&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccCsgqAUOJ5EnhenNLRK7K6hGqf.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ أغنية القلوب
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721423.mp4&play_token=AXpGcNSG9C&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721423.mp4&play_token=Z4pz44ke7S&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4b0H9PeToxrReNyf0do7kEEJFIx.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Yolun Açık Olsun
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721422.mp4&play_token=2cPkVRmqre&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721422.mp4&play_token=2oGtGa2jun&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdv1uv8UgvgeFKW6n7SxbopWtA4.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ قيامة الحب
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721421.mp4&play_token=X3jrdZP4ZB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721421.mp4&play_token=DYmHCmt84s&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WnyMHip6zWOEAW5ba6GYwlNG3B.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ التزام حسن
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721418.mp4&play_token=jYea0WUF2H&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721418.mp4&play_token=vpnH34t4Ms&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2mkICURVmNciiKQaYZdZ0eHE7d.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Cin Azabı
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721417.mp4&play_token=15P6sQeETZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721417.mp4&play_token=UahHmiBiEB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVzVkpG578B5GqhCDTJnPM8bBkv.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ ضاق الخناق
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721415.mp4&play_token=X8shHVsA7t&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721415.mp4&play_token=BCgV0bgdXB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lBi5pdCKLGVhTkClx7yIyNFfja.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Kurak Günler
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721414.mp4&play_token=hC1fUeNjfy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721414.mp4&play_token=DlUHP6ukqD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufhbeH3KjDOwCWDp0x6Hw0GhS5U.jpg" group-title="┃AR┃ TURKISH TRANS MOVIES",┃AR┃ Anka
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721412.mp4&play_token=byazMzScl4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721412.mp4&play_token=ZFVoRH0Q1y&type=movie

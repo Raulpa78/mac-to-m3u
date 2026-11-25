@@ -1,85 +1,197 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjowoBInlikSlvfAYDRN9ubaODB.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Convoy - 1978
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2435173.mkv&play_token=QWd5L1yHip&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWR6OfTEnjstNdpGBlMXllewHvu.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Cone of Silence - 1960
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414589.mkv&play_token=9BS5yPRWRR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9D9dBldYB4EMwiG81zEqVzO1oF.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Trap - 1959
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414588.mkv&play_token=yjLEJlERBY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFYZNGzftIM8dqGMJBToGraAFJp.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Robe - 1953
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414587.mkv&play_token=xTqdowrz0W&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4mZyim3CwXHu0zVhXjfK8fqoN7.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Lavender Hill Mob - 1951
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414586.mkv&play_token=3Byht4Uiwe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yARMwDXPi5fjcDkWuBApfXQhb2s.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Last Time I Saw Paris - 1954
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414585.mkv&play_token=egm5kOoO3B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6lTWootXbnAH0HwPcEkShId9jH.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The King and Four Queens - 1956
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414584.mkv&play_token=q1TkCEdrPH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqfwjIJrAec4tso2grbsU2apI5E.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Disappearance of Flight 412 - 1974
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414583.mkv&play_token=k60jLQA4ZK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dT5gYM1usXWmxfbcD68JBjxKZpH.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Ensayo de un crimen - 1955
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414582.mkv&play_token=hdgoLlhnBv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BPRRb9RUxQqRNiUd7PwkLY9Ztb.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Sora no Daikaijû Radon (1956)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414581.mkv&play_token=ZeU3tEJHTB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xetaaQQDF84PQ7Hs57U31EuMPil.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Mourning Becomes Electra - 1947
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414580.mkv&play_token=PHzLm2Gzzo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJh3B7ekyN97e0PXUeumwVdFVP4.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Iron Man - 1951
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414579.mkv&play_token=8vqqKEW7o2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZFk1jwxoZ7e6o5exhFIykDWyF8.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Has Anybody Seen My Gal? - 1952
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414578.mkv&play_token=9UAQOStzN2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srnmuA2cg9ZAUNjnHQp1g1fbrmp.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ La Paura [Fear] (1954)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414577.mkv&play_token=arwU0mLi9c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNfisPpnNkAy3NjymLCHHpTggyE.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Emmanuelle 4 - 1984
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414576.mkv&play_token=3TLJFP46ZM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JryT3M8tYcMlKrgh3NYhDiwM7d.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Emanuelle nera (1975)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414575.mkv&play_token=csdQafwoiK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xuERkofv1ka2HrgheDy9SneSrf.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Goodbye Emmanuelle - 1977
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414574.mkv&play_token=T8OVh1yKUQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUYDbpjBtn7BaRokrzSJZbByJtl.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Emmanuelle - 1974
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414573.mkv&play_token=1PCMmFjcO4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZHr0738TLaQWC9CXCQGpw85XUR.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Demetrius and the Gladiators - 1954
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414572.mkv&play_token=1uCcEqSWdb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yCPB2jBvNEhG6qFej8ay3Xn5KU.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Cause for Alarm! - 1951
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414571.mkv&play_token=0hjedgaYPw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jS8eyq1MfK84GrkM708UkBE29hm.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Caltiki il mostro immortale - 1959
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414570.mkv&play_token=bjqFsRmAbj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ny5zwvwmToqeHrLSlJMGk4wXtGZ.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Backlash - 1956
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414569.mkv&play_token=aGVNb90UGd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoZkyt4JQbui0o4goQyCwFBNYCO.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ A Geisha (1953)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414568.mkv&play_token=VhhRPpVpDp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQMpZHJ73cQUbqJNuOcg4sImUCJ.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Cockeyed Cowboys of Calico County - 1970
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351028.mkv&play_token=r6auSyi842&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCBrhOQjhG397GLkEZ49zReQEKX.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Bridges of Madison County - 1995
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351027.mkv&play_token=1gkgquBOzn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19ZsR52KSHdgHA4kjiWPNHVKx5L.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Return to Macon County - 1975
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351026.mkv&play_token=6gAbcnUEsd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHsD93ofMgnvPTCe23Tk7ylvDvr.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Ragazzi fuori - 1990
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351025.mkv&play_token=R7hFbg14Ew&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1xnZmU1NgIAAdIOlEJ49rPK9p8.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Nightmare in Badham County - 1976
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351024.mkv&play_token=igvgQFLeP8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEEtBSRpq7xIXBI08p8v3jM1zlw.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Murder in Coweta County - 1983
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351023.mkv&play_token=w3U4v3z1h4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQk3edOod67ggkxlpp26IiyeGUc.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Moonshine County Express - 1977
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351022.mkv&play_token=CIqvWPjz8M&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p37FtOETC3p7K5GPBonTBFp6Iy2.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Mio Dio  come sono caduta in basso! - 1974
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351021.mkv&play_token=ArY4lZdVZP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGgJH7580UkEaqrwxMolpqQ7a1X.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Mery per sempre - 1989
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351020.mkv&play_token=0w1JpHFAJl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWAyaQWfGkk0OWkXjdZFtQvAYwP.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Macon County Line - 1974
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351019.mkv&play_token=Fm8BgC2AmY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uOEERi8r6DcwwC7aeSRH8CBgr8.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ La ragazza di Bube - 1964
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351018.mkv&play_token=aO1pSX95ku&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byMubSKFewDCU2dxyPFbINBDnV.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Millionairess (1960)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351017.mkv&play_token=dXfLgyIBSS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gSM7ZGBLW5RuuQucRyVJNHCztc.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ La Califfa - 1970
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351016.mkv&play_token=Y7JKqSnH5F&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isrepjJ8j8a2lHSRGZuuF4e111E.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ A cavallo della tigre (1961)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351015.mkv&play_token=46LKdlD5qD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpCZd5Mmfvgd4s0TRvzytBDeYFd.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Io e Caterina - 1980
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351014.mkv&play_token=k6XoYFfYxD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9JIJ7Mo53uBHIsnXTuVRX8pP8g.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Il padre di famiglia - 1967
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351013.mkv&play_token=E8kNGoQwWU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLQMtVtuGSdNYcRyt4NvjKhndk.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Il maestro di violino - 1976
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351012.mkv&play_token=Yo3TlOnSVy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TQwyqULcE87BHCOIt7NvCEzfQi.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Harlan County U.S.A. - 1976
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351011.mkv&play_token=XTM6ba36FZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gxaBCqX1eADOHcrauT9LdkZ6gg.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Trapped - 1982
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351010.mkv&play_token=0noZhPYQN9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2H8YDW1Txdk7qHHTVTl9wLNSrDZ.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Amore vuol dir gelosia - 1975
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351009.mkv&play_token=o8rsgQNoyk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ob0TfLdSvNvRCPM09a9E4iAbugX.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Curral de Mulheres (1982)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351008.mkv&play_token=5vidEE16hz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWBGkHT91My4T2iV3xgynpBTKtQ.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Action Jackson - 1988
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351007.mkv&play_token=7KGk8vo3iF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Willow - 1988
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2322601.mkv&play_token=SEXT4BSWuW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZW7g16PvRxbxMRnCQIrbgTTEr4.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ You Never Can Tell - 1951
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312654.mkv&play_token=UuArDNW9D8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nF6XJ4OqreTaTlTuxmEqTzsXxLG.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Satanik - 1968
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312653.mkv&play_token=d3cfwjZOS0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQqLVh0toIJSeIj8FncORsKiBX7.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Corri uomo corri (1968)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312652.mkv&play_token=dhcAMfYhyl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEKJCDtsI7yrzvQwWmc1HvbPl6Q.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Red Sundown - 1956
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312651.mkv&play_token=giUrmAMojQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBt7wzFB7f5Yt5uR420aJNmOdkS.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Only Two Can Play - 1962
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312650.mkv&play_token=7Tx8MwyC3M&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PaSqmtUozZJ5HmExlqKn98LVA0.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Olsen-banden - 1968
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312649.mkv&play_token=MmV4pUhrIV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VCa4n0XcObLG2bHdi6bK7Wqcr8.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Five Golden Dragons - 1967
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312648.mkv&play_token=MG0AV33NEH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cadujcBxWTQ4QcMyShxxWZEsOnI.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Des frissons partout - 1963
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312647.mkv&play_token=onntE3nDtv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrrA4pfsNURjthyoY51BMRAgMNC.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Le Voleur de crimes (1969)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312646.mkv&play_token=t03jjxE3zh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUentFMBmzrHZ9ARV3EZTIaQ7PK.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Casanova '70 - 1965
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312645.mkv&play_token=Ox49zdxlW7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsJQWtXEfY2K9nGN43UJ1akCaSs.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ A Story Written with Water - 1965
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312644.mkv&play_token=8NoJqYOwqd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCmUz7HqoJoATp09suliP3GOrky.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Anna Karenina (1967)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312643.mkv&play_token=Mcm3GvXzPq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ All About Eve - 1950
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312642.mkv&play_token=WGWgL4SM3F&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jm1MA2qtWznOzeQ2Y9nFyOwaaF.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ World for Ransom - 1954
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2307633.mkv&play_token=cQNuZCBTDD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7JtlEV1AywMXA3iqPH9kuOUiJL.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Walk the Proud Land - 1956
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2307632.mkv&play_token=XghwXmHpR2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJUILMAkJklhVRsX6H91JV0ki5V.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Scarface Mob - 1959
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2307631.mkv&play_token=duRhU9krS6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m11RmrrAW095CIAOlE8qE8ljNl.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Delinquents - 1957
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2307630.mkv&play_token=YdBfSfe3sr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9UwWrphZvs41BIManOuSSQuwk2.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Taxi  Roulotte et Corrida - 1958
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2307629.mkv&play_token=1L9oZdfF1A&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kVDX2TRoRPFoduH64vLnX4Yr8Q.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Olivia - 1951
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2307628.mkv&play_token=sdLMXWjLuM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVnmxZSUSbTDiHl2wyc50ggaOtY.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Home at Seven (1952)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2307627.mkv&play_token=NKiZF1VI5c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5JqXBY3r6IlyJYJlPcYKtknF25.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Man in the Dark - 1953
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2307626.mkv&play_token=h85ZXuk22i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AMTdBJpApUz55HqVbZBS5GNQa6.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Lone Star - 1952
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2307625.mkv&play_token=dx3HH88RVT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gXYRvvr8J2qhZTNoTBiswUlnXR.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Cry Vengeance - 1954
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2307624.mkv&play_token=PJKiKCV9mM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tua28Wyv9uGBtPTBGCP7GsN3Znu.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Volunteers - 1985
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303440.mkv&play_token=xCE7GIcVYz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZ6JDkEpjNSvcKyBib86wOjU9E3.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Bishop's Wife - 1947
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303438.mkv&play_token=AsOxWMuIXd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17h7jjDhNH8JAZ4JVxW91ENM4Qa.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Young and Willing (1943)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303432.mkv&play_token=TbXOyMLuRU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVbBTzr6hkTZBNCr01RKXcTyfGu.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Wild One - 1953
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303431.mkv&play_token=0ZmE0lD2pO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rm2w8dEhOGDuckB6i0Spz9lTzpR.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Thing from Another World - 1951
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303430.mkv&play_token=d5ENWtTlYE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TUOhZhM5GCYIbxwFO3chpZ0DHx.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Man with the Golden Arm - 1955
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303429.mkv&play_token=OqsQIgIOPj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yo7MZOJgfZpuviX7pQQYiYmaShm.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Glass Cage - 1955
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303428.mkv&play_token=B2OJisGfFb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuO4Z3wOWVlhq35MS9asZeT9rVp.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Caine Mutiny - 1954
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303427.mkv&play_token=6bFLfGk0kA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a45mCN6BUPg0JHVnprDOPc2VIST.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Beast from 20 000 Fathoms - 1953
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303426.mkv&play_token=2xh1a8hvXx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6ZdVuBvdzR9fbK343uwPmocWtq.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Ten Tall Men - 1951
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303425.mkv&play_token=84mBd5NjWt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akCdZrlDIoIRXbL8rZOoHFxSkWY.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Summer Stock - 1950
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303424.mkv&play_token=HVWajukEh9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSlwgfum8DFIbayHKRMq0CH6TzS.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Middle of the Night - 1959
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303423.mkv&play_token=GpMSwHaMmo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jU1FRo2rmGAEkhb8A2EB6UpTW0D.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Marie-Octobre - 1959
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303422.mkv&play_token=Da0pkzONIk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VIwLf3yuOqfBo648L2k336AVgO.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Het Duivelsfort (1958)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303421.mkv&play_token=5WGZSUeoRs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnzPJzKr2IVPGqkkE6aCGNePDq0.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Black Belt Jones - 1974
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303420.mkv&play_token=GVgvTZBixI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/985e2B42NiuvjPZCi8gnKpmFn06.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Back from the Dead - 1957
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303419.mkv&play_token=6o1R2hZ3ZT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTyK2zcjXUKJeRCUDCKdqHvozbG.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ 7th Cavalry - 1956
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303418.mkv&play_token=dDihIvOQFC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiwplv5pET2HgMog6otunohIiSr.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Sleepwalkers - 1992
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165937.mkv&play_token=kDOW15sztV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165937.mkv&play_token=u3flKE2B0k&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Kramer vs. Kramer - 1979
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165935.mkv&play_token=eoccIUht6X&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165935.mkv&play_token=lgXKiXPzG8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDO1xRq4LOAv720xqJHHEVz5Sr9.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Cannonball Run - 1981
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149834.mkv&play_token=9x0KT3DARN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149834.mkv&play_token=nHM97bcEou&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYoCkgVHGUAd5BgvRMWrAScY549.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Blue Thunder - 1983
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149822.mkv&play_token=q2sx1l0FK5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149822.mkv&play_token=NsJBdYJYf2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Puqbeh0D95DpXFWep1rmH78btu.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Lolita - 1962
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148580.mkv&play_token=7KsiojBYnG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148580.mkv&play_token=RgKBoPwjEa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uD9ICQYuL6FYgfZC0b6yFjUiSQh.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Die Katze - 1988
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147351.mkv&play_token=7R0VvGrWhh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147351.mkv&play_token=D4LOO7gdCk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkWxyyyWFK5KNk9WVwQuGEC9H9H.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Death Becomes Her - 1992
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143124.mkv&play_token=GYWfFpXeSX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143124.mkv&play_token=gTmw4m9TDW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6NBpVPI0qiyzpynRLpnE2Y9w1x.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Woman's World - 1954
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139567.mkv&play_token=YZujGQR7OT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139567.mkv&play_token=oiZmbPXox2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCA0ecn9LjRWbXXu1E1jUIUi0JV.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Beat Girl - 1960
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139566.mkv&play_token=HECoqgqbQL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139566.mkv&play_token=GnNCLjDRRc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTvyGoVeW0YNO4zcgFBdNo1JRnX.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Verbrande Brug - 1977
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139565.mkv&play_token=3t6ggTUyxr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139565.mkv&play_token=7bqjr3bIEm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueJfqnxtspZI3vCrLrskM8HvIrh.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Town on Trial - 1957
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139564.mkv&play_token=CNY2htYwko&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139564.mkv&play_token=HkSAtUQXTO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lm06hCFKMYsXT4ReY5j1Cvo9mf.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Happy Ever After[Tonight's the Night] (1954)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139563.mkv&play_token=GJlB2joVAW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osjexM9Yol8UwdTr5fce5zJkyvy.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Three Violent People - 1956
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139562.mkv&play_token=DidduGECud&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3y6aNrQd8K2bQjI2gRpmmDJGr99.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Three Coins in the Fountain - 1954
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139561.mkv&play_token=Rrjv0nHlXc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lZSIv6Pz0LbZLMNrYG52WLlaDR.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ L'amante del vampiro - 1960
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139560.mkv&play_token=fuqlKkDYKp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEotfudS3jtF8A6gGV3B4y9kU9l.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Tall Target - 1951
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139559.mkv&play_token=KvET7JXQgR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rqMnYSLjFa9OYwoLhXLVacwhQ7.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Tales of Hoffmann - 1951
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139558.mkv&play_token=V3W9TBdb8p&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bn2OmRN99wGsJ4TijcdNKHN1UgY.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Sea Shall Not Have Them - 1954
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139557.mkv&play_token=x1OWDaacH6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eajgioGefxrosdcnN28KJSfGOxX.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Der rote Kreis (1960)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139556.mkv&play_token=EJGbkznLKH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VB4tGVtym2qXodfxQsCAJBKkSO.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Phenix City Story - 1955
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139555.mkv&play_token=83WRH9ZwaO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2DSLjYAN9kzopG4ZqJv8MohxBI.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Neanderthal Man - 1953
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139554.mkv&play_token=TEKfvi7968&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yo6qaqVF1IThXMapo4yW9BRWjV.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Music Man - 1962
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139553.mkv&play_token=JidTLsARRC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utOyyOn1KQ47ONwtAlC8M9i7zmW.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Mole People - 1956
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139552.mkv&play_token=T5gIvIzKVc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wsGBmJg7Z2agUwQkADE1RD0oq.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Manster - 1959
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139551.mkv&play_token=RYdfWwXziW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIV85xjg61orfVQnQykTSNGKTVj.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Magnetic Monster - 1953
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139550.mkv&play_token=q12Xak6MIH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNOYeby8RNcMFaKfPSxLEl1A1DR.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Lonely Man - 1957
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139549.mkv&play_token=3yluHKTn7c&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpw43WeURVFtAeo33f9DaoUBrf6.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Lady with a Lamp - 1951
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139548.mkv&play_token=lJvqqnpymb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpBlgwCmotclMPMqYlCJJ15l9lj.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Killer Is Loose - 1956
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139547.mkv&play_token=MYBzk37A8h&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76nIzgoW0xJVaXIrTr948XYdO2o.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Hangman - 1959
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139546.mkv&play_token=DuUN2MNNQj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeugD3jvHaNCaSc6r3NK1EcYvty.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ De Bosdwergen - 1967
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139545.mkv&play_token=bfIEo7S1Ju&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEuwIMj7jKYaUt0ZG6aVpYxlkrC.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Glenn Miller Story - 1954
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139544.mkv&play_token=H1dWgYY0SG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkFSOt7JRUatFRMB6CkfUtMOOKb.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Giant Claw - 1957
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139543.mkv&play_token=l79h5xsJb9&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOt8hqIipLjyiqjb4y4gklEwz5T.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ Behemoth  the Sea Monster - 1959
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139542.mkv&play_token=TuRynoGw19&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCmEiQiNXZxR8uDnIGRWrWmF2UH.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Ghost of Monk's Island - 1966
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139541.mkv&play_token=6rQwTgrgWL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzfkzFhYm3iRk6gPCr23ER1BDxw.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Gene Krupa Story - 1959
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139540.mkv&play_token=M2SfiE2aRz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZE9qkRt4tpqvLaNqzzG0bvdnta.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Gamma People - 1956
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139539.mkv&play_token=JzMXuimbFL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vECa5z1DgEQ2Tn5OGRa8YTPOTcM.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Five Pennies - 1959
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139538.mkv&play_token=rFGfnoK2mw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g69kQaqSrRHF0B2Rokz2Yk2Phvy.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Eternal Sea - 1955
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139537.mkv&play_token=LTbcjQR4k3&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uMoRTAfHbPVaYl59xKbInSVD3g.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Deadly Mantis - 1957
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139536.mkv&play_token=zX5pUeriL4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGsu39wlddcl7JxvOVqhBQ1TTEp.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Trollenberg Terror - 1958
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139535.mkv&play_token=qFkQ6ROmT5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWG94g4TGRLNOwikj2GgRBmTvSF.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Boy Who Came Back (1958)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139534.mkv&play_token=fopEMmL4qr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6gEzeLl3NWuESexRiUpk4rtLPH.jpg" group-title="┃NL┃ GOLDEN CLASSICS",┃NL┃ The Black Scorpion - 1957
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139533.mkv&play_token=hhhXR13Aku&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139563.mkv&play_token=eyyLLAqGeU&type=movie

@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",قصة حبي - 1955
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413102.mp4&play_token=XvxfsxPdkY&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ نغم في حياتي
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413104.mkv&play_token=O25yybu087&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃  لحن الخلود
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413103.mkv&play_token=qmGjlSe3p5&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ الحب الكبير
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413101.mp4&play_token=V9vJIur9DO&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ إزاي أنساك
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413100.mp4&play_token=yqPwkKAnCu&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ ماتقولش لحد
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413097.mkv&play_token=jU1xh5bmaM&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃  قصة حبي
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413096.mkv&play_token=lOUWcNWBYs&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ أحبك أنت
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413095.mkv&play_token=XBp7TCXFAl&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃  رسالة من امرأة مجهولة
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413094.mkv&play_token=ShkpXp72Zz&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃  يوم بلا غد
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413093.mkv&play_token=0IfmfjDxnM&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ عهد الهوى
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413092.mkv&play_token=iYgKC9qHEl&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃  انتصار الشباب
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413091.mkv&play_token=ZFIGDI82MX&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ بلبل أفندي
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398290.mkv&play_token=aOmyb6s3nd&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃  أحبك أنت
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398281.mkv&play_token=Oe4lZjXqnl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh9QiOzFI0lwI9B2rHmFK2wdZ4Y.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",قصة حبي - 1955
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413102.mp4&play_token=x9hiyyjIHw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0FJfgLXi5RBNASQ5Bbyp6ww9oy.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ نغم في حياتي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413104.mkv&play_token=5Yaa6awRiV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUwWAS7V8ACEG59jIDgIhnYI6C4.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃  لحن الخلود
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413103.mkv&play_token=Wra5HzvciA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bX1jggugfcidq0K3N0dolwEfFEs.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ الحب الكبير
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413101.mp4&play_token=ckGc8dU2Me&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4LIxgVNNS2qCHT3m1jrQF6JBWt.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ إزاي أنساك
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413100.mp4&play_token=aRWydkyMeB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMVRfNizGd7JLUU4uX4SWx40wh6.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ ماتقولش لحد
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413097.mkv&play_token=XnC1TdUM07&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh9QiOzFI0lwI9B2rHmFK2wdZ4Y.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃  قصة حبي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413096.mkv&play_token=tX3Jm2uJ28&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC4nQKaUhtrGkF5XHgdtpChZWiB.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ أحبك أنت
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413095.mkv&play_token=80pvkPMNZX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPr0HhndwN17jIjQpKJNmmz4uVP.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃  رسالة من امرأة مجهولة
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413094.mkv&play_token=5WDrT8B7At&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybKw8M4hAkQoyGZ0N9SyN3rRnwh.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃  يوم بلا غد
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413093.mkv&play_token=oD3LZzkoaj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRMOAafEhMxkZ8vLxOUZJUjNzTB.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ عهد الهوى
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413092.mkv&play_token=PJEKmXkBiA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnOwebgzttplVu8Xs4QtqZbCAIW.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃  انتصار الشباب
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1413091.mkv&play_token=m8JZfGyK7M&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFlmdRNrCKYRa0sXIwGHcjN2nAW.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ بلبل أفندي
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398290.mkv&play_token=o3Bf9TDffB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC4nQKaUhtrGkF5XHgdtpChZWiB.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃  أحبك أنت
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398281.mkv&play_token=oc2PoKBeVg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jm20kdGccPg8CK4EbQ9Tab3s08.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ حكاية العمر كله
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398274.mkv&play_token=O3FcE2WGk7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398274.mkv&play_token=DXPWotJ0UG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0qMmC6jSYsN1fUsDhXDJVaQtCV.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ من أجل حبي
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1397376.mkv&play_token=rLeb0Rckbo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1397376.mkv&play_token=5oTfL8VQZr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZvciMg3J3A89CcWP0ivcNJP4oe.jpg" group-title="┃AR┃ FARED ELATRASH | فريد الأطرش",┃AR┃ تعال سلم
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396601.mkv&play_token=ZbBZ8YRaUn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1396601.mkv&play_token=iovaY2ZnEG&type=movie

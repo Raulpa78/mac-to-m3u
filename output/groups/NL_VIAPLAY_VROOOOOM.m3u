@@ -1,57 +1,157 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 22-11-2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2418809.mkv&play_token=KzQyug4Gla&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 08-11-2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292427.mkv&play_token=Q9Hef9t5zs&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 06-11-2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284675.mkv&play_token=IrmZ6S84cj&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 30-10-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2191164.mkv&play_token=DPYbEpqDG3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2191164.mkv&play_token=38DMaOs6jA&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 23-10-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145991.mkv&play_token=pgz5dHONa5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145991.mkv&play_token=wHBvLtRYCQ&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 11-10-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2125409.mkv&play_token=1iCcYNB1rZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2125409.mkv&play_token=5nJ7nNUEo0&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 09-10-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2116751.mkv&play_token=Twe4CpeSwP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2116751.mkv&play_token=KYHD6GfWHr&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 04-10-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2059194.mkv&play_token=hTlB1MWUbA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2059194.mkv&play_token=uCwXv8zqlT&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 03-10-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051708.mkv&play_token=HetVhKML3V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051708.mkv&play_token=GIsFm66oNj&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃Nl┃ VROOOOOM 26-09-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1989812.mkv&play_token=7CKzXMA4Ps&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1989812.mkv&play_token=2slwERp10A&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 25-09-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1989585.mkv&play_token=JlQVt2CJZw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1989585.mkv&play_token=48KLIZ3fyg&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 13-09-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1983852.mkv&play_token=ces4RomS4L&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1983852.mkv&play_token=zd6s2VDca7&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 06-09-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974437.mkv&play_token=T5AlkONcFQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974437.mkv&play_token=lsiQRSx4Yc&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 04-09-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972644.mkv&play_token=lk6tHoDaYa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972644.mkv&play_token=MZwfKuXjFC&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 23-08-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1902123.mkv&play_token=e5HmMcl9Os&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1902123.mkv&play_token=UcWIqCKHti&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 21-08-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1893694.mkv&play_token=WlD4bU8g6A&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1893694.mkv&play_token=pMPIUFXWHY&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 26-07-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1815439.mkv&play_token=DIF2RwMsAb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1815439.mkv&play_token=VzgcmA0RTn&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 24-07-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1815438.mkv&play_token=uK2Y9dbgZv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1815438.mkv&play_token=6mjLxgBrV7&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 19-07-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1805791.mkv&play_token=SF1tKBmLs1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1805791.mkv&play_token=TPgnWEfxrF&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 17-07-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802966.mkv&play_token=I5QHr4NSDq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802966.mkv&play_token=jGdzMEeb42&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 05-07-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1787149.mkv&play_token=vFOeynB55S&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1787149.mkv&play_token=ZmyZOLpEro&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 03-07-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1783564.mkv&play_token=lWvy6WG4if&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1783564.mkv&play_token=NEXqnZToPG&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 28-06-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779260.mkv&play_token=YoOsw0MXnQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779260.mkv&play_token=oGR6ssFKNz&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 26-06-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766313.mkv&play_token=pboN0bCzCT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766313.mkv&play_token=9dbJIj4r3L&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 14-06-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754339.mkv&play_token=j6v0anMo5f&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754339.mkv&play_token=i0oJoUInEy&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 12-06-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1752403.mkv&play_token=HTHVP7w2g3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1752403.mkv&play_token=HrPKAI4EcU&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 07-06-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747990.mkv&play_token=HlIV490dov&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747990.mkv&play_token=HWvilp7fzx&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 05-06-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1746660.mkv&play_token=Pni9CmX3Z3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1746660.mkv&play_token=UogPn5GeOd&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 22-05-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1736260.mkv&play_token=AgPj7CyhZF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1736260.mkv&play_token=RYp4TkVLzg&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 01-05-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1720092.mkv&play_token=FQtfnYQ1K1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1720092.mkv&play_token=znqFvWtHMT&type=movie
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM F1 Samenvatting 30-03-2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1689705.mkv&play_token=x6gYZ8Gnnb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1689705.mkv&play_token=3rrbRm6VQR&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 27-03-2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1687294.mkv&play_token=vlC0eDAqpN&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM Samenvatting 15-03-2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1679385.mkv&play_token=5l4zYd6Fds&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 13-03-2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677770.mkv&play_token=EcIhk34DQq&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM Samevating 08-03-2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1673659.mkv&play_token=4h02op8dwa&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 06-03-2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1672226.mkv&play_token=pZvFApsUkN&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 07-12-25 Abu Dhabi Nabeschouwing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1471071.mkv&play_token=jf3HMIxEkG&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/331/320/Vrooooom_L.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 05-12-2025 Abu Dhabi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1469394.mkv&play_token=egAp4kEyVE&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 30-11-2025 Qatar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1464457.mkv&play_token=Ulq0EewbjW&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 29-11-2025 Qatar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1462386.mkv&play_token=TxFhbmQp6N&type=movie
+#EXTINF:-1 tvg-logo="https://www.racexpress.nl/imgitems/article/2024/04/RX_Viaplay_E90B4065_A.jpg" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 23-11-2025 Las Vegas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1454599.mkv&play_token=tCz1i3lFwK&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 21-11-2025 Las Vegas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1450661.mkv&play_token=L122U2nEWg&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 09-11-2025 Brazilie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1432622.mkv&play_token=kctqzNTBnd&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 07-11-2025 Brazilie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1428281.mkv&play_token=MM6dr5gHF0&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 24-10-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400370.mkv&play_token=vwJWXPK2Hs&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 17-10-2025 Austin
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1384292.mkv&play_token=U63g08ehu9&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 05-10-25 Nabeschouwing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1348554.mkv&play_token=V4iT2QaaIL&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 03-10-2025 Singapore
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1339708.mkv&play_token=VU5KDu1kjM&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 21-09-25 Nabeschouwing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317460.mkv&play_token=fEb1HwD1eY&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃Vrooooom 19-09-2025 Azerbeidzjan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1314801.mkv&play_token=VfPcYiLOAO&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 07-09-25 Nabeschouwing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1288440.mkv&play_token=sX0OKtYLwB&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 05-09-2025 Monza
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1286930.mkv&play_token=dCYSTsnfnd&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 31-08-2025 Zandvoort
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1280127.mkv&play_token=XDa1RGmucN&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 30-08-2025 Zandvoort
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1280126.mkv&play_token=by7H52FAIs&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 29-08-2025 Zandvoort
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1277352.mkv&play_token=h7APQD0fGS&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ VROOOOOM 03-08-25
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1249317.mkv&play_token=1sah0eA6G3&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 01-08-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1247827.mkv&play_token=sWz1B0HYTP&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 25-07-2025 [UNCUT]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1242252.mkv&play_token=3wpZbzAfgD&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom [Silverstone] 06-07-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1225422.mkv&play_token=2LH95MB5Ln&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom [Silverstone] 04-07-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1223877.mkv&play_token=ca6egY9jVe&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom Oostenrijk Nabeshouwing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1219914.mkv&play_token=yJPtgNhPKI&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom Oostenrijk 27-06-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1216129.mkv&play_token=u3sDaMCXo2&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom Canada 13-06-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202776.mkv&play_token=Z0XU7vuhVk&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom Spanje  01-06-25 Nabeschouwing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1193159.mkv&play_token=b4gyi7dYx9&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom Spanje 30-05-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1191303.mkv&play_token=ILMty4NHOn&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom Monaco 25-05-25 Nabeschouwing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1185940.mkv&play_token=s8Kg6O0NUJ&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom Monaco 23-05-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1184265.mkv&play_token=7AsItiLEq3&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom Emilia Romangna 18-05-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1178343.mkv&play_token=YvI5o8uStN&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom Emilia Romangna 16-05-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1175938.mkv&play_token=qvl1XMwODq&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 18-04-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1146673.mkv&play_token=6i2hzCfQGs&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom [13-04-25]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1140970.mkv&play_token=z4cZnzooiM&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom  [11-04-2025]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1139719.mkv&play_token=T2nPXMLTQ5&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 06-04-25
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1122359.mkv&play_token=tyusOSQgAx&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom [04-04-25]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1120946.mkv&play_token=PSgNGcgYQS&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 23-03-25
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1112816.mkv&play_token=bg1f8OXcB0&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vroooom 21-03-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1111255.mkv&play_token=8iQDv4KqdW&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 16-03-25
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1107104.mkv&play_token=ZgN3sNPKmK&type=movie
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/168/816/Key_art_Vrooooom_met_Rob_16x9.jpg?width=1600&height=900" group-title="┃NL┃ VIAPLAY VROOOOOM",┃NL┃ Vrooooom 14-03-25
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1105246.mkv&play_token=SuygD817Uo&type=movie

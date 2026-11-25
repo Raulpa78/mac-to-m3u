@@ -1,29 +1,85 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Nabeschouwing Race Las Vegas 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414567.mkv&play_token=RczRxcRp5j&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Voorbeschouwing Race Las Vegas 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414094.mkv&play_token=6cUTDPC72u&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Race Las Vegas 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414093.mkv&play_token=AC7I5yMHm0&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 3de Vrije Training Las Vegas 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2364556.mkv&play_token=VxrnmX3YjC&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Voorbeschouwing Kwalificatie Las Vegas 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2364555.mkv&play_token=MaZST5cavL&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Nabeschouwing Kwalificatie Las Vegas 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2364554.mkv&play_token=EhiujrHd1L&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Kwalificatie Las Vegas 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2364553.mkv&play_token=LfEf7e5s5Z&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 2de Vrije Training Las Vegas 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360824.mkv&play_token=t0TJTxWZc6&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 1ste Vrije Training Las Vegas 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360823.mkv&play_token=OGuEIQ8uoh&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdUARLWfXDauiHPkwNCWT-HvJckFb9dpdEww&s" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ In de Slipstream Brazil 11-11-2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2309998.mkv&play_token=V6UxG333rT&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Nabeschouwing Race Brazil 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292426.mkv&play_token=Tcybd4npQY&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Voorbeschouwing Race Brazil 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2287441.mkv&play_token=5AsRkUCssQ&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Race Brazil 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2287440.mkv&play_token=KwNOvtethK&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Voorbeschouwing Kwalificatie Brazil 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284988.mkv&play_token=VVhKeb5qiE&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Nabeschouwing Kwalificatie Brazil 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284987.mkv&play_token=VwSxR5GzEQ&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Kwalificatie Brazil 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284986.mkv&play_token=oq7rvq2Hnf&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 3de Vrije Training Brazil 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284839.mkv&play_token=CExFjDJE9R&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 2de Vrije Training Brazil 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284677.mkv&play_token=RcuNJPqtgG&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 1ste Vrije Training Brazil 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284676.mkv&play_token=TP0HXxh6fb&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdUARLWfXDauiHPkwNCWT-HvJckFb9dpdEww&s" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ In de Slipstream 04-11-2026 Mexico
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2276536.mkv&play_token=pirhH1QuPk&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Race Mexico 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2219554.mkv&play_token=SfiqhZLwtW&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Kwalificatie Mexico 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2199531.mkv&play_token=fMe28SXNfc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2199531.mkv&play_token=G2xVnWcPM4&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 3de Vrije Training Mexico 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2199530.mkv&play_token=is7FCJbN3Z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2199530.mkv&play_token=Mn5z3UVNCs&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃F1 3de Vrije Training Mexico 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2198170.mkv&play_token=VQm1i42CGa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2198170.mkv&play_token=5SvUMNq9mC&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 2de Vrije Training Mexico 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2191161.mkv&play_token=J8fQOmmCAV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2191161.mkv&play_token=pXtBb1h7V9&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 1ste Vrije Training Mexico 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2183747.mkv&play_token=2TVtwsr1rL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2183747.mkv&play_token=1YYKVv4yKD&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdUARLWfXDauiHPkwNCWT-HvJckFb9dpdEww&s" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ In de Slipstream 28-10-2026 Austin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2166004.mkv&play_token=GAGQd0z9zo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2166004.mkv&play_token=O9QJwIDm7H&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Voorbeschouwing Race Austin 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148453.mkv&play_token=XWWhAchyGu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148453.mkv&play_token=So2SPFkG6j&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Nabeschouwing Race Austin 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148452.mkv&play_token=FIhdmzmm72&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148452.mkv&play_token=aZrQG1ZXIZ&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Race Austin 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148248.mkv&play_token=lldZQQCjHo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148248.mkv&play_token=vTDtpuoopb&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Kwalificatie Austin 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147531.mkv&play_token=PXZ51lVrBO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147531.mkv&play_token=vf07JwxJHb&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 3de Vrije Training Austin 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146833.mkv&play_token=f4eU2tUNE4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146833.mkv&play_token=J1oGhrOwZz&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 2de Vrije Training Austin 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145896.mkv&play_token=gxOAheafIz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145896.mkv&play_token=4DjHF2GHNJ&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 1ste Vrije Training Austin 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145656.mkv&play_token=SwKvPfjisR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145656.mkv&play_token=E0ANhNoGLU&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdUARLWfXDauiHPkwNCWT-HvJckFb9dpdEww&s" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ In de Slipstream 14-10-2026 Singapore
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134604.mkv&play_token=zdcNBnDOpl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134604.mkv&play_token=eNw8fV35Yq&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Voorbeschouwing Race Singapore 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2124489.mkv&play_token=T5nwzUhlNk&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Race Singapore 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2124488.mkv&play_token=TzbZGpe5KT&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Nabeschouwing Race Singapore 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2124487.mkv&play_token=ga1URuy3re&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Nabeschouwing Kwalificatie Singapore 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2118978.mkv&play_token=2mIf573Wq3&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Voorbeschouwing Kwalificatie Singapore 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2118886.mkv&play_token=R5HgLtEtjY&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpPF8ZT85x0GpclMyEkKu67SJu3wqdAjwzS90dAyt0DlRHgpxU4sTIZo&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 kwalificatie Singapore 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2118840.mkv&play_token=ZV8mW1CdHn&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYTsMFmB0uEMeHskMDz-wakmTGuMRVkyexcF-fzONM7mjJ-qs1D48SZUO&s=10" group-title="┃NL┃ VIAPLAY F1 ┃ SPORTS",┃NL┃ F1 Voorbeschouwing SprintRace Singapore 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2118600.mkv&play_token=sSjZuO5dti&type=movie

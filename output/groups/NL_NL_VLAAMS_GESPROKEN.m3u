@@ -1,0 +1,511 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3OHeitSHmB0Aiw8xWkmlbCTAhh.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Wildschut - 1985
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2307713.mkv&play_token=q2o7vIcH0W&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPQ3NWx8FohkN1fY6pBsckWmxyN.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Bezette Stad - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2107548.mkv&play_token=qMLdfp3ihS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYpNkyouGCx2MFdQP8xf0keqTqV.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Patria (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968058.mkv&play_token=LC39d7oyIq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAY9j0t6aE3LGdr42MLKPEO9wiB.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Het leven is vurrukkulluk - 2018
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968056.mkv&play_token=qFgrxCQaCV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8yxFPOvNmhlfUXBqiNvvpMI4t5.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Skater Girl - 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834905.mkv&play_token=bD0cRiqigm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11NiFFswCKly4yoPOtAuze4GakE.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Happy Single - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797469.mkv&play_token=nIank4ipE4&type=movie
+#EXTINF:-1 tvg-logo="https://www.theateraanhetvrijthof.nl/application/files/img/8/Efteling_vertelt_JorisendeDraak_A0_Staand-288e4cb8.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Efteling vertelt Joris en de Draak Musical (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766989.mkv&play_token=Hhz6TfiK7B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwMV2hhiBgKu0atKRj4zwI2lesh.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",Iedereen is van de wereld - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761872.mkv&play_token=HzWKBIHMo6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dO1II3A98VjnyIwUjCvj65CJ9Qz.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",Comeback - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754162.mkv&play_token=89L4TYRzWy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srau0BQNvDBEZj0O4t32pXza0OK.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Vorstadtkrokodile 3 [De Krokodillenbende Vrienden voor altijd 3] (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732795.mkv&play_token=D5SsAXNPi7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1spNOExYBachjOFdAIopRRGxcx.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Vorstadtkrokodile 2 [De Krokodillenbende Vrienden voor altijd 2] - 2010
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732794.mkv&play_token=vVaptCi1GP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZJIGpVj1j3oeSfwT7S3eYomroX.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Krokodillenbende [Vorstadtkrokodile] - 2009
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732793.mkv&play_token=8hNV8kz7VT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvW71qoY6xVN72q38LBCTJIwmyL.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Lang Leve de Koningin - 1995
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716654.mkv&play_token=CDhoXugwrG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nDAVbz13ZB5CQpQBQWoucwdasA.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Land van Johan - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1712635.mp4&play_token=3lLH6GKwYA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvRehIG20VXtwHVaLZbGRguEfuc.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Griezelbus - 2005
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1673423.mp4&play_token=s8H8q8hbJc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lS7cbuzmS36oQ8AGOb5QOMBJ4JB.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Tegendraads - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1672809.mkv&play_token=k6M3zIf5NQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOKNQVyq2p29fskJPkVG45ITI1Q.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De President - 2011
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1642531.mkv&play_token=D4ZSz4ypev&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuktyui3Mx2zT98p99zuXmTHx4l.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Ron's Gone Wrong - 2021 [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1612900.mkv&play_token=2P6UKgTeyV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOH7hUHXgpVo58Oem4HPLKcVfCE.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Holly - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598938.mkv&play_token=fnhQiyRsi9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6C0cbQFd62wXz6MPsb8vXi55Qv.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Dikkertje Dap (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562877.mkv&play_token=lH6y5R1EX7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbl2OslsYALl00irboY2fhaeInS.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Windkracht 10: Koksijde Rescue - 2006
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543158.mkv&play_token=tfIujbHpQu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjsGmSSsMotJ7EtdgkquUz6ixVz.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Zombibi - 2012
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1479966.mkv&play_token=DobcQ9h8Xi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dd4xKtlKR8ln6DTPeOW37h1mAQL.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Assepoester: Een Modern Sprookje - 2014
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1479950.mkv&play_token=Arpqu5tkCY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6EohjciZfq4MxRqsR73lxQL0kA.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Bugonia - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1464490.mkv&play_token=wVnlOaBr35&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5V6AjuBRs5fslTufsZJtj4zJ1PV.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Liefhebbers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334640.mkv&play_token=ZcmyGQLZVr&type=movie
+#EXTINF:-1 tvg-logo="https://assets.veronicasuperguide.nl/254304108/webp/fill/1920x4-3/0.51386x0.20911" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ The Tribute Band
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1321022.mkv&play_token=OmvBrMxK3X&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36DtuxvsOM7zv4qnkJkmSkXvoZY.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Ron Goossens  Low Budget Stuntman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1289089.mkv&play_token=L6lLa4eB4w&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QTzFT97RDScjMG7dy2OxdwUpy9.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Robotbror
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1254097.mkv&play_token=Tm0Hr7EjoW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryc0qFCzPVZGSMXAL2cOkLgVvN7.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ River
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1254095.mkv&play_token=u1RwldX04H&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guylDQonoxuDOGLdEcRUcpMrdSW.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Wat Mannen Willen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1232787.mkv&play_token=DlvgrDFlGk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVNOP5Zw8cmc4W3f0o2SpMoLSjI.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Strijder
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1231892.mkv&play_token=40LGVwHVLI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS6ssHE8z4Pvc1aLLXZ9tGRXWrE.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Resurrection
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218756.mkv&play_token=fL6pHXtBCY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gD34KZhBeWusCaG1uyUJP4xwXS.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ King of the Belgians
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218749.mkv&play_token=ZRjrXx8CVM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9RMifQEuYHxZhHNgmnHhgj5ub6.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Patrick
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218748.mkv&play_token=q5rsdvXDq5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXLJqEONxVbhl15vAkhi54Stn8W.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Tot Altijd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1203239.mkv&play_token=HdrDUFh4e2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYSaD6NWjonEv9duvrW5RulTn7R.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Linkeroever
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1203225.mkv&play_token=FBHDXY0Lqf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLA7utpxledldarWR0mydjHKckU.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Kikkerdril
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1203224.mkv&play_token=2OyYk0U8FN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9YQb01DlSkEO7bEhWq6eCcY8Op.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Iedereen is van de wereld
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199974.mkv&play_token=JbTuDT5yFq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdPSUck4tBRvRu6DFk6XciDrssn.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Cargo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1184417.mkv&play_token=Yth18TfDrm&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/caa17d2fe19ac929faf1403c6ebd3efff1a01b06c3f031b3aa7df9720784e426.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Schatkist van Tobi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180030.mkv&play_token=grSi82obE6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7H2CQjdTgPR0aoYs0fbpAGHMqe.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Juffrouw Pots
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1176917.mkv&play_token=YHnU8cDTlh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1fZgIV63vZ8bkxTPH25xoRbp83.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Ober
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1173282.mkv&play_token=6EZdYkSmsw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nU9adxZHJq6FbJqJISStfEkRZlC.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Sint
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1173271.mkv&play_token=DufcprU62o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9ZasMEcjaRB32CCqurSy1vh13s.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Hemel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1173265.mkv&play_token=I6QAo57lQ2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S5VP7AN0K5cYxDKPL3a7jjy7vl.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Cub
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1173261.mkv&play_token=jNnA87CvUu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNVqf3aqHRErjUuPKVmK4hRpXGJ.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Broer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1173259.mkv&play_token=4ieDse2CVJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sO8MeRiScAXCtP6aCMopz4kPpc5.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Pippa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1162417.mkv&play_token=WcZ7LFpBm6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hP3YxdJPWpnCANYOKXXEzX57lRI.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Piece of My Heart
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1112823.mkv&play_token=3AxYhxO3Vl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g7kYT83AesXRa3XYINcLot2o7.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Trio
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1112138.mkv&play_token=cU6CaMcyWc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stSHfy0JaA6FGslxgv5KcWdPqyR.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Dominee
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1111481.mkv&play_token=8XrxVHVY8e&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYfMlc04S70GngCAaHMdpEtycbc.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ En iemand anders
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1107880.mkv&play_token=uXSySAVApR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4T6ufhKHbsqhd2UCPXzwLubdG2g.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Dolfje Weerwolfje
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1100254.mkv&play_token=rmfEIXqiec&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCgJQvUYukTFYGwfIJipakTQqvd.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Dolle Tweeling
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1100253.mkv&play_token=U68CKQx3v8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOSqEXTzLux7K5JCLJLTKLK3TvH.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Dolle Tweeling 4
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1100252.mkv&play_token=61lKHDVFMd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37pPXCTNMb7tLkCNLMm8HiKNVVX.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Dolle Tweeling 3
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1100251.mkv&play_token=VPDYgtj8iq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugicM2SdwzfefMacKqjdAFpcEMb.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Dolle Tweeling 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1100250.mkv&play_token=PdHQy66z73&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCDnAbjsabPPBOe8ggr8Axlxvog.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Zonder meer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1033998.mkv&play_token=pPNcrQk2So&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wrgTdygvnlSTFiLQJcLrvTo3Ga.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Blue Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1033981.mp4&play_token=EBGwDCf0MV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15Bvy7Mz9vSqZTZUO8zUBZvhAJb.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Nog Grotere Slijmfilm
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1027103.mkv&play_token=3AHBdAtbzt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xirEX280MCWQXmJ81UJeNXB1V6Z.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Het boek van alle dingen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1020056.mkv&play_token=aWvLD1bJks&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPnuS9TG1ACSTooXRmjSMassJgd.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Escort
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1007285.mkv&play_token=K2EgSeIPo2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5xxc9TxNpCiuaKG7O81v9XFOuq.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Rokjesnacht
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1002951.mkv&play_token=edZLgv23kr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhMlPiEIFHQ1TGPE2Jtmaa6FF6h.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Lena
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1001167.mkv&play_token=KVL83szefY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RaFJ3DdIv3uJKMvOTq8PjnkusO.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Het Zakmes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=994464.mkv&play_token=wIiGVJHqA7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UjKwOIsDhmcv6M7CpzH32HERI5.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Een Vlucht Regenwulpen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=984656.mkv&play_token=PjF00Dqvmc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwBNWk3O6nl7MrwTOHrxWRTyo76.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Ventoux
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961996.mkv&play_token=tql0IOpt3L&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JtbFxfQ4ro5VDRu1SVPwoGVk3M.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Pink Moon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961984.mkv&play_token=LWNuXvXU2E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7uqyhE6c82f3THOVIQhJTZykyu.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Scapegoats
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=960820.mkv&play_token=UNMah1N5Xz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9onP0yk5W0CW2TWyTYcGFko88iM.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Rundskop
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=950142.mkv&play_token=nl2v5w9egL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTgfrwJ8UA9wPurA1w4kwpdgcnn.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Kappen!
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=933678.mkv&play_token=G7EYCZLOUL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Sjra8pU6vfnfEfy73MZdogfn5P.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Achtste Groepers Huilen Niet
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=933669.mkv&play_token=ips3Ecfcto&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45b6O0BcmuyHYBy7NFjTPNqunE0.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Vuur & Vlam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=927548.mkv&play_token=2ELtbaN2Xq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f26gX2TyKY9AvCjMvp6iC1u9YMn.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Safety First - The Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894290.mkv&play_token=04qN2dOjPp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lnxUoeOeCrXqARcKL2KA6Kxtz2.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Penny's Shadow
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894289.mkv&play_token=2uX8mQksJg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiqMFZ8siArS73GLwSSWNbq7QRr.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Midden in de Winternacht
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894288.mkv&play_token=MpugGXEbZ9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okvngd6G0swj4Y9xHbuUnnzWl4A.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Laatste ronde
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894287.mkv&play_token=Kxz9q52kD6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXU7gNAAkulPUr0F1XqSHuEhfHL.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Karakter
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894286.mkv&play_token=gvwI8wLAxb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80dp97HgY8Xeuh6GJKZYJOvWvoI.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Isabelle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894285.mkv&play_token=oi7tCxdRn0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbkTRMvJbQnR17k0xaK7KPyrZ5l.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Deep in the Heart
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894284.mkv&play_token=Qfdnjahd1B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXGs04ktZLZbBS7fxxI7hYpM75B.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Dropouts
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894283.mkv&play_token=BKRe2SOb5m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYsL06RBZd5hCPbjgcW1MEuq1es.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Laatste Dagen Van Emma Blank
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894282.mkv&play_token=XCgj9JgVRX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnbjWm7DBPgFcWyJZyLvPAXeh0G.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Dorsvloer vol confetti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894281.mkv&play_token=5MnKKmrWjT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luJRlPDoArMc0q1S03UnNs1FhmC.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ El houb
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=893746.mkv&play_token=Q441PXShI5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kk5GKug3In7BGVgXEbwmmZT8uAD.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Afblijven [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=877906.mkv&play_token=TWAVAcMuXp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjMRygzxJxA1ZCGDSfQrev0wq7H.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ The Way to Paradise [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=877556.mkv&play_token=NsOqjglsCQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2miwHjG8FVwSvSlEGkCxwWmkziv.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Steekspel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=872411.mkv&play_token=chSKYueWHR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxTwZOo4q7T7aJqX335sVeLoVTm.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Marina
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=872409.mkv&play_token=8ORpisWMpI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoKDyrGnXBZkrE02YdElF3O7sWJ.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Black Out
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=872406.mkv&play_token=54kPbcAGmQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b32cw4LXhMIBD8xVe9gN3FiWGNv.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Bellicher: Cel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=872405.mkv&play_token=fc15OpCNuP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTAs08doHYZ1obg5PTcWliR7vo.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ 22 Mei
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=872404.mkv&play_token=bYi565GeSg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lnxUoeOeCrXqARcKL2KA6Kxtz2.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃Penny's Shadow [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=871129.mkv&play_token=7xsDWGjSIX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ic8rZxSwnallBom9efz1593eNq.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Hoe Duur Was de Suiker [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=871127.mkv&play_token=odm76Zla4P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kWVGs1lGoqLjGXwQymVuquJKwR.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Het varken van Madonna [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=871126.mkv&play_token=IfyQF77uLK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVmLq6PJSCfd3PyLnoTD8KQ15Nl.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De zaak Alzheimer [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=871125.mkv&play_token=bzWHrTx3lW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPD6G2landVIQLJnkTqONhrI8Ww.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Briefgeheim [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=871123.mkv&play_token=suYU6qow3d&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2SdQgkDjmGkirdBgsEDw0hjInn.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Brabançonne [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=871122.mkv&play_token=1UxFaBujEj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieNgLsOHRCfIZJXCek6fxoH5wPs.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Borgman  [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=871121.mkv&play_token=hMijNvJpst&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQq0lrNO8MlTmVdjiHMnQNWmWJ1.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Bed & Breakfast [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=869465.mkv&play_token=m5QH6facmN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Descendants: The Rise of Red [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=845186.mkv&play_token=liGGJpqLmD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBkhAIOcPAnWhNg7WDWnBr8O4I5.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Dansen op de vulkaan [NL Geesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=833899.mkv&play_token=IPPH3Tg5xv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSBGh1zQWMOQTeviWrbDwF6gnCs.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ D'Ardennen [BE Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=827873.mkv&play_token=DMBXfcpbfl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wK0fNqUWJm7oQhYu9B1rCOcu5Q.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  De terugreis [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=822865.mkv&play_token=ejGhATH4Xp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7Zc7zu7xAX1FxxcScLHnBydNnf.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Dennis P. [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=821426.mkv&play_token=5kQVjuMFFT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5cTpq7Pejfw3Tvp4uOBBYU6Ewt.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Bella Bettien [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=821425.mkv&play_token=L0k4AOAoZ7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYw8pc8JwXIgNBLSOhsnRKYxDrw.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Aanrijding in Moscou [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=821424.mkv&play_token=Rep4P6LZkR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdll0WQH5fyWXaKRKSjm2AUZzVY.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Vet Hard [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=821299.mkv&play_token=q63l0GjejV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3SkoMXXn4ZjGm0NETFLhoNsghr.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Spion van Oranje [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=821296.mkv&play_token=LwxJfvu7hT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2KE27j9cWDSJKYOg4KxXDwnoiv.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Invasie [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=815039.mkv&play_token=xpK6WyEqbr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIegC67edxDilwO1028nB0bEbC.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Skunk [NL BE Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=814790.mkv&play_token=Pi9z6JcLh8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tw7Q9EmZpwlyulY4fIPxmPcMX6.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Buenas Chicas [NL Gepsroken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=808705.mkv&play_token=1XZJ0ZvHRr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKMOmcjdfpheq4GwUHUz5k0S9yY.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Het teken van het beest
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807182.mkv&play_token=Z8ymVPKReU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPQ3NWx8FohkN1fY6pBsckWmxyN.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De bezette stad [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804817.mkv&play_token=J5rvsQge0P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gENwOREHKvAOdkMvOJHR32sw85T.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Ciske de Rat [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=803075.mkv&play_token=ql55SwvxVZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6q6wXMCa5uUB2ro5OFvW4RnsUoF.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Ciske de Rat [NL Gesproken] (1955)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=803074.mkv&play_token=H6ywZLmoTb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWVNf6uqZqeJjwj0MppWlJETXRi.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Vampier Zusjes 3 - Reis Naar Transsylvanie [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800412.mkv&play_token=Anr2fEHv5V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reeM3IsM3dFdNmEik5MeOo5ykZy.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Vampierzusjes [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800411.mkv&play_token=p4Pgq9fdYG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obhJ6xasNrPfk6mZgUysyigjWtU.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Vampier Zusjes 2 - Vleermuizen in je buik [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800410.mkv&play_token=Z5oM6c4FoS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ICpzSVDji3Qef3U5kF9oKVL8tC.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Nachtrit [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800146.mkv&play_token=LTmLZBZyC4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s30WUGazA5JrLr7xZEk4hZ0SzkI.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Stuk! [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795071.mkv&play_token=o6lcuFxfgg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Uw0nwVbsBBqrTZmLKI8YVpSmUy.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Zomerhitte [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=783719.mkv&play_token=DGU4YYQUh8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UUR45aVQTam9JyYcHJ9lI6ZWUq.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Mascotte [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=783716.mkv&play_token=f5puDDdGRf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1dfSAKd7DncXynvauDMUWqicok.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Verlorenen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=778249.mkv&play_token=iJBH8rtdNx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5vaaKImrPvIxjDY7KWVOO7jOAg.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Red Star Line Spektakelmusical: De Gouden Horizon [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=770788.mkv&play_token=foHo5GHse1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jEU3728i2BOMC2cgVFudhTHQpx.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Anna Aardbei en het Bloemenfestival [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=768361.mkv&play_token=1e45LswvEB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiqaGg16u1XUSyPRrtYSI3Tj8EF.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Huisvrouwen bestaan niet 2 [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=768207.mkv&play_token=chJCQe4g79&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TMZbWOF0ruK573SGcWYMdZdTes.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Huisvrouwen bestaan niet [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=768206.mkv&play_token=y3Q5XtfFvj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9K3Hm5we8Dw04enUjthKAQWL27Z.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Het Verloren Transport [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764417.mkv&play_token=9B8RX0EW6j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s35JX0OshnR1aQW8gmvJytptOPp.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Die middag [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764415.mkv&play_token=UPh2xoiNFr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YamobVuIvIEYdk7RZpc5HwSFso.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Bim [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=764414.mkv&play_token=TB0KlaVGZs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UNyHR5Md3yPlkf5BtmF5YKvDRC.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ #LikeMe The Final Concert
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763511.mkv&play_token=pOnjqeL8xO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Nachtwacht Show: Het Academie Mysterie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=760099.mkv&play_token=K5vs67Gr5V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzceD8FvRaXMbP2MZ0p10UuNGV.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Witte Wieven [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=758815.mkv&play_token=Yu0IuspgZD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3SRrkNBKEV9JbcbcnqIu99nyUd.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Venus [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=758814.mkv&play_token=ObIBn44OH6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceMz3oyRhpiC9TT5g3Evw8b9nZ9.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Trauma Porn Club [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=758813.mkv&play_token=O7LvSZZB9U&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14k14f7voknCmutXNCMDnYc4kmP.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ NL-Alert [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=758805.mkv&play_token=SvxhWMLwc6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5e8jbGb6q6r5NCTYp0kzxsEikQ9.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Memory Dealers [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=758804.mkv&play_token=S7PfLziTpd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knPjYgx5X4VfgeaQDk3Iz8Hu2w8.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Binary [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=758803.mkv&play_token=QH8pi7lEZo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v09rCd3dBRjzLZgVe0JZag5e9Kw.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Jippie No More! (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=755142.mkv&play_token=N4GQpttEKi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ns7LIqVWrPbO2FYPQ0ec6mfziSc.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Zillion (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=751018.mkv&play_token=oqak9QCjMu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RAzZoMGeoLrLInDQsuNMsFcTey.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Legende van Ga'Hoole (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=750884.mkv&play_token=WGIv6vzEfT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwgzRLyKWML9g9t5ZMp3j1qBivy.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Beraber (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746130.mkv&play_token=hbZQMW9wsK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukiwq2NxtuK5YZGiXglE6HP2FvE.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Pulang (NL Gesproken)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=735512.mkv&play_token=46bOOrXk9F&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gj7hKzCS73CZFysAOrfWalMKB2a.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De vuurlinie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=728959.mkv&play_token=Zqwli9UpHc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gbVQnsszWluvv0e13oEsGjiC8P.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Het smelt
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=724043.mkv&play_token=844JSz3ERx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/H2mQyZ5OtAi0BxqxnP3Id8MpXB.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Alles is nog steeds zoals het zou moeten zijn [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=720291.mkv&play_token=R3nHHNSrlx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xwSkMqssy6oBvDOkj71TE0gk0p.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Boskampi's
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709622.mkv&play_token=8VyrqenJWt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moDpgrc6xOnfWPqfRokhbc9mvnU.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Wonka [ NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709012.mkv&play_token=fh83u2vgyl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eI8mnWFvHzS6xzWnVQGlsBMP3jt.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Triq Salama
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=705107.mkv&play_token=mv585WEoZJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5Da40vqIHRcL0PkdQHXgVm0UwI.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ First Mission
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=701782.mkv&play_token=jwcfIVzQOb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jc8iGM4KwBpfP8LJmwjd7CDaAV7.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Rosa  de kleine bloemenfee
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=699353.mkv&play_token=jFcoltIbtV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isWTcxGndXM6dDKlJvy3rmGNuV3.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Bassie en Adriaan: Een Schat aan Herinneringen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=690261.mkv&play_token=lir5XZBaDa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPcc9PO0LytHkXCJFfK2id7IU3e.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Kleinkinderen van de Oost
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=677199.mkv&play_token=Xh6Ch3YL7E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QgexTS4zwPDOXqwldSLHd82kxN.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Onder de blote hemel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=663266.mkv&play_token=cns1L2K3NO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUrfIzMeupJP7rnouW8nHEQpngJ.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Zeevonk
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=655595.mkv&play_token=g1zT1xBt5W&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XktwzLlDfaSbydguGxMp3j8mIw.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Pip & Pelle en het Hart van Molonië
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=654265.mkv&play_token=XqVM5sGOCg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IQLVTK1Mfqm0ysJnJPCtPuGBi2.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Zeppos: Het Mercatorspoor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=653500.mkv&play_token=9qw345D1xf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCHlOxsF2WNyIGgiNiZGWyYvVIu.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Hotel Poseidon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=653456.mkv&play_token=jpZy3PJVRK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/171eHWD9es4y9WidSFG1Pi2Nt1t.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Snuf de Hond en de IJsvogel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=646661.mkv&play_token=tGVK3f2vth&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eF1FgmCVDEQezGlRSHAGbRVa9z6.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Kidnep
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=646652.mkv&play_token=pmVFjN4zq8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuvzcwlXDL9n9CLDVr0UpaXNPEg.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Publieke Werken
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641849.mkv&play_token=Tty6AdD3fl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5WXjHx1BMg9SC2PhprozXE4IFP.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Zwartboek
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641819.mkv&play_token=ltACClndG8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jV1Ytc4s0aWWioWqQvoAQ2ifuIX.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Tonio
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641818.mkv&play_token=A0M4vFQEbn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUTHRtIkXpRbQb6dCVCGnd81I5g.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Süskind
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641817.mkv&play_token=R0LHfKeE1k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0Nv47mHtUY04MDUy7pHvK7fNg9.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Rafaël
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641816.mkv&play_token=obDo14zYOe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w51UWEKuiGDoGHVTfXpiNlp2KdX.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Project Gio
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641815.mkv&play_token=EFHwfXTTJZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvquX4AmlhafgOy0I74sDKxEetH.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Pestkop
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641814.mkv&play_token=LHZnjqCTDW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajUVHoxu2vzY9YwiUD6p44Rfvef.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Oorlogsgeheimen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641811.mkv&play_token=4fAIUm0SWX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngsNOoAHMhWTFt3ouKbeTyx68CW.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Mi Vida
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641808.mkv&play_token=kM6HPnymGF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8yPbYHQHuQaM3Y3czk2vkSKC6H.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Lucia de B.
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641807.mkv&play_token=uiXdyJGlaY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9COfjt3JWJYf8kPcRpBdrGvnOue.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Coureur
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641806.mkv&play_token=xra6AjlKBD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7v6GPJsMpIEpwoblEb2592N7iuy.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Wild Romance
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641611.mkv&play_token=j7kyr6L0NA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWR58OgTz9g4xeL7bflMc1EWhWC.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Floris
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641604.mkv&play_token=cfTV0Wtpfw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emINZkZwKrSYdCKs0goSn8ZVSiK.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Alibi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641600.mkv&play_token=UbkxzkdrLY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfjG4Evos42h8DrE0Pm9wTdQOLr.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Wonderbroeders
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641528.mkv&play_token=IitfkCL42m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s30WUGazA5JrLr7xZEk4hZ0SzkI.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Stuk!
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641520.mkv&play_token=ByFBV0ypiV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twkKDO0MM3CvHJarg7MwZggfBVo.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Popoz
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641510.mkv&play_token=fyXtNWq3m6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x40SfOelgqsMfEq2frNxcs0BSCP.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Kameleon 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641509.mkv&play_token=yoafJX8Loc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lygAXQ3vw8Le0jUslzGt91LluHY.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Flodder 3
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641506.mkv&play_token=iizkDV4wn3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbQX4kpoyj3Xj3Km4fPmWO7edst.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Flodder
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641505.mkv&play_token=kCNcg1lqmO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEH4MVGLM0y1Za9U2snpVdOZUjE.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Schippers van de Kameleon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641503.mkv&play_token=PwduBcoSdY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ctS4TqJakuMePvqr7HWyKeclpA.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Wil
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=634842.mkv&play_token=TUIsA16wxS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g85bDRRaQplxpIV4s3LY4ajL3a8.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De vloek van Lughus
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=618883.mkv&play_token=ytUYQZT29q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rz4IidavhHuCmVcOfGxVVwV5oDM.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Oneindige Slijmfilm
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=613549.mkv&play_token=8hs0pOrCa3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTRdTXCYNUjCMurIGq3fqTT5jrO.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Candy & Bonita (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=610345.mkv&play_token=jMRMTBobP1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Arc7bjIvh8IDAklgAdvFgom4t6C.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ 170 Hz
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607728.mkv&play_token=NJ0y3w2SWD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAxthwNyuaJlHXPlSCXyrkOh8Jj.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Amazones
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596016.mkv&play_token=H0pZXxuTZC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4XGPEam60t7l2k3atodtTzD4YZ.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Het Echte Leven
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=586945.mkv&play_token=WO2cqtUet4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DhHnpLB5PFbig3pVzrnaZ6lH6q.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Goede Dood
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=586942.mkv&play_token=eG0IgQLqd0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Vreemd bloed
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=586950.mkv&play_token=FjAPP8Wp5i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btWPjQf6vx4WZVKsI6HVc0G3DnU.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Bella Donna's
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=586894.mkv&play_token=s3rHwvTsje&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2w5CCy7uOVHkbSqQoulxWLYFzQ.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Jackie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574506.mkv&play_token=P6ejUSH0b4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1jXYpvmXSOGRsQA3sMdASR1feE.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃   Instinct
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574505.mkv&play_token=7SDr18UJj2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0wlmX9tMW8hgASpIKFNmBjaehz.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Het Bombardement
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574504.mkv&play_token=gEf8qbSfra&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciBeBTiqA43cS2miZEDXmedD5FD.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ 06/05
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574503.mkv&play_token=plMEJ5vTIQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYneYtjoPu0P8VTDCNBmumXxK09.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Een echte Vermeer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574502.mkv&play_token=i4YCkJe0yI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymR6acV1r6vbOxTwLUd8RNlVbip.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Kenau
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574501.mkv&play_token=GMdyAnBcmA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sg4aTHsc5yvD9DsEYsUfhHNVkH7.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Nova Zembla
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574499.mkv&play_token=xBhkTH94Sd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXScwvpQ21RLr9ztG8N1X2Oot6F.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Tulipani: Liefde  Eer en een Fiets
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574498.mkv&play_token=Ttfswi9p4h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3pixAC0hJSYTo0gvBlwcHncXpv.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  De rode schildpad
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574497.mkv&play_token=VIt5q2p4q0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMsFtzXTm7TFNqQ2PKxAtyMPKUc.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃  Patser
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574473.mkv&play_token=kxzlHHycw2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxW0iaGkbzXpdr8oOBTFO4JFKRP.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Theo en Thea en de ontmaskering van het Tenenkaasimperium (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=565767.mkv&play_token=kociAuUMuV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZynEiZzQr23DqJfizpsKD7ZusU.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Sl8n8 (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=565761.mkv&play_token=pCuXcAnhEH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0Fn9P84hvu4achxGIHBxIlBy7A.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Penoza: The Final Chapter (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511522.mkv&play_token=ZuobqZsNTB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOzKw0aCx7MT4ckbJUuXLkLmWUm.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De grote slijmfilm
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509784.mkv&play_token=tf0SaUeQSz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhPXsSTcgLSB597MzHQmmGr4tib.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Buurtpolitie: Het Circus (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509781.mkv&play_token=zrrij1wIcV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srfg90ModqcMNpfeVxEkn5fAxlp.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Verliefd op  Ibiza
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=505345.mkv&play_token=WO3AKnaacx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbwNlNOBX4HLEjsRYxFQjMTLr1b.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Zomer in  Frankrijk
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=495884.mkv&play_token=L9vfMzC7en&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOzKw0aCx7MT4ckbJUuXLkLmWUm.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De grote slijmfilm (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=490142.mkv&play_token=7eouxuSUjD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ0UJFOmIghuECaiLfgbA8sweaT.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De allergrootste slijmfilm
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=490140.mkv&play_token=2kHVKKFwpt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLLrbnqXVf1BVyHs5pvcEn7fNum.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Marathon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=487934.mkv&play_token=DHJDdBMonq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4aRQFn9eRBuaCkL0022xpYHoCH.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Bert Visscher - Hij wordt vanzelf moe
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=479782.mp4&play_token=la4ZwQOMDI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RdygyvDLfjSsyYQXTAGaHNkMKp.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Loft
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=463682.mkv&play_token=KAdotgmbhM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Bouquetreeks De Film: Trots & Verlangen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=390172.mkv&play_token=7Uxzr5cgFy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/usHC54zHGybVKpIU67XSkuGY4Zi.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Alberta (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=380333.mkv&play_token=zxSx0YJZ4Q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eR9GKIoKbpssLKGGLyI14bhT8RC.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Casa Coco
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=380114.mkv&play_token=JvfJiZ4lAh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hpiop71tLYiOY9L2mme0lAyWSe.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Mijn vader is een vliegtuig
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=375924.mkv&play_token=CIobQlnTEc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kJZWqT05DcSdrcYYxZoq4FWKUX.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Veroordeling
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=369754.mkv&play_token=lgfXj0jKa5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgbv8umTppStM3ZNjVDohXRMtXO.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Toen ik je zag NL
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=360511.mkv&play_token=FyGkt1yM9h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yBxdiWSQZi4ipQXJsWcCK5srdx.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Ushi Must Marry (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345459.mkv&play_token=yCyUnTI98c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9etCMz5n7CJcpRkMPwUmyL2SbhT.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Spijt!
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=344258.mkv&play_token=UMeIO8VBYa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjgSXIqnPa32b5opAKK82Q049Pa.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Rundfunk: Jachterwachter (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=344229.mkv&play_token=2fQnw0sCYe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luGPESUfHrmNmBsBogZsM2uI1eE.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Rokjesdag (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=344224.mkv&play_token=PuA7sqYBpG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsgs5bi0P0cHp5sdGfzoomMKYmK.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Hacker (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335005.mkv&play_token=VHQ1hNCPhB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ DORIS (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=334956.mkv&play_token=r4JFNhXK4L&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jQsFqoXsIOFOC2uZKt1Gxuwxqc.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Bastaard
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=334819.mkv&play_token=jgodZeYAdJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6O62druhORafXGCEriTUIIrFmp9.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Adios amigos (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=334775.mkv&play_token=nMeOZ3FACa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeMRrMFImVrTDRfmWq02fMehaic.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Trots En Verlangen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=329476.mkv&play_token=W2L8KGBAmh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oi28aNQHway4dihfcbL98AIzJTz.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ I'm in Love with Pippa Bacca
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328973.mkv&play_token=sbWhQ2uOL2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoYUzaCwHgDaVUEiU2FjNU8IZbM.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL Liever verliefd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328921.mkv&play_token=LFUIJyYy0E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBvpyRjD3DcCsWgdV6Y9oqPS7dO.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Kind Hearts and Coronets
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328913.mkv&play_token=Q1PTdTML2O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9my1dQEZqu6rX0Lsstj3SN7ux0.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Ik Wist Het (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328895.mkv&play_token=by7Hc5iQ3Y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBoDb1QcL3COpPqyKkctpj6vLnG.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Tot Zonsondergang (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322967.mkv&play_token=jZKKTCbCzt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20FzKfcgeKQnhZlFHmLDQIIMquE.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Stoere Frans (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322834.mkv&play_token=W0nwqtKVrb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeboNuCmy80SBWirxvDafGY9Pdp.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Okthanksbye (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322730.mkv&play_token=gg0pajDWkj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMj1ZHFXR6ofbv8VkcFv58yqv0Q.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Mini-Zlatan and Uncle Darling (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322173.mkv&play_token=viqeg6anKC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCefUQHI1Ztc07kKlXIoK240BXX.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Ja Zuster  Nee Zuster
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322067.mkv&play_token=ovJYLiTAuS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKcmp0l5kpvzEogOVZij4dSdLNJ.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Faithfully Yours (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=321997.mkv&play_token=POoOI02veB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTh2TLsTvm2RW8g8Qhdo0oH5ky9.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Zonen van Van As - De cross (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=319055.mkv&play_token=1OUGn5vbaJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gBJloFisLcFFOSa7CPy4yb3W1y.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ De Tatta's (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=319054.mkv&play_token=ys2rc6bLKE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTU1vDsCYZzsvZMDh1dVeLreUiY.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Do Not Hesitate (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=319065.mkv&play_token=BZ1b0QxDQF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5CfRNEAhnrW5DFpBd4OfNGMRKf.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Whitestar (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=318725.mkv&play_token=vKwii4JeCN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2MrFvyQa9RbCHRCTupZA1rY5Z2.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ The Broken Circle Breakdown (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=317501.mkv&play_token=cbV86ip0e0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgDTdGUVE1rwLvsapIQ6AFxntV9.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Schemer (NL Gesproken)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=317359.mkv&play_token=QtnuiCKPSZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrrgS5mKY8np25tWqG75sqOaXRF.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ New Kids Turbo [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=313996.mkv&play_token=CpFzEkdm3p&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoYUzaCwHgDaVUEiU2FjNU8IZbM.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Rather Love
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=313917.mkv&play_token=hjH5V5ygm7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LwLDq8zJQKF1ct3XPfZrSl8xcq.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Twigson and the Sea Monster [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=313888.mkv&play_token=LNI2qcncT1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PGLH2rkkA2IdcxFck8rhTSg4Gv.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Dwaalspoor [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=312505.mkv&play_token=phF3KVh2mx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zu8hbjp7bedcbetQssylLhpguk.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ The Smurfs 2 [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=312458.mkv&play_token=RVKAWmqScE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMs4qW5EWOqKiv1CrSd2nizCMyH.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ The Pool [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=312457.mkv&play_token=ASGwHj2xvr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSFkacLRb16fyyOHEdfCCnb3J5N.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ The Dinner Club [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=312447.mkv&play_token=VDmVXhlXFK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvLPQS6gb6yaKdFF9ZuUOD0mxCU.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ The Dick Maas Method [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=312446.mkv&play_token=uLWQRbndo9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uH60FBDPQoyAnc4uvU0fIB8JXv.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Black Beauty [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=312319.mkv&play_token=1LWWB9KSvC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plUxDw7wG9ajGdneVMPBoWeFf42.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Soof 3 [FHD]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=309950.mkv&play_token=uh0hHRLefh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhfnMhwmaDT5F78HJXGwSoXWClq.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Duyster (VLAAMS GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=306484.mkv&play_token=IWLSyBqG90&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3ZMyQLwldazvuBhk5Ik74FJVN8.jpg" group-title="┃NL┃ NL ┃ VLAAMS GESPROKEN",┃NL┃ Close (VLAAMS GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=306483.mkv&play_token=CvLp11mXN8&type=movie

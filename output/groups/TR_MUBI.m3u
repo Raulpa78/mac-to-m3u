@@ -1,7 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzMbrB4UCZw7AFvD4qOmgwcT1Uv.jpg" group-title="┃TR┃ MUBI",┃TR┃ Bildiğin Gibi Değil - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261659.mkv&play_token=FgOcTgoJAJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmBo2VGGEHInN8rfsbSzvxEr99c.jpg" group-title="┃TR┃ MUBI",┃TR┃ Faruk
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=886463.mkv&play_token=w0DPuvpkah&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=886463.mkv&play_token=m7YXTm6Bh3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RkmQnWuoVEYFefezv2Go6Ydf7s.jpg" group-title="┃TR┃ MUBI",┃TR┃ Sirayet
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879315.mkv&play_token=5dbWv5PvVc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879315.mkv&play_token=aBr7WPqXIm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3r6QGO2pIIm8YPjdo7fVmAoOUxE.jpg" group-title="┃TR┃ MUBI",┃TR┃ Im toten Winkel - Kor Noktada
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=820204.mkv&play_token=ie1ZMB6G76&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=820204.mkv&play_token=wajmp7wg9z&type=movie

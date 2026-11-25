@@ -1,113 +1,589 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oo3JspWdCHj3RClVjT4gp4u2b0.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Immortals - 2011
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336144.mkv&play_token=fR2Cu56oUw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Kung Fu Hustle - 2004
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292769.mkv&play_token=tlxcAIcCpg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7b14dEHSAfyna1DmigZAehz1oZ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Platoon Leader - 1988
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270429.mkv&play_token=Bu5bT46msZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzFAY2jqODs7GXGhi590222WAyw.jpg" group-title="┃NL┃ ACTIE",┃NL┃ kaal [काल] (2005)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2219811.mkv&play_token=funhVbXW1Z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1RBy3l297N0c7PHjlz35cClWju.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Karate Kid - 2010
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2200476.mkv&play_token=ouFqR8C3Cl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2200476.mkv&play_token=geiumGYBHB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDvqAMyFlesBtWNUUZMgglo78y.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Kill the Irishman - 2011
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179433.mkv&play_token=ty8FVUgamH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179433.mkv&play_token=VeWvRMGFZ4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTO7sBfVTr7LUqiFtGeFW7g2Ncf.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Street Kings - 2008
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148582.mkv&play_token=hWtxuxXSvb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148582.mkv&play_token=sAOr5tPqSh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLbKMopp46m5i3hukmFkQdCzfDR.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Mo' Money - 1992
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133560.mkv&play_token=mTwnbpvHNe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133560.mkv&play_token=j39Z9RfFPi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBW7Aq7RzsFbrnmn9RCkpd6GbXf.jpg" group-title="┃NL┃ ACTIE",┃NL┃ 7 Guardians of the Tomb - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029193.mkv&play_token=2dyynJP0LE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029193.mkv&play_token=YbCtZe7M65&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Td0kkocW6sD3uRpzwfMfkqMWhx.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Captain Phillips - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957983.mkv&play_token=mH1YyePLGX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957983.mkv&play_token=Qz51dJCoGN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VjtTMQpfy9GxMyjUfuYTfyatZz.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Never Back Down 2: The Beatdown - 2011
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949998.mkv&play_token=iOLDoDljp2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949998.mkv&play_token=FnBqqxI6t1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tkwrelJopWtF75LYyXNzk494nL.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Never Back Down: Revolt - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949997.mkv&play_token=B05d33kx1J&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949997.mkv&play_token=tIUneFpxNj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHVswTDHAvq9Npi0XCZ0qVMSiM2.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Never Back Down: No Surrender - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949996.mkv&play_token=uJhq4aWUaZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949996.mkv&play_token=BmES9lGC5w&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oRUTyP1QAtGDMvRpKZyuyFPG0U.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Never Back Down - 2008
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949995.mkv&play_token=g6fVsIEIc4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949995.mkv&play_token=cCBQ0XEav9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrwwSXFeW35wYsnobreXbGxHwUC.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Heist - 2001
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1903266.mkv&play_token=ohrEXTeHBL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1903266.mkv&play_token=cfKQTjP6Dy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o14VaMphEIzPwzeW6FP3A6zb4W.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Bad Batch - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832434.mkv&play_token=fBoCWvwJiq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832434.mkv&play_token=bmi6k4k3EQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Sum of All Fears - 2002
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813451.mkv&play_token=fALXlT54ac&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813451.mkv&play_token=tKslgnN08f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Hunt for Red October - 1990
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813450.mkv&play_token=NL2sWvECvw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813450.mkv&play_token=On7jkXEdNT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IT7gnszrRthduYxCLqaIkM55Un.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Patriot Games - 1992
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813448.mkv&play_token=9tedHl8VQY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813448.mkv&play_token=eDg1wWcY73&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WihoHaU9yvhhdoSqDAhiIlNN8g.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Lock Up - 1989
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813447.mkv&play_token=OEfzz3I077&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813447.mkv&play_token=RmtaEEreiw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7HcLUodrD4lM4s0Hui1tzO2pjO.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Jack Ryan: Shadow Recruit - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813446.mkv&play_token=03PXqUgOdZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813446.mkv&play_token=4OenJH6OMT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tom Clancy's Jack Ryan: Ghost War (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813445.mkv&play_token=IuBWMgHxQ9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813445.mkv&play_token=bxJcdZsdkj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Clear and Present Danger - 1994
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813443.mkv&play_token=6pUIewdu6M&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813443.mkv&play_token=ZPo982C7Yl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZr6wabk41nYB1MdFJB2GpC2ytF.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Sha Po Lang: Taam Long - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806430.mkv&play_token=6pTsr2aKnT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806430.mkv&play_token=CJVWzh51jM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCy3410NhfJiB6XoCaePJXbldv0.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Saat Po Long 2 - 2015
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806429.mkv&play_token=HrqhTSUMt3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806429.mkv&play_token=Abcg11dIRY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJZvRhd51hVgMKt9JIg9DiwHqAT.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Splinter - 2006
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806428.mkv&play_token=kIuDnk3OIS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1806428.mkv&play_token=WxesUVod9f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4W10sjJSDAWRUDn2Kb8DQKxiZv.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Double - 2011
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1805821.mkv&play_token=BsOM9VBZfI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1805821.mkv&play_token=pG9pePcCrQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pL9tLATXkwZyDNtnoq3RYoy0bln.jpg" group-title="┃NL┃ ACTIE",┃NL┃ 4 Kings - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797427.mkv&play_token=R5XNiLzvwm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797427.mkv&play_token=IZRxCG1Xlv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYvCxiIu29EyferL3nX5kNRVTTY.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Shottas - 2002
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694964.mkv&play_token=zlDbajtsP0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694964.mkv&play_token=tRm3cNdsyV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xA1KaGoYQJveY3C87J41Au5Kkn.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Vantage Point - 2008
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694912.mkv&play_token=lWbCF2Xo2E&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694912.mkv&play_token=mj8xDlcNRU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15WWLqT1W83xXFutbebZnDjqIxq.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Killing Gunther - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1690851.mkv&play_token=kj5ra6HJMG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1690851.mkv&play_token=FiIRTkz7mt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QGdIJWWTkPhVjpQ0zA6z69khod.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Boyka: Undisputed IV - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1690845.mkv&play_token=UwAdzwombu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1690845.mkv&play_token=OP390MUGvu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixeygHHDsuzsg67H1IPTc3Qp8cR.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Another 48 Hrs. - 1990
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1689882.mkv&play_token=iFhZP5r1Ic&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1689882.mkv&play_token=ANni1SOpQx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvvjXHzEDBIvIVDBHNOwHS7hVPu.jpg" group-title="┃NL┃ ACTIE",┃NL┃ 48 Hrs. - 1982
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1689881.mkv&play_token=pMTubM1DuE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1689881.mkv&play_token=gDwBy0moSI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEZ0Av3VvJvIs0zeqntNVUY9n48.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Revenge of the Ninja - 1983
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677826.mkv&play_token=VYX2lyt2t5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677826.mkv&play_token=NOVskRcAyl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uUMJelRS3CGFehLyspQOS1R4z6.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Ninja III: The Domination (1984)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677825.mkv&play_token=jUb1Y041l3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677825.mkv&play_token=tgMPVX7Skp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4i1wzuyFXv6NHREAy4fPPGSH7E.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Ninja: Shadow of a Tear (2013)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677824.mkv&play_token=qiKLOmilN7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677824.mkv&play_token=IXnKXP8ySE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKjH1IQVeUmHOlxZinQdjFHkFVG.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Ninja - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677823.mkv&play_token=p6zzEZEfJr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677823.mkv&play_token=OUGkUznRkN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zYvNCPRX4W0s2gNxWqpsdk2OCT.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Enter the Ninja - 1981
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677822.mkv&play_token=CwT0s9epNe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677822.mkv&play_token=Xl6h0klgix&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lE1XfidwJml7lNGi0D4KlB8uQFY.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Redline - 2007
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1651173.mkv&play_token=gmBGhsGl9D&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1651173.mkv&play_token=4LZQaiFkrg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhD3qVfVmxz5CXDxctXwK5nmrOp.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Cellular - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1613985.mkv&play_token=V6Wrmn8nY4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1613985.mkv&play_token=Qodwj0C8ZM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/funhGWt9ee3Uwb6Ar8SGCCvbJdV.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Black Rain - 1989
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1613984.mkv&play_token=2ybvAJeXT0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1613984.mkv&play_token=UGF8TYL5Q4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nA8ZVbdBsNkTqsa49ZG9na4lFuY.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Gamer - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608729.mkv&play_token=Za85t1m4vR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608729.mkv&play_token=FL1RWL3FH1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPGVdpr2eEgHfsD2FuB2Lj7epMG.jpg" group-title="┃NL┃ ACTIE",┃NL┃ New Fist of Fury - 1976
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602974.mkv&play_token=elkWJw6pBZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602974.mkv&play_token=LuYVA9eidu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j04Oepj3LGTWSb1ltXm0pcy50Xq.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Army of Thieves - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595386.mkv&play_token=joU0Iplo2m&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595386.mkv&play_token=JQdWeSZeqU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/va4Uo7L2b4d96JTdRMclO9L2hY0.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Traitor - 2008
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1577638.mkv&play_token=oZqH5b4Vow&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1577638.mkv&play_token=ZuDganNtzA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Cn5pxPi5XedW0oH0Xr6GibmmVZ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Extraction (2015)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1577633.mkv&play_token=yX3ueaA3f6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1577633.mkv&play_token=k78SqDthcr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocTaizFzASVPClHsx6VRBi5yP9Z.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Parker - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1563295.mkv&play_token=ljwAX6Yosf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1563295.mkv&play_token=bBLmMaH84j&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69djlBb4Ol8ZFHikj0h3GE3NG7O.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Shuang Long Hui [Twin Dragons] (1992)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1521584.mkv&play_token=TxvpjNS3iR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1521584.mkv&play_token=BIDHYqwXza&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmjCMtkeqxruMVocq7iwMx899xi.jpg" group-title="┃NL┃ ACTIE",┃NL┃ I Spy - 2002
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1510093.mkv&play_token=S8FUgSBf30&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1510093.mkv&play_token=hIMsXxT96r&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Teen Wolf: The Movie - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1488114.mkv&play_token=T1kvQVKmG0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1488114.mkv&play_token=Awei2Qchk1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPsLSqO2tJhR9DtpzUvpM3Llc3N.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Bastarden [The Promised Land] (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473971.mkv&play_token=ghnteCV3Vc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473971.mkv&play_token=PPahlW6d4U&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohZ2oP27ZAwNJ8xUNOQkFiwqKDL.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Rush - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1470753.mkv&play_token=Y9Wn6tqREO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1470753.mkv&play_token=EQyWVlfc34&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvhmqU6GUkigo6SSYL3ttkBhNER.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Vendetta - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1467497.mkv&play_token=yVBD0pZsWD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1467497.mkv&play_token=7d0ZApYDYJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ews3l3v7JYLtBS5ansZrXsXLMzl.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Gasoline Alley - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1458733.mkv&play_token=Ik8xGxZvEu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1458733.mkv&play_token=9ZSErImTcb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDuJGq8biNMW7zM3w95UaDJv0KG.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Lone Ranger - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1454631.mkv&play_token=RqEpK1a3JH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1454631.mkv&play_token=qFNrzITkYF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhK0mqqirPsckxkNisvi32A4lf6.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Agent Cody Banks - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1454620.mkv&play_token=FiPBXVnlcG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1454620.mkv&play_token=IyLHjXGC8F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UBFz6jVR6Svx2dhbg4PvMpM9um.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Weekend in Taipei - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452854.mkv&play_token=i8AOziZ14u&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452854.mkv&play_token=FNHZ1WsUui&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YrRviphr3eXPus9iHyQX56QgIE.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Green Hornet - 2011
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1446152.mkv&play_token=Hbup8bvgtq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1446152.mkv&play_token=oxodpVqAas&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQgT8kdjWJots3dX5Xy11le2vHk.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Gift
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1443080.mkv&play_token=uCX2QWePv5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1443080.mkv&play_token=3PpJQxRRrc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kD6YmrRzCqw9n6PC61Inqcawhpc.jpg" group-title="┃NL┃ ACTIE",┃NL┃ OUT
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430229.mkv&play_token=43KVdwTBiE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2U0oAVAE0lDRhNmJPPYhDW9kQ8t.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Anna
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430222.mkv&play_token=6ds9dvkn5F&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtLUmkWg41xFLpvmUWAN1mm65f6.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Boondock Saints
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416470.mkv&play_token=eZ4cCiul89&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLRZbtrbV51oQuvqNeK6vhb6btV.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Kill Team
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1402082.mkv&play_token=7tj9hL7AAy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJPnqK2kSM257FESP69HPTSWt3p.jpg" group-title="┃NL┃ ACTIE",┃NL┃ America Is Sinking
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364891.mkv&play_token=syciBWevCv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtBOCJBCP0MWNjmBwjMAzbwgtTK.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Next
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1324163.mkv&play_token=juzTAXCTiI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QnfT7zunSxKwbQmmT9FoxccwZe.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Hunt
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1324160.mkv&play_token=tdw0f6K2dQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfDVpBus7BaUiT6UsjpiedyPtnX.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Wake of Death
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1321796.mkv&play_token=CvPvmS8mzW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqQPxxRQqfLrq0ubfDQCwhJHZ91.jpg" group-title="┃NL┃ ACTIE",┃NL┃ As Good as Dead
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1310889.mkv&play_token=rKLUGpt00W&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkPm29sqtEjoekOhXbqxTcgpJ4y.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Undercover Brother
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1306606.mkv&play_token=8yCDDpSJiZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUvrjRRmC1BeI8QyMaRBdtIqHHn.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Rang zi dan fei
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1306583.mkv&play_token=XHs87xO1lq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daeVrgyj0ue8qb3AHyU3UeCwoZz.jpg" group-title="┃NL┃ ACTIE",┃NL┃ American Siege
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1263062.mkv&play_token=YU0OnAbeTP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbmxnsv41vsg5UEaNDlf203dOWw.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Old Woman With The Knife [파과]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262068.mkv&play_token=9ibW4LhNIe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9702nIZf5EVxS3FrzycamQUlSjw.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Cut Throat City
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1261228.mkv&play_token=WEeGST7N30&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXq5Gjy8vc3iifDgtObZ4i6qNe8.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Man of Tai Chi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256596.mkv&play_token=1o7WbHgsgx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJNbyUFUt3c14CoIjLSn8ZxPw.jpg" group-title="┃NL┃ ACTIE",┃NL┃ 49
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1238975.mkv&play_token=8zk5AwCvlk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8chF1Z7hyuSVqLYTgElkQZh2VB.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Forbidden Kingdom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1237753.mkv&play_token=PolMT81XFF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5iZVBfOqlRs4g50dm2G6YGfhYD.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Wheels on Meals
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1237750.mkv&play_token=elxb4FzRcz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1Zs7VaS9y2GYH9CLeWxaVLWd3x.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Speed
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1236765.mkv&play_token=UQuZ2D4Fii&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zvDsEfIbbAy6rKLOI2UerX1um1.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Order
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1233996.mkv&play_token=kxMIqMltby&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdAuVFP63XXxnb983ry2pLCKd9S.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The League of Extraordinary Gentlemen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1233994.mkv&play_token=AXzGFTyYp0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6E50WjeOYjDZg9HXgPjYdGtY2jG.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Pineapple Express
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229055.mkv&play_token=DEUEk22MlJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czFIaeukSxNEccysQeys1PCkuOG.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Green Zone
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229045.mkv&play_token=Iuy5hc0uLd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vE2fYcP07fbIHoouATNErRQuNrw.jpg" group-title="┃NL┃ ACTIE",┃NL┃ In Hell
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1209555.mkv&play_token=GwUZ1uTKp4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euM8fJvfH28xhjGy25LiygxfkWc.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Deep Cover
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1203221.mkv&play_token=zhaxOjlM1X&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sU2yzV3T1LetBdQPAeBRDb4YwLo.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Contract
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1196914.mkv&play_token=0guJvcWIM3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LrvMsPPOE7BGOS2HzASc4Ec9L0.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Snatched
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1196910.mkv&play_token=cmesU7b4j1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRvxRMtejJa9jjfDDUibUIfIJbP.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Hanna
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1193662.mkv&play_token=QDnjJ0aDQu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qG0ianG2hTkR0ZuEiCnEySBTXrC.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Shadow of Vengeance
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1188732.mkv&play_token=7AYePC2aOV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Hancock
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1188728.mkv&play_token=HcA9fDK3Aw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5svlDdCrU3nuoHPfHwjY1ByAsk6.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Quiet Ones
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1185332.mkv&play_token=Yf5vmXr6LF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Peppermint
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1185330.mkv&play_token=Rw0MhmNJGe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hc3p6pvIrfO4AmrVLb6qTviOwW2.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Peacemaker
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1184422.mkv&play_token=DaPZQA00MF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5QfKjWG5UcEbbo7btAmXnJpaOn.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Backdraft 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1183219.mkv&play_token=IUkO3WsIOq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zd9eNagUB7FEaqffnSw3n3Nii4p.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Recruit
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1183214.mkv&play_token=2iq166jUuO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMDo0ewl6XMZei44UNGMfho6eBq.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Quest
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1183213.mkv&play_token=570rR7b0Wk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tP4r47v8v6mEj5X5RuG9y8Frbh.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Last Stand
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1182304.mkv&play_token=b17K0KtcBs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijzMEf8ZhGiz0f1mb2zeuTVjXj2.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Baker
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180036.mkv&play_token=25MtyYPIfU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Amazing Spider-Man
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1173277.mkv&play_token=mMh4zJyu1z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mAcwa3k5RWNw07LEEWl9Y6ANqx.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Amazing Spider-Man 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1173276.mkv&play_token=12BROsmOI8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koJFEW997sLjpu4e7wmFioA2mhL.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Paradox Effect
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1173269.mkv&play_token=Sg7NrLdZoq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k43wPAVeepqzGwP52dKcknQjquj.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Saint
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1163115.mkv&play_token=Tsr8eSPOEL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcr3t71KmeXINemMrhaGBGVJPwW.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The One
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1163112.mkv&play_token=DHxJAzNCim&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUMHEymATOGbs2K3E4dmNSVBgFQ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Negotiator
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1163111.mkv&play_token=VsfjTyU2OQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Salt
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1158560.mkv&play_token=U3b1yBQNtd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Oblivion
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1158556.mkv&play_token=mGcJ6fswdb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ews3l3v7JYLtBS5ansZrXsXLMzl.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Gasoline Alley
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1158542.mkv&play_token=29mu4aUGgS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nA8ZVbdBsNkTqsa49ZG9na4lFuY.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Gamer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1158541.mkv&play_token=O7HcR4eX5I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUHvlkLavotfGsNtosDy8ShsIYF.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Edge of Tomorrow
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1158537.mkv&play_token=wuh40p7Sq1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljLtASv6WBnZrXxAbR8gRsDFVES.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Dick Dynamite: 1944
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1158535.mkv&play_token=4JoZAIN07X&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gghvmS3UxtOw1UHIgYjpeZNxHil.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Unleashed
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1142377.mkv&play_token=NnivFCDR6K&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aAFYnozbSgTmwTJ9kESTbZ4D2u.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Dead Shot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121753.mkv&play_token=XAGPJMlrzl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiUKxkvuxxRbj16DoRZAaGB2WHL.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Debt Collector
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1107885.mkv&play_token=oO9SJY7cDS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8FWpw3WHUo9EvU1xMWZRjdRlN3.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Debt Collector 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1107884.mkv&play_token=ygoaV89Ons&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1jtS5Im8RCJJt4WXSZBBnMXgEe.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Top Gunner: America vs. Russia
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1106221.mkv&play_token=1fn8zd9wat&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48826EPBpQTaps3OtTBUCkfDXhS.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Echo 8
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1100144.mkv&play_token=R617zaUeXT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EyDLx7ea4ysBcvf8pdV6RyR6ut.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Disturbing the Peace
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097985.mkv&play_token=hz0imFMR9Y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdI9M5Xlp8gehgnRUWXZKtyoWOB.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Bonus Trip
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1092348.mkv&play_token=H6X9KAxmDy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/as101fPPLaVPbxR7eJWNArQx2d3.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Muzzle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089445.mkv&play_token=T4wy3KDMbe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg" group-title="┃NL┃ ACTIE",┃NL┃The Book of Eli
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1039904.mkv&play_token=oWFYfgwl2o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg" group-title="┃NL┃ ACTIE",┃NL┃Spenser Confidential
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1039903.mkv&play_token=TPoV519uw6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhD3qVfVmxz5CXDxctXwK5nmrOp.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Cellular
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1033982.mkv&play_token=8fXmXN2KZa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtyF4NF9fQlyGP8cgU1mK3DLUTB.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Basic
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1033978.mkv&play_token=g2vyaI1uhp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OG0mxQt4YaNIWiz8EKJSHe9lPh.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Knowing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1029394.mkv&play_token=I1fUsTXJUn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aL1xLhr9fAVrcyGvUKDmz64zYme.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Hitman: Agent Jun
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1029392.mkv&play_token=8eOcUToKZT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujIHEzt2EEboVzjQoWZBMYdAt1v.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Thieves
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1029384.mkv&play_token=edr9OYEIIv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6xwAfDrNvUXRVXtuqiLMhnBTmq.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tiger Claws
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1023614.mkv&play_token=mQ9NUqDcaW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4cdJ0Wqxb7C0HmZbcaC4eYnkIf.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Charlie's Angels: Full Throttle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1023587.mkv&play_token=PCZChZIVaI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG556jK2cpScg2QABjGRe6GgGsi.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Charlie's Angels
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1023586.mkv&play_token=NVMgYHVTNZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ARCCbjjsqQ7ajKy1msnWxt80XH.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Kingdom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1023574.mkv&play_token=urUuy8ao8b&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5m3FEfxGQ7MdNNfUwNtA6paXRDs.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Final Score
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1023561.mkv&play_token=21u5ey31hK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ity61Y1zyLDEZ5aYguqmhgRQ7rd.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Death Proof
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1023557.mkv&play_token=j4i3rdM5iS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Apex
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1023554.mkv&play_token=qNiBLIeZb7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXF26QmDEaRaH9Fbhs3NXtcnryx.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Jackal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1001185.mkv&play_token=4Y4fX53bm9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8nXf8h66HN0ZAr9KmPzEGP9CM0.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Term Life
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1001180.mkv&play_token=1un1Td1eTJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHicP37qTiTYaRmYw0JVU7oIfKZ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Journey To China [Iron Mask]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=994466.mkv&play_token=fRsZ9kHLmA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3N8sDnZp1WLonoh5JqHQ4HbIBJm.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Game Changer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=992224.mkv&play_token=4Zjl4uDi4c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MwCyf1XSuxv495J62PRXzLjHDA.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Rembrandt
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=992223.mkv&play_token=s55eMOhu3t&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9fYaDwQV6G9pnzR2OvUqwX0wXC.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Unbearable Weight of Massive Talent
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=991727.mkv&play_token=DjKpl1waE9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jO8C2AIIdFyi5ceI6whev0RYt0k.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Hard Target 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=991716.mkv&play_token=7P5iAaMuK0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/poVoLKLxUqsTLSntA40Po2F78dZ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ From Paris with Love
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=991713.mkv&play_token=nN7RLnuTm3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmzwvSqoMC37Tgqwj4mA2dHNSmw.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Double Impact
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=987833.mkv&play_token=ePvrnZ7bfO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2zztssCIbahGES1fdfWFmDXian.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Ghosts of Mars
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=983611.mkv&play_token=FwVmlBoSfv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uAaHUXk5jWsbXm6tpnZwAUvV32.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tom Clancy’s Ghost Recon Wildlands: War Within The Cartel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=982020.mkv&play_token=4ImUGhOkiS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QGAUtP5YvEFRMdYl2iEhgHybDw.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Bring Him to Me
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=981993.mkv&play_token=r0FvXMBXPK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMzakdctq14rSZOqZ2QwSaLe3do.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Blind Revenge
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=978273.mkv&play_token=wsnFr6j01c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69djlBb4Ol8ZFHikj0h3GE3NG7O.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Shuang Long Hui [Twin dragons]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=973001.mkv&play_token=jE1hWf1eVo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BHE8h2wnqk7MY6KdnIE1RZT4ZK.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Showdown at the Gran
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=960809.mkv&play_token=SgYo5NvrC9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Everything Everywhere All at Once
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=956309.mkv&play_token=n2rG3llht9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxxxjTu87OSmQYkMFF7MgOEDXRn.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tango & Cash
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954677.mkv&play_token=UsitHHALPo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfvH5YKXtMiBgkj0FNozQj4TQyp.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Spawn
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954676.mkv&play_token=b8E733SbHp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Foi2Via2fIACRJMB4934D5MP3j.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Embattled
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=936719.mkv&play_token=j0mebV2QnR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xupvHBQ9EJW8em6biZw0khquRh5.jpg" group-title="┃NL┃ ACTIE",┃NL┃ 72 Hours
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=934615.mkv&play_token=5tYKcfuuk2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ei2qjTiDpgKGuoSEntPCSAIhuvQ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Olympus Has Fallen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=933684.mkv&play_token=owkI4XQgmj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4dXjhIzuBDeoEybnL6i5eQKzHb.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Acceleration
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=933668.mkv&play_token=97LNMSlwrV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Non-Stop
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=927827.mkv&play_token=AZ4RoA9Pqo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/324BciV9fumywsWq0zGAmQgEmbH.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Kung Fu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=927824.mkv&play_token=DtnWS59EbJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WRdrjHyLuHRwep2UJWBoIn6KTW.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Harley Davidson and the Marlboro Man
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=924716.mkv&play_token=vD4K1mTAUN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9pXrMKLsBGGOFyyZ0Gwt9YpVub.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Enemy of the State
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=924713.mkv&play_token=qTMqsUSi4r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjdVz1gXn1JBYSLdkyFLtdB9lo5.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Gamle mænd i nye biler
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=916375.mkv&play_token=yRb5d0rj17&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5twFaR5A1Y9C3KAt6uy6iq332m0.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Ninja Assassin
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=911753.mkv&play_token=ysux071GzG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pY8FbKKl3VD0jRI1iDFrwN6alLa.jpg" group-title="┃NL┃ ACTIE",┃NL┃ End of Days
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=911747.mkv&play_token=1jz9Cl0ijZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkCO4bf8kDxF4wsUOMzhYk3Pgz2.jpg" group-title="┃NL┃ ACTIE",┃NL┃ 30 Minutes or Less
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=909671.mkv&play_token=ttqcbLY87o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58X8iBxgT5n4aVBLkDFSnOrIHlD.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Parmanu: The Story of Pokhran
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=904461.mkv&play_token=RrXSoAyzDU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efwv6F2lGaghjPpBRSINHtoEiZB.jpg" group-title="┃NL┃ ACTIE",┃NL┃ I  Robot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=899838.mkv&play_token=x0qCdcFd1S&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9xEILdvVRX8ZgFwPDbco6kKSaS.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Willow
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894251.mkv&play_token=kK4LyftnOQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fF5ULrCAQ8TULXyFGlPlQ2s3Jie.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Mayhem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887942.mkv&play_token=z8jgPPvm28&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yrrddjIjx0ElCRZp5pTZeqrj3k.jpg" group-title="┃NL┃ ACTIE",┃NL┃ 13 Ghosts
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=882189.mkv&play_token=JHieUVCq7L&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qA31i7FPVDHezuoevx3497CvZd4.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Cop Out
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879537.mkv&play_token=QwuTE4NisQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ ACTIE",┃NL┃ Black and Blue
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=872446.mkv&play_token=ISdXIZOzuz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OEPecCmwGFTGLuiNIYy6hjmZJM.jpg" group-title="┃NL┃ ACTIE",┃NL┃  Stolen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=871118.mkv&play_token=1rw3NDgqLH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Little Dixie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=867282.mkv&play_token=b7nEWebErp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8y3G8g7E7SXZ74XDt6gaxyfELse.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Mythica: The Iron Crown
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=866596.mkv&play_token=yBq3HYdHpz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mibBHS9mVV2z5rdeFdOkH94Sw1c.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Stratton
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=866377.mkv&play_token=7xRztydSZz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jW7bHZgkHKUtUJCsThFuqbZGVUL.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Red 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865825.mkv&play_token=AZSNVNPPxl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eeK3OB5PeSRQD7BpZcGZKkehG.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Red 1
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865824.mkv&play_token=mtMDT4fuPk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMtEu7346RUV26OMwoqOPHrKERe.jpg" group-title="┃NL┃ ACTIE",┃NL┃ My Way
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865822.mkv&play_token=ScMg0llUdM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqCW6r75j092lVge7nkzgDBycJH.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Sumotherhood
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862968.mkv&play_token=X3X2xPMuNf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFShhVUU5LfGmLvo9OJGM8dyDFL.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Ransom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=860824.mkv&play_token=URAqFTmu2W&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KymNvlWR0XF0sqX2BWRd9Z3yXR.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Outbreak
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=860822.mkv&play_token=bjnFdBuTcG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAkVEo8wEy5Q3oD1OxOXN3ijnP9.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Blind Fury
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=860383.mkv&play_token=N6IroPD6zG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ ACTIE",┃NL┃ Snow White and the Seven Samurai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=859968.mkv&play_token=XxCIB1CwgE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iikQsCOJozI1JLGAnnrAeDJ2APt.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Daybreakers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=858837.mkv&play_token=F2ShRecjBl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Sicario
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=858430.mkv&play_token=wxbF9kqA8S&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fucmGeZYM4yzqJUnDTc4pKQNCej.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Total Recall
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=854826.mkv&play_token=t0uMwDJ9h4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Superfly
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=854179.mkv&play_token=ngZbxwpdYO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfx2EENW1sOpKNVKLzr7VOhlxkt.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Hackers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=853036.mkv&play_token=13A2xDZazs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SGNGtWDOTbbT9XsMTgfoVHGb2s.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Navy Seals
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=849399.mkv&play_token=F81w7sLA9p&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7Yv1Zzf3fhzDPJBXEejroPmdUV.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Sentinel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=849372.mkv&play_token=UgDFOgbN72&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im48m1dWTdSTYo7Ue8SxvfUd6iq.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Rendel 2: Cycle of Revenge
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848297.mkv&play_token=WOoXj5p67d&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5ZqqPlhKstzB4geibpZh38w7Pq.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Convert
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846067.mkv&play_token=QqpphPskbk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/briDKf5nrLzox2zcI6pquKeqWz8.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Repo Men
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=845198.mkv&play_token=GaGpOtH4OF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkNK36hQv8SWiwiQoE7naRfP0zL.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Boneyard
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=843380.mkv&play_token=GOKLinwl4V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5whSgrahGfBhRdDVNwYe9DcOdrn.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Last Resort 23
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=841392.mkv&play_token=SJxgWZdnhC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg" group-title="┃NL┃ ACTIE",┃NL┃  Flyboys
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=836923.mkv&play_token=uSdGylE7Fv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hH6YeqFcihbZsz7iWl6MzQVzL8O.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Annapolis
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=833897.mkv&play_token=F8W8TYTPIP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWfxconrbmzolj9YT7XLftSUgxS.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Furiosa: A Mad Max Saga
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=827292.mkv&play_token=gxoefLdLOA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UfZeMmpw0SKAK13VPUpTtN7xRb.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Road Wars: Max Fury
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=820849.mkv&play_token=oCwPyU4q3N&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhj4Q39qMSk6X5Ly9j9Yqyjrg5A.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Snag
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=819930.mkv&play_token=a3Xo8KOw6K&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fPN6EZHEeJtl1Nh9ZsyG4CSf8V.jpg" group-title="┃NL┃ ACTIE",┃NL┃ American Ninja
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809737.mkv&play_token=HAp0VhsVBK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKWAk4BHzyEOMmLKUDXoIAPhH36.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Life After Fighting
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=808798.mkv&play_token=J1o1Fjlgfd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gT9ucV7bpkIYfU5ugxFOuhInp8p.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Kill Craft
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=808797.mkv&play_token=BwJklivY3I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPOKT5ubbfWRZDknMLMrMLPfoqf.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Blind Justice
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807308.mkv&play_token=IOOHgMsSAd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ed5wqdeX8HJUkV8fhzv42vBX4JZ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan's Three Challenges
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797194.mkv&play_token=BBl8eiyowE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmRXYQUtCkqo6N8mc46WImvQ1Wz.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan's Secret Treasure
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797193.mkv&play_token=N58xB2Gxs5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOt0GhI5McWzEe3MhDOLV4SDuY5.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan's New York Adventure
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797192.mkv&play_token=wYbROB7W2T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15eylKQhr8QN6JKrUWw8RxsHoAP.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan's Savage Fury
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797191.mkv&play_token=ROrUxXfogz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jU3oP47JD2qGCzxL3YtUlkB7umA.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan's Peril
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797190.mkv&play_token=isFAZpgw5L&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMQabQlULUogQbJiYmtxlKcfsK3.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan's Magic Fountain
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797189.mkv&play_token=MH2N3LfLZU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz3QwHxz25JDh5RZjiuAWxJ3Cdg.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan's Hidden Jungle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797188.mkv&play_token=lk8IXpegp1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wD8bHOKqBRoK7Mgj8aIA4NzENa.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan's Greatest Adventure
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797187.mkv&play_token=MU9r5QjCCT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blDwzhRIeD5JKaJnsMnJaamyBlW.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan's Fight for Life
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797186.mkv&play_token=b6m05NjNQ4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqtdNAktAI3p1iXmaEooaHjMmWd.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan the Ape Man
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797185.mkv&play_token=dCceLcd0jA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmNL9JuaH3ZlhusAhflVHPSvDFD.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan and the Trappers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797184.mkv&play_token=zFNTtf3SGe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcJaw4I8vFAlYnTZQyWCIANjkQn.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan and the Slave Girl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797183.mkv&play_token=p4nXFD4mSG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/de43fI1Q7MyWjwwctv9bmERKL3d.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan and the She-Devil
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797182.mkv&play_token=aWTj4BiURG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/729UP57wf1f9qwYmXsRqSBt0oJC.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan and the Mermaids
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797181.mkv&play_token=2RKp2b21C4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj5Rz1EQ2YsUVgelrtsyf8YkQws.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan and the Lost Safari
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797180.mkv&play_token=3ekToklulg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2AtSeKyuygtbFcKuyurJ6m6tmJ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan and the Leopard Woman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797179.mkv&play_token=eeqSluww1Y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yO4UbFegpriM8YKzm7xDxcDfG9.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan and the Jungle Boy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797178.mkv&play_token=YqrMF5skxv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldOLFlbk6ecRnANiozgh4nX4GrD.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan and the Huntress
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797177.mkv&play_token=hQu2RdU9qb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfbJQVdIbvEgj5RLexrzhufRqMf.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan and the Great River
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797176.mkv&play_token=hCMcTNwvHX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D9irZok7EQ2pLoJLwbVBdedEpQ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan and the Amazons
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797175.mkv&play_token=L3uGmqCcxr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnLZv1qhaJtzqP8q9ofkSnjoAIn.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan and His Mate
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797174.mkv&play_token=FmA5mVpzmw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW131tphE6YLG1uAN3bNm50ka6o.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan Triumphs
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797173.mkv&play_token=2DG9y0h0Vf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbbDG9nr4nyHqt2YocaDPHTcdZP.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan the Magnificent
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797172.mkv&play_token=AWZfHL4XTC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOdhpqijqm1BDzTBlVv2kvFzgVm.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan Finds a Son!
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797170.mkv&play_token=gwqD93vnQQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhh3vQt32phMCDgQ3OamIYX2tOK.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tarzan Escapes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797169.mkv&play_token=qhV5E9A16p&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZ0Y2qSDKQJolrQhIDpTwx3GlYB.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Twister
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796539.mkv&play_token=grZryyfBaE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGElUTRxtKWlMciQYFO8dIRDytU.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Tomorrow  When the War Began
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796344.mkv&play_token=N9xxcdH3hd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVFnWZdobUio0sAiu7PDXQdLm9f.jpg" group-title="┃NL┃ ACTIE",┃NL┃  Godzilla x Kong: The New Empire
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795197.mkv&play_token=hm8dBiZ2D9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Godzilla vs. Kong
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795195.mkv&play_token=qPxYcoM953&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQ40gmFM4p03tXwMxQQKh2cCBW4.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Godzilla: King of the Monsters
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795194.mkv&play_token=UKHMvbe5T6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Kong: Skull Island
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795193.mkv&play_token=vMNEG1tyJz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zokD6uxR2iWfYM3Y84yGJvnNTK7.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Godzilla
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795192.mkv&play_token=xiI1b5ps42&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg" group-title="┃NL┃ ACTIE",┃NL┃ King Kong
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795191.mkv&play_token=I8UQwzezRe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJVl1I95StraYAwaNbBkVoWE2qA.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Godzilla [1998]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795190.mkv&play_token=ICK8flbSdg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0eEEZAqMf98ULQnoiORuazjOpn.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Death Wish VI
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795168.mkv&play_token=U2QepsLhHG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFXm4aUMCrCtjP1nvp5gRPmseNe.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Death Wish V: The Face of Death
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795167.mkv&play_token=ueVsFf1Tko&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8HwJQJyKRyJ2JypwiVR5p0ZV84.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Death Wish 4: The Crackdown
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795166.mkv&play_token=nRUAEJWPVD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mc33TytXxkC9cSKyztDJzwF3lbn.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Death Wish 3
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795165.mkv&play_token=AkfljEQEmo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bhSCZAifl229B1vCLCiE9BZp7l.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Death Wish II
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795164.mkv&play_token=UiQMdjrD9P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0MJPBLSCtt7DBYZGFsOfQkZCWt.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Death Wish
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795163.mkv&play_token=SIfQokzvC7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" group-title="┃NL┃ ACTIE",┃NL┃ WarHunt
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795073.mkv&play_token=7gjgUJ7JRe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6g5L4lpsQ1jYDJpMn1XGYOGzlar.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Inspector Gadget 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795069.mkv&play_token=WfMl6Dnc1w&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKpK8FaQDpkgp3HHm3YrIDqUjWh.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Inspector Gadget
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795068.mkv&play_token=HRXGfhxqjK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52NXkgvzRYjRnqRPpqjpiwsIgRG.jpg" group-title="┃NL┃ ACTIE",┃NL┃  Hitman: Agent 47
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795066.mkv&play_token=Z3EOUzG6w3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h69UJOOKlrHcvhl5H2LY74N61DQ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Hitman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795065.mkv&play_token=0TDDucVf2Y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14iFE7mSUZTTERMlOZ4CtqT6aMf.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Beyond the Gates of Splendor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795060.mkv&play_token=Qv1rGFbRft&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muOqOy0wmLfbH7eh8rr04akebYQ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ We Were Soldiers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793600.mkv&play_token=NQxMZd4lCW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuVcF1AflHwi54YRZjrakM7nBLH.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Masterminds
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793597.mkv&play_token=xQJZyK1g7X&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdNdrqVJgkNNuYbI11TiiYkuP7Q.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Squealer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793211.mkv&play_token=klFJY9fPO4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRmsqvHnaWmrazJl9bTBqs4LAjp.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Lone Ranger
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=791957.mkv&play_token=8l7ZqHxoXt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzXOB8nxO70SfSbOhrYcY94x6MI.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Stockholm Bloodbath
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=791936.mkv&play_token=MbeBeYV3Fw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aSo9FepBA6zNEHgA3bgqt3UaOk.jpg" group-title="┃NL┃ ACTIE",┃NL┃  The Siege
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=790409.mkv&play_token=WLGGULBCeF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRtpJFGney5gqHmMb3JjT5WN3FH.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Surviving the Game
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=788930.mkv&play_token=AWdrAcxcHn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tE2tnk3iSXftJkRN5fkwqcRAiV.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Southern Comfort
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=788929.mkv&play_token=xVSVmtThcu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3GLsfBLy7fdM3dJKAkzQlTIqII.jpg" group-title="┃NL┃ ACTIE",┃NL┃ No Mercy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=788926.mkv&play_token=pX5pWS4MKj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNkLz6ITQqTDZHBXqiCrm4kaJKJ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Last Boy Scout
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=788758.mkv&play_token=5a2RgJGQo5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Fast & Furious 7
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=788692.mkv&play_token=5WQSnp6acd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93uRPzVpf4ZVjDfswmpsrAmBS4w.jpg" group-title="┃NL┃ ACTIE",┃NL┃Robinson Crusoe
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787930.mkv&play_token=oYNyR5oewW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Mortal Kombat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787495.mkv&play_token=QfYIW7H5DU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ThnpFx2G2HPhecvODGFEQxfOpO.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Vanishing Point
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787396.mkv&play_token=Z7wkyUeacV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbv7yfJIwLilvWU1XapMH7Ab9ab.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Bandidas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=786340.mkv&play_token=Rl2xzHxXEh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFocqbDze8zWuf7GolkpS2M17V8.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Scarface
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=785222.mkv&play_token=2PTgghuMno&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j74zagRTYgkofx5lJEP6yYZ0mrv.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Rampage
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=784040.mkv&play_token=kuQCDOwUfk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5X3VOy9lD44VclKsWTi8gHZGjhL.jpg" group-title="┃NL┃ ACTIE",┃NL┃Hercules
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=784037.mkv&play_token=YbOVU8NmMn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FejR8s7E1BYkWRFZ9sPTNHKkxT.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Wyrmwood: Apocalypse
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=769381.mkv&play_token=HGXK5twx7i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cO39cnWSZQi2ncPG5TxL3YRzKc.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Four Brothers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=768364.mkv&play_token=BceuoRIF5m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xASjk4bzCl4queDJvOa5HgcZOW1.jpg" group-title="┃NL┃ ACTIE",┃NL┃ War On Terror: KL Anarchy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761602.mkv&play_token=AxhTGMfu5i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8WqDIUC00TPX6U24ah0C7IMEKf.jpg" group-title="┃NL┃ ACTIE",┃NL┃  Just Cause
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=760271.mkv&play_token=JZu79LbONR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9P7SzxYyaTCDmWjuRIMtRDbb9K.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Cocaine Wars
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=760268.mkv&play_token=oWszeGLJja&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a68zeNwSvt1PZtuJRz0QRSSVx1U.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Final Cut
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=760047.mkv&play_token=J1vX9a76kF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxhsdC8wuGgQf0gKCt8wyHHxGcQ.jpg" group-title="┃NL┃ ACTIE",┃NL┃  Dragon: The Bruce Lee Story
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759258.mkv&play_token=aCxAI9X5kA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv5WlYtLOw5j7buoV220x3ENnmP.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Bruce Lee - The Way of the Dragon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759221.mkv&play_token=ocE2zrx6J6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkB9nunlqADXUCUGWNZa3uCvlUc.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Bruce Lee - The Big Boss
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759220.mkv&play_token=H1nC1o6fE6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prh18GkkfrOrvvYJHfZIIcsaBTQ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Bruce Lee - Game of Death
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759219.mkv&play_token=micN5aPXJv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Bruce Lee - Enter the Dragon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759218.mkv&play_token=C7mtWPXzKS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOsPclgSiOqhndI2Xp2ksz2g9n6.jpg" group-title="┃NL┃ ACTIE",┃NL┃  Prey
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=758806.mkv&play_token=G0dio1q5xi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRxMgYS6Hk0C5IQi009kNBpuSII.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Darkland (Underverden)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=755587.mkv&play_token=scw8vtLnNZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8EPXv3SV9qiNCIttIM4ezJRmhW.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Darkland: The Return (Underverden 2)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=755586.mkv&play_token=n4UPLauuM1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xNyYHJBeFzzQvn1fEzz2xRxO9d.jpg" group-title="┃NL┃ ACTIE",┃NL┃  Desperado
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746132.mkv&play_token=rEv427UrKO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYwjlcBjokC9EhfzfAOkTMQd5Ku.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Land of Bad
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=731064.mkv&play_token=wTts55LNt9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Animal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=729737.mkv&play_token=CSnpx069ub&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3C5cZnIwQ6Wj4qGFKv0BBjimWro.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Wild Wild West
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722984.mkv&play_token=u1uyiiyl0g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aOnEAg3FSIg8DncA9JvMBuARTZ.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Shaolin Soccer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722555.mkv&play_token=UZulwtcdsG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgr8VRMyNrw8RooFuwrIxGnITVg.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Bloodsport III
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722546.mkv&play_token=eCVnjHW8Z5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPjZsEni0KF0IXGXh0kaxNESdGE.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The White Storm 3: Heaven or Hell
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=718372.mkv&play_token=Mqigxt5B4s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="┃NL┃ ACTIE",┃NL┃ The Beekeeper
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717617.mkv&play_token=WDpnb5Kb7B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDUsjSAvSVjvwSJmsMWjpuapNIr.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Aquaman and the Lost Kingdom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=707096.mkv&play_token=g5Zz4xNghK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jnW1fFgHBves4YOvu4HclkVhYr.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Ip Man: The Awakening
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=707051.mkv&play_token=kKZGGyGOIp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHZN7zZGsWik9Sg3APaHGeTK5Jm.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Ip Man Kung Fu Master
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=707050.mkv&play_token=tVTPfQP8oa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAWBfTDAmfpvQGMVFuzuVl49N1P.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Ip Man 4: The Finale
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=707049.mkv&play_token=8LPoPylp2b&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRLVyhQfkW2hn15e8NIqarswLAr.jpg" group-title="┃NL┃ ACTIE",┃NL┃ Son of a Gun
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=705103.mkv&play_token=irWj0zCJYG&type=movie

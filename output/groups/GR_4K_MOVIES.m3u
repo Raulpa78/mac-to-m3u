@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CfLt66HbkAaefaxCkjs7elwxU5.jpg" group-title="┃GR┃ 4K MOVIES",┃GR┃ Medusa's Venom - 4K - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2426336.mkv&play_token=3OsQUrzcRP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPLQA32VGv3CKkDMDK2DWlEj1VB.jpg" group-title="┃GR┃ 4K MOVIES",┃GR┃ The Wolverine - 4K - 2013
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2426335.mkv&play_token=ZMwkLk22uI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wHn1W5nlFplTAwrgkXQt72RKvy.jpg" group-title="┃GR┃ 4K MOVIES",┃GR┃ The Polar Express  4K- 2004
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351004.mkv&play_token=pY6GR5NsKW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zMcWPTtFsG25p6XUjplFC3Rr1l.jpg" group-title="┃GR┃ 4K MOVIES",┃GR┃ The End of Oak Street 4K - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351003.mkv&play_token=TJlW43ho9q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VUrH75Xlw6sPhUTnFm0wSO8QX0.jpg" group-title="┃GR┃ 4K MOVIES",┃GR┃ One Battle After Another 4K - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351002.mkv&play_token=kDsXp9rTBo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bmBF84mYEifOZt3pL2VwlyRdRs.jpg" group-title="┃GR┃ 4K MOVIES",┃GR┃ The Mandalorian and Grogu - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303417.mkv&play_token=SB7ZRBmdxn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xTgQbGYLPf8kCk6BetFUVN1UDg.jpg" group-title="┃GR┃ 4K MOVIES",┃GR┃ Project Hail Mary - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303416.mkv&play_token=H3msRWeu8O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBcKEHSOVhCiYhRuH6mawh5Ezly.jpg" group-title="┃GR┃ 4K MOVIES",┃GR┃ Disclosure Day - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303415.mkv&play_token=W0mFEaXAF8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KeSo38sAuIGBKYJx2D8iQaqRb0.jpg" group-title="┃GR┃ 4K MOVIES",┃GR┃ The Odyssey 4K - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2303358.mkv&play_token=RIS8Vnm4GF&type=movie

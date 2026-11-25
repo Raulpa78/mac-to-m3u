@@ -1,85 +1,1205 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmvfxON-svYyLWqd6N31TMvx-BbzH6H7r7IGhkH6iSw8tj876OkgjcMI4&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night RAW 2026-11-23
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2426383.mp4&play_token=oYtmL774VX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLJaSghCpJm0zg5BbxFAJHQSFMT.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 294: Procházka vs. Stirling - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2426381.mkv&play_token=cDUrvehe7X&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLJaSghCpJm0zg5BbxFAJHQSFMT.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 294: Procházka vs. Stirling - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2414776.mp4&play_token=X7fHm8qsk1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MSw2noLplrjnQtmmAeqmOVHSIE.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2026-11-18
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2361462.mkv&play_token=ICUlleybsf&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOT7F4FJvUp0UF4WME07kKbeRRpuEtYTQxlEMSY5EGokl_LgKMoTgcRb_&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-11-16
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351050.mkv&play_token=Z7h4DH2oVs&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd2bnv9XbKlkdABGvtPTDs6E_2xsAt2SqleTlkifecatI0-xjtkLTx7wVv&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 2026-11-13
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336042.mp4&play_token=m0XqKSSkI5&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4xUpjW_Lz3I6RAykhXI5HnODkUcpGQ7m1As-pLn56sVa-yEFIMhcQ92Q&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ RAF Abu Dhabi Chimaev Vs Weidman 2026-11-14
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336041.mp4&play_token=10HkUIceoj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0UOtv57Y1pXNZuqAGGORge3eCg.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 334: Gane vs. Hokit - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2335896.mp4&play_token=2bgPOmMckv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEdIgHXO4IuOzEyXz09J0aY0cS8.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 293: Cortes-Acosta vs. Walker - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292696.mp4&play_token=oE9NiThwQV&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXs5VdD50Jor3Jtm5VIiUbMW8_6tH2Gk4eWqhfEnEUlQnHMidgf3opeGVz&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 2026-11-06
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285026.mp4&play_token=ObtWT75DBO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2026-11-04
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282786.mkv&play_token=MmudzWrUvt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MSw2noLplrjnQtmmAeqmOVHSIE.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2026-11-04
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2282781.mp4&play_token=xwa33mZyAT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2026-11-02
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270438.mkv&play_token=QmUwOZHf6o&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt9wlfLI8KwSvv0MzZkBhF3M2TDlqRDCL1vZY7Rzetl8kPvRjM0aOxySLJ&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 2026-10-30
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270437.mp4&play_token=ALMDp3LfsU&type=movie
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/c/c6/NXT_Halloween_Havoc_2026_poster.jpg/250px-NXT_Halloween_Havoc_2026_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Halloween Havoc 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2219816.mkv&play_token=8eOqw5zHdD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJXnpTwBE6dQxf9vUmwhoMEn2XG.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 292: Moicano vs. Nolan - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2219815.mkv&play_token=ZWxLi3BRaW&type=movie
+#EXTINF:-1 tvg-logo="https://bjj-rules.com/wp-content/uploads/2026/10/affiche.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC BJJ 13 Tackett vs Rodriguez 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2219814.mp4&play_token=gA84BmQNAe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOvn5QTgumNITDQvIIn2IFcMHQR.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2026-10-31
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2219807.mp4&play_token=Lxd9kT281z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MSw2noLplrjnQtmmAeqmOVHSIE.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2026-10-28
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179428.mp4&play_token=u5bWkDCbWF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179428.mp4&play_token=mup1E31YsJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2026-10-26
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165946.mkv&play_token=98o0wmjGgH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165946.mkv&play_token=oGUpGgluFH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2026-10-27
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165945.mp4&play_token=ur2Jq3Huc7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165945.mp4&play_token=jEVa6g4wmn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKBfyIExYYu151sfYzIO1qFROZ5.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Fright Night Collision 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148236.mkv&play_token=MyvyVg6uZ3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148236.mkv&play_token=oB3R51XgKR&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHL7ZElrMOtIFlHIqt9-GtSzpMjF8bSXJCSxV0y4Ped3qdnJd7AFFNNQ&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-10-23
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147365.mkv&play_token=49Bi324Ard&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147365.mkv&play_token=s1QWpcgnPj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTNIIebF1iFiwBgvs08L0WWCV58.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 333: Volkanovski vs. Evloev (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147363.mkv&play_token=jNnd1Ajhvm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147363.mkv&play_token=IIgeqoGIut&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MSw2noLplrjnQtmmAeqmOVHSIE.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2026-10-21 MyAEW
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145692.mp4&play_token=U6vKuYjDSe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145692.mp4&play_token=efvHkxKM3O&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHneJgWI35-Mv5ljBta2gtyaO9Z6Av0Jc3i1s-XSjvwA0V-9O6BqZu94&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Cage Warriors 211
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140715.mp4&play_token=6jvfcgTQ1Q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140715.mp4&play_token=xp5DxRanxj&type=movie
 #EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/148281/profile/842421899_18097148540438024_5451628039866757321_n.jpg?1792191751" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ BUDO SENTO Championship 37
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140714.mp4&play_token=dsipXNGvAH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140714.mp4&play_token=2aLbdOmWp7&type=movie
 #EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/145571/profile/SnapInsta.to_816156914_18625382296052412_2831254648401807086_n.jpg?1791746162" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Bkfc 95 Herring Vs Dodson Full Event 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140713.mkv&play_token=sBBfZH9nTG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140713.mkv&play_token=uxIHhNXgZS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44TNXDDkfJqjzVqVxvQjv5NEHjp.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW WrestleDream 2026 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140711.mp4&play_token=aHOkppGiKd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140711.mp4&play_token=dcASzih54p&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVeUaQQp6CsCeMHIs6YrqFXdZ9R.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Saturday Tailgate Brawl WrestleDream 2026-10-17
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140710.mkv&play_token=P6dYy0zLJm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140710.mkv&play_token=G8QJHNO2e1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-10-16
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139647.mkv&play_token=hjXLkHQ8bD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139647.mkv&play_token=YwvVfVeEfo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ve8kBAF6ob4qdyDdwxTggmX85a.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 291: Buckley vs. Malott - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139646.mp4&play_token=cmN6VuAZvf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2139646.mp4&play_token=ATBdXMidxo&type=movie
 #EXTINF:-1 tvg-logo="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/10/HUlvR47XIAA-Xs_.jpeg?fit=740%2C925&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2026-10-14
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136193.mkv&play_token=OmPe4fGc1L&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136193.mkv&play_token=y2yCHtXUxp&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQff--Y02oVvTco-pCzgLdf5Mu5bDrLm0r4lnbEerSVDviL4fOHxlltjIgS&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Countdown to WrestleDream 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136192.mkv&play_token=ZUmGz8eiAC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136192.mkv&play_token=Su2XSYeSat&type=movie
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_v1qcqAPewCL3dautHnK-d06l7phd7jVKag-c8TS03HiQclbFqMM8ox5ZspvF04shbUO7qyltB_mIjxkXs5A8HfhWTnATJ6EnjA" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2026-10-14
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136191.mkv&play_token=lXX3tzvHX2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136191.mkv&play_token=oN0ZnTZeTc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2026-10-12
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133563.mkv&play_token=LZHzwN497H&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2133563.mkv&play_token=UQrkHDVBKL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRFDnH3XzwDKV9QU3DTYNU8XX2R.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Money in the Bank 2026 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2126277.mp4&play_token=0ReVt7g5jL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2126277.mp4&play_token=ZibWbh8mhW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKBfyIExYYu151sfYzIO1qFROZ5.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Fright Night Collision 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2126274.mkv&play_token=9YyZmAmIPx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2126274.mkv&play_token=S5rPoGW1HQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Z8gmOwyRd2c1VSsAXJhVFLF2UW.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 290: Allen vs. Duncan - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2123992.mp4&play_token=pDNrrur7mh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2123992.mp4&play_token=46cxIcNkEe&type=movie
 #EXTINF:-1 tvg-logo="https://ufc.com/images/2026-10/100826-ufc-bjj-12-homepage-story-gradient.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC BJJ 12 Moura Vs Fornarino 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2123991.mp4&play_token=vVT2uPL3NO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2123991.mp4&play_token=W8wivbrgWw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2026-10-05
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2079792.mkv&play_token=YBc3SHACkz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2079792.mkv&play_token=3uZosnuIRx&type=movie
 #EXTINF:-1 tvg-logo="https://preview.redd.it/live-aew-collision-feb-28-2026-v0-oo6itax7eamg1.png?width=544&format=png&auto=webp&s=3cbef2b13e49ad9cb8e349a9ba3be25ff9a423ff" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2059434.mkv&play_token=cFHd3dZOiF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2059434.mkv&play_token=mn05o0DeXf&type=movie
 #EXTINF:-1 tvg-logo="https://i0.wp.com/fullpresscoverage.com/wp-content/uploads/2026/10/smackdown-october-2nd.png?fit=1200%2C675&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 2026-10-02
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051707.mp4&play_token=zEt6LBf2H1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051707.mp4&play_token=ihFdgmasEu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQvr9xJIRhCp5dJ6LYLFPZBzjuW.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 332: Silva vs. Wang (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051706.mkv&play_token=h3fTCG1EEn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051706.mkv&play_token=3D8Q2PnZ0K&type=movie
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/card_img/2104065289079963649/jnvkR66r?format=webp&name=medium" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE AAA NXT Worlds Collide 2026-09-30 Chicago
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029194.mp4&play_token=jKK4TaxwXY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029194.mp4&play_token=wsIHNZesEy&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXlV_I4dB0dp_8m3oxF6KoHSgv_CMBeNo9Cnat4o8HBSQxUF54jQlGFIl&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite A Tribute To PAC 2026-09-30 MyAEW
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029192.mp4&play_token=dxnfKCGxw9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029192.mp4&play_token=Y1kxuAyMWr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2026-09-29
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2020909.mp4&play_token=iEOEsNdOMh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2020909.mp4&play_token=Id3wQIh2cV&type=movie
 #EXTINF:-1 tvg-logo="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/09/25202233/CS-067119_LVE_WORLD_COLIDE_INITIAL_SIZES_1920x1080.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Lucha Libre AAA 2026-09-26
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1995417.mkv&play_token=phTkQH50EY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1995417.mkv&play_token=WSKJH9vPdV&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp-6PigknslpWkyqqwTKI5-C5NbG-oFGOQkpJyV9S1bWLNm5OOsMswAAB4&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Saturday Tailgate brawl 2026-09-26
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1995404.mp4&play_token=rX3lJWJbAP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1995404.mp4&play_token=Gs5UKVXsFK&type=movie
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/All_Out_%282026%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW All Out 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1995403.mp4&play_token=fuQ9fe4uGM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1995403.mp4&play_token=w5lfHPztlp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMRqdo52pbh1XmdctxBtfQS1m3t.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 289: Rosas Jr. vs. Barcelos (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1990232.mp4&play_token=lSeU6IouJt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1990232.mp4&play_token=z9ehKJZUaW&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGq6j_cUi2WC7-LCU_AVmBOgB5LxPlthSZql7R4h3yg&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-09-25
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1989571.mp4&play_token=b1RpccgSyV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1989571.mp4&play_token=sZfWsQpxBD&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNVQgXZ6wUd9mxF3XGnyPBwxkRTPQwx-gx7e6UrG2U2g&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC BJJ 11: Musumeci vs Mitchell Results
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1989570.mp4&play_token=PeS1hpQXQL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1989570.mp4&play_token=281TdRM4Ld&type=movie
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/BoF_YSse4OFvjVqgddRy89k3yV1_iwSqXMvY6ojcD7n7ipRI8k3-45GNmiGP6teGBtEuuFJKP5x2gYKuzMbfvhnFMwbASlYg1w0" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2026-09-19
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1987769.mp4&play_token=GmFnsBBcX8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1987769.mp4&play_token=iLR3e3MbkW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhlxwlMxTdLzTe3Ebq4xWg1Bl8t.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 331: Van vs. Pantoja 2 (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986995.mkv&play_token=MxSByu96ky&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986995.mkv&play_token=FnCCIjMOeI&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4np4Dfz03FwlPPyevYYWAxkJWwqsmkDSU4YHXJZLBSxbzunTqlE1GqB_b&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-09-18
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986739.mkv&play_token=hintawzIon&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1986739.mkv&play_token=p0aPdpsbu2&type=movie
 #EXTINF:-1 tvg-logo="https://aiptcomics.com/wp-content/uploads/2026/09/20260908_NXT_Match_Triple_16x9_Tonight.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2026-09-15.
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985404.mp4&play_token=Aj4tk4bcyf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985404.mp4&play_token=unsf9pHoDc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hV1JAiNHASZ8AnvypovZimM5M0.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-09-14
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984666.mkv&play_token=yBnk0eSmzq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984666.mkv&play_token=fnrS5cMXlD&type=movie
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/67IlzMjx-mNf_ObVEtPJYYXAXPWHz3QMaRjhLzukUaJd3x-VhLfuT9cwA-hTwXPi1ONSHyEJMQvoXdFNwJAwO6XMDSEgeJ9G_9I" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2026-09-12
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1983855.mkv&play_token=eqrnypb4p5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1983855.mkv&play_token=qKDhKph7an&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-09-11
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1983129.mkv&play_token=cpZWCLdKqF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1983129.mkv&play_token=VypDDahJzk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acs8CpS06OMoqCZgAzNMmBWA9kO.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 288: Silva vs. Delgado - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1983128.mp4&play_token=zaaOsk4kNT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31c4bjfiY9d6JovRGP3meO17k4a.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 287: Hooker vs. Parnasse - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1983127.mkv&play_token=vILZuA81PA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MSw2noLplrjnQtmmAeqmOVHSIE.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2026-09-09
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980600.mkv&play_token=9YSgQPzc8v&type=movie
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/wwe_16_9_xl/public/2026/09/20260907_RAW_Match_Rey_Bron_Ethan_16x9_tonight.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-09-07
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1978442.mkv&play_token=tYwRSq2X7f&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwYCaSIi4D5TGa0bdRhnTBK4sqZ.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Sunday Night's Main Event - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1976591.mkv&play_token=sGHPw4BrMC&type=movie
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/4KYwDYgSiGutaAg9N_GIDwb0-HWpPqwaxP3Vi5U86Lfr5B-u1vxMCN4f_g0kMjMH-xjqBZW-ltXMtidF9-J8HM4ALHXasEw5ymU" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2026-09-05
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1973933.mp4&play_token=NNbZAzwJ0I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LtJGlcGZ1HkZlEEZcleXR8MWy6.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night: Hooker vs. Parnasse (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1973110.mkv&play_token=iklWspa2ea&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANoYJB9VLq7CrFAlICk9B_qnD4HY3akaE-KWmyI5aQNT9v9h3QKE4cWQ&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-09-04
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972472.mp4&play_token=OnVBnFFBig&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2026-09-01.
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957929.mkv&play_token=ZZ6Nwgswc5&type=movie
+#EXTINF:-1 tvg-logo="https://www.trillertv.com/thumbs/v/2pk0d/1/2pk0d_1784732114/bkfc-2026-henry-vs-trinidad-800x1280fit.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ BKFC Fight Night Mohegan Sun Henry Vs Trinidad-Snake 2026-08-21
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957926.mkv&play_token=dlU8YFiPGE&type=movie
+#EXTINF:-1 tvg-logo="https://www.trillertv.com/thumbs/v/2pkaq/1/2pkaq_1787681794/bkfc-92-boston-800x1280fit.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ BKFC 92 Stewart Vs Gigliotti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957925.mp4&play_token=kSJMUxWWa3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crBPm5opFQgVCJjsrKyoFYrYdcS.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Heatwave 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1950000.mp4&play_token=DYQsgBb8f1&type=movie
+#EXTINF:-1 tvg-logo="https://lastwordonsports.com/prowrestling/wp-content/uploads/sites/15/2026/08/20260817_RAW_Match_ObaBron_Tournament_16x9_monday-600x400.webp" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night RAW 2026-08-3
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949999.mp4&play_token=QmcECkisyx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYumu3P6c4zzl91Jk1cVI3pt55s.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW All In London PPV 2026 Satfeed. - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949990.mp4&play_token=Dl0MtZBf5w&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRvUHjsxRzZzuYmJvqBBifVnTm0.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 286: Nurmagomedov vs. Song - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936909.mp4&play_token=KlHpdvkSSv&type=movie
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/video/thumb/2026/08/dchisd1409_01_yt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 2026-08-28
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1932618.mp4&play_token=SFj3i2g0CX&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FpQh1ctWM7g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC5oGiZXyDKErHnGGwHwPt85h_arg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-08-24
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1908067.mkv&play_token=kKNcCT7kpi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEzp99ajypV7PvMJ8ZNKN9G5paR.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 285: Hernandez vs. Rodrigues (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1896047.mkv&play_token=d6IM3jZnhX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2026-08-18
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873110.mkv&play_token=QI6tIqv6lT&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.blogofdoom.com/app/uploads/2026/08/Screenshot-2026-08-17-160637.png" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-08-17
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873109.mkv&play_token=8W4yjpYxQQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG6WMwBdPjSxlXFuBed4DKDAcdM.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 330: Makhachev vs. Machado Garry - 2026 [NL UK AUDIO]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1844896.mkv&play_token=q0augKSqNz&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdJ5E8Ybt9Iy2FU0PNKKz82YEa2cFWkg0cAiquJ6D8u5-OQhpgtCmbPUp2&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2026-08-11
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834906.mp4&play_token=sV6GoMRNo4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2026-08-10
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1833601.mp4&play_token=CK3SWReNWN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSsDud1zHhodVHDs439xEj33OTK.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 284: Gamrot vs. Salkilld - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1828812.mp4&play_token=dIZHx9v2Rr&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwJ9HYbookx1LhpTtGcYS9yhW6Y2LLfrmHSmi24pV94WOPtruGxx8B8Uv&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-08-07
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827337.mkv&play_token=6c6AlRQw0f&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR41r08Qyp9s2ezq2SOV9p6wGEiASf4EC3nCISJF-ePBmAcmHewbcx8TVg&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-08-03
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1822838.mkv&play_token=wyo6cI9Fuy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBBZSRVB6X1dcVJq74E5WPege3N.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SummerSlam 2026: Saturday - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1821824.mp4&play_token=1uIpbmbslQ&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzX-tQLjAtLHE9_kNGGkEayxIcXEH0fMp6K4uXg80-Xwd30lwuE5TdQJYa&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-07-31
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1820365.mkv&play_token=XNuRB3zMSM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvHfr6OmHneZuBtuUyKsH9DeVX.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 283: Medić vs. Rodriguez - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1820363.mp4&play_token=seDaCxWfYo&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wwe.com/f/styles/wwe_16_9_xl_r/public/2026/07/20260721_NXT_Match_OTMBirthright_16x9_Tonight.jpg?resize=740%2C416&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2026-07-28
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816897.mkv&play_token=VbEuvg4Xcw&type=movie
+#EXTINF:-1 tvg-logo="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/07/26200920/20260720_RAW_Match_RomanSeth_16x9_monday.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night RAW 2026-07-27
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816896.mp4&play_token=JtxeAULWeg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQtvEKzBx4n3e9DfNVpF0Vf46t9.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 282: Ankalaev vs. Guskov - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813409.mp4&play_token=3jwqMSv5Nv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Homecoming - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810033.mp4&play_token=LXTvLyXzPH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2026-07-20
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808463.mkv&play_token=PXsPZCRxRg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65IzmUWLAXGzeaKj8Fkr7UhFzW5.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Saturday Night's Main Event XXXVI - 2009
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1804923.mkv&play_token=feLwwDIcvc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4k5Yp68mGtVVXcjp7fBFkdXXoCf.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 281: du Plessis vs. Usman [NL UK AUDIO] (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1804258.mkv&play_token=ZDZC5hZq3f&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4k5Yp68mGtVVXcjp7fBFkdXXoCf.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 281: du Plessis vs. Usman - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1804256.mp4&play_token=yxGos5y16G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE RAW 1000 - 2012
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1798750.mkv&play_token=4wIHCGmAIm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXzs6LE5dZ8ZbWMlCPZIY7fkHXR.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 329: McGregor vs. Holloway 2 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1795785.mkv&play_token=IkRodlbdro&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE: SmackDown's Greatest Hits - 2019
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1783904.mkv&play_token=Cu9XCgoNv1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE NXT Homecoming - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781724.mkv&play_token=rbtNYPDwLF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFGBD55TpUXQKG2nt3SqyqrS1Ya.jpg" group-title="┃NL┃ UFC ┃ WWE",The Monday Night War - WWE Raw vs. WCW Nitro - 2004
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779781.mkv&play_token=Zs5Ye8iomM&type=movie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/NXT_The_Great_American_Bash_2026_Poster.jpeg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Great American Bash 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1779768.mkv&play_token=UOVOOwCOWR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX3Pd6UY1ohGrPyJMOMV3pCn5tJ.jpg" group-title="┃NL┃ UFC ┃ WWE",UFC Fight Night 280: Fiziev vs. Torres - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766996.mp4&play_token=9BoAfNXwEU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE: SmackDown's Greatest Hits - 2019
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766363.mkv&play_token=RsXHhkOvsK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE NXT Homecoming - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764507.mkv&play_token=ZC2Hry3gM6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE RAW 1000 - 2012
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762699.mp4&play_token=yboBV12NbG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzSXzixkU37ImA7dRPddxhPUWAR.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 279: Kape vs. Horiguchi (2026) [NL UK AUDIO]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760837.mkv&play_token=jdpEpwMMJ2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE: SmackDown's Greatest Hits - 2019
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760836.mkv&play_token=c5kg9pYdks&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE NXT Homecoming - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1757319.mkv&play_token=Bgbi2Si9rz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE RAW 1000 - 2012
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756504.mkv&play_token=YV48EKzpMm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bkunLw8kI13A7aPIjduoUleQ9b.jpg" group-title="┃NL┃ UFC ┃ WWE",UFC Freedom 250: Topuria vs. Gaethje - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754163.mkv&play_token=5jM615mblt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE RAW 1000 - 2012
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1750747.mp4&play_token=wvjDNKLiUQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE NXT Homecoming - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1750746.mkv&play_token=jzKVPEt7u6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szJJreLYexjod1zLbLa0Or7Na81.jpg" group-title="┃NL┃ UFC ┃ WWE",UFC Fight Night 278: Muhammad vs. Bonfim - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747159.mkv&play_token=YgPpP9OfOL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szJJreLYexjod1zLbLa0Or7Na81.jpg" group-title="┃NL┃ UFC ┃ WWE",UFC Fight Night 278: Muhammad vs. Bonfim - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747158.mkv&play_token=2ETHdF29iG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE: SmackDown's Greatest Hits - 2019
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1746683.mkv&play_token=t71sQQIqra&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE NXT Homecoming - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1743891.mkv&play_token=lzvDg7oRFJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaX9DGhSP2wUpPEGeww8nBMb8Iw.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE Clash in Italy - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742381.mkv&play_token=wzqbBp62sx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE: SmackDown's Greatest Hits - 2019
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741839.mkv&play_token=e0zWR45oac&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYMQ13Iax6FYLyikLRfwI7boHIN.jpg" group-title="┃NL┃ UFC ┃ WWE",UFC Fight Night 277: Song vs. Figueiredo - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741837.mp4&play_token=RVQ7iccWM4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE NXT Homecoming - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739920.mkv&play_token=I6FTNN4gHc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2026-05-25
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739102.mkv&play_token=ap6OkOqprz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65IzmUWLAXGzeaKj8Fkr7UhFzW5.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE Saturday Night's Main Event XXXVI - 2009
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1737318.mp4&play_token=S7tdskkb8k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE: SmackDown's Greatest Hits - 2019
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1736621.mkv&play_token=GgHkEYKdAa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",WWE NXT Homecoming - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735002.mkv&play_token=91gv51GaXK&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGD-IYhndRxqCCo6kE4ZhLQk99gyVlEJdTw&sww" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-05-18
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1734340.mkv&play_token=qcdMl0hcxf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cssaN9nb45lxwDrEw5XH1ZBgIMO.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 276: Allen vs. Costa (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732797.mkv&play_token=kiywEqVpjH&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kGVKFJueEFM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCRg-Qc7ThugnQIpf5hAYxNAfpwbg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night Smackdown 2026-05-15
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732606.mkv&play_token=k6kTSmtmjS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2026-05-12
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1729795.mkv&play_token=EWPspWShxB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2026-05-11.
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1728937.mkv&play_token=68S3gNbFci&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH8UeGO8tJWUnsf6X7sIuN4lo3p.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 328: Chimaev vs Strickland - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1726394.mkv&play_token=BU0yYUYP00&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUaWaRb3Z2WQiZbCeNlZapCfXVYHAVvNJ5LA&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-05-08
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1725894.mkv&play_token=P7KwsHUp3r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFA0j6Vv6NOsPW2iYm5Nou1c3v.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 05-05-2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1725321.mkv&play_token=lJif8CS8gQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WkSmkStpbOLpWukt1reuJJqZDj.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 275: Della Maddalena vs. Prates - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1721345.mkv&play_token=tUvgSSjvQr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-05-01
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1720675.mkv&play_token=yHwLYb7unX&type=movie
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/wwe_16_9_xl/public/2026/04/20260424_RAW_Match_PentaRusev_16x9_Tonight.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-04-27
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1717470.mp4&play_token=2AFPdtF6hC&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9NObV6kRZWg16813QNAZ7GhIIoJCoD7jKLA&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Vegas 116 Sterling vs. Zalal [NL UK AUDIO] (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1714109.mkv&play_token=ysA9wKcYPT&type=movie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/PFL_Africa_Pretoria_2026.jpg/250px-PFL_Africa_Pretoria_2026.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ PFL Africa 2026 Pretoria Full Event
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1700638.mp4&play_token=bENoY68eoR&type=movie
+#EXTINF:-1 tvg-logo="https://bareknuckleheroes.com/wp-content/uploads/2026/03/prtwilsbkfcfc.jpeg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ BKFC Fight Night Mohegan Sun Porter Vs Wilson 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1700637.mkv&play_token=hBKGeLZfir&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOXOIhBtTtTDX5Pdi8ToGCFV7Ej.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 327: Procházka vs. Ulberg (NL-UK AUDIO) - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1700485.mkv&play_token=oMGdp7uny1&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-nwvNvYGIkdo8g7mfK2Q8IG4L7Cpsdh2PEA&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-04-10
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1699835.mp4&play_token=scqeEyBufy&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UZMERDoP498/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCcvbV6fvjypc5jtTfDhycSHGB0rQ" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-04-06
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1696849.mkv&play_token=EUpVm6WEh2&type=movie
+#EXTINF:-1 tvg-logo="https://www.tuttowrestling.com/wp-content/uploads/2026/04/Risultati-SmackDown-03-04-2026-TW.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE: SmackDown 03-04-2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694913.mp4&play_token=fmuN51ph9V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNSAYpeY85WRDWlquJOPp0stS4r.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 272: Moicano vs. Duncan (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1693923.mp4&play_token=Bmc0Le7JCk&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRZKngWR/Untitled.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday NightSmackdown 2026-03-27
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1689886.mp4&play_token=AJ8hWPuZBS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqJQz7pOs9VX5emYxrse9dYdf8D.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 271: Adesanya vs. Pyfer (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1688223.mp4&play_token=itil2z7PSj&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZQoF40RqdahRnQGZ26OKoYlZbpNuepAqeA&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night Smackdown 2026-03-20
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1683360.mp4&play_token=EOERo4Eud1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmyayfRfWpT3wFCkCPIJauJxLpE.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 270: Evloev vs. Murphy - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1683359.mkv&play_token=3KhFOrvllG&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hJeHlK7QpcU/sddefault.jpg?v=69b84ad1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ PFL Madrid van Steenis vs Edwards 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1683358.mp4&play_token=HwdcXbXk0h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPrvMuWV3y4EW8X7ReT4mXgBKNW.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 269: Emmett vs. Vallejos - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1679382.mkv&play_token=HlcXUxPQ2g&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wwe.com/f/styles/wwe_16_9_xl_r/public/2026/03/20260306_SD_Match_WMContract_16x9_Friday.jpg?resize=740%2C416&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-03-13
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677829.mkv&play_token=iUtkeSAKuF&type=movie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/NXT_Vengeance_Day_2026_Poster.jpeg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Vengeance Day 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1676825.mkv&play_token=NomJrC5CXS&type=movie
+#EXTINF:-1 tvg-logo="https://aiptcomics.com/wp-content/uploads/2026/03/20260306_RAW_Netflix_Match_PentaGrande_16x9_tonight.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-03-09
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1676824.mp4&play_token=SROJANoRRW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpwfV5pdZaZHweHcO2XwgkBy8j0.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 326: Holloway vs. Oliveira 2 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1672811.mkv&play_token=3nMT4Rm4hd&type=movie
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/wwe_16_9_xs/public/video/thumb/2026/03/dchisd1385_01_yt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-03-06
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1672285.mkv&play_token=7TBI9ePQzI&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wwe.com/f/styles/wwe_16_9_xl_r/public/2026/03/20260223_RAW_Netflix_Match_DragonLeeGunther_16x9_Tonight.jpg?resize=740%2C416&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-03-02
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1671064.mp4&play_token=1jLh3Z0hB4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVBZ2WHlRhfpmyTleqzLlhyGBxK.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 268: Moreno vs. Kavanagh - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1663329.mkv&play_token=Eqqe9Vaxkp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-02-27
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1659154.mkv&play_token=naALcLT63I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2026-02-23
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1659153.mkv&play_token=cuaXI1J9nd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDEbtlRgUl14gamR0FbG4qxdLY5.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 267: Strickland vs. Hernandez (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1651996.mkv&play_token=U0XnYmSygO&type=movie
+#EXTINF:-1 tvg-logo="https://aiptcomics.com/wp-content/uploads/2026/02/20260209_RAW_Netflix_Match_ECQualifyMens_2_16x9_tonight.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-02-16
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1649073.mkv&play_token=YAQRXKIRF2&type=movie
+#EXTINF:-1 tvg-logo="https://watchwrestlingus.net/wp-content/uploads/2026/02/WWE-Smackdown-%E2%80%93-2132026-%E2%80%93-13th-February-2026-780x470.png" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-02-13
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1648210.mkv&play_token=2rxYN4BFs6&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wwe.com/f/styles/wwe_16_9_xl_r/public/2026/02/20260202_RAW_Netflix_Match_TagTitles_16x9_Tonight.jpg?resize=740%2C416&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-02-09 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1641874.mkv&play_token=g4RzEZzzdI&type=movie
+#EXTINF:-1 tvg-logo="https://www.bodyslam.net/wp-content/uploads/2026/02/Smackdown-Feb-6th.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Wwe friday night smackdown 2026-02-06
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1626715.mkv&play_token=TDydYCiXvi&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rPWWSDkAD2U/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBlTdKLj8XVHA7G3j4jm6z8mQL7qw" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ PFL Dubai Nurmagomedov vs Davis 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1626713.mp4&play_token=qhPB0yLjgY&type=movie
+#EXTINF:-1 tvg-logo="https://www.trillertv.com/thumbs/va/2pixm/bkfc_knucklemania_6_top3fights_1080x1080_JFiLynL/bkfc-knuckle-mania-6-1280x720top.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ BKFC Knucklemania VI Rothwell Vs Arlovski 2026-02-07
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1626710.mkv&play_token=Iz34bp5TTh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aq2ZfcHp9iqgVcFM5ToXUTNp4q.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 266: Bautista vs. Oliveira (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1626494.mkv&play_token=vzQ6Xnpwyc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-01-30
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608742.mkv&play_token=TSclL8UcR7&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JXSqzvAp0s8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDY0msjarFkfPOPPOlA3fpNAXSllA" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Royal Rumble 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608741.mp4&play_token=QwxGstlMAU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoZDTsM9OOP2GzxAtiXwsRDAkrn.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃UFC 325: Volkanovski vs. Lopes 2 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1607626.mkv&play_token=rPd99anknR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EZK2gbncrmVxZ7bJWa8w9K3RGW.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Saturday Night's Main Event XLIII - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598946.mkv&play_token=tNeXGncFH8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAeBHIJMoxYeXLzU8hVTo3N6uQD.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 324: Gaethje vs. Pimblett - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1597069.mp4&play_token=EtqtXKv7RM&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wwe.com/f/styles/wwe_16_9_xl_r/public/2026/01/20260116_SD_Match_AlexaCharGiuliaKianaNiaLash_16x9_tonight.jpg?resize=740%2C416&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE: SmackDown 23-01-2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1595389.mkv&play_token=IneNHv1II0&type=movie
+#EXTINF:-1 tvg-logo="https://aiptcomics.com/wp-content/uploads/2026/01/20260114_RAW_Netflix_Match_PunkFinn_16x9_Monday_0.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2026-01-19 [2026]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1590770.mkv&play_token=UiGhMLDPDD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-01-16 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1582272.mp4&play_token=9UsyDnNDvZ&type=movie
+#EXTINF:-1 tvg-logo="https://www.pwtorch.com/site/wp-content/uploads/post/2026/01/20260105_RAW_Netflix_Match_AjGunther_16x9_Today.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2026-01-12
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1563301.mp4&play_token=HspO9DcfoN&type=movie
+#EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2026/01/Mina-Shirakawa-Lady-Frost.jpeg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision.2026-01-10
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1563291.mp4&play_token=OuYOgONO5A&type=movie
+#EXTINF:-1 tvg-logo="https://www.pwtorch.com/site/wp-content/uploads/post/2026/01/20251226_SD_Match_CodyDrew_TITLE_3Stages_16x9_Friday_0-678x381.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night Smackdown 2026-01-09
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1552015.mkv&play_token=TTqQiaPAVd&type=movie
+#EXTINF:-1 tvg-logo="https://lastwordonsports.com/prowrestling/wp-content/uploads/sites/15/2026/01/G-CAjkPXIAAjSjW.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2026-01-07
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1548122.mkv&play_token=iG5PueP205&type=movie
+#EXTINF:-1 tvg-logo="https://lastwordonsports.com/prowrestling/wp-content/uploads/sites/15/2026/01/Hail-vs-Monroe-1200x800.jpeg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2026-01-06
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543159.mkv&play_token=F5j6ipFV3l&type=movie
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/video/thumb/2026/01/dchiraw1702_01_ntwk.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night RAW 2026-01-05
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1534876.mp4&play_token=sMDi9ojRdV&type=movie
+#EXTINF:-1 tvg-logo="https://venue.psentertainment.com/img/mobile/abbf451b-0ee4-4bd7-a000-8fe5f8003417_CS-054530_LVE_Buffalo_375x285.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2026-01-02
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1523352.mkv&play_token=iBbCWTJgpD&type=movie
+#EXTINF:-1 tvg-logo="https://lastwordonsports.com/prowrestling/wp-content/uploads/sites/15/2025/12/Starks-vs-Evans-1200x800.jpeg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-12-30
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1520679.mp4&play_token=8dWV5Yx0st&type=movie
+#EXTINF:-1 tvg-logo="https://lastwordonsports.com/prowrestling/wp-content/uploads/sites/15/2025/12/33-600x400.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-12-31
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1520673.mp4&play_token=05tZOcw3SL&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wwe.com/f/styles/wwe_16_9_xl_r/public/2025/12/20251226_RAW_Netflix_Match_Vision_16x9_Tonight.jpg?resize=740%2C416&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night RAW 2025-12-29
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1518499.mp4&play_token=nxQm9DeqIB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/httVdgmyPbMUGUTaA0uQHM4iPV7.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Worlds End 2023 - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1513593.mp4&play_token=uB19yPDYg5&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/o2dCTUxK4bo/maxresdefault.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night Smackdown 2025-12-26
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1510100.mkv&play_token=H0MMncqVIH&type=movie
+#EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/131022/profile/bKCoWmU.jpg?1758660918" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Rizin Ff 51 MAINCARD
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1510097.mkv&play_token=itzgN91aCx&type=movie
+#EXTINF:-1 tvg-logo="https://www.pwtorch.com/site/wp-content/uploads/post/2025/12/20251216_NXT_Match_GreenSol_16x9_Tonight-678x381.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-12-23
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1506830.mp4&play_token=7ykvhSIDW7&type=movie
+#EXTINF:-1 tvg-logo="https://www.pwtorch.com/site/wp-content/uploads/post/2025/12/G86DeZBW4AAjlGI.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-12-24
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1506826.mp4&play_token=KZyseYzV1f&type=movie
+#EXTINF:-1 tvg-logo="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2025/12/24220329/G8v3V2yWUAAFdWk.jpeg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-12-25
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1506825.mkv&play_token=vmiEqHbrzX&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/40e_UUcBTZ0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCuGyXOqI0wHYh-C_uw-AzbHLdkCg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 2025-12-19
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1496013.mp4&play_token=o3ML5QqjxF&type=movie
+#EXTINF:-1 tvg-logo="https://bkfc-cdn.gigcasters.com/a/881f5d0d-02d9-493b-b7ba-bced0210f9d9/39d1e984-6f40-4d73-a661-ad11c69477db/1765826583/o/BKFC_FN_Mohegan_Sun_Full_Event_App_Slate_1920x1080.jpg?1765826583" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ BKFC Fight Night Mohegan Sun 2025 Porter vs Garrett Full Event
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1496005.mkv&play_token=KByhrAGkPF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBtg3zae2qH7NWppwYDlbUcwzDq.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Jake Paul vs. Anthony Joshua Main Event (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1493689.mkv&play_token=Qe58LpJrbC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBtg3zae2qH7NWppwYDlbUcwzDq.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Jake Paul vs. Anthony Joshua Judgement Day (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1493688.mp4&play_token=0trH5pMPe3&type=movie
+#EXTINF:-1 tvg-logo="https://media.sescoops.com/uploads/2025/12/nxt-preview-nov-16-2025.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-12-16
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1489975.mp4&play_token=QeP148sM9W&type=movie
+#EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2025/12/251217_RAD.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-12-17
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1489967.mkv&play_token=fN0eOLogWT&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_lu8tUcmXa2ndF3fXUe9rEg_DDt0yk809dA&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-12-17
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1489966.mp4&play_token=G5zxPY8sBe&type=movie
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/wwe_16_9_xl/public/2025/12/20251205_SNME_DC_CenaGunther_16x9_date_1.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Saturday Nights Main Event 2025-12-13
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1488117.mkv&play_token=IPv8WpYJvd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65IzmUWLAXGzeaKj8Fkr7UhFzW5.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Saturday Night's Main Event 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1483327.mkv&play_token=8cCISwBLdw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruecaJTlopSfXQ6WvXnbbL6eSIK.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 73: Royval vs. Kape (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1481796.mkv&play_token=MFBUIMwN97&type=movie
+#EXTINF:-1 tvg-logo="https://lastwordonsports.com/prowrestling/wp-content/uploads/sites/15/2025/12/11-1.png" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2025-12-12
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1480427.mkv&play_token=05LnE9tzCV&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/09/20250909_NXT_Match_TagTitles_16x9_Tonight-1.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-12-09
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1477005.mp4&play_token=jaEfZ5roPt&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BcD9IQeuFm0/maxresdefault.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-12-10
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1476989.mp4&play_token=yCXafiwn4v&type=movie
+#EXTINF:-1 tvg-logo="https://www.ringsidenews.com/wp-content/uploads/2025/12/aew-collision-preview-for-december-6-2025-confirmed-matches-start-time-and-how-to-watch-27.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-12-06
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473958.mp4&play_token=USFFXkDIgv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7ng4edDyEll8vmPJmvVk4qUISW.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Deadline 2025 - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1472505.mkv&play_token=afkUYEHWAc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srXw1G93XpZh5YVarzDBAu6veh5.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 323: Dvalishvili vs. Yan 2 - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1470754.mp4&play_token=olWXKflRag&type=movie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/PFL_MENA_Finals_2025.jpg/250px-PFL_MENA_Finals_2025.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ PFL MENA 4 2025 Finals
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1470752.mp4&play_token=FIqL11saKt&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDkea_7bB8zVMut2Bq2E2Bv8vSyBiIruLvA&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ ONE Fight Night 38 Fabricio de Andrade vs Enkh Orgil Baatarkhuu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1470751.mp4&play_token=WtVJgV8S3H&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zc9dQD1-NQQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCb3R-6SmFpmdHpqERjnaSFDrlyJQ" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Karate Combat 58 ALVEY VS DESPAIGNE
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1470749.mp4&play_token=axrxlHcRPg&type=movie
+#EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/134063/profile/SnapInsta.to_589925907_18653834116063155_6245839195903429499_n.jpg?1764741386" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Cage Warriors 199 - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1470748.mkv&play_token=uUkg1hCwfx&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lHiqluWiQk8/maxresdefault.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ BKFC 85 Trout vs Palomino 2 Full Event
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1470747.mkv&play_token=5HFxrgxccK&type=movie
+#EXTINF:-1 tvg-logo="https://www.tuttowrestling.com/wp-content/uploads/2025/12/Risultati-NXT-02-12-2025-tw.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-12-02
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1467498.mp4&play_token=gvvmXSIDec&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/12/G7OMu7xX0AAuwd5.jpeg?resize=740%2C416&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-12-03
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1467491.mp4&play_token=SuQPjxqONn&type=movie
+#EXTINF:-1 tvg-logo="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2025/12/01183505/20251201_RAW_Netflix_Match_GUNTHERSolo_Tournament_16x9_Tonight.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-12-01
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1465438.mkv&play_token=FylBNI9KRG&type=movie
+#EXTINF:-1 tvg-logo="https://www.pwtorch.com/site/wp-content/uploads/post/2025/11/Screenshot-2025-11-25-at-3.10.40-PM-678x381.png" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night RAW 2025-11-24
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1458748.mp4&play_token=lwHOZ7GcC1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2bHyxgUFtOJsFYmDazrYDKyLLz.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Full Gear 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1454619.mp4&play_token=edysqQpLbO&type=movie
+#EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/132158/profile/%C2%A1La_guerra_por_el_oro_est%C3%A1_a_punto_de_comenzar!_%F0%9F%94%A5%E2%9A%ABLUX%F0%9F%9F%A10%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3_regresa_el_26_de_septiembre_a_.jpg?1755221858" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ LUX 055
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452873.mkv&play_token=40NoUpuzCX&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0Rby3Azh7zA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDZ3amYRBbzCavG1TTdxdSDZG2otw" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 21-11-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452855.mp4&play_token=UM5cUaUO71&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xxilzCS72ukBvt3wg3idQbLTEM.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 265: Tsarukyan vs. Hooker - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452853.mkv&play_token=efyZ9y9fom&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6kSBo0eEEbICZ4np1bUBhXbtskFyLaOm48A&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Samourai MMA 17
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452852.mkv&play_token=SmwUiBcOPi&type=movie
+#EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/133166/profile/541954111_18375667312182538_288200129430545071_n.jpg?1757421293" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ LUX 056
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452851.mkv&play_token=OCDqiPXDbh&type=movie
+#EXTINF:-1 tvg-logo="https://www.lfa.com/wp-content/uploads/2025/09/LFA-223-Standard-LOW-scaled.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ LFA 223 - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452849.mkv&play_token=VzwIcLRTwH&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHgYJU8sBh0E5Rluc1nlKsV3M8gzhTG1XAlA&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Fury Challenger Series 15
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452848.mkv&play_token=wpPC7g6qNa&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jjpZiF6FBTru5abfjQEFl4KWKgXJg3qsNQ&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Cage Warriors 197 Damon Wilson Vs Aiden Lee
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452847.mp4&play_token=LtnNnTVVjh&type=movie
+#EXTINF:-1 tvg-logo="https://cage-fight-series.com/wp-content/uploads/2025/11/cfs18.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Cage Fight Series 18
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1452846.mkv&play_token=f5TUUuZoQc&type=movie
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/1a508a_e84bf315b3254282b17c08dbeb5647f8~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/1a508a_e84bf315b3254282b17c08dbeb5647f8~mv2.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite Collision 3hr Special 2025-11-19
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1451311.mkv&play_token=LBHbYy1B21&type=movie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/NXT_Gold_Rush_2025_Poster.jpeg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-11-18
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1448406.mkv&play_token=8PgwgeedpI&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/x3Tr0JRxumU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDjHusD6KXH7Jjz7paNGVpscdaXDg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 2025-11-14
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440787.mp4&play_token=y8DjwAs7L6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NMA6qNCRSUmIARMVY49bEFGPlx.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 322: Della Maddalena vs. Makhachev - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1439846.mp4&play_token=lAI89mMp3m&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oZQieDHG0UY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAWhd4hOQSQF3oKEXcsjPtjRZ9hvQ" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Eubank Jr vs  Benn 2 Full Event Replay
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1439845.mkv&play_token=UA24IKg48x&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/11/G5hbcv6WoAA6Exe.jpeg?fit=740%2C925&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-11-12
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437347.mp4&play_token=4q1ATkO2im&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ttLRUSIS5Ig/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBzJu5-U_lyENOOtJxXe17i-p3dsg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night RAW 2025-11-10
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1434407.mp4&play_token=8fRwHLZFrG&type=movie
+#EXTINF:-1 tvg-logo="https://d3tw7elnk2m6f4.cloudfront.net/_1440x810_crop_center-center_80_none/Race-Cafe-nieuw.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Ziggo Sport Race Cafe 07-11-25
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430208.mkv&play_token=lCiK8KJUZ5&type=movie
+#EXTINF:-1 tvg-logo="https://cdn1.slamwrestling.net/uploads/content/1762334321223658939/WWE-NXT-Logo-Background-Blur.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-11-04
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430207.mkv&play_token=t9b6lmC2jW&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMil1XR8ggX35EQALAoGQOebsoB578BXIs9Q&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 2025-11-07
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430206.mp4&play_token=Cf6lZO4MyJ&type=movie
+#EXTINF:-1 tvg-logo="https://api.beyondkick.com/uploads/Snap_Insta_to_544351497_17896767417289738_7485733009774027115_n_f28a553e68.webp" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ RIZIN FF LANDMARK 12
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430205.mp4&play_token=Dgn5Bxnd5Z&type=movie
+#EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/127454/profile/552974903_18537299209062846_4906792692420761883_n.jpg?1758821857" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ One Championship ONE Fight Night 37
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430204.mp4&play_token=1lIUaMRavv&type=movie
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/57e2964429687f2510af36f2/57e2a82a03596e7110369f3b/68eeb05596431c40226c5f66/1762574679164/CFFC_148-November-7-2025_2300-ARENA_Philadelphia-PA_mma_fights_tickets.jpg?format=1500w" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Cage Fury FC 148
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430203.mp4&play_token=T3rqE4b0K3&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwfGC2XThHg8judi_QvdE2SAoED-ok_Gl6-w&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-11-05
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430202.mp4&play_token=fK6tSsX6b8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Tf2O273lHOKXd85YbOW4C4rKaC.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 264: Bonfim vs. Brown - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1429296.mkv&play_token=ePwAEkVqr5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65IzmUWLAXGzeaKj8Fkr7UhFzW5.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Saturday Night's Main Event XXXVI 2025-11-01
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1422126.mp4&play_token=etuHcrekyx&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGaNvtA1A7NFi_abbI27jWp3n34KBSTs9nyA&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-11-03
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1422125.mkv&play_token=z74Cn7LGyA&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvOzwAQZMSfKkX_ajwLIX_5H2dw4DZc_022g&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-11-01
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1422109.mp4&play_token=GXDHN16nVo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58CntwIBhPezpGljHg4Bune2mXR.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 263: Garcia vs. Onama
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1419596.mkv&play_token=d0qQZsw7tN&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfYrZ-BhRZ8RawnRPBRK5ajKTaDjK3dqtkm8U7T2cay0LfIpw-P4jpGuhSn2th7LxNsFVWKg&s=10" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-10-28
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416477.mkv&play_token=zaFdayP6wE&type=movie
+#EXTINF:-1 tvg-logo="https://aiptcomics.com/wp-content/uploads/2025/10/G4Y7gHUXcAAtWSo.jpeg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-10-29.
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416454.mp4&play_token=9beEuH6DZL&type=movie
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/og_image/public/2025/10/NXT_Halloween_Havoc_Logo_2025.png" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ NXT Halloween Havoc
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1408917.mkv&play_token=9nfnXmcDDb&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wwe.com/f/styles/wwe_16_9_xl_r/public/2025/10/20251024_RAW_Netflix_Match_PentaRusev_16x9_Tonight.jpg?resize=740%2C416&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-10-27
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1408916.mkv&play_token=nX7LV5Jo8W&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8IBnGPkIHRXYPckBnsWkh5iszL.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 321: Aspinall vs. Gane - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1402992.mkv&play_token=QSEcgzFqQA&type=movie
+#EXTINF:-1 tvg-logo="https://www.pwtorch.com/site/wp-content/uploads/post/2025/10/Screenshot-2025-10-24-at-12.01.58-PM.png" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Wwe Friday Night Smackdown 2025-10-24
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1402089.mkv&play_token=KRaSozPQKA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5P4LU9gOQGD6NeUa897If841yN.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW WrestleDream - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1392101.mp4&play_token=e0AeTctWVh&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oWE5S2z2j3w/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDH77e9r9vnu-JXmBj0QkwBBR2Ybw" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 2025-10-17
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1388066.mp4&play_token=YmMNqV8Aiw&type=movie
+#EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/132782/profile/b68d15_244e4b8f257344f48ad6d912e3fc43dd_mv2.jpg?1759635969" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Fury FC 110
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1388065.mkv&play_token=jWaLkSf9Rw&type=movie
+#EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/134237/profile/560355341_18537725887013004_7763211559865342938_n.jpg?1760238060" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ BFL 85
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1388064.mp4&play_token=PIwm05f17g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AN5TFjodXnLTXxZvBaQVpdD2gm.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 262: de Ridder vs. Allen - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1388007.mkv&play_token=lwLzNVBTSC&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wwe.com/f/styles/wwe_16_9_xl_r/public/2025/10/20251006_NXT_Match_JacyJayne_16x9_Tonight.jpg?resize=740%2C416&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-10-14
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386671.mkv&play_token=tD0sgzIKAF&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pYX33PTrr34/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6KsUT7HU4ahtMQogUYTDqf8JEag" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night RAW 2025-10-13
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386670.mp4&play_token=T9XRrXHnZD&type=movie
+#EXTINF:-1 tvg-logo="https://lastwordonsports.com/prowrestling/wp-content/uploads/sites/15/2025/10/11-39-1200x800.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite Collision 3hr Special 2025-10-15
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386653.mp4&play_token=c5KbcchvLH&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.theouterhaven.net/wp-content/uploads/bafkreidthtkh5ttoytxmzwc37iynmbgkrheqmjjf2tnl5kzsb24th7l7q4-576x720.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-10-11
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386652.mp4&play_token=w9uGUMRcxR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kigolj4NTnE4SnS7XwPXMViJlKc.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Crown Jewel - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364125.mp4&play_token=1CsEPOCt93&type=movie
+#EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/130994/profile/Collins_Evangelista_%281%29.png?1755623582" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Urijah Fabers A1 Combat 31
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364124.mkv&play_token=i9YakXGOQj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yIylzw64rTbCr2mEMlBl8zj8tR.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 261: Oliveira vs. Gamrot - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364123.mkv&play_token=I74UtJhVjs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzmkCpWabLLlOLbndJvLxvHJCWL.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ LFA 219: Thomson vs Islomboev - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364122.mkv&play_token=bSav2xLT2Z&type=movie
+#EXTINF:-1 tvg-logo="https://www.ahoy.nl/files/images/events/2025/Glory%20104%201920%20x%201080.png" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Glory 104
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364121.mkv&play_token=8cNgCwv0Xv&type=movie
+#EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/130498/profile/combatfc11.jpg?1756829871" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Combat FC 11
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364120.mp4&play_token=x4o5rQpvWX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaWmpvRmsPveOWxwFKCWfwVVt3d.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Cage Warriors 195: Bellandi vs. Ribeiro - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364119.mp4&play_token=sVrsyABqLc&type=movie
+#EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/132189/profile/cffc147.png?1757006717" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ CageFury FC 147
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364118.mkv&play_token=s6gb1YPnWh&type=movie
+#EXTINF:-1 tvg-logo="https://www.pwtorch.com/site/wp-content/uploads/post/2025/10/20251003_SD_Match_WyattsStreetProfits_16x9_tonight-678x381.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2025-10-10
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1361157.mp4&play_token=oBFLvKP3IJ&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR30P3gkf9FJCkUEUO4l4Md6Q_RJQvBJRL_9A&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw  2025-10-06
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350745.mkv&play_token=ohWahL0MVK&type=movie
+#EXTINF:-1 tvg-logo="https://ufc.com/images/image/2025-09/UFC-BJJ3_PE_Thumb.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC BJJ 3 Musumeci vs Carrasco
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1344827.mkv&play_token=kEwgu8NFry&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lddqnifl4eSoypKrUTPFvaclQIo.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 320: Ankalaev vs. Pereira 2 - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1344826.mkv&play_token=okX85qTGff&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/10/G2I8KjCWoAAxB-.jpeg?fit=740%2C925&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-10-01
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1339751.mkv&play_token=g1WHu5lSv1&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSY2UXW1aETwFmCpV0nOBTHb4IrKUUlFyGow&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-09-30
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334675.mkv&play_token=g4LkEQp83I&type=movie
+#EXTINF:-1 tvg-logo="https://imageio.forbes.com/specials-images/imageserve/68db132fa8b0a35368983a19/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-09-29
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334674.mkv&play_token=pkjTPF8V4f&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzCwCaT3l2f63ZanExAvq95zvmX.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 260: Ulberg vs. Reyes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327749.mkv&play_token=91zPQMJdoM&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8M4BMyg/Screenshot-2025-09-27-at-09-32-09-FFC-96-Chile-MMA-Event-Tapology.png" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Fusion FC 96
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326473.mkv&play_token=SaIjgKFmIC&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMQ30Yvz/Screenshot-2025-09-27-at-07-50-45-Cage-Fury-FC-BJJ-15-movie-Google-Search.png" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Cage Fury FC BJJ 15
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326470.mkv&play_token=P606jDIbeK&type=movie
+#EXTINF:-1 tvg-logo="https://aiptcomics.com/wp-content/uploads/2025/09/20250917_NXT_Match_ObaTrick_16x9_Tonight.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-09-23
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1321797.mkv&play_token=HeeMvE36ib&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wwe.com/f/styles/wwe_16_9_xl_r/public/2025/09/20250922_RAW_Netflix_Match_Cody_16x9_Tonight_0.jpg?resize=740%2C416&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-09-22
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1321023.mp4&play_token=XEwYVlNy9H&type=movie
+#EXTINF:-1 tvg-logo="https://b1671682.smushcdn.com/1671682/wp-content/uploads/2025/09/aew-dynamite-preview-for-september-17-2025-confirmed-matches-start-time-and-how-to-watch-36.jpg?lossy=2&strip=1&webp=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW September to Remember 2025-09-17
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1314279.mp4&play_token=yFsswRZLn3&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqhG-oeT11ov7H6Yunbgk1mPU_l_vFDN4ZQ&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-09-15
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1310900.mkv&play_token=KB1XzqLM98&type=movie
+#EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2025/09/250912_RASD.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2025-09-12
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1306607.mkv&play_token=fsVK8Y48T6&type=movie
+#EXTINF:-1 tvg-logo="https://www.bodyslam.net/wp-content/uploads/2025/09/Dynamite-Sept-10th-2025.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-09-10
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1306564.mp4&play_token=o17ebkqroP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yO1YIDkg0nE2jnKxeccofZQsTbn.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃  UFC Fight Night 259: Lopes vs. Silva - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1306544.mkv&play_token=jI1cYR4NFh&type=movie
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/wwe_16_9_xl/public/2025/09/20250902_NXT_Match_TripleThreatWomensTag_16x9_Tonight.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-09-09
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1293099.mkv&play_token=dlAdyvsIi3&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wwe.com/f/styles/wwe_16_9_xl_r/public/2025/09/20250905_RAW_Match_AJStylesGrande_16x9_Tonight.jpg?resize=740%2C416&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-09-08
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1291472.mkv&play_token=ni8GVSZdHr&type=movie
+#EXTINF:-1 tvg-logo="https://www.wrestleview.com/wp-content/uploads/2025/09/9-6Collision-1-1.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-09-06
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1290540.mp4&play_token=c8U9AWTc2I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj3S0pMp5kHccFmyVZ1L49c2Xtp.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 258: Imavov vs. Borralho - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1288955.mkv&play_token=4tktcnbUwL&type=movie
+#EXTINF:-1 tvg-logo="https://lastwordonsports.com/prowrestling/wp-content/uploads/sites/15/2025/08/11-108-1200x800.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃WWE NXT 2025-09-02
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1284790.mp4&play_token=pLFKiB9diw&type=movie
+#EXTINF:-1 tvg-logo="https://imageio.forbes.com/specials-images/imageserve/68b5d71c84a04ea2ec54abcc/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds" group-title="┃NL┃ UFC ┃ WWE",┃NL┃WWE Monday Night Raw 2025-09-01
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1284789.mkv&play_token=d7t1nopJDi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbEL4nHZ2Ze9Js3Oa5Sv1Mpqqu2.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Clash in Paris 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1280927.mkv&play_token=9IC2KG80Qw&type=movie
+#EXTINF:-1 tvg-logo="https://platform.cagesideseats.com/wp-content/uploads/sites/54/2025/08/BigJuice.jpg?quality=90&strip=all&crop=7.8125,0,84.375,100" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-08-30
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1280926.mkv&play_token=8AVeUdeyol&type=movie
+#EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2025/08/20250822_SD_Match_SoloSami_TITLE_16x9_Tonight-e1756497533400.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 2025-08-29
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1278357.mkv&play_token=puMRfKKfQa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crBPm5opFQgVCJjsrKyoFYrYdcS.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Heatwave
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275520.mkv&play_token=eOzw4L71ik&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccmc8OMG9jH13IKhOJS8FUZMiYz.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 257: Walker vs. Zhang
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1270135.mkv&play_token=lnW9ao0GwE&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXr2ay-rQ-cQ_6x_1H8k_XkCPCJHiwk4kXiQ&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025 -08-19
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1265621.mkv&play_token=tLzFRknOWH&type=movie
+#EXTINF:-1 tvg-logo="https://aiptcomics.com/wp-content/uploads/2025/08/20250815_RAW_Netflix_Match_SethBronReedPaul_16x9_tonight.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-08-18
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1265620.mkv&play_token=aef8shEHJm&type=movie
+#EXTINF:-1 tvg-logo="https://platform.cagesideseats.com/wp-content/uploads/sites/54/2025/08/Screenshot-2025-08-15-at-10.16.24%E2%80%AFAM.png?quality=90&strip=all&crop=7.9301075268817,0,84.139784946237,100" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-08-16
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262995.mkv&play_token=dqww3dqBhH&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0TxrJAiGdl0/maxresdefault.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2025-08-15
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262072.mkv&play_token=8pPWcjsTbX&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/allyourwrestling.com/wp-content/uploads/2025/08/image-99.png?fit=1200%2C675&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-08-13
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262055.mkv&play_token=GrKTcrFOho&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sllTo8ajL9P76k6hL80glCiJGAq.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 319: du Plessis vs. Chimaev
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1261871.mkv&play_token=zyKOXPq9jc&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gZlnvISXVEA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDmL01JcEVT-hggCbtq4UD5MShNKA" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-08-11
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256610.mkv&play_token=Hpy17Zno17&type=movie
+#EXTINF:-1 tvg-logo="https://aiptcomics.com/wp-content/uploads/2025/08/bafkreifegosnvrohrd56yu5byulnu2tm44mib4uo5ueqaahudfoie3nscy.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-08-09
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256581.mkv&play_token=x1VfMgd9cW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/V3vkYcsxDw6x1lg31SKhSoJRXz.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 72: Dolidze vs. Hernandez Prelims
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256145.mkv&play_token=KJN4yyQ4RU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/V3vkYcsxDw6x1lg31SKhSoJRXz.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 72: Dolidze vs. Hernandez
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256144.mkv&play_token=LOhlBrzSqS&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sfSwpStp/images.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SummerSlam 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1254107.mkv&play_token=HhL9hIKNjR&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3JvLjWS/xaNzd.webp" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE.Monday.Night.Raw.2025.07.21
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1254106.mkv&play_token=agYg2vXLTu&type=movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrJJgzTD/AEW-Collision-resized-1.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW.Collision.2025.07.19
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1254087.mp4&play_token=2bwQbO4hlZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxLnN5ZnVLn3DOM9jLxU3OGw53M.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 71: Taira vs. Park Prelims
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1247831.mkv&play_token=vJSYAbUfRC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxLnN5ZnVLn3DOM9jLxU3OGw53M.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 71: Taira vs. Park - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1247830.mkv&play_token=BAspK6svh8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYSyJO0E6p3ilNT9JHrcutBmTmY.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ABC 9: Whittaker vs. de Ridder [Prelims]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1243171.mkv&play_token=uPGliutTdJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYSyJO0E6p3ilNT9JHrcutBmTmY.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ABC 9: Whittaker vs. de Ridder
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1243170.mkv&play_token=wiYCZ0FmWt&type=movie
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/og_image/public/all/2025/07/20250715_NXT_Match_TakerTrick_16x9_Tonight--e1b946b70a0a4f11df69d67244447cf0.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-07-22
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1241838.mp4&play_token=J0ofmMhvFd&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wwe.com/f/styles/wwe_16_9_xl/public/all/2025/07/20250718_RAW_Netflix_Match_TripleThreatTag_16x9_Tonight--c8398853ead7725f626b14cdb724f36f.jpg?resize=740%2C416&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-07-21
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1241837.mkv&play_token=yJBuczEvUM&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.wrestlingheadlines.com/wp-content/uploads/2025/07/01-aew-collision-results-7-19-2025.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-07-19
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1241836.mp4&play_token=TPw1Iq0qtv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7cPZPCO9jo0xxfghfChAWVpjuz.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 318: Holloway vs. Poirier 3
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1238325.mkv&play_token=UF2q7Buym2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7cPZPCO9jo0xxfghfChAWVpjuz.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 318 Early Prelims
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1238324.mkv&play_token=zTeB9gf084&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/y9Oaklu4uCw/mqdefault.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw [14-07-2025]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1237628.mkv&play_token=cPrCfVgglv&type=movie
+#EXTINF:-1 tvg-logo="https://lastwordonsports.com/prowrestling/wp-content/uploads/sites/15/2025/07/11-35.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2025-07-11
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1232778.mkv&play_token=IsY4tXD0kJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRgqZkmQj4f5lA5uWY1sLZqWifC.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 70: Lewis vs. Teixeira Prelims
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1232777.mkv&play_token=vrH4GjAzTs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRgqZkmQj4f5lA5uWY1sLZqWifC.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 70: Lewis vs. Teixeira
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1232776.mkv&play_token=BxvLaY9qh0&type=movie
+#EXTINF:-1 tvg-logo="https://aiptcomics.com/wp-content/uploads/2025/07/Gveo-bpXwAAXkkC.jpeg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-07-10
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1232775.mkv&play_token=4pTLGzuZiK&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHFXabjwFAVVwcPYJ3Yh76dqTj4RlM4B_oA&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-07-07
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229032.mkv&play_token=TCuA6ay5eJ&type=movie
+#EXTINF:-1 tvg-logo="https://www.pwtorch.com/site/wp-content/uploads/post/2025/07/Screenshot-2025-07-06-at-4.37.35%E2%80%AFPM-678x381.png" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-07-05
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229031.mp4&play_token=14LF8RlyME&type=movie
+#EXTINF:-1 tvg-logo="https://aiptcomics.com/wp-content/uploads/2025/07/20250702_SD_Match_Cody_16x9_friday-b1175af20dc19eefb2c1a0c9c8522556.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2025-07-04
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1224475.mkv&play_token=B3ECRVd2MC&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz5cHD3ShejB1rfTrSuOHaYqr9duR4yPi3iA&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-06-30
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1222310.mkv&play_token=P1HinsoCB1&type=movie
+#EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2025/06/CS-049476_SD_saudi_1920x1080_2-1377a5c089ddd35593ec7316d082429f-678x381.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night Smackdown 2025-06-27
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218030.mkv&play_token=INePESHv5p&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMdjudaUKePXVSaCaqYFTTGZIik.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 317: Topuria vs. Oliveira
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218029.mkv&play_token=99lIBcQGOw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMdjudaUKePXVSaCaqYFTTGZIik.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 317 Prelims
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218028.mkv&play_token=Kt1u6H5kGL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sveRqmD1TFMUgjsECsZ51abx81S.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Jake Paul vs. Julio Cesar Chavez Jr
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218027.mkv&play_token=aotltiKi80&type=movie
+#EXTINF:-1 tvg-logo="https://aiptcomics.com/wp-content/uploads/2025/06/20250613_SD_Match_CenaRonKillings_16x9_tonight-749d1436df649a26f0d7f855819be41e.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2025-06-20
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1213283.mkv&play_token=UyM1zz58u1&type=movie
+#EXTINF:-1 tvg-logo="https://assets-start.npo.nl/resources/2025/06/24/744bb57b-23b6-4c2c-968b-c91b5c88bdba.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ NOS NAVO 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1213282.mkv&play_token=E6gnAv5eh6&type=movie
+#EXTINF:-1 tvg-logo="https://aiptcomics.com/wp-content/uploads/2025/06/Gt9BjqCW8AAo-Wr.jpeg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-06-21
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1213281.mkv&play_token=TYgIM8ZDmw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjA69XE8phBEJIlQCGcEsLgwA7W.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ABC 8: Hill vs. Rountree Jr. [Prelims]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1210821.mkv&play_token=TZnTx4EWx5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjA69XE8phBEJIlQCGcEsLgwA7W.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ABC 8: Hill vs. Rountree Jr
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1210820.mkv&play_token=VTuAkguMb4&type=movie
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/og_image/public/all/2025/06/20250616_Raw_FC--e63ba52ecb634e8287d6d4a109418567.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-06-16
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1209569.mkv&play_token=sofzEOb8jt&type=movie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/UFC_on_ESPN_69.jpg/250px-UFC_on_ESPN_69.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 69: Usman vs. Buckley
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1204663.mkv&play_token=8OdVrOxmY8&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wwe.com/f/styles/wwe_16_9_xl/public/all/2025/06/20250610_NXT_Match_PageLegacy_16x9_tonight--801298c8cfeb632b011961d815e1bb29.jpg?resize=740%2C416&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-06-10
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1203242.mp4&play_token=6xofosduT5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHnmpN4hvIYG1hnEe7PsZIFJVoC.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Worlds Collide
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200555.mkv&play_token=NKiim2qlzd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7i1pl2RzbzNOrxx4lgv2ueQ1HUP.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 316: Dvalishvili vs. O'Malley 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200554.mkv&play_token=DVlF6BI4Bk&type=movie
+#EXTINF:-1 tvg-logo="https://www.wrestleview.com/wp-content/uploads/2025/06/20250530_RAW_Netflix_Match_JeySamiBronReed_16x9_Tonight-ac4cd3952b98cfbffcf0f0cf9c1b9a4b.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-06-02
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1196916.mkv&play_token=JAtvw8Jx44&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJTGTjy0fsTWCxQOVL67sPAEnZY.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 68: Blanchfield vs. Barber
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1192622.mkv&play_token=jV46YiFpmq&type=movie
+#EXTINF:-1 tvg-logo="https://www.wrestleview.com/wp-content/uploads/2025/05/20250519_RAW_Netflix_Match_TagTitles_16x9_Monday-94f2c79450db6a9f1ca63485a866ba23.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-05-26
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1187890.mkv&play_token=cO8ZCMuRsv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65IzmUWLAXGzeaKj8Fkr7UhFzW5.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Saturday Night's Main Event XXXVI
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1187050.mkv&play_token=P9mJUKSd13&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2OGcYjtZpNr3SJnRGwCRuvhcCU.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Battleground 2025 - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1187049.mkv&play_token=15uTaUuMrq&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9sMze5HJK5QnST-EIuo_mdtZ2RMGN7rQnLA&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 2025-05-23
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1184293.mkv&play_token=4n0DSXSYcP&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.wrestlingheadlines.com/wp-content/uploads/2025/05/01-aew-dynamite-preview-5-21-2025.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-05-21
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1184292.mkv&play_token=mGTNZ6cdcR&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.wrestlingheadlines.com/wp-content/uploads/2025/05/01-aew-dynamite-preview-5-21-2025.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-05-22
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1184291.mkv&play_token=JPTPdmp0BP&type=movie
+#EXTINF:-1 tvg-logo="https://www.pwmania.com/wp-content/uploads/2025/05/01-wwe-smackdown-results-5-16-2025-696x392.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown-2025-05-16
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1176936.mkv&play_token=4tjvYcewUv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QSAYIHkg5IfHL3tvmvhXXlZWwF.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 256: Burns vs. Morales
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1176933.mkv&play_token=C48eWOrsEy&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DriNXm5fjeQ/sddefault.jpg?v=68220dca" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-05-12
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1173284.mkv&play_token=i7pq5yfWbX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oDvtk9ODUMSdXBawId2B8L12vx.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Backlash 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1168479.mkv&play_token=aFXbEJoonH&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NKu0dkkkStc/maxresdefault.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Smackdown Friday Night  09-05-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1168478.mkv&play_token=foYirXcXe3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTQDAsz8ZDDLzCmBZAxJhnHSLuN.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 315: Muhammad vs. Della Maddalena
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1168477.mkv&play_token=BOjqSLlwoj&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8aYAA15AX8A/sddefault.jpg?v=68196f7c" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-05-05
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1162603.mp4&play_token=8OZ8EiGxDs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRiuuMKG5wsdEuGUaF4TM0UPPN5.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 67: Sandhagen vs. Figueiredo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160281.mkv&play_token=jk2TRV9mFS&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsL7JO0KWBI21MdAGPVvCYhzXOJjM6c5t9og&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ PFL 4 2025 World Tournament First Round  Main Card
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160280.mkv&play_token=V5LU2VosOO&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTif1UOy6UiqgHlRbE-X7SCqkINbdqhYRtEQ&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ One Championship ONE fight Night 31
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160279.mp4&play_token=fWzTtOwlTM&type=movie
+#EXTINF:-1 tvg-logo="https://external-preview.redd.it/pfl-world-light-heavyweight-tournament-update-marcelo-nunes-v0-f7mHLnuNzXKvDZVF5AEYVEkVNuog78UrcdJfy2yGpNw.jpg?auto=webp&s=afded64dddd6f5679d87c9370e54eedd6a6ff7dd" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Light Heavyweight_Alex Polizzi vs. Rafael Xavier_Light Heavyweight Tournament Alternate
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160278.mkv&play_token=LAYzAAWT3Z&type=movie
+#EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/124898/profile/kc54.jpg?1744998026" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Karate Combat 54
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160277.mkv&play_token=RxUHNFpIRi&type=movie
+#EXTINF:-1 tvg-logo="https://pflmma-prod.s3.amazonaws.com/articles/featured/ac393e9bcf856ae5394d66e36d280e2c-1.png" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Heavyweight_Rodrigo Nascimento vs. Abraham Bably_Heavyweight Tournament Quarterfinal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160276.mkv&play_token=wg320XXeJV&type=movie
+#EXTINF:-1 tvg-logo="https://pflmma-prod.s3.amazonaws.com/articles/featured/7bfc87e325d960ca398848638f41abad-1.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Heavyweight_Karl Williams vs. Oleg Popov Heavyweight Tournament Quarterfinal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160275.mkv&play_token=2q68tQywLE&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hDa-zP7M6X0/maxresdefault.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Heavyweight_Alexander Romanov vs. Timothy Johnson_Heavyweight Tournament Quarterfinal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160274.mkv&play_token=S71Rb4S2F3&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kiEzFMfnSl8/sddefault.jpg?v=6813f783" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ GLORY Underground Kwasi vs Beztati 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160273.mp4&play_token=eaJXOxfT54&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/53k9ivLnK_s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDAWPM5gAV6ujF0QfUODfteLxOCrw" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ BKFC Fight Night Clearwater 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160272.mp4&play_token=9aQN5jSGb6&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yhkZ-zF_Lk8/hq720.jpg?v=6814ec78&sqp=CKza08AG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBM_kqfqxNjE6OgGqLW-UhP6wJlNA" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2025-05-02
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1159419.mkv&play_token=uIo7g3FEcS&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.wrestlingheadlines.com/wp-content/uploads/2025/04/01-aew-dynamite-results-april-30-2025.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-04-30
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1159418.mkv&play_token=QMWqqbKcJW&type=movie
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.ewrestlingnews.com/wp-content/uploads/2025/04/20250428_NXT_Match_JoeHendry_16x9_ton-30dacfe935684aabd7465e030c843203.jpg?fit=1920%2C1080&quality=50&ssl=1" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE-NXT-2025-04-29
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1157448.mkv&play_token=rozubWD2dc&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.wrestlingheadlines.com/wp-content/uploads/2025/04/20250425_RAW_Netflix_Match_HeymanBronSeth_16x9_monday-09acb340ffdc8cbd75e14d5a9bc694f0-840x473.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-04-28
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1157447.mp4&play_token=p08mcEenna&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NnFEXpKU5DI/sddefault.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-04-23
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1157446.mp4&play_token=EAOjHAAZ7J&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-VsI4Lt8KMQ/sddefault.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-04-26
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1157445.mp4&play_token=wEYcUju6H4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QwNcc1FS8GzVbno8KzxCE5XbVw.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 66: Machado Garry vs. Prates
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1154085.mkv&play_token=zpojgYzDkL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odWn5bv4ei8ff8H3hZx5gKkvW3G.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Cage Warriors 188: Sheehan vs. Burlinson
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1154084.mp4&play_token=NPcznaV9cc&type=movie
+#EXTINF:-1 tvg-logo="https://dickiesarena.com/fa-content/uploads/2025/02/CS-046751_SD_Ft_Worth_1200x700_Website_Main_Graphic_v2.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2025-04-25
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1153215.mkv&play_token=KOBI01hl5X&type=movie
+#EXTINF:-1 tvg-logo="https://imageio.forbes.com/specials-images/imageserve/68055f7b653a358a42535d12/John-Cena-vs--Cody-Rhodes-in-the-main-event-of-WrestleMania-Sunday/960x0.jpg?format=jpg&width=960" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Wrestlemania 41 Night Two [2025]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1153036.mkv&play_token=PYmJx77tbS&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.wrestlingheadlines.com/wp-content/uploads/2025/04/20250401_Match_NXT_StandDeliver_ObaTrickEvans_16x9_date-5aab21628fe29909f30c5247ee69d703-1125x570.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Stand and Deliver 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147407.mkv&play_token=TpCyO6qmqW&type=movie
+#EXTINF:-1 tvg-logo="https://411mania.com/wp-content/uploads/2025/04/WWE-NXT-Stand-and-Deliver-2025-Countdown.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Countdown to NXT Stand and Deliver 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147406.mkv&play_token=DcdlKA9SdC&type=movie
+#EXTINF:-1 tvg-logo="https://www.9jarocks.net/wp-content/uploads/2024/12/AEW-Collision_resized.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-04-16
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147405.mkv&play_token=AGF6I3Sud4&type=movie
+#EXTINF:-1 tvg-logo="https://www.9jarocks.net/wp-content/uploads/2024/12/AEW-Collision_resized.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-04-17
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147404.mkv&play_token=GkI7ofbbYk&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWp9-aC7kzkjI6sSPmfgE4NGNE4iMmNoUFg&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE WrestleMania 41 Kickoff  2025-04-18
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147029.mkv&play_token=1qNsUwSyWz&type=movie
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/wwe_16_9_xl/public/all/2025/03/Updated_HOF_Feed_Card--4ff29336de42d31682374ae8798cd49d.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Wwe hall of fame [2025]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147028.mkv&play_token=CQeiwcVUZq&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Pg8ceNT6Y6E/maxresdefault.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Smackdown Friday Night 18-04-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147027.mkv&play_token=SOxF7RR8RV&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5SGpqzbOdu4/maxresdefault.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-04-15
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1143350.mkv&play_token=S0siT8hWvY&type=movie
+#EXTINF:-1 tvg-logo="https://theringreport.com/images/articles/banners/wwe-monday-night-raw-results-april-14-2025---liv-morgan-vs-bayley-aj-styles-vs-karrion-kross-more-ab25268.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-04-14
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1142313.mkv&play_token=lNGc9vfX7l&type=movie
+#EXTINF:-1 tvg-logo="https://www.9jarocks.net/wp-content/uploads/2024/12/AEW-Collision_resized.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-04-12
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1142013.mkv&play_token=ISRe810tlK&type=movie
+#EXTINF:-1 tvg-logo="https://assets.khelnow.com/news/uploads/2025/02/WWE-SmackDown-poster.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 11-04-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1140580.mp4&play_token=xsc131I7d9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rc4IUaPOYvhj8ehrnu4uiXUn4Qn.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 314: Volkanovski vs. Lopes [Main Card]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1140579.mkv&play_token=GcPdw3vidp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rc4IUaPOYvhj8ehrnu4uiXUn4Qn.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 314: Volkanovski vs. Lopes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1140578.mkv&play_token=z7pkeAAdab&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CvlErlJq5mCGdVrclosMuD0jDB.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ PFL World Tournament 2025: First Round - 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1140577.mp4&play_token=EuVuWSQDxA&type=movie
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GoD1sGOXEAACMpz.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-04-08
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1132082.mp4&play_token=IAsyVVr34a&type=movie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Dynasty_%282025%29_poster.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynasty 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1132081.mp4&play_token=6K7EW3XRHX&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwo3sdkSVwype0D-V9YpXiFVg8sZd_rG5tgA&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night Smackdown 2025-04-04
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121718.mkv&play_token=9ulAPME1Jt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIziqtXhtaJVqUwnSH9GslTtiNy.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 65: Emmett vs. Murphy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121432.mkv&play_token=VhRN8Ccryq&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/S803Nt7IYZw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBKu_vUlLmd1xlIalDXqSJB5axhVg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2025-03-31
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1118236.mkv&play_token=ZI2y3qsc9S&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvxoR4wgLunbe60mfZOxhOHgy-HQwz8hIXgQ&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-04-01
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1118235.mp4&play_token=5872m6QMDN&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAVPp3y1xjqrX80_lr5KQKBsZt2PoUJDtwIg&s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-03-29
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1118234.mp4&play_token=y8zxvTpVOE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx87XigdvTHNdESjLbSeLQnIoBC.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 64: Moreno vs. Erceg
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1116455.mkv&play_token=QmJsQB9PDs&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AFivoG9ZHck/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBas0fn503D99CpHAdRRKkYRPOktw" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2025-03-28
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115857.mkv&play_token=SEf4S1YNe7&type=movie
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gm-CAAeXEAAbogp.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-03-26
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115856.mkv&play_token=Mbwx24BAFb&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q7b6y3gd564/maxresdefault.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night RAW 24/3/2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1114603.mkv&play_token=CQklb0ByeG&type=movie
+#EXTINF:-1 tvg-logo="https://9jarocks.net/wp-content/uploads/2024/12/AEW-Collision_resized.jpg.webp" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision March 22-03-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1114602.mkv&play_token=mqPvLvWGFZ&type=movie
+#EXTINF:-1 tvg-logo="https://www.kaseyacenter.com/assets/img/596_wwe-updated-2947fe8140.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night Smackdown 2025-03-21
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1111711.mkv&play_token=5NeWn5BkJj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AxsKPUehJJXdRDWmM16AbULP21.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 255: Edwards vs. Brady
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1111710.mkv&play_token=rzXsArky3f&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wb6gQhkjqZC81khvsgxsT2rX0y.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2025-03-17
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1107878.mkv&play_token=KtTGvQOgkO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyMRwMVbbA4yOeiKJ13E9zZwyWs.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 254: Vettori vs. Dolidze 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1107097.mkv&play_token=BRcTwaoRZz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvMvakKFDo7lUuYG02s4vz3VSol.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW  Collision 15-03-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1107096.mp4&play_token=Yr20lvHReg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CpZpRZ28Ln8fNGe2nISqKAs46G.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-03-12
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1105352.mkv&play_token=mak18EcyeX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCsR54HHTTmpi294oWgoXLNwSaL.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-11-03
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103102.mp4&play_token=MZyFKiDQ8Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM9KhsmEWMrGBTQAIiw5iJghT4r.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Revolution PPV
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103101.mkv&play_token=mkMp8z7LTC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKohdXJyY95CnUtSqjFnIV2Zez6.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 07-03-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097968.mp4&play_token=GsvMAtm4ye&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oWnlZCcojYDOaxen8TuADLqj00.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 313: Pereira vs. Ankalaev
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097967.mkv&play_token=dhA3lDzQpx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFGBD55TpUXQKG2nt3SqyqrS1Ya.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 03-03-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096195.mp4&play_token=bMC9D2MRwq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJXzXaq0yUNntXo4ZD4MnnwFt4n.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE LFG
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096194.mkv&play_token=xZYCrjpKdb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGcz8iGesq3a6hvg9xL0eyin1sH.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096193.mkv&play_token=tOBOcZ93EZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckbpUHp2UIbDvL7iJcRzMufSK0R.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Countdown to Elimination Chamber
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1092294.mkv&play_token=A7EgumKmK6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8NotVv4MA8MMgp0lacCrTD31JN.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Elimination Chamber [2025]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1092293.mkv&play_token=7v1ModJ432&type=movie
+#EXTINF:-1 tvg-logo="https://fightingtomatoes.com/images/events/BKFC-FightNightAlbuquerqueRichardsonvsUsmanov-2025-02-28.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃BKFC  Fight Night Albuquerque Richardson vs Usmanov
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1092292.mkv&play_token=2yXFRUWpcu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8m51y7cfcwotQMtsUoKKBI1THdo.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 253: Kape vs. Almabayev
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1091525.mkv&play_token=sNfpShJwKb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA9Wsfh0hEWOCmyqUYeNBNMtzcc.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Smackdown 28-02-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1091226.mp4&play_token=ggNE75dVqk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qr3eY9UaRhIfYNv8FuZ81oMOUA4.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 25-02-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1091225.mp4&play_token=WhHaGeTfFz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFGBD55TpUXQKG2nt3SqyqrS1Ya.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089467.mp4&play_token=asIn6QzugZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Hhtx7DSoiFvPbr3cxtgp191UAh.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 252: Cejudo vs. Song
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1080141.mkv&play_token=uPqFcopBbS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGcz8iGesq3a6hvg9xL0eyin1sH.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 19-02-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1076998.mp4&play_token=s8qWWrUfUc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adOkpCr1TQue1pzRaH1yCj7QYcG.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2025-02-18
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1072964.mkv&play_token=CTh2cAathr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPh3852x4jz1vieAAleXlrh0Pra.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Vengeance Day 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1061654.mkv&play_token=hnvb5rhMLv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPdE6xFuyPrRV9BnIWDcm20TJpj.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 251: Cannonier vs. Rodrigues
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1061653.mkv&play_token=OdajU7JKE6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA9Wsfh0hEWOCmyqUYeNBNMtzcc.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Smackdown 14-02-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1056807.mkv&play_token=5kYluDO31V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HnU2FAYnAbQ1LkOT3JTEsEqeWv.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-02-12
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1055630.mp4&play_token=HEoPFbX4j6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCsR54HHTTmpi294oWgoXLNwSaL.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 11-02-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1051444.mkv&play_token=F9JReaR9rZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2z4tLCbLwFSu9KU44tIZGdpuOs.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 312: Du Plessis vs. Strickland 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1045589.mkv&play_token=WuxpaIS2d4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfwcQwARh7Gt2f8JEPxxiscqkpo.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Royal Rumble
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041433.mkv&play_token=N7YFy2AZLo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cjbwj8Hk3FhqomimnSJzmfmTWQ.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 04-02-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041432.mp4&play_token=KJ1NI04lac&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFGBD55TpUXQKG2nt3SqyqrS1Ya.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ The Monday Night War - WWE Raw 03-02-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041431.mp4&play_token=jjpmrQmMqb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMcx6jRTkqRHPeKjGNAk04a9Oje.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 01-02-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041430.mp4&play_token=q3uyZ3RFQL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKohdXJyY95CnUtSqjFnIV2Zez6.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 31-01-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1035812.mkv&play_token=LlpOeRYHBy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQdyzQ6Ecu9AhGRQAN5Roww2c7r.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 250: Adesanya vs. Imavov
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1035811.mkv&play_token=REMeIKBYUy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CpZpRZ28Ln8fNGe2nISqKAs46G.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 29-01-2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1035810.mp4&play_token=6ASFhxJzCo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wVEOOX8VEGWwEuuIWuN3XT1Avq.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Saturday Night's Main Event XXXVII [25-01-2025]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1029380.mkv&play_token=96nyjBW470&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eQWPK9p3h7wOD5YNIATfKxu7CA.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2025-01-24
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1027101.mkv&play_token=NUjtvLs1JG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MSw2noLplrjnQtmmAeqmOVHSIE.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2025-01-22
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1025901.mkv&play_token=9zExROTtpn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osB5inl8PzaZiC3OYRr2WOepjwr.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 311: Makhachev vs. Moicano
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1021081.mp4&play_token=2bnyhFpQmj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFGBD55TpUXQKG2nt3SqyqrS1Ya.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE The Monday Night Raw 2025-01-13
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1014236.mkv&play_token=1ieiNeEb3H&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5yTa9GqbJ3Uq1LQZeM1KumTaQX.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2025-01-11
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1011754.mp4&play_token=2Vj7SHUPs0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhRcGVGkxhyqRz0BQZfdQQE5sE1.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃  UFC Fight Night 249: Dern vs. Ribas 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1009792.mkv&play_token=PUPrLKKBER&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eQWPK9p3h7wOD5YNIATfKxu7CA.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1008310.mp4&play_token=PM1J49eEgM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH1V2PnukvZrR9PXeK883FQmrrt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2024-12-30
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1001152.mkv&play_token=fWZKyOWGsQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCsR54HHTTmpi294oWgoXLNwSaL.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2024-12-31
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1001151.mp4&play_token=DPkkYhTciX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou9QDYkusEuylPEe3CaFirsnUOt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE: SmackDown 27-12-2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=997493.mkv&play_token=cZFptlAOND&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMcx6jRTkqRHPeKjGNAk04a9Oje.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Rampage 2024-12-20
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=993016.mp4&play_token=K8JQNKNrS4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvMvakKFDo7lUuYG02s4vz3VSol.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2024-12-21
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=993015.mp4&play_token=wuF0wzamm6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qr3eY9UaRhIfYNv8FuZ81oMOUA4.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2024-12-17 WWEN Livestream
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=989978.mp4&play_token=7ANfleZtDi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eQWPK9p3h7wOD5YNIATfKxu7CA.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday. Night SmackDown 2024-12-13
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=987175.mkv&play_token=M3nxSgXK8g&type=movie
+#EXTINF:-1 tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/background_image_xl/s3/2024-12/121424-covington-vs-buckley-results-hero-dim.jpg?h=d1cb525d&itok=T-P4Gp0s" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Tampa Covington vs Buckley
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=987174.mkv&play_token=nARHH9wp26&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CpZpRZ28Ln8fNGe2nISqKAs46G.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2024-12-11
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=985982.mp4&play_token=nIkrPvJg6Q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJXzXaq0yUNntXo4ZD4MnnwFt4n.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Deadline 2024-12-09
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=983588.mkv&play_token=YZ9eYnZEL4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Nda7WleKPKE1R19v7aGpdAbuOz.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Rampage 2024-12-06
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=983587.mkv&play_token=HuS4lVueUl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMcx6jRTkqRHPeKjGNAk04a9Oje.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2024-12-07
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=983586.mkv&play_token=eov4hwMmgX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyTks1vzSisZqhScSIcnD2grROw.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 310: Pantoja vs. Asakura - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=981644.mkv&play_token=ruPBHfZeFo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFGBD55TpUXQKG2nt3SqyqrS1Ya.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃  WWE Raw Monday Night
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=978311.mkv&play_token=CNzgOz6pap&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPh3852x4jz1vieAAleXlrh0Pra.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2024-11-27
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=965561.mp4&play_token=lWBAL8SGyL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH1V2PnukvZrR9PXeK883FQmrrt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 24-11-2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961998.mkv&play_token=4EaheWbnU6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYgnGTRfkqGhjWgFhZEOZFocSCk.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 309: Jones vs. Miocic
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=951997.mkv&play_token=UgDOUoRG2D&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkEYETLHejoG07pg4DMDqMnLKuf.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Jake Paul vs. Mike Tyson [Full Show]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=951127.mkv&play_token=EfeD9BVyoe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkEYETLHejoG07pg4DMDqMnLKuf.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Jake Paul vs. Mike Tyson [Fight]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=951115.mkv&play_token=RvcSmAyQQl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCsR54HHTTmpi294oWgoXLNwSaL.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE-NXT-2024-11-12
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=949850.mkv&play_token=12hfTN8BQt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH1V2PnukvZrR9PXeK883FQmrrt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2024-11-11
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=948306.mkv&play_token=Vueoh1HtkW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2024-11-09
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=946472.mp4&play_token=vHTeDUuCHl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOQx5l8DB75369MmtQXdb7YkVSr.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 247: Magny vs. Prates
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=944325.mkv&play_token=C2LJ2dR1yT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCsR54HHTTmpi294oWgoXLNwSaL.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2024-11-06
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=938988.mp4&play_token=vL7RULCGaH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJAdzCztW4oByfZvnwrmJ8Mc1gN.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Crown Jewel [2024]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=934614.mkv&play_token=O2MNS4QDnh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Edmonton Moreno vs Albaz
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=934613.mkv&play_token=dpQmcNCHm5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCsR54HHTTmpi294oWgoXLNwSaL.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Halloween Havoc
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=930917.mp4&play_token=iD6M2rCMYm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5P4LU9gOQGD6NeUa897If841yN.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2024-10-26
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=930264.mp4&play_token=CPQdwmVm77&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDQ0SD0XOqetSJ8453KBMU90gxf.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 308: Topuria vs. Holloway
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=928883.mkv&play_token=2yYv1JZX00&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MSw2noLplrjnQtmmAeqmOVHSIE.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2024-10-23
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=927833.mp4&play_token=zbmU1rkBaq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbyfKwCV4TpXfLxuzwhx8XS0879.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Rampage 2024-10-18
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=923665.mp4&play_token=PdZy1OihcI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkuEN6O3paJPRMXVGz48nuULlV4.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 245: Hernandez vs. Pereira - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=923037.mkv&play_token=wpj8lVwovw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPh3852x4jz1vieAAleXlrh0Pra.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2024-10-15
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=921238.mkv&play_token=IitEcypGZU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA9Wsfh0hEWOCmyqUYeNBNMtzcc.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Raw 2024-10-14
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=919264.mkv&play_token=0WN4hirjLL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5P4LU9gOQGD6NeUa897If841yN.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW WrestleDream
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=919263.mp4&play_token=sA6WkTEjvC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fvP9ij53dYJXqWI9Anhv3hIaTn.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Vegas 98 - Royval vs Taira Full Show
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=916378.mkv&play_token=BAyIChzqw7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA9Wsfh0hEWOCmyqUYeNBNMtzcc.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 11-10-2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=916296.mkv&play_token=YalxmNxHle&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGcz8iGesq3a6hvg9xL0eyin1sH.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Rampage 11-10-2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=916295.mp4&play_token=so5w5NMobo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CpZpRZ28Ln8fNGe2nISqKAs46G.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 08-10-2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=916294.mp4&play_token=DEiBLJMlw9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFGBD55TpUXQKG2nt3SqyqrS1Ya.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2024-10-07
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=913309.mkv&play_token=cvuc3pbjkK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzM438Ly6kqTnsYb3Ys29MK4QLo.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Bad Blood
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=911159.mkv&play_token=V4mMyQjRnf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGRneOLMxazqUJBJ1brX3U00W7t.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 307: Pereira vs. Rountree Jr.
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=910431.mkv&play_token=UP1JB6R7ZT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH1V2PnukvZrR9PXeK883FQmrrt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2024-09-30
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=907975.mkv&play_token=4MOHbH83u2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1NmoTHhbUKkqaOZMn1UpWwFXtN.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 243: Moicano vs. Saint Denis
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=905226.mkv&play_token=RxiKePQ7d8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCsR54HHTTmpi294oWgoXLNwSaL.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=901883.mp4&play_token=lcv0FonRVq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8zXU6U9Uu5nttTQPHtVjyj1pYf.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2024-09-21
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=899482.mkv&play_token=D7a99DKxfi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA9Wsfh0hEWOCmyqUYeNBNMtzcc.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 2024-09-20
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=899227.mp4&play_token=Z5KPQDDluD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGcz8iGesq3a6hvg9xL0eyin1sH.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2024-09-18
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=898141.mp4&play_token=PHLl5Xv2D9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH1V2PnukvZrR9PXeK883FQmrrt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2024 -09 -16
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=895157.mkv&play_token=z7PD7usn24&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCsR54HHTTmpi294oWgoXLNwSaL.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2024 -09 -17
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=895156.mkv&play_token=XNkYnoSxFu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2024-09-14
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=893510.mp4&play_token=8htjbj7JOO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5qzGl8TLcQLzJdOrIu1Z4G1Xnj.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 306 O'Malley vs. Dvalishvili
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=891642.mkv&play_token=VNXV7ytIak&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SMACKDOWN 2024-09-13
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=891252.mp4&play_token=9qqg48f912&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE.NXT.2024.09.10
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=890037.mkv&play_token=dJbNW8ssV0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXDchWfQqOz9LOW5wr8jMFk6uf1.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW All Out: Zero Hour
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=890036.mp4&play_token=JyKclqB6Ni&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH1V2PnukvZrR9PXeK883FQmrrt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2024-09-09
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=888993.mkv&play_token=xTwYOyugs8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYj6oSnLohwhct6Ika02mwdqYl0.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 242: Burns vs. Brady - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887974.mkv&play_token=oarqGftozs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW.Collision.2024.08.31
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=884176.mp4&play_token=7U1TrAU1wZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahmOhjwEltDeG1cy9ooPEXmFw1I.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Bash in Berlin 2024 Kickoff 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=883426.mkv&play_token=ENGixHIanf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE.RAW.2024.08.26
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879932.mkv&play_token=FM5IlBDTqb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW All In 2024 25 August PPV
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879765.mp4&play_token=NgMFWyyY1Q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCrGRhcIh1NB7TwT8xYZqVY6Lql.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 62: Cannonier vs. Borralho
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879412.mkv&play_token=Rc8FWiVKgy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW.Collision.2024.08.24
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879398.mp4&play_token=droM4LGSxQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SMACKDOWN 2024.08.23
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879086.mp4&play_token=u2n3RW6fLM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Rampage 2024.08.23
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879082.mp4&play_token=DTbY2mOp2A&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Dynamite 2024 08 21
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=878531.mp4&play_token=pP0mxHexmy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 2024 08 19
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=877021.mp4&play_token=Qx8PVnU5UO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wziDjEswg8TlfFrOyL6MSZ64hji.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 305: du Plessis vs. Adesanya (UK Audio)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=870948.mkv&play_token=HDXwEoVYXB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown 2024 08 16
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=870947.mp4&play_token=WQ9XPyAuu9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Rampage 2024.08.16
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=870945.mp4&play_token=RfPJt5JhyY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2024.08.13 USAN
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=869461.mkv&play_token=0jvmfUkykK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2024 08 12
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=867653.mkv&play_token=3TjtEPpjLY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Rampage 2024.08.09
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=867157.mp4&play_token=6S2nOfWzE3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Collision 2024.08.10
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=867156.mp4&play_token=VWAMMnE9mv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N7Qs9bfRNY8sNhc86w3uZHSsE7.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Vegas 95: Tybura vs. Spivac 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=866598.mkv&play_token=LWSbqyrNDW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 2024 08 05
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=863571.mkv&play_token=XXnAqbe3Dc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Summerslam 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862512.mp4&play_token=pKq8WcOy0E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SummerSlam 2024 Post Show
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862511.mkv&play_token=ML9Wu1r0WU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SummerSlam 2024 Kickoff 2024.08.02
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862510.mkv&play_token=pmuCfZ8NM2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRAj9FRNvnmDHpEFUpFmyh9ZOIt.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ABC 7: Cory Sandhagen vs. Umar Nurmagomedov
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862244.mkv&play_token=p0gGHGpWms&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ AEW Rampage 2024 08 02
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862238.mkv&play_token=RftSXJscMZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 30 July  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=859971.mkv&play_token=qLDeZeMSHR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 29 July  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=858431.mp4&play_token=WEIGmAw454&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92dGNMdURddUnLoxEyhn3pEA6Or.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 304: Edwards vs. Muhammad 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=855060.mkv&play_token=LUpzVj75r1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Raw 22 July  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=852003.mp4&play_token=duWfaAuWBo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ GLORY 93: Semeleer vs. Beztati
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851641.mkv&play_token=fS2rqKuNrZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDrFWdFS7G3unfwv8ARyR6sv7ca.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 60: Lemos vs. Jandiroba
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851495.mkv&play_token=FCQMcC2DaB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night: Smackdown 19 July  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851474.mkv&play_token=vhgbWKRQWl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE: RAW July 15  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848298.mkv&play_token=DBtO4bYTU4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN: Namajunas vs. Cortez
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847387.mkv&play_token=xW9o0ZzYPa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown  July 12  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846510.mkv&play_token=0x8uvaKsbC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE: RAW  8 July 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=843362.mp4&play_token=4aGARe7wMu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4RlRRZ6LKl7lBY78snTcYilr2H.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE: NXT Heatwave 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=843361.mkv&play_token=JjJ99rGRnp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTbuFPGj71Z8oXxhAaH8tFn6vJI.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Money in the Bank 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842927.mp4&play_token=PCka0dTqFr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT: July 2  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=836922.mkv&play_token=UDpVHABB3x&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 28th June 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=833761.mp4&play_token=kkQgYDzWiC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFepXwHGyB5vQxWOpnmTksV3Qwx.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 303: Pereira vs. Prochazka 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=833080.mkv&play_token=JJJbmpqxu1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE  Monday Night Raw: 24 June 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=827868.mp4&play_token=8wEEuBeNDn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night: Whittaker vs Aliskerov 23 June 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=824366.mkv&play_token=Lq4ADe1hEW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT: June 18  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=820840.mp4&play_token=hN3pyF4Xct&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE: Clash at the Castle Scotland
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=819026.mp4&play_token=M8gf5epY54&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Vegas 93: Perez vs Taira 16-06-2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=818957.mkv&play_token=biS7ts1HDJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown: June 14  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=818779.mp4&play_token=ZG8LXI2EbW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT : June 11  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=814791.mkv&play_token=HB8KWF5LXG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW 3rd June 2024 USAN
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=812536.mp4&play_token=W2Ms2jaVI0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE: NXT Battleground (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=812535.mp4&play_token=5qYm9NB7nq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Louisville  Cannonier vs Imavov [09-06-2024 Full Show UK NL Audio]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809434.mkv&play_token=86CLopH0bS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night SmackDown June 7  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809311.mkv&play_token=XWzXIre8yu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLzoM9WalUCcfM7S3XJd6rW1thf.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 302: Makhachev vs. Poirier
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804959.mkv&play_token=8Ss7hTZoM7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wthcQM6OdsO8mAehmFmOoPiRT1O.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE King and Queen of the Ring
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800413.mkv&play_token=c6LHd0ilKj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT  May 21  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799936.mp4&play_token=IG25cHx93A&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Vegas 92: Barboza vs Murphy 18-05-2024 Full Show NL UK Audio
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797270.mkv&play_token=8YiWvmLZcX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBL8zBPfI0f55p5bkbQzAOoUzFd.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC on ESPN 56: Lewis vs. Nascimento
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797265.mkv&play_token=P3uqM7CFjU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOV1daM3Ua9UFXUoH4SYDZwwMJn.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Boxing: Tyson Fury vs. Oleksandr Usyk
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797264.mkv&play_token=zVUmmfmaKN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT  May 14  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795379.mp4&play_token=oeeYLfoYad&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 13 May 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=794319.mp4&play_token=yMuPDzzJEr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown May 10  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792324.mp4&play_token=Vb4j9ZWr1B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT May 7  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=791085.mp4&play_token=XQpJsLbjj9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE RAW May 6  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=790125.mp4&play_token=XKckxtoxsb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4C1FnC5Jho1K3zXpiFheIYf3BVY.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 301: Pantoja vs. Erceg
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=788302.mkv&play_token=VTIXvMXEeX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE: Backlash France
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=788108.mp4&play_token=MFNU5EGYoo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Friday Night Smackdown May 3  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787873.mp4&play_token=bZ8zIEUPNW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Backlash France Kickoff: May 3  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787872.mp4&play_token=gDzIUccdZS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Monday Night Raw 29/04/2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=785224.mp4&play_token=q0Yq0nsi2s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAt8CXTe6JGGH0MNk1wjV6UR387.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Vegas 91: Nicolau vs. Perez
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=783732.mkv&play_token=5SsZSE7VZk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Smackdown April 19th 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=777003.mp4&play_token=PCT3LK73hH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT: April 16  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=774243.mkv&play_token=Om08xHhY1K&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 300 _ Pereira vs Hill [Full Show NL UK Audio 14-04-2024]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=771280.mkv&play_token=UXZ6bRZInM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Wrestlemania 40 Saturday Kickoff - 08-04-2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=769112.mp4&play_token=UnsbMvXZaa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Countdown To Stand & Deliver 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=768367.mkv&play_token=3vVu8Y9WVQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Vegas 90: Allen vs. Curtis 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=768366.mkv&play_token=3BOMErrZET&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown April 5  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=768210.mp4&play_token=YNSmnaYoX4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 29th March 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763517.mp4&play_token=hhmzdEZAl3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Atlantic City:  Blanchfield vs Fiorot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=763516.mkv&play_token=OdML8CS7lV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Smith vs. Zepeda: Fight Nigh
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=760719.mkv&play_token=KYL9EIc8bA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jhFq4uSy8oSliDkiYyJODptFSl.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 89: Ribas vs. Namajunas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=760710.mkv&play_token=Kebgm1Yilx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Vegas 89  Preview Show
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=760405.mkv&play_token=YTztpA0ZF0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Raw 3/18/24
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=758941.mp4&play_token=T8Wb5eLpzc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fjb916aV3a1Z8X1MPyGf7luZbp.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 239: Tuivasa vs. Tybura
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=758100.mkv&play_token=8xU3lFnuhp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT - March 12  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=756180.mkv&play_token=SLTQAYOkAD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE Raw March 11  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=755591.mkv&play_token=pnGtDnvNbM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mVzYmJDe16Tuh027uVmRBMVro9.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 299: O'Malley vs. Vera 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754501.mkv&play_token=9IGbTNbseL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2024.03.08
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754450.mp4&play_token=Bl5ZTbxEUV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Zhilei Zhang vs Joseph Parker 08-03-2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754381.mkv&play_token=LTx1onya9b&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mE8TI183NOZOhAovFN02lS1w6pZ.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ Anthony Joshua vs. Francis Ngannou
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754375.mkv&play_token=MFsebfu0we&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pupAVKNXtUmmZBrc1GSw7wJ82iz.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Vegas 87: Rozenstruik vs Gaziev  03-03-24
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=751148.mkv&play_token=K1VKpO0Egx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2024 03 01
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=750856.mp4&play_token=zWO3Po1CAO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT  2/27/2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=749006.mp4&play_token=w7iu0kIS44&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KJTiLdyWIJcyfodlncWkHyZFrs.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Fight Night 237: Moreno vs. Royval 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=740590.mkv&play_token=kzysHUDeeM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT Feb. 20  2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=738323.mkv&play_token=YXSO5gDeK7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYN2qzYsCkDljGTQlyjHHrjDIeD.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC 298: Volkanovski vs. Topuria
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=732334.mkv&play_token=qQmc2tU8h7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE NXT 2024.02.13
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=728965.mp4&play_token=rFRosB6yxu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llZtdh6Us2Srs5o6kkt83sLLFrh.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Vegas 86: Hermansson vs. Pyfer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=724486.mkv&play_token=Fp5iPfdCQH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ WWE SmackDown 2/9/24
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=724395.mp4&play_token=Bw1330E7e8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BVF8xJAWPiE1EthKig5dWdnftp.jpg" group-title="┃NL┃ UFC ┃ WWE",┃NL┃ UFC Vegas 85 | Dolidze vs. Imavov
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=719735.mkv&play_token=J53hMao3Le&type=movie

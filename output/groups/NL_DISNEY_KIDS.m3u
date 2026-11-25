@@ -1,57 +1,149 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0vVAGvmpKQ2JytDiYFGwM36SN2.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Mickey & Minnie's wens voor Kerst
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=970095.mkv&play_token=ttcDUAms7y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=970095.mkv&play_token=8zUZ5ojTxB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jqB7jAxgIY3rVfRmpCCH8bNkTA.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Mickey's Mooiste Kerst
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=970094.mkv&play_token=oOvx3VxB09&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=970094.mkv&play_token=SABN9TDnyG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSje3FS7ycJSglowlngjsvDt7vO.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Dinosaur [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=905920.mkv&play_token=4jb1SVRUse&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=905920.mkv&play_token=u1Z59h34NS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSje3FS7ycJSglowlngjsvDt7vO.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Dinosaur [NL Subs]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=905921.mkv&play_token=jQeKyTtnZI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=905921.mkv&play_token=Cbh7sNUzCO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPXai8I7jnEZ4vbNLryV8K8bIOC.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Spooky Buddies [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=868988.mkv&play_token=F2yRh44odR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=868988.mkv&play_token=70zGjUCBN7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luSYAHeeoCIJDG142UWsd5IJiyS.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Binnenstebuiten [Subs]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=852649.mkv&play_token=XiFfmVUtkq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=852649.mkv&play_token=dmM99pKXBF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkqcF21HKZPvCwO6BHPa3aCRaxz.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ G-Force [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795063.mkv&play_token=BIXkmHCVK8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795063.mkv&play_token=MarQpaMWET&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4Fre3rxDl6KcKrEm5Rfnwa5dtO.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Garfield A Tail of Two Kitties [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=774833.mkv&play_token=riwkLgyQfE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=774833.mkv&play_token=lC0U7E9TOq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqwTSWNLyH55g8kBT61s2DgNYEp.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Garfield [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=774832.mkv&play_token=JYPQ9bcQeK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=774832.mkv&play_token=3hHt11qqQS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iW6ixzkrvdrcxk0umiLZMtlSl9L.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Diary of a Wimpy Kid: Rodrick Rules [NL GESPROKEN]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=653448.mkv&play_token=KdbIyw1T0O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=653448.mkv&play_token=N7ZTbr2ySd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsNbxonO8gtylIXwiv7JeqwJ4Kb.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ The Muppets
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=633223.mkv&play_token=ACLBr38oin&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=633223.mkv&play_token=oQTjtqTdqj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ The Muppet Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=633222.mkv&play_token=iFDHQGE9Ti&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=633222.mkv&play_token=QgEbdppBpm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssrV29QSVVJuemBHho0Qx7pFYak.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ The Muppet Christmas Carol
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=633221.mkv&play_token=YIOUTLt6TN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=633221.mkv&play_token=dOCwzSUdCh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GQnfqebjz2aiQMlKngaAAFRJvC.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ The Great Muppet Caper
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=633220.mkv&play_token=p1qHVKJDkG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=633220.mkv&play_token=gnBWLbXx6b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTQbZCxZ4amGZKC9ETjTr7ZAH7L.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃  Muppets Haunted Mansion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=633217.mkv&play_token=jyMeFGORW2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=633217.mkv&play_token=NRC01hh2kx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFcmTgVrZT9vQ1FoilCM364GpwE.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Muppets Schateiland
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=633216.mkv&play_token=7KZacBicxe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=633216.mkv&play_token=qdR0CB93p4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mdPqOga5fty15nXmaNcK1fsNMa.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Alvin en de Chipmunks II - The Squeakquel [NL GESPROKEN]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626442.mkv&play_token=PzkncCgX3s&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626442.mkv&play_token=ZMbG0J9yA3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQhFoqby8UYq4uGQXOtV7P8JLBl.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Alvin and the Chipmunks: The Road Chip [NL GESPROKEN]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626441.mkv&play_token=MZCsYfDUfF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626441.mkv&play_token=XXF2Bfkno3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npOXWVoZyl8UrF2wtByHtfmsWSX.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Alvin en de Chipmunks  III - Chipwrecked [NL GESPROKEN]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626440.mkv&play_token=1WosPClGvs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626440.mkv&play_token=H0GoHxgjlZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEssFe5LCywsLfAcwELVXE38Fbj.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Alvin en de Chipmunks [NL GESPROKEN]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626439.mkv&play_token=WIjtSUdPJD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626439.mkv&play_token=JkUtuWOC3A&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ow1znpLHXVdkw7QrBoZjumJWmdT.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Carl's Date
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=599066.mkv&play_token=FQxd3XuR7j&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=599066.mkv&play_token=UNOeUpMq1B&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbfGC0ar2jAMsnZ2FjRUzzvL5Kn.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ 102 Echte Dalmatiërs
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574853.mkv&play_token=56FO99yvpl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574853.mkv&play_token=GH9bKaPhZp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vh5QyyFgWCVNipA6C70BT3cRt0.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ The Peanuts Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524087.mkv&play_token=qNn2RmLcLv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524087.mkv&play_token=d3UUZL0f5v&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s5VcWNjQA1KtRmANnSwPKFmpCt.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Stargirl
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511903.mkv&play_token=GL0PDQ95Ct&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511903.mkv&play_token=UMsGuR1xc2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2xcicPNXzNex47EYOfw45Dl1o0.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Spionnengeheimen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511891.mkv&play_token=JlbXvI1gwE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511891.mkv&play_token=L06gj4O7mf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃  Soul
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511886.mkv&play_token=Rz9ms21mYS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511886.mkv&play_token=qnNw9EK0l5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Soul (NL GESPROKEN)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511885.mkv&play_token=P5QsH9vxH6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511885.mkv&play_token=YJDtDt8v5E&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jiwsh6i9DeguL4iRgQkpkP7m11.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Onward
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511510.mkv&play_token=20vgfiICSm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511510.mkv&play_token=V1qfkNM8yn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tcZ1jNgXHUHfo8PuJdqIhxTYNf.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ To: Gerard
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509843.mkv&play_token=GbV6sRA3EJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bN7aRB5wrxKklCZZKSJKeb6LCFo.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Timmy Fiasco Privedetective
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509841.mkv&play_token=zEoeva8res&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4Fre3rxDl6KcKrEm5Rfnwa5dtO.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Garfield A Tail of Two Kitties
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509098.mkv&play_token=tg4kkgRs3j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KRnGepv2b1daJ2WM8ZGnPS64nl.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Tarzan II
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509069.mkv&play_token=lRC1H8r33f&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4Bjlp77AaactSSlApONkqAfyoe.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Stitch! De Film
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509068.mkv&play_token=VDu8LveAVv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Soul
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509067.mkv&play_token=46JBHIr5nJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iiW8vVjZdUbtITKmOM4Ii6oMKQ.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Ratatouille
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509066.mkv&play_token=DjwIKqzM8f&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Rapunzel 2010
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=508964.mkv&play_token=rGnwFj3Sxy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfff5XoLdGQzCt2Nb4ZF6WYNLAq.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Ralph Breaks the Internet
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=508963.mkv&play_token=KlNXkdH75g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Frozen II
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=508962.mkv&play_token=7jgbygKAe9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAKhrHvzQDUHQP5zd5HFeqF2BCN.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Frozen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=508856.mkv&play_token=38eReoBI8s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14Yjf8xW2uWkZ3ZhagbrKMXbe70.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ TinkerBell en de legende van het Nooitgedachtbeest
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507817.mkv&play_token=idehKnRu0D&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Jrap24Ki03bC39hbfyebw3xDul.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ TinkerBell en de Piraten
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507816.mkv&play_token=gwp0yyIJj5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soPOZlksVHcumHnhyRlI3XtAVyx.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ TinkerBell en het Geheim van de Vleugels
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507815.mkv&play_token=eI7nJ46phQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmUOjwjgz1vGnAmnR51NVv0hqAe.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ TinkerBell en de Grote Reddingsoperatie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507814.mkv&play_token=AdTqxiadMF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5ggvZQMXhP3O2dQD8iQE46K6b6.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ TinkerBell en de Verloren Schat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507813.mkv&play_token=5pH8v2q4HP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pUkm0XAVVD2CrTF4YdGOVfXjTY.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ TinkerBell
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507812.mkv&play_token=HqHThTNTVC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFqCwVk7ykPkRevHNC6ZNzHZuu4.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ De Klokkenluider van de Notre Dame II
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507811.mkv&play_token=hhJk2w7Mee&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kmz9Odxz7o2cy6ccPtP4LSY8HO.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ The Hunchback of the Notre Dame
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507810.mkv&play_token=enKHfWPwpL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdA4lphQwywsPcEKj5sgQ9QSR55.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Sneeuwwitje en de Zeven Dwergen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507809.mkv&play_token=zv3M9SG1o7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6r26m7IljyKR8NoLgMNNRb9jJK.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Sammy 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507808.mkv&play_token=GMLiPMkbsc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydExhIrbFvPedN9tSIHzzniU1Dd.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Rio
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507807.mkv&play_token=MrZeLR863r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx1k3kCfIs95eAMa1pglXv74cRp.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Rio 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507806.mkv&play_token=WuzhGLGdgf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFeLiMeih9jgXatztoloOyGSbc.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Peter Pan: Terug naar Nooitgedachtland
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507792.mkv&play_token=KCmNekOQ2O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttjEx1Wo3QOxsgKDhDCB2GzHdWk.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Pocahontas II: Reis naar een Nieuwe Wereld
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507791.mkv&play_token=MFSJp2MmzZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Pocahontas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507790.mkv&play_token=f1Mg0l2UUS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQbZiWh4ZDSd2co0FMz8U3LGvL7.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Mulan II
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507789.mkv&play_token=eRT2EidhML&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/towmTJ0k29quKI9IDnOZKAAtQx.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Mulan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507788.mkv&play_token=3pUjh9ADoL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFWP8BSOVC8tQ3NI34gfvEhUqZl.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ De Kleine Zeemeermin - Ariel hoe het begon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507786.mkv&play_token=8iE6AJqPBK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m6JsSmBa4X1Kp35YW3QPbMpByF.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ De Kleine Zeemeermin II - Terug in de Zee
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507785.mkv&play_token=ZCKumqQ6Rr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imOlIlqlFIZCn7cB58vSf1j8rP7.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Studio 100 Sprookjes Musicals - De Kleine Zeemeermin met Kathleen van K3
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507784.mkv&play_token=cOz2INzq6H&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAKhrHvzQDUHQP5zd5HFeqF2BCN.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃  Frozen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507783.mkv&play_token=hURikvTFJa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Finding Dory
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507782.mkv&play_token=6rWnU27DUw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9rCLrojxwXm0meuVWQwCf3bqnz.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Epic
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507781.mkv&play_token=4P1GBDN9Fb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ De prinses en de kikker
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507780.mkv&play_token=Y5dy8HzE3K&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ys0jZr0quHERDUEoCboGQEKPvgQ.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Moana / Vaiana
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507787.mkv&play_token=0a7roBWffu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1cmE1bDlFOpYjKsAm15o9A4c4l.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Diário de um Banana
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=494946.mkv&play_token=YOcnBnRxUb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50mgkPMIm0mCmn2F7eHsrdEPZcr.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Het Leven van een Loser: Rodrick Overheerst
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=494945.mkv&play_token=y3SP21Jmrx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUZZhYLLDU4g4XGQ5tvjYNVytxc.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Coco
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=494106.mkv&play_token=Qj1uLvsmvj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9a8dE9CFQHNIKi475gtJR8YIKDW.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Alice in Wonderland [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=334783.mkv&play_token=P95BQjWRhB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cChtZ57ThbPZMJQIGLXiOCZj4ZD.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Peter en de Draak
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328969.mkv&play_token=vkZUuHtatQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cp8uQHw0SpC3oJYXolU63nhZCQn.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Knabbel en Babbel Rescue Rangers - Het verdwenen testament
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328915.mkv&play_token=uozCOiA16z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mD4oy77soTt9dkHjYabxGQEmDi.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL Knabbel en Babbel Rescue Rangers [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328914.mkv&play_token=fQqCFjoHSp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHMqfsYyl3lskPK2RiFRwhzwuep.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Strange World (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=318675.mkv&play_token=3Nwy3WrM0C&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtMdtzywcAGOrF6t8fbxJBqpdcq.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ The Simpsons: The Good  the Bart  and the Loki
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=318554.mkv&play_token=Kcn5VrEr6u&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bkSHBOvbAh5rkYEUAlOEXmzsRt.jpg" group-title="┃NL┃ DISNEY+ KIDS",┃NL┃ Raya and the Last Dragon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=316128.mkv&play_token=KRwKxGeFfG&type=movie

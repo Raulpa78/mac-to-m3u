@@ -1,611 +1,629 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1nOlL7h_P5eZ2PflWTtavta_W5NTvwbvuNPP1S9Or1Intp6ZPFH-FsRGj&s=10" group-title="┃NL┃ HBOMAX",┃NL┃ Anatomy of a G.O.A.T 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284703.mkv&play_token=fCi5dXzKRN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQXPcNgtx5vIHbh3UNomRUi9WyW.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Dead Man's Wire - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2276534.mkv&play_token=FdzHopdOHz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2XCoT6AqBANz0mKmkgVeo4PyRQ.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Story of Derry - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2219810.mkv&play_token=Tl4DP2eqFM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM0risfxG2xLdwxnl1bINzyt0IQ.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Fragments of Belonging - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179547.mkv&play_token=pQbb8TBisx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4dw7pBmcs0JkB8h4CLSix88EEM.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Kate Berlant: Parmesan - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2140718.mkv&play_token=EOs93vs1Px&type=movie
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/allamerican/images/c/c1/Original_Opening.webp/revision/latest?cb=20260629170002" group-title="┃NL┃ HBOMAX",┃NL┃ All American End of Series 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136194.mkv&play_token=UXSxKC5u16&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wzzexW1ol420BGAtmAmteKnHjG.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ I Swear - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2112563.mkv&play_token=99pBRuTQXw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Dead of Winter - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2112562.mkv&play_token=mvGnlXhsNd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oBEjzlb2QatT2xQBszik2LTGfN.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Agnelli - 2017
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051703.mkv&play_token=SR4XIGKHa8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Band of Brothers: Legacy - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1979811.mkv&play_token=AxME3DXpBn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1979811.mkv&play_token=imuAco0cxj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xApiEBdoO7HpNyKDdm3lT3DdAnw.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Pelicot Rape Case - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1978460.mkv&play_token=CZTBl1fRsQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1978460.mkv&play_token=AQL0ezVcaU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mjsTlWr0dFPeBo4f8lzGPAaWLq.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Persona (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1978459.mkv&play_token=RyzAdSrH8O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1978459.mkv&play_token=q602If0Nqn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht2KBJ1FvSsuMHUTG6dk2WNrcRm.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Faking It: Ted Bundy - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1978457.mkv&play_token=DavO3t9hHV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1978457.mkv&play_token=dFYM0dD0TL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFXoZsIqEZPpJgdDlJdFFzWplhk.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Diabolical: The Epstein Files - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1978456.mkv&play_token=ruAwePJhJp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1978456.mkv&play_token=eoM8daWe30&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwc5GRwZCgbH3dEa4LDMMOnnUVa.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Black Cat Run - 1998
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1978455.mkv&play_token=swWWCdgco9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1978455.mkv&play_token=NC2Nfk4UOU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4vxsgw0OGWY3GXQwzmirypX9mf.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ 33 zdjęcia z getta - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827325.mkv&play_token=v7JeOIHGVx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827325.mkv&play_token=I2402PuMRo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fezRPcjrd4whodnVVcFRCgDpK11.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Scrapper - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802255.mkv&play_token=PMex8aKVFc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802255.mkv&play_token=mgXKqDo41j&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg" group-title="┃NL┃ HBOMAX",Bang My Box: The Robin Byrd Story - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1780767.mkv&play_token=spzChtOC5c&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1780767.mkv&play_token=gjtGLXOSwO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsUj9daGkt4tfaHtjGldnj0q8ab.jpg" group-title="┃NL┃ HBOMAX",Desde la Celda: Crimen en León - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739914.mkv&play_token=N3NyHvgvPt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739914.mkv&play_token=ZXHvxMqg9k&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTkrHVlD2gSnUPMolmy5VnjFiZj.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Wuthering Heights" (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1719897.mkv&play_token=LHCvuem9O3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1719897.mkv&play_token=3h6ePMRN3G&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dENgZn7CD6GkPvmxaBAsk8eZDnI.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Perfect Days - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1719895.mkv&play_token=zbBhbjuABx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1719895.mkv&play_token=s3CCoF0ojq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Sidney Hall - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694911.mkv&play_token=ReBT2GZ3XJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694911.mkv&play_token=msT1C4JXP7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aq8jKIfASiOR6wz9FCeeCH90xZq.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Finding Harry: The Craft Behind the Magic - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694903.mkv&play_token=g5LNQRoZRz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694903.mkv&play_token=xX2iN3COIx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqEEtX4S8j2XqZ9JAD97fz2DPkV.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Down to You - 2000
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694901.mkv&play_token=KGxl3pAmci&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694901.mkv&play_token=JeF4FgqFfS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnJeI6TqrIzMKt9r5VXxaj1YJqR.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Color Theories by Julio Torres. A Guide to Seeing the World - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694899.mkv&play_token=8fcbIJkUbO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694899.mkv&play_token=ifgMWujPOP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3FJvi69dJKMJ8qhhyAVrqX72d6.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Fukushima: A Nuclear Nightmare - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1675602.mkv&play_token=4R16qczU6G&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1675602.mkv&play_token=AnakTkxLyg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTF39OyciGX9bj7rssEn7xffQyR.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Hunted by My Husband: The Untold Story of the DC Sniper
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430256.mkv&play_token=o3jHKxLy7N&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430256.mkv&play_token=wMCgsHe60i&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cE0V6JaKVK1T8wTfVkzPkGfISyK.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Tyson
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1339768.mkv&play_token=rYES7xw3ib&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1339768.mkv&play_token=2Xnaq2tTya&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNIdUakKOG6xUgqgGb6UeC3vNIS.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ My Mom Jayne
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1339760.mkv&play_token=6flN5yvq9q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1339760.mkv&play_token=RTgyuex232&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVPuUYpAQTH01Hko5VUnZKkkcPt.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Mike Tyson Undisputed Truth
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1339759.mkv&play_token=sUUH1K9iFB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1339759.mkv&play_token=GqDA9wCS1e&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiDLqQ0r7uH5Ww9ekpOmzFEUpxz.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Devil Is Busy
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1321795.mkv&play_token=fnIyA17OGE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1321795.mkv&play_token=4WkPvVV6OH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXnir1J8UxS3CyAb9PhFh6DjmtA.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Reality
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1284799.mkv&play_token=1WCDci4PmU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1284799.mkv&play_token=uRNlUf6Ala&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijERUgUNG1SGa3nOdUjthpmn31x.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Music Box: Yacht Rock: A DOCKumentary
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1280987.mkv&play_token=YLrb3JkiYk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1280987.mkv&play_token=m5ZtNVxWIK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oewWoKHFu8Pd68X8K17CrjYmzXE.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Maxton Hall: Reunion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275906.mkv&play_token=sycbw7U2RX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275906.mkv&play_token=hYAo20sqId&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUE8Z0CovgCcMViWoWDbC8JM1EU.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Jussie Smollett A Faking It Special
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1268288.mkv&play_token=JpglcpUSAw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1268288.mkv&play_token=PtJ2eCn6L6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBioW5bQQ9jjCdqQRBqcYp57yUF.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Say Hey  Willie Mays!
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262064.mkv&play_token=SsOkGs3gVN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262064.mkv&play_token=NY7pYAZ0qR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqAyfoKjnBjokBK6Uefr2efxoSw.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Homeless: The Motel Kids of Orange County
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262060.mkv&play_token=bTymJ1EGJO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262060.mkv&play_token=JJB8LZYOla&type=movie
 #EXTINF:-1 tvg-logo="https://www.moviemeter.nl/images/cover/1146000/1146357.jpg?cb=1650563895" group-title="┃NL┃ HBOMAX",┃NL┃ Diagnosis Bi-Polar Five Families Search for Answers
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262058.mkv&play_token=JTXEdnhVRW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262058.mkv&play_token=f7yWjtODFz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Once Upon a Time... in Hollywood
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1260096.mkv&play_token=xIgZuLl15T&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1260096.mkv&play_token=ejD2OgWMkW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qS0A5ORiF6t4Mcpaga1lwmTSa2.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Larger than Life: Reign of the Boybands
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256595.mkv&play_token=aRoU97CxVz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256595.mkv&play_token=caxyMq0vbl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UTyW6Virmtv8vOHAt3wC6YtoFA.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Jaws vs Mega Croc
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256594.mkv&play_token=9oRk0SRQnk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256594.mkv&play_token=Q44eiM4dBH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KRoeHPmtrhb113FqGnDgWPVgn8.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Flight 149: Hostage of War
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256587.mkv&play_token=KB2Nu2JnGE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256587.mkv&play_token=R7aDmaAqU6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wez9dkwC2Wp2hLwL6tAYBKkEX5c.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Robot Chicken: Self-Discovery Special
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1239760.mkv&play_token=IIDGMf4STe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1239760.mkv&play_token=wI8tDHXxSR&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRN9UR0amPLvBN7waiulOv_FUxjpSAEwKaT3V7xKa34ti5s7pHw" group-title="┃NL┃ HBOMAX",┃NL┃ Lively vs Baldoni The Hollywood Feud
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1239759.mkv&play_token=da3Bz3pimU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1239759.mkv&play_token=6fmWHHi0je&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Little Women
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1239758.mkv&play_token=qDehe2xIP2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1239758.mkv&play_token=zNga3UsENi&type=movie
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAxNmU3MDQtYmUwZi00OGMxLTgzMDEtYjI5MTI4M2FhZTNhXkEyXkFqcGc@._V1_.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Kim Kardashian Diamond Heist
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1234872.mkv&play_token=pCentyaTxS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1234872.mkv&play_token=egdJpOtx4R&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2mQtPz6uDdw4CRpSdU5tlGB2MA.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Batman Ninja vs Yakuza League
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1222434.mkv&play_token=DS9eqTxizS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1222434.mkv&play_token=ZJsdyZ6k9V&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yW6ZsOPs8eymxdLWGtPuxbmd45G.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Dear Ms.: A Revolution in Print
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1222299.mkv&play_token=PCoCKbAgUO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1222299.mkv&play_token=8CvZOwN0Sm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3Ngi39RT9kxTPyGN5CwK2XEZrk.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ They Called Him Mostly Harmless
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218761.mkv&play_token=sjyanws2tr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218761.mkv&play_token=FUQiiHtXeW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPe6EtkyONh6JuekhPZ56jRWyVV.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Pentagon Wars
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218760.mkv&play_token=Y7LrV5YO15&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218760.mkv&play_token=hPE4dg4gnc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSrYAggl17tsY8rOakfZQurneNP.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Commandant's Shadow
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218758.mkv&play_token=aELUaA3xuP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218758.mkv&play_token=bUUYyBfVsE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziemD3ATULYKt399FkO1ZhAwrOH.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Real Women Have Curves
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218755.mkv&play_token=3EqylWledd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218755.mkv&play_token=GfEOxPKalE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eYl2GyxCAwVJMlBiJVWnZYkEKr.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Jason Isbell: Running With Our Eyes Closed
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218752.mkv&play_token=9lVHYes16s&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218752.mkv&play_token=vhd0yququj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Let Them All Talk
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218751.mkv&play_token=wEFcmtxNwF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218751.mkv&play_token=KwKb3YX6Nr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btbp47CHXgLhw30kyDoVfNFLB3g.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Last Days
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218750.mkv&play_token=2Fhnd2yJNj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218750.mkv&play_token=kSH3QHILwH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzMfgDxEOfFdw6WIaoC94CayYWL.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Aqua Teen Forever: Plantasm
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218747.mkv&play_token=UBz4o6mDyT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1218747.mkv&play_token=HTzvJNWCCg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7norotIuNxLSo14R7GLEaFRJu3d.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Trust Me
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1213357.mkv&play_token=zfVbo2Jh39&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1213357.mkv&play_token=Libcup63U7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6p6bGyorYymviSZ7XXK4qQwTtao.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Implosion: The Titanic Sub Disaster
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1213346.mkv&play_token=LfHMBivEtL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1213346.mkv&play_token=KCFdGcpQZW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peHdnsJFuba1vNCjubmaYkhmOMx.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Enigma
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1213345.mkv&play_token=HPZ8oJx79o&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1213345.mkv&play_token=GXUrYg6iQd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NsRYJgxWgvuejY69vulVCb7mBr.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Straatcoaches vs Aliens [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1209566.mkv&play_token=cIGCR3IkFB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1209566.mkv&play_token=jW8mQUVSMB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfAZFD7I2hxW9HCChTuAzsdE6UX.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Wizard of Oz
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180688.mkv&play_token=uSe72z1ImU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180688.mkv&play_token=tFJ2jl5J6r&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqPILOj6IAcoCYPE6vqGDQJtlUf.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Sharp Stick
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180686.mkv&play_token=X2Z8Q5Tnfh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180686.mkv&play_token=4OZxKBD8aT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6c1j0wiZ0VVBexS3rsj1ezBUc2.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Krwawe trofeum
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180681.mkv&play_token=NCJlzFdn7l&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180681.mkv&play_token=59Ag4Z5d39&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GHqt94Ruhpi2VrQecdn3hjkcby.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Aaron Hernandez and the Untold Murders of Bristol
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180679.mkv&play_token=X1qtC3LRmK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180679.mkv&play_token=U16u2Z4oif&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ap3672vjjMHvdIfenXqTDkMUqD.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Nebo iznad Zenice
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121773.mkv&play_token=P7AMfZHJ5R&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121773.mkv&play_token=ynT2rzkAg5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAxWLC7wsuN2XCkKDebc7UQZ7G1.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Operative
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1118673.mkv&play_token=hWP6FNSLFy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1118673.mkv&play_token=JcqrS6cQQc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFMzm283QS1bTUtbI6NIX5o3jQV.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ FEMME
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1116018.mkv&play_token=I3cSm9gRoB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1116018.mkv&play_token=pLc8vaY7v1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lMu14IMuHo0hKYCwCIogt7IioX.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Parenting
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1104462.mkv&play_token=ZlQuiJmNBV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1104462.mkv&play_token=YanhGisXHM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4mk7RY5z4l3ILOMMOcrG29vR1o.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Gaga Chromatica Ball
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1091215.mkv&play_token=7uRyavjz71&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1091215.mkv&play_token=DvYDjZaKzK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTZO4kG4QyqmCQEoim3Eaixjl5x.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Babes
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1091210.mkv&play_token=c1CJk1LiZG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1091210.mkv&play_token=AQA7o8at0s&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfGZ8tjK4HVTRjmD5X9JIKDepGC.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Who Is Luigi Mangione?
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1067723.mkv&play_token=ufm8x29TS9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1067723.mkv&play_token=UQPpSBQ19z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFQrK0NHA4OMAvzyJVW4DA0kAFz.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Women
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1055656.mkv&play_token=zGTOPC6RVV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1055656.mkv&play_token=DYWzeSVVOn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2ksKdmWIoUh3GJfu9oEBLorjAJ.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Poms
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1055646.mkv&play_token=H9lpSsfha2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1055646.mkv&play_token=jgaG0SxY24&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmzvqxzCeBf5a715kohfuiIbAqU.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Tallon: Onder Druk
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1034016.mkv&play_token=fSzGWlQIom&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1034016.mkv&play_token=tR88sNQSpE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sp2gvPcjlMKCcKayZoNemvY98LE.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Sons of Ecstasy
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1008304.mkv&play_token=FEPngtxcBE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1008304.mkv&play_token=0W6rJhlRQP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/godghFcXPZfvL7fheVVDNGpQpO2.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Triangle of Sadness
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1005429.mkv&play_token=KKt7A7IUc5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1005429.mkv&play_token=Q7ImlBGKc8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5NBNb4NAr8KznPodbo3Pzvvrb0.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Love in a Bottle
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1005428.mkv&play_token=u08SF7dY7o&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1005428.mkv&play_token=4vhMHyFJuc&type=movie
 #EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/covers/original/141000/141379.jpg?v=1&width=400" group-title="┃NL┃ HBOMAX",┃NL┃ Holiday Crafters Gone Wild
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=994498.mkv&play_token=NVfpgbW4hr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=994498.mkv&play_token=owz57DNQdz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssniwEXdqfJFuqxpwrbTpKjo4Mn.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Rose Matafeo: On and On and On
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=993021.mkv&play_token=EHKkPWhzh2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=993021.mkv&play_token=WubD5uOcVQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIF5TsBgorvl3W4jvVPAIDaWfUF.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Super/Man: The Christopher Reeve Story
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=982011.mkv&play_token=ksD9wyNFEo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=982011.mkv&play_token=L3TvT0FuCi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A16lROzekZKJv06pP0Bpw57ggiR.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Autičkári [Car Gangs]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=967655.mkv&play_token=ndDe6gqgPx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=967655.mkv&play_token=ayMWBoejOj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBVE7JVzEvegJs2JDd1BdoqdBSS.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ James Acaster: Hecklers Welcome
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=959166.mkv&play_token=xcp072QD17&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=959166.mkv&play_token=8P21czk4wi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPYBjVkeHakkPGY7WaKyyNU4RWm.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Witches
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953175.mkv&play_token=2YzGLH9BTx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953175.mkv&play_token=osA1j4MJrF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CsEuQsQUUYwEzzQYPj519LftSu.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Apollo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953173.mkv&play_token=8Vr6KL74jX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953173.mkv&play_token=jiM3MXaWEb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbAWQ41NPaWbN0deyMuxF1ustmj.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Muhammad Ali's Greatest Fight
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953172.mkv&play_token=zlq3OIhYN7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953172.mkv&play_token=At9cp3cfVl&type=movie
 #EXTINF:-1 tvg-logo="https://nieuwdezeweek.nl/media/cache/1c/e1/1ce1c0f12fa82d506c8d752dd2d8bfd5.webp" group-title="┃NL┃ HBOMAX",┃NL┃ Moonlight Sonata  A Deafness in Three Movements
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953171.mkv&play_token=46tYA48U03&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953171.mkv&play_token=1OM43LuuKh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHdgO6qsUCRy7f7VDfucSdI0Qri.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Lansky
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953169.mkv&play_token=EmIxi1L3W4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953169.mkv&play_token=2aHrmYLUt1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A16lROzekZKJv06pP0Bpw57ggiR.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Autičkári
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953168.mkv&play_token=g08W9pLWjA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953168.mkv&play_token=HF2d8MgT1W&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJVDtHp55PHh3r0ckgk1uqqHMr0.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Rape in a Small Town: The Florence Holway Story
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953167.mkv&play_token=Pxp3mKG2wp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953167.mkv&play_token=wvNKiILICh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbD8G7g92meTk7MgwHhR4dpel0I.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Ali & Cavett: The Tale of the Tapes
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953166.mkv&play_token=gWMdyU16io&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953166.mkv&play_token=weqcWA0VZ0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9T8pv1Bjzo1eKeP8inUeo5FkwD.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ What If The War Ends Tomorrow
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=950143.mkv&play_token=ePaykvPHdv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=950143.mkv&play_token=pNBfiIdD4t&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seykQd8kCYvaiNSDtx16DkjkXMY.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Chris Brown: A History of Violence
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=950139.mkv&play_token=eLTTa3R9Ls&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=950139.mkv&play_token=zLFZDDpsCv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnYkySTeTwDrHuBMeU3ImhMWIVe.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Seth Meyers: Dad Man Walking
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=928940.mkv&play_token=6YKnaaCMah&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=928940.mkv&play_token=oUpxoYsDST&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ HBOMAX",┃NL┃ Kamala Harris Making History
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=927823.mkv&play_token=zvx9Di8dWg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=927823.mkv&play_token=N6dFGuCEWs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLXFw6ZylfMf8pKAzAmVc3qDaPW.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Venture Bros.: Radiant Is the Blood of the Baboon Heart
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=924724.mkv&play_token=5pYfg2lruG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=924724.mkv&play_token=NOFTXumCm2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlxVonZmMzgM2QL6D3YdgLDWgQ.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ LOUDER: The Soundtrack of Change
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=923671.mkv&play_token=44PUW0HRfA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=923671.mkv&play_token=x1WkWwOzFP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7gVZ9AOTyeSnsLaGmBZjamCbUh.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Jack and Kelly Osbourne Night of Terror
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=923670.mkv&play_token=snjvXAUtgJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=923670.mkv&play_token=7mBhiY3iw9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ HBOMAX",┃NL┃ Foul Play Dutee
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=917359.mkv&play_token=0hANeTSXRn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=917359.mkv&play_token=66DHaqEFwh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7BLsp6Tsp4kF7Y80oukKt6zTiA.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Matthew Shepard Story: An American Hate Crime
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=916344.mkv&play_token=DXm1rvcHyl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=916344.mkv&play_token=BEtepLSmAS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAC1FOLjDXaWEgNBJXtWYGq9SRE.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Money Electric: The Bitcoin Mystery
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=916338.mkv&play_token=iyq6q7BwWF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=916338.mkv&play_token=cYgSpWgScL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfVua7TzzttOh3RTOuBqT7xN0oY.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Inherent Vice
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=916336.mkv&play_token=taSzdKCq0v&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=916336.mkv&play_token=qjYBjB6Azw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv1IoM6xlCdAoOzUmgB9XTnADC.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Caddo Lake
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=914311.mkv&play_token=L4Lhebz3EM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=914311.mkv&play_token=c56ocY7sUC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVHeq93kCbZYQi9mJv6nr7LTdxe.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Klitschko: More Than a Fight
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=911168.mkv&play_token=CqAM19s1Wv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=911168.mkv&play_token=coygIxd6kh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7ncdqBVufydVzVtxmXu8Ago4ox.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Salem's Lot
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=909215.mkv&play_token=Z85dCtDzcS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=909215.mkv&play_token=CkynvLFERe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jntLBq0MLR3hrwKaTQswxACRPMs.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Harry Potter 20e Verjaardag: Keert terug naar Zweinstein
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=904582.mkv&play_token=IkPLp9afL2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=904582.mkv&play_token=HTtlBk2gpT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLAnhZMjv6qVLVw3idprUsLVvag.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Menendez Brothers: Misjudged?
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=897177.mkv&play_token=A3ZEOGHbXO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=897177.mkv&play_token=5xOatwIiSo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDNYL2xvfP78R2eQg4hvmlN8ayd.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Stopping the Steal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=895161.mkv&play_token=VxfvUQwpqj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=895161.mkv&play_token=5eUyWqJ5FY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ HBOMAX",┃NL┃ Deadliest Catch The 20th Anniversary
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=890068.mkv&play_token=Y9DtCnvdTA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=890068.mkv&play_token=JbJtRjb7JE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPNzysf2QoD3TqAU3Pwb9YSMmue.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Rise And Rise Of The UFC
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=889226.mkv&play_token=2gMxBdKUwK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=889226.mkv&play_token=bj40si7Ukj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRZ62CTExcfwCtBwSJbvT2NAyz3.jpg" group-title="┃NL┃ HBOMAX",My First Film - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887943.mkv&play_token=u3goqyMWZT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887943.mkv&play_token=ZKqZXPNDyq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ58m1fa38xSXe82kviFs8JMUY1.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Lego Batman Movie [NL Subs]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887947.mkv&play_token=WfIZ1zuVNV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887947.mkv&play_token=lx1iyjKOo9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ58m1fa38xSXe82kviFs8JMUY1.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Lego Batman Movie [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887946.mkv&play_token=auai5i0frb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887946.mkv&play_token=BGBDQlN2ad&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Batman Returns
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887937.mkv&play_token=u6TbU7tDFr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887937.mkv&play_token=2Ae5KB5wui&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzzNBVwTiiY94xAXDMWJpNPW2US.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Batman Forever
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887936.mkv&play_token=tmhpzG8mNI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887936.mkv&play_token=yfRPrH6Jab&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Batman
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887935.mkv&play_token=bx0fUFXHbB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887935.mkv&play_token=zebyXx73MS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGRDufDDSrFrv7VI4YnmWnslne0.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Batman & Robin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887934.mkv&play_token=TE6Mga2Qng&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=887934.mkv&play_token=cY6UCcajnU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVw3BKQSikTkEo7auQkJ7QsCQVp.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Unbelievably Vegan with Chef Charity
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879658.mkv&play_token=UY0YrgwcmT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879658.mkv&play_token=eULUAbyROV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ HBOMAX",┃NL┃ Andrew Tate Icon or Toxic A Faking It Special
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879657.mkv&play_token=dkDXVvR1nY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=879657.mkv&play_token=8KqnNi4Cjw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9B1fbnhgqBtPdAPeYRG9qgpjgmJ.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Sharkadelic Summer 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=877912.mkv&play_token=XEyeTED8bH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=877912.mkv&play_token=ssVPkmsCGf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHBKKFArSRfapuuzHGL2fLNIo07.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Sharkadelic Summer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=877911.mkv&play_token=XGnziRnvHC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=877911.mkv&play_token=WLUwvUA53f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqeo4WSV5SmIux6tqMQ5lFM7Brr.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Wild Wild Space
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865830.mkv&play_token=IyqKCjSjOm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=865830.mkv&play_token=N7jG7RL32f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ HBOMAX",┃NL┃ Rick and Morty: Summer's Sleepover
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862515.mkv&play_token=8vZq2c6AVH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862515.mkv&play_token=IJSBAVCst4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iodt6hrewVXxR415PIjBeuZg3Qs.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Behind the Candelabra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862514.mkv&play_token=KIvnQ9uIzL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862514.mkv&play_token=xEXdF89Pn4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSFMKTGLm0TpdFtW8qoTIv33f0p.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Rylan: Homophobia  Football and Me
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862508.mkv&play_token=uj7iozWzPM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862508.mkv&play_token=HbhSfJQa9r&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqhW1TH09EOACM1eNvyjYZrFwY8.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Me contro Te: Il film - Missione giungla
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862506.mkv&play_token=TljsJXY0kT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862506.mkv&play_token=6Ghu83BSUm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHeRe3fNLxr4eebkLN2WXXAkb53.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Elizabeth Taylor: The Lost Tapes
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862505.mkv&play_token=jRx7rsbMX9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862505.mkv&play_token=OI26cvXksM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0VRlzM5nLQyJ8QppxV1IW42qx5.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Belly of the Beast: Bigger and Bloodier
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851945.mkv&play_token=bSvgIXpr4V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851945.mkv&play_token=Q2bM9TFeIe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RZHDXIJZerMyUYEuZoAzu13byy.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Alien Sharks: Ghosts of Japan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851944.mkv&play_token=bQqxBdgBGX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851944.mkv&play_token=SGIs4lAoOl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4qMi98wJIdHtg0s9fW4VKaoVjD.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ 6000-LB. Shark
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=850682.mkv&play_token=e3MejdoMNT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=850682.mkv&play_token=DJOv9WZacQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3q8NkM8uTh9E23VsbUOdDSbBeN.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Justice League: Crisis on Infinite Earths Part Three
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848296.mkv&play_token=2tfgunbyru&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=848296.mkv&play_token=Y6xFbPuecQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ HBOMAX",┃NL┃  Time To Dance
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847385.mkv&play_token=XWnmyAKItC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847385.mkv&play_token=ldsdGsBKt1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8H0bfcxbxGGvZTqDjvXQ89lJxCo.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Riot Club
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847384.mkv&play_token=HI9d0Y1xNj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847384.mkv&play_token=rVSjFpKeqC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ HBOMAX",┃NL┃ The Passion Part 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847383.mkv&play_token=bgfJHPIvov&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847383.mkv&play_token=MGpOWeOPws&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ HBOMAX",┃NL┃ The Passion Part 1
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847382.mkv&play_token=GhXs8JUEvt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847382.mkv&play_token=Zj875FtwE3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anf3GUakOXLsPbYzEpvsnvmkkNG.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Super-Vilains  l'enquête
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847380.mkv&play_token=QV8sxLsH8m&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847380.mkv&play_token=ou6tANJBKL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6xttPSwxO2oCXLZH0eFa4aLvyr.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Paper & Glue
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847378.mkv&play_token=rllP13h54W&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847378.mkv&play_token=hYzji0FuIo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9qmCvnJLCqMuKsrZ0tWvSCEWTz.jpg" group-title="┃NL┃ HBOMAX",┃NL┃  Justice League x RWBY: Super Heroes & Huntsmen  Part Two
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847376.mkv&play_token=TMKpCZTO4y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847376.mkv&play_token=3ASycQb6Uw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ew4ThBsYb5xHIDIVXKRKgH10uln.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Gangsterdam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847375.mkv&play_token=0zV0nCgifp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=847375.mkv&play_token=NArGkpRr89&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPKD810IOsLgYldcKzcAh4OLmnx.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Quad Gods
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846507.mkv&play_token=vKBxBrKXTx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846507.mkv&play_token=P6swDOkbgI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpeUP8kX4mjDqqQXmByv6OKXTs0.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Faye
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846506.mkv&play_token=fu9VxB7Ouu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846506.mkv&play_token=q7YqHI4Oad&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcKsgTnrjuZLWAJwn8uBZHy5YWy.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Fresh Prince of Bel-Air Reunion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=843847.mkv&play_token=BlzRBMctXZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=843847.mkv&play_token=Ep0nI1blaX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWzarMH3CLHULpAIeGh6I0af4BV.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Stevie Van Zandt: Disciple
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=827280.mkv&play_token=xmHlYzgKfU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=827280.mkv&play_token=TjRGiko3S0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7h9bmfx83freENcEEjzi9IHPT9n.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Hannah Einbinder: Everything Must Go
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=815822.mkv&play_token=oo0pgVx7Y0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=815822.mkv&play_token=nM5mDylRF5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfl1lv8ZzaNhtmvvdfrM4Duj1Ai.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Brandy Hellville & the Cult of Fast Fashion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813710.mkv&play_token=SAB7xsvu3s&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813710.mkv&play_token=5LiyABrGST&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeHjNQw3lOozlZyAtPW6mEhNEH5.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Wunderschön
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809442.mkv&play_token=kztsn4AZIQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809442.mkv&play_token=nKg12VpDhF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyDLs6CIT8XmKj5s3wxH46GCsiu.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Turist
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809441.mkv&play_token=GaLKWPAEwp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809441.mkv&play_token=SqEMshHtfO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUdehyzniVTCupwxOt5zxHJWsec.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Tre di troppo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809440.mkv&play_token=U7fxahVTZn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809440.mkv&play_token=MCDXP9lvXK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGjtGuCvB0qMSG37OUey1npx82l.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Cherokee Kid
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809439.mkv&play_token=o9733hPe2P&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809439.mkv&play_token=cxXKFNaAWo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekEtVXAuWPwLz6Afv4m7KjORGCe.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Nikki Glaser: Someday You'll Die
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809438.mkv&play_token=LzCVmm14i2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809438.mkv&play_token=rOFpWu8Xl2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7O41oM6Va5wffkIjunwqAoseNs9.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Hello Ladies: The Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809437.mkv&play_token=TqHOKYjLLy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809437.mkv&play_token=EwY5LetKLq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMQIeBldy3wvitv9yae1F3Cvsqc.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ El Diablo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809436.mkv&play_token=bjrjIKruhr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809436.mkv&play_token=mbmBdzSJVA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31WMu6vpHqsUj7MqimCtzrvJepK.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Donyale Luna: Supermodel
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807317.mkv&play_token=oLcpjICMrx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807317.mkv&play_token=V26Ps3UY4K&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAStXq4ncbLBnujd3LG4KDd7Z3a.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Disconnect
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807316.mkv&play_token=Q4HbTSgZwL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807316.mkv&play_token=jugMaGg3Hz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlSaxV84P4yEU4kuYBEQAFmtbB5.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ City on Fire
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807312.mkv&play_token=hF7Ps4lMtq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807312.mkv&play_token=RcrBVOv6xh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FmbUlNedw3b6KeXRRfSqwco31z.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Capturing Mary
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807311.mkv&play_token=1FrSiM4mMA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807311.mkv&play_token=kWiic0IxUV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8FeAVNxe17rQUqaBhKy5F0wpBf.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Bury My Heart at Wounded Knee
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807310.mkv&play_token=BCeZipA9xc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807310.mkv&play_token=WKuSeN5xEm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk7u9Pvm5e8Zef2UiosM3aDi5Z6.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Boycott
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807309.mkv&play_token=MgflAniCKC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807309.mkv&play_token=hyGhwEx6iN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obWaJ9XOPj5wIaU8lt43QCqNp6C.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Blackout Effect
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807307.mkv&play_token=DdtP1gA41M&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807307.mkv&play_token=U5XkebjPLl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kanAZsL3kZwFWRuR6tqLvNrEFco.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Bessie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807306.mkv&play_token=wvM0zM0gux&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807306.mkv&play_token=iPhvkitp3f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJbBh3rZ4lcgRp16mQTL8q5dzrT.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Before the Winter
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807303.mkv&play_token=VnTgImhfmx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807303.mkv&play_token=bjrwGQ26dm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gizz5FphOtfSnLaGpRALOZgILd5.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Bad Education
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807302.mkv&play_token=nompNAZXgX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807302.mkv&play_token=MOJpG7TKKD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/628YkM5wHmunTdXANWgJEJYbFdf.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ As You Like It
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807301.mkv&play_token=aZfoq1dboK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807301.mkv&play_token=DlAMSYqwI0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fyZ6SZaZuerfZWaIp0niFW7Yar.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ And the Band Played On
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807300.mkv&play_token=dx17HwrbTI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807300.mkv&play_token=BxirzHwHRz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPXm56o3tEQdk0QTR6sZzmyw4f5.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ And Starring Pancho Villa as Himself
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807299.mkv&play_token=79aoZ22nh3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807299.mkv&play_token=QIvp2Z8MCX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Cuher0ibSga1as9OtZe50UcXxj.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ American Splendor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807298.mkv&play_token=bEhsZ74ueq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807298.mkv&play_token=fWcZcENvWN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpaj1FqI2fhpxxESlVsptV5N8zG.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ All of Us
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807297.mkv&play_token=aqFL0nE4lK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807297.mkv&play_token=lqEYJzPMY8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVn1figytzKe19blngHJO2pEcPC.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Promise to Carolyn
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807296.mkv&play_token=wJ0u078tGc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807296.mkv&play_token=InV1fjwI6G&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLb2g6pnTkANXqr4ZKxdGyKNVEH.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Murderous Affair: The Carolyn Warmus Story
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807295.mkv&play_token=uS7RJ1jStN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807295.mkv&play_token=EQVarIoyIC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lL9Dhfrrh5kTVR8ELrdmgjwXdu.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Match Made in Heaven
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807294.mkv&play_token=nfuq6qcMZi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807294.mkv&play_token=khaq6iFvwx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpl5yBNH8xE2PrGWqQX0ZL5zsuh.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Family Divided
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807293.mkv&play_token=KB0mPZKzdT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807293.mkv&play_token=CY7fJc09G9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1w2yROhq2Jgaot4hrUHlLcRlK6F.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Bigger Splash
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807292.mkv&play_token=yzP81GTjV3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807292.mkv&play_token=zIsT2jxDWT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Temple Grandin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804368.mkv&play_token=XwVLlEIkjk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804368.mkv&play_token=X4tNd55JbZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY0IrAntWq2xesPbWNF0LLm5CrR.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Servant of the people
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804366.mkv&play_token=EnHDbdDb2X&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804366.mkv&play_token=zFYRO1ynU3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzYLQWX1I1itOY4aNrNq5xhxYnT.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Pianoforte
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804365.mkv&play_token=wuj93rGWS6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804365.mkv&play_token=ctgwZQzfZg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdXxj8QoCCHFbaN8EK5y5y5HN9q.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Im Labyrinth des Schweigens
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804364.mkv&play_token=PyVOy0RYgA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804364.mkv&play_token=BxIlxNDrXD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjkxyLGGtzksFHwFjt0nUF9jc5R.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Call Me Country: Beyoncé & Nashville's Renaissance
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800144.mkv&play_token=L95R9qEP9n&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800144.mkv&play_token=BTVQYRfgJr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFI4xn1fGxIIFdk60rUBhbyA3J0.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Ramy Youssef: More Feelings
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761601.mkv&play_token=7fHh4nCFAF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761601.mkv&play_token=W93lWe0uN1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Justice League: Warworld
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761599.mkv&play_token=I3lJOYiZ1P&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761599.mkv&play_token=rtqHxcNcGB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iO11PLhIGCzN6n2V92XcANQ8M9.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Grey Gardens
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761598.mkv&play_token=BqHwOmKoHy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761598.mkv&play_token=ANzqdHnekN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6WKjZ1eHrKV8u1DYqjW4yUPuC.jpg" group-title="┃NL┃ HBOMAX",┃NL┃  Girl
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761597.mkv&play_token=rNf7drPILX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761597.mkv&play_token=1Ok1IrO5pg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFuw2yow5Og0e2M7uEHQtpS5GPz.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Frequency
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761596.mkv&play_token=o18GBiq8hu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761596.mkv&play_token=va0YMu0LSt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3smhHvnczXg8E2WzysRVKIXSYJ.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Kitchen [2019]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=760510.mkv&play_token=SC0zEcng1y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=760510.mkv&play_token=2dUryUy8J7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ V for Vendetta
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759568.mkv&play_token=DKnyLZdZ4c&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759568.mkv&play_token=nOuvLn7SoO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Fugitive
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759566.mkv&play_token=FZO3wBa8aD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759566.mkv&play_token=fKayptODVD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg" group-title="┃NL┃ HBOMAX",┃NL┃  Gone with the Wind
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=739372.mkv&play_token=BadJZ8b4yx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=739372.mkv&play_token=XFf3bZ1iJR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24iOlmQYV5aUgzLARyzSQN3T6qH.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Unbreakable Tatiana Suarez
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722559.mkv&play_token=xncPXlNXLN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722559.mkv&play_token=LxcAzinObp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96dI5nVfRpX2JSWRFK5kALtJ4MQ.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Suro
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717590.mkv&play_token=RFuxqGNF2g&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717590.mkv&play_token=SiXOYG9d2n&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vCWuqjpVkiHzfq9oeDMjtD1Pc8.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Asedio
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717587.mkv&play_token=YxoRH0oTO7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=717587.mkv&play_token=ZgW9ou6N8n&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezTJJ4mrjCHBvgGz6E7r33IEFzl.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Shazam!
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=712241.mkv&play_token=lIIhsIR1QG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=712241.mkv&play_token=LAnEZq7oHL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y31xJQZKBlSIM1RprntEpQC04oK.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ After the Bite
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=710025.mkv&play_token=0EM8soQQKo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=710025.mkv&play_token=alkpMxzui5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0O1IMV3DtLiXtw9m8wLsazfyA9.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ After Truth: Disinformation and the Cost of Fake News
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=710024.mkv&play_token=BlYNNIgcbQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=710024.mkv&play_token=aCjnH2f60j&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2nXdSIe8pBF6nEoeyoi0pqbRYp.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Addiction
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=710023.mkv&play_token=9gKhNYtRka&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=710023.mkv&play_token=2aYNU1W8Sk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nY5Au0PmV3zSVDq3JRIW3ZgO56x.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Tree of Life: The Pittsburgh Synagogue Shooting
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=710022.mkv&play_token=koLymshSV0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=710022.mkv&play_token=T3dNcKVRZ8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0fmC8xFw6cuiREcSajob0MTD6K.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Most Violent Year
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709619.mkv&play_token=c8TwS3GLAn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709619.mkv&play_token=xg5KuHkPTt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNzWJwVqjszWwXrA7ZfsrJmhgV9.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Monster Calls
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709618.mkv&play_token=08Jlxdsvze&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709618.mkv&play_token=OxEoO8ILzt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lQvJkWOvBLVAkW9cABGuFp7egw.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Game of Secrets
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709615.mkv&play_token=9FWhKo9po5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709615.mkv&play_token=RUK1U5Okcf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHV1B2wNGahuMCH7ST3osXGs2Cf.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Dog Year
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709613.mkv&play_token=HiZNnxY3av&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709613.mkv&play_token=KBNWpmB1gb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pkfH7vAE9rt85w9fBl5rnRJGZy.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Dangerous Son
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709612.mkv&play_token=zdTgehEuVc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709612.mkv&play_token=JhncPfhaO4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAbxkPCC8pWYZy4kcftS3H3oku7.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ 61*
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709610.mkv&play_token=2taWc8aO9Z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709610.mkv&play_token=4x4WAvIUvf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpXQeiLvmQa2pBw1DAfyZuHnx6g.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ 38 at the Garden
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709609.mkv&play_token=uG6ZDayI09&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709609.mkv&play_token=wPEEYwwIgM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1Ds13r2n3o99HegitkaBvx2R6S.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ 1000% Me: Growing Up Mixed
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709608.mkv&play_token=OkEDFk77xN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=709608.mkv&play_token=ZDyGq9ital&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fv4SSoSlmC7Avrwm6tVzPF1TjBJ.jpg" group-title="┃NL┃ HBOMAX",┃NL┃  Daniel
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=665966.mkv&play_token=F8mHvqZpHR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=665966.mkv&play_token=UaYRV4dHuy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVF6CnjXLqAjK2crI1ielma18TW.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Native Son
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=663265.mkv&play_token=MCeeXMFfo1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=663265.mkv&play_token=kGna7R7cj8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cvGCKzqnuf3oXt8DUzB038RA1A.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Great Photo  Lovely Life
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=661361.mkv&play_token=02RQr710Ex&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=661361.mkv&play_token=leM4rafFGW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ih2MxdnmVql8vyCGjntBXB0hO4.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ South to Black Power
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=653629.mkv&play_token=AY1JLwxTJe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=653629.mkv&play_token=VGZXw2EnDe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slZsCmKcSW0vsUzGnaYNbox5PT5.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Albert Brooks: Defending My Life
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=651093.mkv&play_token=NubjDb0uTE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=651093.mkv&play_token=xZ3r1Y4Nvf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Only the Brave
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=646657.mkv&play_token=ZMKdonrtDg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=646657.mkv&play_token=SGpiFeNuOa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzvrh1sMHEGlghQ1u6G48ra7J2p.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Taylor Mac's 24-Decade History of Popular Music
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=642410.mkv&play_token=TP0BurOBFb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=642410.mkv&play_token=ZxXeIIWGXk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZz2QIcnU4dTawscPjmwoy5g2du.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ My So-Called High School Rank
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=642405.mkv&play_token=9x1fWorTSQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=642405.mkv&play_token=XmdlECQA5l&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SMyWNj6PE3nngc46yCAGFNY1f8.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Recount
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641513.mkv&play_token=WAokUGVb0a&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641513.mkv&play_token=8Zr36N9KQw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pL8BuguWW1ZRksHIMwuK9UD4ROd.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ David Holmes: The Boy Who Lived
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641501.mkv&play_token=hOqqxC5oa9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641501.mkv&play_token=1kdxP7SgKx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fj21HwUprqjjwTdkKC1XZurRSpV.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Green Lantern
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=630364.mkv&play_token=3YMx97CKmx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=630364.mkv&play_token=5e3Z3MIYFm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6AQt0LwmYGyAp9JdEi9SmnROTD.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ War Dog: A Soldier's Best Friend
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626726.mkv&play_token=oMJkUI8pEt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626726.mkv&play_token=nlFPIjS4EE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyqNXKXV2qfiL2FFAHMVWhETAGu.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Last Letters Home
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626725.mkv&play_token=YVhy9rXKtG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626725.mkv&play_token=7XhmhlCg6W&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZzF4Xc6jTCCo69V5IsvCwJLKai.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Indictment: The McMartin Trial
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626724.mkv&play_token=aOoQjiWOJr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626724.mkv&play_token=nzKdwjJnGa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4P6d7kVDB60Ydmk9WAhrPCWrARI.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Madea's Witness Protection
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626722.mkv&play_token=OqyByxlUi1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626722.mkv&play_token=4z8wAASLjE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iavoz5Shuna0ffJtXlBGF84IzyE.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Wartorn: 1861-2010
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626719.mkv&play_token=BLByHcjSCg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626719.mkv&play_token=woVaFkO17C&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cwqylJVbCfMflcjXQ71CwsXdpf.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Sunset Limited
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626717.mkv&play_token=XiIEpNw0FN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626717.mkv&play_token=f1LpUxkxlC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NfDZwBPNxceuynFKXU2VkSsH6D.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Gathering Storm
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626715.mkv&play_token=RfdOGc9JBw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626715.mkv&play_token=XBekH4cu60&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmKaqAUJgaJ8FGpvKGPNVKeCExk.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Something the Lord Made
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626714.mkv&play_token=Eve4VsBGIE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626714.mkv&play_token=RRQ2dlAo40&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPhqit1DmfsAgC2i4HhZCCXUZW1.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Selfie Dad
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626713.mkv&play_token=RB0taqBUaP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626713.mkv&play_token=41eYCLmlIi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84XnH51dRpHTdQ5a1KEt6bRrNOw.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Section 60: Arlington National Cemetery
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626712.mkv&play_token=mvQ23kTQsM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626712.mkv&play_token=q59Wqt2RqH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xM40r6PbzaumRyJyuxrtSvwtfAF.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Rock and a Hard Place
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626711.mkv&play_token=ULXnEuhQIW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626711.mkv&play_token=tzDhjrJzfG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcz5c4JeyExYVpdoNmEpViPcbug.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Path to War
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626710.mkv&play_token=U0PxWDnkTO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626710.mkv&play_token=qBdMizb1AS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mu0R7Dx6SePsGu4Jp3c2el80kUY.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Mistrial
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626709.mkv&play_token=msJUe6dTi3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626709.mkv&play_token=nR6seb1qbw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQfP0juGwqU6ZiXvC0MsnSwnQld.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ In Pursuit of Honor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626708.mkv&play_token=bRZQD8qlsn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626708.mkv&play_token=N7eRAWkFMW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ky3OepQzmrbwBU8ikWVU134cwEK.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Dead Silence
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626704.mkv&play_token=DnT84Ghqpy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626704.mkv&play_token=7zi2Ct1YiJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Q0smimpcOXbCZSdRU00pCvDOID.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Crisis Hotline: Veterans Press 1
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626703.mkv&play_token=iTRX4Crscy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626703.mkv&play_token=JMxVB3M9Zd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKtbdM1JLdYWH8Iuv614oi87q1S.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Baghdad ER
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626697.mkv&play_token=2Fkt6otTrf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=626697.mkv&play_token=g2fzguQwYD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KGRAzOJI3JAywKJmPzaHBQD1yt.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ aka Mr. Chow
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=622501.mkv&play_token=qfR9FvcyPv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=622501.mkv&play_token=z9aOUjChoQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDJUsTiWSFcXEZHEp52qm671T9x.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Insurrectionist Next Door
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=619988.mkv&play_token=zlZ4uxscSc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=619988.mkv&play_token=AmpLFmmRZo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZjFnhkw1AG2UO8qMfzpagNUWC1.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ No Accident
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=616350.mkv&play_token=4Xp3MwR0Xj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=616350.mkv&play_token=PX6XiCGDe7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agGG7Zzd0tJAF4hxiaWvi8EQhXU.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Haunted Museum: 3 Ring Inferno
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=612456.mkv&play_token=4QBj4KFX6K&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=612456.mkv&play_token=uujjfdZNW6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2C9oOYaUm0aJHeh7rvEJVdOv4.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Exorcism of Roland Doe
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=612455.mkv&play_token=HrpYdQI8Qw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=612455.mkv&play_token=jrMUym3H2W&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qMIdiQ5KPLxyFOr3B1CvfzP2D8.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Scream: The True Story
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=612453.mkv&play_token=AxqBpcU8Ph&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=612453.mkv&play_token=ba7UVztmJ9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSFCnkNbpML2AsbvUxDuyC2XMR4.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Ghosts of Flight 401
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=612452.mkv&play_token=OZKPJZ9MVc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=612452.mkv&play_token=rhZ1uThmlF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UFdM8UDa9oSZrgSpQRORLH1Zqb.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Alien Endgame
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=612451.mkv&play_token=ca1gTJhqxn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=612451.mkv&play_token=Pl9YDggmJ8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbIGYhxoFqsUFCPaAYbhqTQX4HL.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Ringleader: The Case of the Bling Ring
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=612242.mkv&play_token=2qwQqGh0ju&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=612242.mkv&play_token=ErKMizDZv5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UwFTzgAiHBBGSD0IONp848ggkD.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Adrienne
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607756.mkv&play_token=Zj0JfnpLzj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607756.mkv&play_token=z7LFh8h6Xf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/winCd2ODgLjxLZtUSSRfJ0CNE4.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ And Just Like That… The Documentary
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607771.mkv&play_token=azSQBcfKn2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607771.mkv&play_token=zd5gIflKIT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2Wkb4E1JUdWgCAGZ2tQkXqICpq.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Americans in Bed
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607768.mkv&play_token=dj2ULfIB4S&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607768.mkv&play_token=xjtUrJjbwL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7GYM75LEBCYbI6z88lfeFDgqkB.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Alive Day Memories: Home from Iraq
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607761.mkv&play_token=dzW4gPj2W3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607761.mkv&play_token=nkRLFnOgpl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur9DkTZ5Kk2q5vUTwDGy34yuYjZ.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Alabama Snake
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607759.mkv&play_token=p49V7M9qHi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607759.mkv&play_token=bqp3S7GMmZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMITbqqE9DmRriPpcE2UuZtTrv4.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Abortion: Stories Women Tell
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607755.mkv&play_token=vIiiVMN0UQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607755.mkv&play_token=rqdNg47vjv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96rzOnJqjpMH9ZSBoMEfN2odDax.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Good Job: Stories of the FDNY
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607744.mkv&play_token=KUHo37ko9O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607744.mkv&play_token=UEcUWly3Cp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXwiT1dBrRxPpswddALB2kmqAmq.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Girl in the River: The Price of Forgiveness
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607743.mkv&play_token=O2MYIlKtqL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607743.mkv&play_token=35R8D4C7hw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lQvJkWOvBLVAkW9cABGuFp7egw.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Een Spel van Geheimen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607742.mkv&play_token=ObyBMt5XTo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607742.mkv&play_token=U5OD6XGnKy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aU2xjjFhZzQzYXa0UM5JW01N4m.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Dangerous Method
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607738.mkv&play_token=HJNXuENMYw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607738.mkv&play_token=5rMdBsjp3Z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkJ2U2vJQgMpinvZSLYW8w0XaFT.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ 537 Votes
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607735.mkv&play_token=KDO2otvcCH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607735.mkv&play_token=XhCdFpkeMP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyd2XDESiBPklNOPGkfDbcNmwKz.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ 438 dagar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607733.mkv&play_token=GXqvu0lARQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607733.mkv&play_token=5bKa6HE750&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omsEPwJixRBICroNXhqQWOKxS73.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ 2022 Rock & Roll Hall of Fame Induction Ceremony
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607729.mkv&play_token=3BPi2ACEHA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607729.mkv&play_token=s89EmVpQK4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hJufJphSKP7WaVEfyDYAtmfcU.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Mortal Kombat Legends: Snow Blind
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596074.mkv&play_token=f7zyuhYIjd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596074.mkv&play_token=L6rGx13RMk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Fantastic Beasts: The Secrets of Dumbledore
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596067.mkv&play_token=I5IWzeQ3Vp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596067.mkv&play_token=eJDJKC8zvM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLgSLx9dn2YYbwVk8p0F28KIU8C.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Fantastic Beasts and Where to Find Them
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596065.mkv&play_token=XymNjgMbyf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596065.mkv&play_token=x7EOXZog5Y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4BabO5lvfXnIsVIBLDpN2wLORz.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Fantastic Beasts: The Crimes of Grindelwald
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596066.mkv&play_token=A33O2H05dy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596066.mkv&play_token=2vmxLZBcDe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38VhC8oNCFHOdN9ejUgRy1WULjF.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Atomic Homefront
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595331.mkv&play_token=KuTDS1B3s1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595331.mkv&play_token=XAJEORfKmw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cE73Ak7rJv6oOx8vMq38cXljDc2.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Wuthering Heights
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595132.mkv&play_token=AaHPIq6atK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595132.mkv&play_token=2skVQPCxqO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mEb5tbVuKiMEeswqjrqvo7fYL5.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Guernsey Literary Society
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595129.mkv&play_token=Dt9DEc5y9k&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595129.mkv&play_token=pWQp2wJQ9B&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFZY8FvL9Tg86EKrQrvaL68Aexo.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Holiday Harmony
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595120.mkv&play_token=Gz9KgUpTHw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595120.mkv&play_token=UeGCxS3W9t&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SGbRMMiU23cagBpjbFN05Cwdyz.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Hemingway & Gellhorn
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595119.mkv&play_token=YWmGZsCD0O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595119.mkv&play_token=KR4VhQlPc4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCwfeRDBiZuECtarIRUZvdUmjmo.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ All Aboard! Rosie's Family Cruise
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595106.mkv&play_token=4ExxJZ9r3w&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595106.mkv&play_token=0XHQJU2Rzn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5NorLt79GyTgqWM2ewCBhhNUne.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ After the Wedding
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595103.mkv&play_token=3a9006D2V4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=595103.mkv&play_token=ryfnjowhCC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4VDOA4vUxzrGnZfOAiDK2EClER.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Full Metal Jacket
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=586620.mkv&play_token=UGl4uWEJbS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=586620.mkv&play_token=zQQ9nLEsKR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNU8gzCuoYuZr1hl36xAlCAxFwF.jpg" group-title="┃NL┃ HBOMAX",┃NL┃  The Princess
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=583175.mkv&play_token=PgxYq7iKnK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=583175.mkv&play_token=MAJZSL4dNF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9vrdu90UpZBBS5ZK6Up7PXlbrM.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Iceman Tapes: Conversations with a Killer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=583174.mkv&play_token=M2NeJOJHP3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=583174.mkv&play_token=mkk7GE9D9H&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4d36q3fUSJE1TmeciZ0qnjj93eB.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Iceman Confesses: Secrets of a Mafia Hitman
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=583173.mkv&play_token=ErbuKjwVUt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=583173.mkv&play_token=VySt1psBQH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6I4xpBeWw4YsNAxaIIiu0uB5Jj.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Costa Concordia - Chronik einer Katastrophe
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=583139.mkv&play_token=OCmsIaqXEf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=583139.mkv&play_token=rEHo7AZVgh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odueem0OSVJ6qZuwXqeHMCxFgU9.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ BS High
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=576113.mkv&play_token=60RYvRwbKK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=576113.mkv&play_token=avVeuD0CJa&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R4IyFqcQv8T4BmBdTyEb1ptXr3.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Geostorm
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=575588.mkv&play_token=3wfvzjpHW7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=575588.mkv&play_token=bycmuW894o&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij1QcacsPGq0Cvc3l73YTCmNFjc.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Goldfinch
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=575580.mkv&play_token=il625u3N6p&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=575580.mkv&play_token=IZ84Kaym3p&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySqkGvL7TS9U3u6rtaVZsd89wU5.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Sicario: Day of the Soldado
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=575577.mkv&play_token=fxHeB4Ytbe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=575577.mkv&play_token=z0AePKX24O&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ0YVNq02ejJKgFAKu8f5w1Hj52.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Vores mand i Amerika
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574224.mkv&play_token=QXh6NQaEFP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574224.mkv&play_token=X0pwgZs8ul&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTDEDVP6g2H7dC216AbxohDPCX9.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Správa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574223.mkv&play_token=3i4AZWXS6g&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=574223.mkv&play_token=bLpWGhtgbe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXLee26yjmFAZG3ZEZwZ8eTcPJ7.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Fever
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=568982.mkv&play_token=lf0posPsFT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=568982.mkv&play_token=t0ezrqRVXI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nt2GswqXA6mnwhcjGYYL3IJO9H.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Ted - För kärlekens skull
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=568966.mkv&play_token=fYbaDc5FTo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=568966.mkv&play_token=icYOq7cGyA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAdNHXbswMuIhcRInIzphZvJElA.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Star Is Born
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=566080.mkv&play_token=r7Mn0s4guF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=566080.mkv&play_token=dfNZX7BdHf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcn814GquSdM1fT5idiN9OL4pYC.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Tracy Morgan: Takin' It Too Far
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=565975.mkv&play_token=ApPY9J9dsx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=565975.mkv&play_token=nPh7MY1rtk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPZyCym0wCXVPqkLDEwSc0H0XRx.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Ocean's Eight
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=539917.mkv&play_token=08kNDKOd3o&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=539917.mkv&play_token=iaoaazZvwr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylXe7RDkvX7xbE930BE5HQ6EOLv.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Interdit aux chiens et aux Italiens
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=539916.mkv&play_token=17VG5kV6nu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=539916.mkv&play_token=MdSnUpI3oJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9ErzjpaE6BOHajCvcKx9fycemT.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Wretched
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524172.mkv&play_token=309o0memEr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524172.mkv&play_token=5uGWNh76bi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVDRZXcNJFRvNCU9YjD58HcTtBT.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ La Vérité
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524159.mkv&play_token=VCB242Ojkk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524159.mkv&play_token=9eGQVjDyZ1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouihaAtM7pGuwGPeOP3IimpsKHE.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Inventor: Out for Blood in Silicon Valley
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524060.mkv&play_token=ax4YHTAyJ6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524060.mkv&play_token=jMcPTnCxQR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92Dk1Pmmc81uLgCrB7q4qZVMVw7.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Dark and the Wicked
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524034.mkv&play_token=YAnxq1k2Nz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524034.mkv&play_token=2lJW3CPPSM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkcqepnkVaeGQ0LYr8PMPzWJbnI.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Sorry We Missed You
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511884.mkv&play_token=7O51SzUSRa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511884.mkv&play_token=FlrwXBQQQJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcuKDFVcpEwBu8bAvTvmLKDNn2m.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Minari
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511480.mkv&play_token=9htv5uQkzp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511480.mkv&play_token=ClFKhEMWPK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1U0LBEaGwQM9sUNfj0flSoGStzJ.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Escape from Pretoria
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509836.mkv&play_token=LYGeS8mhYQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509836.mkv&play_token=15REN1eWov&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRzcb9O8WdGmJdz8EESEaBEuZZJ.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Notorious Bettie Page
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507432.mkv&play_token=6UJwqHmyyJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507432.mkv&play_token=3bVRNlwDkN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqoyg81cnNRDhHPRK2EnDdh2jPN.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Pelosi in the House
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507427.mkv&play_token=UPhpMpOnxE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507427.mkv&play_token=6ZrbljeXdM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHpZwErpGPnRzfY2BKd7amT8zCU.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Christmas Mystery
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507413.mkv&play_token=y20zHEnPQF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507413.mkv&play_token=mvYeTAPDOg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQrJOZbNUrzJLwXqPUKqZGJ5NoC.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ 15 Minutes of Shame
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507412.mkv&play_token=gNlbQryYS3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507412.mkv&play_token=xwFf2P9mue&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWKw6RdzGTugBxE72GU4bCIYUwe.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Stroll
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=490171.mkv&play_token=TeX07SXmDA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=490171.mkv&play_token=LfpKt9bmfJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aas5ttQkWFHs3fCIMEoKt0zvr44.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ All About Ann: Governor Richards of the Lone Star State
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=490123.mkv&play_token=eFyJQUNieu&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=490123.mkv&play_token=0u9LYQbqRs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6O6T7N7qL4rVGSCPZeWyT9F499.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Many Saints of Newark
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=480799.mkv&play_token=CbyGHq9H9q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=480799.mkv&play_token=6Tkvv1oMNs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOJwjsJNtQlDhBanJSouGDwQfvP.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Fallout
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=480798.mkv&play_token=tEWtpsRyq3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=480798.mkv&play_token=mb61dtTovP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buSr2RIxzJ5Zh6dLaLBsqAdvz3I.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Tenet
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=480794.mkv&play_token=MtqbIVUYlR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=480794.mkv&play_token=lytpg9dYXq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49TwWrtOnJjVrMAUvkgrX6WWf11.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Navalny
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=480782.mkv&play_token=1i4iycRckH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=480782.mkv&play_token=7gYs3MEbxb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdtYfXjnOeBMMuE4UpL8FbbnKBd.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Kimi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=480778.mkv&play_token=l7nYeEpsw9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=480778.mkv&play_token=zScTRkh9zO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbVXlqFMQU52i7DNb2C1v1O4Zwd.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Gray Matter
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=476259.mkv&play_token=AeDDf35bLb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=476259.mkv&play_token=avZKJ0jDjX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpU7sY0ypI9xTdsYGomNCpisjJ0.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ All That Breathes
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=380375.mkv&play_token=vVU2he2n5e&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=380375.mkv&play_token=wtRwUB7qpV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UysjGnbJ0z52gLZI7Hio4LEG95.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Last 10 Years
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=380318.mkv&play_token=0AI2FcX2UV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=380318.mkv&play_token=rGAiujg4uK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HIg6WEojB5HSEIKES8oyN3chLk.jpg" group-title="┃NL┃ HBOMAX",┃NL┃  Practical Magic
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=380317.mkv&play_token=WTk9RS6kTm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=380317.mkv&play_token=YmMh5OaubM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kScTmPxGXko69bnL1HSK09sZkK.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Amundsen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=330459.mkv&play_token=yAmPynOt6G&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=330459.mkv&play_token=ccTZ4YPqYF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6h5OCqRnWH7Dcm4IeP4JypBdtuI.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Where the Crawdads Sing
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=329032.mkv&play_token=QQso95XVBZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=329032.mkv&play_token=bMwb9W5G67&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PhhyzJrY7BcVYvSJ0Ekk8RRqk8.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Nikki Glaser: Good Clean Filth
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328957.mkv&play_token=nSDqgBd9AP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328957.mkv&play_token=BZDLXHDqVX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chKMG9tzFqSkj24ejXTio156Qo0.jpg" group-title="┃NL┃ HBOMAX",┃NL┃  Father of the Bride
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328861.mkv&play_token=Nnm8oyrgQh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328861.mkv&play_token=YvFQF00H68&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJWd4BOGJnqNX5cvoz4BDITAada.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Escape from Kabul
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328855.mkv&play_token=28uVXgRSSR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328855.mkv&play_token=wmCNOTWYpN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pd3Pe7ZqWUw8kmBtGXgfN0V3hxV.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Ellen DeGeneres: Here and Now
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328846.mkv&play_token=85vwYeHiNt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328846.mkv&play_token=yRVAOxZ8tm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cS4V36S76tNwuudMeGDluhnusw.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Dying to Be Perfect: The Ellen Hart Pena Story
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328842.mkv&play_token=dmVnn8Acxi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328842.mkv&play_token=qoVLpvKT4t&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ King Tweety
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322103.mkv&play_token=dULaDgM60k&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322103.mkv&play_token=qf7sKd81rt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTTaMWKdAGz2G6UYz0tPS5EsNaY.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ A Disney Christmas Gift
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=318938.mkv&play_token=1YJGAGeTXT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=318938.mkv&play_token=LUkV3gp5zx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Friends: The Reunion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=312565.mkv&play_token=KXqAtl9Bmw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=312565.mkv&play_token=plCmWidYnY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pCoqX24a6rE981fY1O3PmhiwrB.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Princess
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=306503.mkv&play_token=poRyAej1LW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=306503.mkv&play_token=5gRV4kGgO6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZfRRNNfDdfeTYj8QD4EzIOCSi9.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ The Paradise Suite
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=306502.mkv&play_token=VeLACer5Tl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=306502.mkv&play_token=tCFr9LDXAp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/112EM6PcwrUYtfN8MU8eArDUcDy.jpg" group-title="┃NL┃ HBOMAX",┃NL┃ Santa Camp
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=306497.mkv&play_token=kaYUAbchSb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=306497.mkv&play_token=Ru2fhC2Rwt&type=movie

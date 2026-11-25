@@ -1,29 +1,365 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yhaXxwxs1fIOyuPv3YuE2fea0t.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Unaccompanied Minors - 2006
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2322600.mkv&play_token=Ii2BoRQJic&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l0Q1lAf4aV3h1LJQ00EpxVQefr.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Rebound - 2005
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270431.mkv&play_token=mqOc75uYvi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9c2JOwJlWUfIZRaxIWE2BZt5GV.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Full Out - 2015
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2107692.mkv&play_token=c1tegGH81b&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2107692.mkv&play_token=4qY1Xu9ayJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HOzh7t2THdZ3r9BaDucEjfzLlL.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Troop Beverly Hills - 1989
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051714.mkv&play_token=lbSdKqJZnh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051714.mkv&play_token=VN18Ve7eDp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Pe9r7In5HqKUtwug6T3ZdVWHiG.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Cloud 9 - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912407.mkv&play_token=ryaWjFcQ5O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912407.mkv&play_token=lHBnRjYC5q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t642WwGifbQ2fEuKTJRgpPzsgtX.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Dennis the Menace - 1993
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813531.mkv&play_token=9QVGobNnTj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813531.mkv&play_token=nTQSJq4yX2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epDsuf5oUdzTFYHqV2IRcyy8Rwc.jpg" group-title="┃NL┃ FAMILIE",Streep wil racen - 2005
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1783248.mkv&play_token=R3SefSoUZV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1783248.mkv&play_token=IDR6N3WchI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fU0IR5HF8KxQbZijuWKPTrY81Qv.jpg" group-title="┃NL┃ FAMILIE",Charlotte's Web - 2006
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765755.mkv&play_token=deSjTEBof9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765755.mkv&play_token=fsxDJvP42Y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xFxGodKPMFLheS8rujFSmLfcq4.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Bridge to Terabithia (2007)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1734333.mkv&play_token=BTrUxyH5Yc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1734333.mkv&play_token=ppVguVfiWl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1JffPrpmdGPATybyny4DY1yah7.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Mariken (2000)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1690854.mkv&play_token=iDmNdEf1Ik&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1690854.mkv&play_token=FjpPXELBvU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYzxKzIX2gznr3E20w5HgkJBr6n.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Thunderbirds are GO - 1966
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1653719.mkv&play_token=C6dkdVbtLE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1653719.mkv&play_token=KL9iv8kxQe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jH0vADEIvuRlkvJzLUW5nVO96d.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Thunderbirds - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1653718.mkv&play_token=2SepVc9JKr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1653718.mkv&play_token=vMsSoJwXD3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zxO00ycylxZ8lFET5uXNOtBCcE.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Thunderbird 6 - 1968
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1653717.mkv&play_token=AxwIFuKRvT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1653717.mkv&play_token=ZGw829Z2hc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkJxdeaibcrcsi1XHvT0IuOjdzB.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ FernGully: Het laatste regenwoud - 1992
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1467494.mkv&play_token=7RAWZb5K7V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1467494.mkv&play_token=Hqv8IwNlwS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kOGXTvR5BFcyWD35MDXFisVhqD.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Christmas DanceFernGully 2: De magische redding - 1998
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1467493.mkv&play_token=HLTk8p90PI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1467493.mkv&play_token=JI6VoRxV2h&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8Anvy7U1CkKcOhINAxLW9G1c67.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Coppelia - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1464492.mkv&play_token=Bcg1EHnYWK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1464492.mkv&play_token=LgwiIMbTfd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riaVoQwSTQR7wDlZtveUSUhdoIu.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Girl Who Believes in Miracles - 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1454627.mkv&play_token=7m6GSSYIK6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgGh5d0IHAZRlHIdFS3XWVygumR.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Richie Rich - 1994
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1448401.mkv&play_token=QYUt2Umhnr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3Axi7gWVdkD1i7ScqMCN1fhyGc.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Just My Luck
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1443059.mkv&play_token=6h3hLFxtUa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJgCmwkf2ytEHYHv8vH3QtRGVPW.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Prancer: A Christmas Tale
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1361821.mkv&play_token=kNOsvpUaLw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tMYn0UHfoOIaPAsuVUDlgIBfSh.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Iep!
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1361141.mkv&play_token=TEHI0gzmVW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2pDwrMuZTCZ7WuV35qFgFgFSHb.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Swimming for Gold
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1306595.mkv&play_token=0vadR1r5k0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiW8TWjIuFveTcA5BCU7KMjPaaW.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Paulie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275907.mkv&play_token=VYTPFg2wlf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IqrMLYLC11Z5W5eZkgeejabLj7.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ My Pet Dinosaur
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1265615.mkv&play_token=DSdwC8Hrqg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7gkf5Wa8YZ9iyEOylBMfw9pnkp.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Flinstones in Viva Rock Vegas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256604.mkv&play_token=DbyqioTKW8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9mXREQk8AWpcB1vc2XzdEX1qqQ.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Pluk van de Petteflet
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1240734.mkv&play_token=6gQBtZjsqd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgSVAZlTtvH3cBemuHD6FvPuEzM.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Dancing Queen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1231889.mkv&play_token=ot25gZ4dyV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJI1Tp8blsbe4rg8yhMoSqpIE9J.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Ce magnifique gâteau! [This magnificent cake]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1182308.mkv&play_token=J9YWrbQ40m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVujUVvY4qvKARAslItQ4ARKqtz.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Legend of Ochi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180348.mkv&play_token=mrvGSxIWje&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cndkzlP5frVWxng5HLd4JvA2g2y.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Curly Sue
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1167130.mkv&play_token=Ft2eYtNzm8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcLFvIqCUrhY96mkSmr3okxaMEw.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Game Plan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1161814.mkv&play_token=otYvy5gM9C&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bozQVxJLeHMXMdfY76YLSAwVQBI.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Black Stallion Returns
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1153310.mkv&play_token=JIHUakqmkd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZtNc31LR5Ik3ZVo2jxwOvhkNRC.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Black Stallion
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1153309.mkv&play_token=MebK6h34s9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MSDwUcqnGodFTvtlLiLKK0XKS.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Secret Garden
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1153017.mkv&play_token=jp2BxWWGVq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxbAepXQjsGFDHaR3dPndFSxDU0.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Alexander And The Terrible  Horrible  No Good  Very Bad Day
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1136171.mkv&play_token=dIeAgKGnNN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/il0V8x5BP99FREXWuJhBl0IBtKN.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Next Level
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1117251.mkv&play_token=umGdrknozs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/959Vbki8itfHoNbZnURFBi5pULa.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ MMA - A Fathers Fight
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1114607.mkv&play_token=zmXcuEbkk5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LqHqwRvZ1DOoGqiAY6yEfvTpg2.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Samson & Gert: Afscheidsshow
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1106219.mkv&play_token=FbxbbXA50W&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zREdGrQhNGuxhyZ1F7QZbrXTiVr.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Samson & Gert Kerstshow: Op reis naar het IJspaleis
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1106218.mkv&play_token=rRzvyc4Xag&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ROIjSZmh9LCnQ6WjQMyNaOesM1.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Samson & Gert: Zomershow
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1105357.mkv&play_token=MG3FP7917K&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKGvJ5LFyVGfeRRWzUF8B1u0fEf.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Antboy 2: De Wraak van de Rode Furie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1091209.mkv&play_token=VhBjQoN7aX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/db8a23rqcErLLuU3TG5gJJNJCPH.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Antboy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1091208.mkv&play_token=oiLbJ38vn5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wThFeVFNhZM5sSaPsIxN2hQ1KmP.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Antboy 3: Maskers Af!
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1091207.mkv&play_token=iXfk3c9oMn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fx1FRpU6cj4nAbVQbYEFFxi6oJ.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Kung Fu Leeuw
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1055641.mkv&play_token=dw13dqfLOh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMvjc9svp11GSgvlOZHJYxkZTuE.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Mijn Kat & ik: Het grote avontuur van Poes [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1033993.mkv&play_token=mM8raCpoGT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sepxjUsrL265MGxu43CPbMZgxe.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Magician's Raincoat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1025898.mkv&play_token=ND7KiazoEb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0XWZC1A7PbWf1gwmvbvhY9uWM2.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Annie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1023581.mkv&play_token=WBfKiBZyty&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsm6EPskUXJXkGtgEbw9IDh7Elu.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Koning van Katoren
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1001166.mkv&play_token=bbO2RLynYb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGv5sxvMjjTeHaISRQs9Tdllg0h.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ De Familie Slim
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=997667.mkv&play_token=PgItPV3fL1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EjpQeyOpH8VIaWqIq6SpCQrCks.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Big Fat Liar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=997663.mkv&play_token=CT5g7lK5ip&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbGamUkYfgKIYIrU8kW5oc0NatZ.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Alice Through the Looking Glass
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=997661.mkv&play_token=AjmIFl7aLq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BCphvFuTMO1CkNXslrUmEZ4imh.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Prep & Landing Stocking Stuffer: Operation: Secret Santa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=994472.mkv&play_token=iZwAK7BDd5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Epx7F9X7DrFptn4seqn4mzBVks.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Jungle Book
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=991724.mkv&play_token=eEM4gn1KRl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWTr0cr5FctbYatTPSBe4d83GCy.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Curious Case of Dolphin Bay
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=991723.mkv&play_token=BikNYFRtVH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Hachi: A Dog's Tale
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=991715.mkv&play_token=O28ofg6L7e&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrZEnua8exy27l3OMHM7pIlLFrK.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ One Magic Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=987840.mkv&play_token=xgutYqfeKU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tn3GWm0Erehkpur8PUuYWxGpul5.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Monster High: The Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=982000.mkv&play_token=sQY54Jurbe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mClrCMfGpOqTSiuCTSK67WZ92x5.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Monster High 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=981999.mkv&play_token=fM9hCso08Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHjMUQmIV2SCyz6f2PyTgvTTXyL.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Bennie Stout
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=981991.mkv&play_token=RVHeEsCAAn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBYG0D2FcbL1m926sIj7RN4m0sb.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ A Street Cat Named Bob
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=980929.mkv&play_token=F6QkT0rql4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o49MgacM61eWBxSJYFFJWX3m8Eo.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ De 3 Biggetjes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=965902.mkv&play_token=9O23nAsmap&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wo9ZgzokCLPlYtnVRDQWzt0a8o.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Lassie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961976.mkv&play_token=m9WdpGaH6p&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOULNNkz56MT2t3CLzGFwazgRf0.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ 100% Coco
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=961958.mkv&play_token=3BbO17J40v&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdSyQJe7vEDcH9kEVqzVcr0O9lS.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Jack Frost
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=960807.mkv&play_token=b1nR4eq3wq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gATbvoRMxVeoHInwS8nR0KZMVc.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Fred Claus
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=960804.mkv&play_token=qmVV1BzixU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3F6bmetJSJvqLCB9PMxpNz1sngB.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Johnson Family Vacation
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953152.mkv&play_token=EprJdecmzn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64ZktFMmTzsm47wdsaMOID0DzcY.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Tiger's Apprentice
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=946477.mkv&play_token=AB9g0MFjwl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GvgFfpmIUPiU4PE9Ie3Tdi66Rz.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ My Penguin Friend
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=937698.mkv&play_token=23MJt2v0UC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25ji4MPbb93DGjD6wyB76ifcTFD.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Bookworm
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=934616.mkv&play_token=yF1xCGCplC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnMtX8eKFFrJVEPZijFZqzDbckK.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Ernest Scared Stupid
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=919272.mkv&play_token=Usn6OcUxiE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4H421EPnAhdtt7JV3eFfwB6gh0J.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Superkrachten voor je hoofd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=917440.mkv&play_token=uYSxhDHZRA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUZ3hDMo8SGY2IoujCKwVt8ukm9.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ First Daughter
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=905922.mkv&play_token=yeFZpjBvSe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVobZmAnJkMsx6eNW6cmzdHLn10.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Rise of the Guardians [NL Subs]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894249.mkv&play_token=E2pOkFJxGY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVobZmAnJkMsx6eNW6cmzdHLn10.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Rise of the Guardians [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=894248.mkv&play_token=HmGYh5Ic1T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTeilhjA4cZOZWFxBxh5arrv0hk.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Holiday in the Sun
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=872526.mkv&play_token=TbHroQapOK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUgYrz4twiJ3QgVGpRfey984NIB.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Spirit: De Hengst van het Woeste Westen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=864278.mkv&play_token=Ooaetg3Ioi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l54ovwJJgAlt9RPMWMnBUJtUl3H.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Boy  the Dog and the Clown
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=862534.mkv&play_token=miwUsXlLb0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ De Goonies
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851643.mkv&play_token=pqIKXfH4k7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4erOTqJHX6voWqkQy8S6vXjFlNv.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ De Brief voor de Koning
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=846505.mkv&play_token=h4pINUSH4c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBLPIpReSatt1zcgVzSVzq5e581.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Playing with Fire
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=845197.mkv&play_token=czsp3M2fxR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gfr4gAWShpr6OasQn8chnwmz18.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ IF - Fantasievriendjes [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=820773.mkv&play_token=oXnD5siO3o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqBPrWOzXEO3rWEk3DYTHBjXNZb.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Muizenjacht
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=811275.mkv&play_token=hE1jLGsNp0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29iKqRGRcNqhrT710ohxVq5WwcE.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ See Spot Run
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=784592.mkv&play_token=AvTbA5Za83&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃NL┃ FAMILIE",┃NL┃ Nachtwacht Show: Het Academie Mysterie [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=760097.mkv&play_token=BhdzXgdFKB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i52368CunnMFEQIgPmGDKSPLcKx.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Sarafina!
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=731483.mkv&play_token=T7jJQXf36E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wo9ZgzokCLPlYtnVRDQWzt0a8o.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Lassie [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=724350.mkv&play_token=3O17m07S1T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoihSE1zxxDSBWCi5oz910IToDY.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Chitty Chitty Bang Bang
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722675.mkv&play_token=SD7RU54PXI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMqjU9b1VPfGUtunk7slSVt6uvR.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Camp Hideout
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=721140.mkv&play_token=F7Z0C7g2Mv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9sBn22SeAZjJ0hZWztO7VjZZBT.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Dik Trom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=705100.mkv&play_token=P0qn4rFtaY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKs0ufPp0agLptnhEutDOlfwfdH.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Princess Protection Program
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=661318.mkv&play_token=yhD74uWHy1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/512CMRXrg47gBW6uQFv0MpuqyJz.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ K9 Adventures: Legende Van De Verloren Schat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=654978.mkv&play_token=qLKgIv5HrV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnLBkPxGn2w8GwHw44MDDFX4R95.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Ace Ventura Jr: Pet Detective
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=654256.mkv&play_token=kwG4zVsiCZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bS8yOrOZ8DMxW4DfrBJxvlAtkVx.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ R.A.D.A.R.: The Adventures of the Bionic Dog
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=643311.mkv&play_token=IkkKu012mK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z0ROIFb5azNnM1vhwGyrbKvVsf.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Binti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=642389.mkv&play_token=JUQbbJDwsj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3TTWksshdj3hzrVQEWUtE11dCP.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Apenstreken
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=642386.mkv&play_token=Dd7FLj59wp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0XWZC1A7PbWf1gwmvbvhY9uWM2.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Annie 1999
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641864.mkv&play_token=GvQqFoXHno&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dG7UTAISJGh6FqTKIwN7sR11w2.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Annie 1982
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641863.mkv&play_token=OXA74PVN9M&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21U2jwl36hoTHsXB3fDuIQkcchu.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Baby's Day Out
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=641499.mkv&play_token=X5h017RHUR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKtznndgJoVG9S9UENc7kHqmhgM.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Cadet Kelly
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=636056.mkv&play_token=MQbUZ9MJ2V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcOvIqdsojUdAtWt1nPT9xS76Su.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ We Bought a Zoo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=633109.mkv&play_token=xakqamgVa0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ax2Nu4hxNH9tXRIz2ib905LYrPS.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Gnomeo & Juliet
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=628180.mkv&play_token=Gg5RbyBQSB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJpYWz8wqXypAWhJJ0yVUtaHc79.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Flicka: Country Pride
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=617435.mkv&play_token=XSct3RsXQS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhJlXSmiHnlVxea5J5l3wfuATwY.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Flicka
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=617434.mkv&play_token=FS9HBiN8TS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fon68TdGTlcgVmHe0arPLnEvc6.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Flicka 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=617433.mkv&play_token=WMh5Xa2JS8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utuH545NYqfJZOrNOR2cMrfuXa2.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Sjakie en de Chocoladefabriek
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=616344.mkv&play_token=Xrxkc07BMp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7DeU9jey3EGGF7XRlu7VCMwbH4.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Sparkle: A Unicorn Tale
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=616088.mkv&play_token=jpH5BP2wC2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBrOirXNgvm2YsaydZhZCEiKKPJ.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ An American Girl: Chrissa Stands Strong
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=607770.mkv&play_token=JVmKkQB03p&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0ZpHpviOFXQE7by1Zc46iiHucj.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Beverly Hills Chihuahua 3: Laat Het Feest Beginnen!
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=606129.mkv&play_token=0BjMZO2gdd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aRvqtLoE06hTjG93lASvO7r1as.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Beverly Hills Chihuahua
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=606128.mkv&play_token=6R86UCdScG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFnKng3qUkfKMAr3qp6onqN32ul.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Beverly Hills Chihuahua 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=606127.mkv&play_token=tpZDAfTFwW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcgucx2QaFnqlIVLTQUSfi0js4r.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Shiloh
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=599386.mkv&play_token=GMgzVBE8Pe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgBXgA8jHext4KRWg84Cux5Y94L.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Ninja Turtles: Totale Chaos (SUB)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=598415.mkv&play_token=rzjbQp6BnG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wowB0C4S5KX5SNbhGMkbZZEOqCR.jpg" group-title="┃NL┃ FAMILIE",┃NL┃  Wonder
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596876.mkv&play_token=xi0I6juISj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYYfQcKG1doR3TghNrF7W0E8VNk.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Foeksia de Miniheks
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=594284.mkv&play_token=1l27dUHfGl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/106jqyOgNfueCC06Wmvv7WGWatC.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Helium
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=568978.mkv&play_token=yp672DrEKk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RODAohboSiIGcjUmDd0laMcLuB.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Rocket
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524147.mkv&play_token=BrIOkNkNWQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1En5GvKDHnUWrojcywoIPMWpbx.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Kaptein Sabeltann
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=518080.mkv&play_token=6PqCLzQyJj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJSznRfsweT1PymjPUFjYxcm2iD.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Spy Kids: All the Time in the World
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511899.mkv&play_token=iZ9eRoHhjA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/id7FzzvO4GnTCNvT74TjS1doxkb.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Spy Kids 3-D: Game Over
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511898.mkv&play_token=Gw8MlLe6VC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYmLViA5AWUb5MGH2UzhUwEcN0m.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Spy Kids 2: The Island of Lost Dreams
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511897.mkv&play_token=s3ZzYXH8Vq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWIsfU9NXiOBsGy0WUx8T3Kiaw.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Spy Kids
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511896.mkv&play_token=STO1RNIgtP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAknNBZc1M51PxQp0xHVQLVls2X.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Operatie Noordpool
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511512.mkv&play_token=2UIPjqndjn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57NImulVLzvxOTLsON6gtnBof9v.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ An American Girl Story: Maryellen 1955 - Extraordinary Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511455.mkv&play_token=2Iqnf6vr6Q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyBikDUOepFjbqNSlcJPoaxGfm6.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Healed by Grace 2 : Ten Days of Grace
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511348.mkv&play_token=DKqtLA0Q0o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fhUuSbh8v7UXGko4rzVyHc6yqA.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Golden Shoes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511333.mkv&play_token=gpKt24XsJQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZJLs4Nah8Jzc4YKhgezrzGxElh.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Twice the Dream
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509851.mkv&play_token=YaCgzN2DZc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0s0vNDYHZOnPUZR8ZK2VEl9rAN.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Epiphany
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509834.mkv&play_token=tJ15EcrZkv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTKRbdffjOp54a2ZWu6gG3yivxP.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ De Familie Kerst in Kabouterland
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509783.mkv&play_token=H6UULq1ESY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsgs5bi0P0cHp5sdGfzoomMKYmK.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Hacker
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=494936.mkv&play_token=5N6Z0081vz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVnmq5neqEYEj6bK2VzItFR8kwa.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Firehouse Dog
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=494919.mkv&play_token=QOp9IC26vO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9F1Ucv2raJWFYE3uqbodEx55gh.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Fantasia
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=494915.mkv&play_token=51xyTHc1Kh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahrE5PXF3tFqlkijJ1vPpg0qpzu.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Adventure Club
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=494609.mkv&play_token=4dtp0Eq51o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wB0FS0P8BmwGgSqESmnlge42XC4.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Back of the Net
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=393552.mkv&play_token=kmXUPEYXa6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65oeFSIfvSuNi2g28slZaFJ8L86.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Nanny McPhee
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=390190.mkv&play_token=o22zKEwKSB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeZvmH2KKu2XJb0gtD1ycXboq2K.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Adventures of Dally and Spanky
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=390162.mkv&play_token=DPXWNQoKB3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/436T2Ct0SyQlb262ogsHLumepwi.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Everest: De Jonge Yeti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=390160.mkv&play_token=jV9VubOH9h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gL7OnX1YrqUNNGITUWPSzXhgb3E.jpg" group-title="┃NL┃ FAMILIE",┃NL┃  100% Coco New York
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=389876.mkv&play_token=VJFumJWQMY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AroCXPTm5oxpX6XtzQRd3FmXH4s.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Rosie & Moussa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=388505.mkv&play_token=wSiKuuLEix&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Fi9nulf1Ym7HRHdsNKJsHXotMR.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Jim Button en de Stad van de Draken
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=385005.mkv&play_token=ceZoris5BG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfSIn8tC2JV5JnBHpfUDhhX1AkZ.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Hoe overleef ik... mezelf? [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=380750.mkv&play_token=AANLvirTfU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4toqLvFh6fNywsR9Y8JK1XTPZ0B.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Ella Enchanted
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=380743.mkv&play_token=7gQ49QbwqC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kagV5DoK76Dk98mldw4H8ME3kN.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Secret Kingdom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=380343.mkv&play_token=bCUZyGCsyu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TYxogMbzDSkzL4t49IAIwoHJ58.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Where the Wild Things Are
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345476.mkv&play_token=bVFdvZdzWX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bv8m9d2cFTF77fI63aK9m6QtMy.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Trio - De jacht op een legendarische schat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=345451.mkv&play_token=brdsRhY0gR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH4xdRBGXCAPz2QKS0KrdGBXBY8.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Ostwind - Aris Ankunft (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=344261.mkv&play_token=5OVSbZjcqg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6vgaoJzpCLJAVKw1ZFQw45Du46.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Shepherd: The Hero Dog
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=344247.mkv&play_token=C96UJBMIIQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Pinokkio
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=344206.mkv&play_token=YvBqnkLmoC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyk3Pgx0aunDJAKWSvLJV2aqVl0.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Mirror Mirror (NL Gesproken)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335122.mkv&play_token=D3DcEe3sau&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmrgXnG90DFZYeLrNhuEKUo7nKk.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Mia and the White Lion
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335116.mkv&play_token=YVTUDOf09j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgC67SOxd9xkjN4Bnvjtuj1vI8T.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Jungle Beat: The Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335062.mkv&play_token=MErkxrxpgP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmLpHrH2pPcu9oPAiTsvAFy9tX7.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Horse Camp: A Love Tail
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335022.mkv&play_token=aaqe1HvxV3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7JGa8XRHtBgDcIOnQp9ZMJu5yr.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Hans en Grietje
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=335002.mkv&play_token=KrfJawIcur&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGolEZZbJZJ08QAEf21eyZyaJOk.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Four Kids and It
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=334981.mkv&play_token=hCR0MQwtlo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPXbO46FwyUBVs7llEpbms29x24.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Dummie de Mummie 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=334962.mkv&play_token=8N5uHwuRRS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Dolittle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=334954.mkv&play_token=tCuySi0mQa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vWxpGcnh40eRA9ikA0pLlFL5yn.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ De Kleine Robbe (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=334946.mkv&play_token=ApZe733DYm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGoyb53x2BKhczU4GAhi2na2pGm.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Bibi & Tina: Perfect Pandemonium
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=334829.mkv&play_token=HSrxRyIVTL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwWqw2UP4VYSKBRvwXDmrjOBStU.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Bibi & Tina: Girls vs. Boys
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=334828.mkv&play_token=dkuQcxsIbX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFSSNeYLMjvRg9rUtr9B8c3AZoP.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Bibi & Tina: Bewildered and Bewitched
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=334827.mkv&play_token=oHFjhrxFB2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psZfQs3AG8QOZGn3BDZAdN1lK2f.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Bibi en Tina 1
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=334826.mkv&play_token=mTHgzb7cK2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYi7ZzUDhHQeGsvIjKQw1OhIxWC.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Zootopia
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=329047.mkv&play_token=lEgRhwKexK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cgHfgBXVZmVR63AhwJ82R1kAFS.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Nanny McPhee and the Big Bang
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328955.mkv&play_token=tME5HiskpZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdWGcEpvfgsx07HlGUmmEzf51gt.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Ivy + Bean: Doomed to Dance
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328902.mkv&play_token=1M9LfLKPbn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niPPLCriCRrKll9qYIEMCjmSNUv.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ 102 Dalmatians
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328740.mkv&play_token=2dwRnubiw5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/memqWrs4zmLgMBfzTfebrOXbytG.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Tom and Jerry Snowman's Land
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322964.mkv&play_token=OOLBqjx0BE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSRvK4kLJORBrVdlFn2wrGx8XPv.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Wolf and the Lion
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322953.mkv&play_token=Ozp71nzKyM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbps2oKs5ixtNSQqEae3r4mBq7x.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Railway Children Return
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322929.mkv&play_token=kmoq1rceOS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVKtrou9C66MaDPXoWWV8X9QSBC.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Night They Saved Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322917.mkv&play_token=CZeAWTCsNM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73fn5Meiv5QdOBbC5UCjRehP5V9.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ The Super Mario Bros. Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322845.mkv&play_token=k1ERIyjmED&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auLNNdTb4CXCW97lAmddrMiycjR.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Santa Claus: The Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322803.mkv&play_token=ekbUwtKqIq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wncRbvy9rDsc9cABORzWdaVEX0F.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Peter Bell II: The Hunt for the Czar Crown
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322753.mkv&play_token=xWsBq8taJr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sW3OSCbUbGtMGmbxSWW2x6VtpMN.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Peter Bell
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322752.mkv&play_token=WSBadS1zOl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojKaynum2ULZfZKNrkxj9x8Dkn1.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Nelly Rapp – Monster Agent (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322715.mkv&play_token=fDa3obSaMw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IVWsXfTbt70XOWCBevTiGnbbss.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Other People's Children
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322117.mkv&play_token=3AcXCqpStc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsm6EPskUXJXkGtgEbw9IDh7Elu.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ King of Katoren
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322104.mkv&play_token=1WDGswJjZr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZFJaqR4NoBRR7JPLDNwy43L1Cb.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Knor (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322101.mkv&play_token=79dc3b4jfM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fqNyXno9yRqstHGBYCSIXf7yj7.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Johnny and Clyde
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322087.mkv&play_token=p0lJ8g0lEq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFKfBS2vA8BXEWr40rerlX1EA0p.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Hotel Sinestra (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=322042.mkv&play_token=WOm8D8o2Kr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fYLEho7R8kvZvxvxF55mDG4IF7.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ De Bellinga's: Huis op stelten
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=321965.mkv&play_token=fZ2m0IjcUo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UwzLjm4147zieUGLNU72bhu0uC.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ Bumba - Deel 5: Kiwi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=321960.mkv&play_token=U8omXV0NXF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ROhQeFIRCDadpIe4C7fVi5mV1Q.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ A Christmas Mystery
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=321955.mkv&play_token=mSd3vgws7b&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t41VHjYItCYHBh2hijsTID44cNv.jpg" group-title="┃NL┃ FAMILIE",┃NL┃ A Christmas Carol
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=321954.mkv&play_token=DNzu3zuHCR&type=movie

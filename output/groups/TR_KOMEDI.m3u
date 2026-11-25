@@ -1,89 +1,95 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uUoDukuD6HYZ1jCITxmpr1f0C4.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Bitirim İkili 3 (2007)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261662.mkv&play_token=qP8R9o7NLR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5gzE7LIGrfLgVvACYXgx4SmEVo.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Bitirim İkili 2 (2001)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261661.mkv&play_token=xF55LGoeeG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5FtqYnUfI9EdkhEWNLPZReDilJ.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Bitirim İkili - 1998
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2261660.mkv&play_token=D60kGFFb8D&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynVqSbqVTvvLka3nDc23iUaKeIM.jpg" group-title="┃TR┃ KOMEDI",┃TR┃Fındıkkıranlar (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148440.mp4&play_token=tKgfwL0gcF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148440.mp4&play_token=59Q8jdz3Xr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gAhzumKbbJXBddscZeuREMmAdf.jpg" group-title="┃TR┃ KOMEDI",┃TR┃Kötü Kızlar (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980465.mkv&play_token=0563Rqwpk9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980465.mkv&play_token=YUw0fpnDKy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxnhHaPOvh0cqMOAx5k0NnqhDqS.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Heidi (2015)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747902.mkv&play_token=0kvcQEwpIj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747902.mkv&play_token=oFna903lJY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQFrkPwGAWWcJXdzJszA7AMRRox.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ En Uzun Mesafe
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399765.mkv&play_token=Us2MKsVO3x&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399765.mkv&play_token=eF2BCPHMpt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wMdKoZ7mMbuX3kGVbxinFZvjRf.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Zohan'a Bulaşma
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399764.mkv&play_token=EaeC5ojHU8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399764.mkv&play_token=wIWf8F9NHZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kMIaMqRElP0D399MqyFxJDupKG.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Vahşi Adamlar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399763.mkv&play_token=V06vAza1g1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399763.mkv&play_token=tYNPt7cnqk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ng2uZ96vwz1N2TExQMALdvZBZq4.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ İki Fıstık
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399762.mkv&play_token=963pjpyrmt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399762.mkv&play_token=lSQFh7jOj0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nc2NfaHxVhm6cxRyxgRoX5qETG6.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Komşu Kızı
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399761.mkv&play_token=95g3O82pOU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399761.mkv&play_token=kDVQ7le7NT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixpElJhAnSTAgGEqgzq1lLS4hth.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Öteki Kadın
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399760.mkv&play_token=ve0jTDmTQR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399760.mkv&play_token=0NkjlohjTq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9NWYyn7eX0H9XIjaOvfWJ9mCGA.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Yumurcak
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399759.mkv&play_token=DxXV9OiCPj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399759.mkv&play_token=K73Xow1NgW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/md262PEVfypBg6bl4iG4i3iywnO.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Suç Bende
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399758.mkv&play_token=ee7xa8Ikwl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399758.mkv&play_token=ZWz4Dv0dMi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKWw1l5SKDMsczLu9R7vt7pIcF2.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Süper Polisler 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399756.mkv&play_token=hdhpPitldZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399756.mkv&play_token=JW1NdImJzH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3foz4JbQH0RvR5mcDXARiKAGMDt.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ İlgi Manyağı
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399755.mkv&play_token=5jA7csIsmh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399755.mkv&play_token=cmdyugs3FC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mv5v3xtiRqpMyP1XWRnRl5s38lV.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Üç Deyince
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399754.mkv&play_token=7Pb2g2IjFt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399754.mkv&play_token=WuFie7VqeF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lliRONXDZCNp8VqYU0Z4qRfge2.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Resmi Yarışma
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399753.mkv&play_token=stE2UlPEBO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399753.mkv&play_token=eSWjqrK1b1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9b2bBhCO3p9gIrkhlpegNVz1sM.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Gençlik Halleri
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399752.mkv&play_token=VSV8MD8Dk4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399752.mkv&play_token=HWTh63z0cS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kihYr9eSEhNKzQeV6GzhS9LpnKA.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Gelin Benim Olacak
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399751.mkv&play_token=UIQeD9ONma&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399751.mkv&play_token=kupCNq2wqL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjqGlVG8tvtuZkZvvHNprdgCB1a.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Tito ve Uzaylılar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399750.mkv&play_token=ZgGdd7b5Mk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399750.mkv&play_token=oPIniblh2O&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkH5tmhUBvn1ue6VTVDduFNcwpC.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Küçük Gün Işığım
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399749.mkv&play_token=tdKQpgcLDb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399749.mkv&play_token=d1MaScwDvf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SZxJhCtokxzwCpWIBpDlGqlC7F.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Mike Gibi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399748.mkv&play_token=V0ITGFKA6v&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399748.mkv&play_token=ojKO4mDVCh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLeu6AQJHzG8sen2pja4qqceoij.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Mike Gibi 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399747.mkv&play_token=SjnpXQR7eM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399747.mkv&play_token=nXfM6AYf02&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MccS5Q4m4MmUBgsbWw29ZKJw33.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Başımıza Gelenler
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399746.mkv&play_token=62x1sEIiuf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399746.mkv&play_token=JIKquxPNp6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnUcP1IzJmtjB0O64hnqniB3q6O.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Girme Kanıma
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399745.mkv&play_token=KeaEU8B5xs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399745.mkv&play_token=EwohC8Zq69&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cUczTzLq1F99Pgiw6BWFsKnD7J.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Hindistan Tatlıları ve Baharatları
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399744.mkv&play_token=m5C6pH5fX4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399744.mkv&play_token=fEYQKps2rI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23MBP85xZJvNz0jIBeqQ7aNx9ek.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Brüj'de
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399743.mkv&play_token=Y4s05opFAA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399743.mkv&play_token=UxMsuJefZq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQOp0rz8gK2SQhm0UVrjggYMYT7.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Silahlar Fora
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399742.mkv&play_token=uUqFxRvM8J&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399742.mkv&play_token=94InKaMxnB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6AYkSNH6MulBlRq1Vvlx1SIqNd.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Gulliver'in Gezileri
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399741.mkv&play_token=VuTjSXPAHU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399741.mkv&play_token=GvsLzYbmZQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTCHACNE7buv62m91uvMh16h6Zj.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Seni Uzaktan Sevmek
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399740.mkv&play_token=6i0trVhLKP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399740.mkv&play_token=cSspZLIUMK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foLiLiVpHePYY9vtvJDDVYfbGBI.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Geyik Muhabbeti
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399739.mkv&play_token=GfWGcOkihp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399739.mkv&play_token=J0RwCrK6k2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkWxyyyWFK5KNk9WVwQuGEC9H9H.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Ölüm Kadına Yakışır
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399738.mkv&play_token=zFYU8wY2gW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399738.mkv&play_token=YRW6z4vdyN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MnhydfF3L97zJ0GlukE58kOByo.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Babamın Ordusu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399737.mkv&play_token=1NKmVep9d2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399737.mkv&play_token=2V3rpEgrOH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sq6yex7KcUuNW8Kh4fuMi3us1wR.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Çok Fena
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399736.mkv&play_token=PnbSwn1Xs0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399736.mkv&play_token=J4AnmYlPr9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLTC4rEkZ2w8mQQDnpm9ixmMhyi.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Cenaze İşleri
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399735.mkv&play_token=HuwTgIOL9B&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399735.mkv&play_token=8WTlFq5yUK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWgL64bMFF13iAgJkDU1lX8JiD7.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Budala Dedektif
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399734.mkv&play_token=prTb1yFIWw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399734.mkv&play_token=fLADFcbbXQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v2EqSNdidleYh4l8aF9NNVBVDE.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Ev Kankası
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399733.mkv&play_token=1APWa57VNV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399733.mkv&play_token=Ea3tQvkzzJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHFJt9nEfVIUItBfKZr7qhbgveL.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Çılgınlar Gemisi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399732.mkv&play_token=4sGrx9tNig&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399732.mkv&play_token=Elp43s1FBV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iS4oB4nQEdO86Fvszqf6P2ejK44.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Beyond Re-Animator
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399731.mkv&play_token=mhR5l2HBuM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399731.mkv&play_token=nLB8rxsybj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clTdwhmHvfPBT3KyLoBdYOxSWYa.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Bay Doğum Günü
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399730.mkv&play_token=jHslz5i1OB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399730.mkv&play_token=c5hYJhMMaL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUZ3hDMo8SGY2IoujCKwVt8ukm9.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Başkanın Kızı
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399729.mkv&play_token=z8SZuDQfbM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399729.mkv&play_token=N2qoxChv6o&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toIRlR470u8fYj4ezQOTJSZeq3I.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Kötü Öğretmen
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399728.mkv&play_token=U9T2nifITM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399728.mkv&play_token=ljaOOaofoY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfXVQpFRIUJmmkwUNIjkOobXdvA.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Avanak Ajan: Altın Kuş
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399727.mkv&play_token=zH5mqE5wZY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399727.mkv&play_token=NGzvnQFP1b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qicgMuXwMTCMU10CnNIrPUSH5UF.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Anchorman: O Bir Efsane
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399726.mkv&play_token=Yv1yqsTKho&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399726.mkv&play_token=8ykcuJmUvp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVMxLDsasQw16XTXEuhY5WmKTIM.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Anchorman 2: Efsane Devam Ediyor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399725.mkv&play_token=ST62x0A6oA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399725.mkv&play_token=QGuqsBKQaq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiXM03WDBDd5i5iGdHP6Y5KDYSg.jpg" group-title="┃TR┃ KOMEDI",┃TR┃ Ahmaklar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399724.mkv&play_token=MFWZrFxyva&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1399724.mkv&play_token=3QLRso2mPM&type=movie

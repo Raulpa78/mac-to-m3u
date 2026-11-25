@@ -1,85 +1,421 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66HBVfCkhevEpPV2fMzt8FAF9BP.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Joy Ride 2: Dead Ahead - 2009
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2312732.mkv&play_token=1CXX8H9dMt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naZWa06duMvKr4dLrPGgl9yrPZ1.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Never Talk to Strangers - 1995
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2270426.mkv&play_token=HGYYH8j0h2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Bridge of Spies - 2015
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2200471.mkv&play_token=w9DIvhZNy1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2200471.mkv&play_token=8MaMubGakz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Misery - 1990
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179435.mkv&play_token=kfJDNbDosv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179435.mkv&play_token=wI6GnY74q1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yTVaeS8eIkOpbwIycVFm7EQrgF.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Dead Zone - 1983
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179427.mkv&play_token=o6Txf5SI7b&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179427.mkv&play_token=UUAYnNKqNE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5q8WK4gW45Knxhpb29IVOCbbfI7.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Tales from the Darkside: The Movie - 1990
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179426.mkv&play_token=6zhRnqLzrK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2179426.mkv&play_token=SuuCjPCckN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oimc19nfcUTPveC85EhPyQUQ3CE.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Samaritan - 2012
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165941.mkv&play_token=rg7F6GE6vS&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165941.mkv&play_token=R9NDarzipY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eo3rQyiW4XIr27oSjAv2d09WMA.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Handmaiden (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165939.mkv&play_token=E95wSAAha8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165939.mkv&play_token=8xZmR9xIhF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oM9X7NvJ0Ses0thXu70Wuar9Afd.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Riding the Bullet - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165936.mkv&play_token=sA1VqVe3G0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2165936.mkv&play_token=lVUOCk5m8Y&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmBh7CjfTlqHfT1yCECUKMH4dws.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Pope's Exorcist - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149835.mkv&play_token=Kfjnj83Poq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149835.mkv&play_token=CDafYfC18f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deBsx5IxyqCC217j3VY24TkkE0Z.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Blindness - 2008
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148572.mkv&play_token=a9Fy1TCc6P&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148572.mkv&play_token=b081n4aLdF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fipl29teW6hrHY4tGpzOUokhkLs.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Murder  She Wrote: The Last Free Man - 2001
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142034.mkv&play_token=N4OW61T5oj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142034.mkv&play_token=AlOY1lgX0a&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRA70jq3qFPV3uJnXIaLa3u7JSN.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Murder  She Wrote: The Celtic Riddle - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142033.mkv&play_token=0xnSE6FQwm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142033.mkv&play_token=QifQ3naIKs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Ot5ZLXh6ZZ4k7ImxDJxvSog5ss.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Murder  She Wrote: South by Southwest - 1997
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142032.mkv&play_token=ehCPJsPHfy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142032.mkv&play_token=3yjXKqkOHy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV5tKDXtVYzRakUjqOZRMcq0R0q.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Murder  She Wrote: A Story to Die For - 2000
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142031.mkv&play_token=OoB3lbQzz6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142031.mkv&play_token=0VSgEwVkv6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7r8DeZuaaHCiOEbkqZC6MFmwJ69.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Gosford Park - 2001
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1976585.mkv&play_token=zgnn315Qva&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1976585.mkv&play_token=owzo1JL72W&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Axrbsz7ps5RzYB7a1L8IxBSfsD.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Get Out - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968547.mkv&play_token=wl7KjQdxnm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1968547.mkv&play_token=1MG0qyUkgy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8J5xyJIPiNG2FGQVMt4IHHaY9M.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Karen - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1950141.mkv&play_token=B6PNa21QKt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1950141.mkv&play_token=5mxld4UtdB&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvTtsdvvVr1NYlVJxWZibzhaEt5.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Original Sin - 2001
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1932613.mkv&play_token=I2VjwReaj7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1932613.mkv&play_token=NzkzU5TyaX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o53WkUdf4b4GAmzVkrsZnC3OXVg.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Beck 16 - The Last Witness - 2002
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1824895.mkv&play_token=XKYwTolmJF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1824895.mkv&play_token=DpadZ8eWFv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEYTRwORL8vQGohSYObxO9JAp7q.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Beck 15 - The Boy in the Glass Ball - 2002
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1824894.mkv&play_token=rDkwtCNk6o&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1824894.mkv&play_token=d9PHKxElYn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q83GwYnvbfACda6Hde7pI8jMzMx.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Beck 14 - The Advertising Man - 2002
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1824893.mkv&play_token=zXfuzylxXM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1824893.mkv&play_token=p1zNgbC0dK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnnMH8FIZkslDTGWcT2Q4l08v5P.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Beck 13 - Sender Unknown - 2002
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1824892.mkv&play_token=rCjNnoWU7D&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1824892.mkv&play_token=F9PVTo0qsZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ut8snuINzOibbKnvpTnsGWQr4Nl.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Fear - 1996
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1804938.mkv&play_token=liwwbJBWS9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1804938.mkv&play_token=GhX0NZjTCH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5SPCvrkoiSvl6YiFLPOUln22Su.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ La fiebre de los ricos - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794680.mkv&play_token=SEcDXIjUCB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794680.mkv&play_token=tiO1EzLdKA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qt1pESASA3w4xOOPwZS3YRlcYhL.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",Unlawful Entry - 1992
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763480.mkv&play_token=nDxmL3scUF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763480.mkv&play_token=j4g0OcYOrH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCLSgw1DaqkRvosYc3YUttBTtpT.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ House of Wax (2005)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1734334.mkv&play_token=pbSErZ8DUi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1734334.mkv&play_token=DfsB3RoPio&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x98L6eO7MsvNmXFy8TNza9UdsFI.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Obsessed - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694905.mkv&play_token=7AvvgwtaTJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1694905.mkv&play_token=fC4DjjjvSU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zSzaUmoUCwII2pGTqX1jaX8F0p.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Looking Glass - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1690853.mkv&play_token=Gf0qZvTrJZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1690853.mkv&play_token=Q5ugtmFLGU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sI0WxsgVFE5RkPA7G6PznWRxBEW.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Amber Alert - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1690844.mkv&play_token=ZhGqgFnayG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1690844.mkv&play_token=kU30By7XBY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSikt4O0ZrR8xVrsP8wliGybZwU.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ 8MM 2 - 2005
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1689880.mkv&play_token=aBrCaAtnR0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1689880.mkv&play_token=mF4JGnGpu3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhr9xRpjOBqlBjgDwtiOx6FsLvV.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ 8MM - 1999
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1689879.mkv&play_token=qxwIjeGzBZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1689879.mkv&play_token=RIorASw0VD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjCRfmxg7awp5kVIM1lHR0d7S4A.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Tideland (2005)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1648208.mkv&play_token=fMmBRqrUuA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1648208.mkv&play_token=mt6R1MOXhz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/telw35L1guCl3WmLJG5qHKf5Txi.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Czerwony Pająk - 2015
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1648191.mkv&play_token=exsx1WD683&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1648191.mkv&play_token=D1E5uEEOAg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3na9yLIz6j2Q44dzMEHWeSDg4Ef.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Blackout - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608725.mkv&play_token=pNpBvAikxV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1608725.mkv&play_token=Fo2Q0YMbfp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8YWXoXXmDkNkAEQSqGeF37VYlH.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Hijacked - 2012
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600257.mkv&play_token=hi1V7xI6Zq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600257.mkv&play_token=cEXGr2xCxy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uhSK3rq6aymSlzgoX3EKm1y2sf.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Avarice - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598934.mkv&play_token=qcENSoehRi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598934.mkv&play_token=koHQbbH5pl&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQO5yeQWDl1TUvQ7gadTWWHB60D.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Girl on a Bulldozer [불도저에 탄 소녀] - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1590768.mkv&play_token=1BdFHz8xri&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1590768.mkv&play_token=EANwLx7d0k&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu2gBpFElDfxTI6BI9bT4pZ4kvw.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Eraser - 1996
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1590763.mkv&play_token=sN2CLfAJVf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1590763.mkv&play_token=u6WiG2VN8q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Desperado - 1995
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1590762.mkv&play_token=pFoM7qRXbi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1590762.mkv&play_token=VivQV13sTk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VC7Q7GvIhEECIU3fiaRf71mxV6.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Chloe - 2010
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1586090.mkv&play_token=7FcLNOXtML&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1586090.mkv&play_token=N5R1VLZ9J1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzKW9T8BWH6pVPR5SwDEK2o2tZs.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Cairo Conspiracy  2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1557276.mkv&play_token=dYVGzOb1mX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1557276.mkv&play_token=G2sQixe7Ug&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBT6UQX3qpNz9VAqk40CU5fOzJ1.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Play or Die - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1556737.mkv&play_token=TwHMZzB60D&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1556737.mkv&play_token=TSa6uNcT87&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFUxxu68hZ3HN86Lq6H28pmsKFf.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Evil Angel - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543154.mkv&play_token=B01nYqWUz2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1543154.mkv&play_token=ixPQtuGKGe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f89KOSCkEuCfANH0zgPmmU5n0tf.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ In the Land of Saints and Sinners - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1534869.mkv&play_token=lynIETWziG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jVzYOnylmvo7ZnGerjfoRj2wFz.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Moloch - 2022 [NL AUDIO]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1518643.mkv&play_token=krn8Nv79TZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MaZYEyFmQwNeDTxZGQEN8E0e4p.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Island - 2005
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1493918.mkv&play_token=rchlJzUFA1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ituR560dbnV4WAFPY0jJlEenGiW.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Messengers - 2007
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1483325.mkv&play_token=C2ZHgm6lKF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3As3DylhyrL8xeGptElGnkfb42.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Hitcher - 2007
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1481831.mkv&play_token=5ERdlT6joH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NmsbUJqnopbnLun2E4KvtVNj8T.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Clovehitch Killer - 2018
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1480425.mkv&play_token=BMyz517VuC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DcIG3nmee6atpdx81FZsQiUTeu.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Anatomy of a Fall - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1480417.mkv&play_token=2FAaIitJUt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYRxqSuuBdKkgHRUsfe5EE9KOlV.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Las Bestias - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1473965.mkv&play_token=BAZNewGehQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk1ZERG6yhwAJqTobmDgw8jRL2C.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ See for Me - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1458741.mkv&play_token=DfiSalHfV5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBsGSdmmH27z75EbwLpQg2fhCWr.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Les Fantômes - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1458739.mkv&play_token=QEQCQqfyKG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPyBqGBYjGzyLVHJEIsCwlZejk.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Into the Deep - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1458736.mkv&play_token=T24PthC6cz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJCyIBPfvk41uETq6K6u4upyGO8.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Insider - 1999
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1454630.mkv&play_token=78VgpfGi58&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4riAIzeuaGRwvFkKWeJkjopv7Go.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Midnight Boulevard
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1443083.mkv&play_token=bfyncO090K&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Silence of the Lambs
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1423833.mkv&play_token=aw2J6ctlBi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zy6hJYii2PJfMRoUBlULhfuLsgL.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Experiment
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1423830.mkv&play_token=yvkIXdhvCE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcJLNf31afV53IlcG4M6KRJhdNT.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Cat Person
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386657.mkv&play_token=wlB7hRWjC8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeV15PpR8jFJA9TF9JPXIoqEgp1.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Candyman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1361133.mkv&play_token=apd5614bD8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nw3dM0QsneYjBio0ggFpnVkuVvm.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Bring It On: Cheer Or Die
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1361131.mkv&play_token=mZDS91jI7G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMY2XbaRtmto9LXwo83wnYRKN2U.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Eye in the Sky
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1340974.mkv&play_token=5C7dMSeQ9A&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9SQFzGWvTuP3WszpY8HeDYoNqd.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Crimson Rivers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327627.mkv&play_token=3UYS2efk6y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5szS3NXiycrTL67AunS7TLG0EE0.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Driven
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1326471.mkv&play_token=W6QpBcogoY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTts4tx5j5NdPzcdEnWpD39ZKYO.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Bangsal Isolasi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1321785.mkv&play_token=VKHM3dzeQh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yWhk9N6RPhHIZ5s17VZq5b5vwR.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ La herencia Valdemar II: La sombra prohibida
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317848.mkv&play_token=9TjZKhb7qJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6w9Wphe5O5zySyoGxlYJ5irwh4f.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Sacrifice Game
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317847.mkv&play_token=th3gB6gunK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1UiIK8ENvvcjuZHwo0X4cs8uGz.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ La piel del tambor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1317845.mkv&play_token=ozA4KdNMP1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Bkpvbt5ZIRCvcgrr2oIiZp9qQa.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Family Seductions [Lethal Love]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1308009.mkv&play_token=hak64Ur8WC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Twelve Monkeys
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1307998.mkv&play_token=2f5l80h5zI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ You Should Have Left
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1306608.mkv&play_token=p1OpzQYvty&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdFrAP8NrsPeAOBmSi5FeycRbo0.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Truth About Charlie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1306602.mkv&play_token=RrCurnGG4p&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yszQVWx76uknsSEfyiKN8W7xjF.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Critic
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1306596.mkv&play_token=epYXQ1ujC3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7J2VlkFU2xiuUfloW8byOijb8C.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ An Amish Murder
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1306565.mkv&play_token=Il02j2Aplx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNwAJVDAkVZCwg6PV7mPUaCP5az.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Pemandi Jenazah
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1290544.mkv&play_token=NP521kSo4p&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afGdVMa80LMs6ibLP22CwM5uI4e.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Sympathy for the Devil
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1284800.mkv&play_token=nsYirayI7N&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTD1O1DSIwMH3myPmSWgRtLuy0V.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Final Recovery
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1280983.mkv&play_token=j6qtIjm6uv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/id7CoASydYb7MCRLAsOT29CLJik.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Your Lucky Day
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1278358.mkv&play_token=ExYUVUgJ37&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Missing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1278355.mkv&play_token=aCk38hyXQe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyGY1k5GqAORsVhfZA3gFKirZWD.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Home
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1277827.mkv&play_token=E5A8AFlF9o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSjkuebiNcHyJpIdLka3zD4Z7cM.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Sewu Dino
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275909.mkv&play_token=1PyBdK3HuW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlv1nVSyXzfATNGnegR7XnzQUJL.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Raze
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1272460.mkv&play_token=03fAaSCNLD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DGxRaBMIQFzeyHGHBhwrXGLlxE.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Welcome Home
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1263066.mkv&play_token=9FguF7Jfrc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW2vgzhyWXQu5UxNzebPokipBqH.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Boy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1263064.mkv&play_token=w7ux3ta3WP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooZbBL28oXDHfc8xSt2VRHU8jkO.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Children of the Corn
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1263063.mkv&play_token=76bbcsFDz6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp0mWrHl1SW9PhP8QcsgYPoVYFc.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Universal Soldier
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256608.mkv&play_token=c4rQTM0dAl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9wDmRcQngl9Jo7Go3EU7f2W15m.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ No One Lives
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256598.mkv&play_token=ODqB82VbPM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SDHU1P6rpTJBlmKcm5aIkFHTGJ.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Chief of Station
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256583.mkv&play_token=JRfF0gpmvZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vasnPh69RoUg9oUpzXoErMVDB7.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Cellar Door
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1241914.mkv&play_token=Xwd5ya22yZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsMvndtd3KPAvJ3q7zKZuNSB1R3.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Watcher
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1236770.mkv&play_token=mVwvpq8zej&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aerq3qRtt4t8rTmeHYSmtaksPIp.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Other
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1234873.mkv&play_token=jwJibj9oif&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBf5GrLxqftMmSqz6to5qkohJsa.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ It's a Good Day to Die
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229048.mkv&play_token=kL4oFuLFTU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Y35XCUS8U8vC8vs0HDEVkPu1BM.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Last House on the Left
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1215777.mkv&play_token=KQlWqU15ta&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEODKtBm9JUuylFLpsrA93Juozv.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Invasion
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1215776.mkv&play_token=Z3Z5oobsJe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oix0aNv1lvW3nUGspUyvSIBlpbs.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ 28 Weeks Later
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1214335.mkv&play_token=9quDPMY06g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6svTVlVEJDoOOEz1G09HLeb7vtF.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Red Planet
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1213351.mkv&play_token=dPHPtXRWSH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b5gD5vNmf7Vafj2MN8uMA8r0qu.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Let Me In
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1213347.mkv&play_token=AfcRFzF3a0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Reminiscence
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1209563.mkv&play_token=5IBYX4sAkU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYnUfauPVK6g8IRO2REYl4TUZ2p.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Last Castle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1203229.mkv&play_token=kqDRyPkAso&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzItGC23w5COWP8CbKHiJO0vWbQ.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Lies and Ex Wives: Secrets on Maple Street
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200550.mkv&play_token=AfOj4fwRqh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7a8UuloC43MUo0LP6LWdvizy37.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Family History Mysteries: Buried Past
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200542.mkv&play_token=9Zk4T6hnOw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ep6gw90TJ8bYvJC6hEDo8SxjoJ.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Clown in a Cornfield
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200541.mkv&play_token=VxzwPxVp9J&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uolIihwip3a0OtQ5gLhjSh8URA.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Unit 234
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199979.mkv&play_token=afqr6Bh9xS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79EcxHl4JaJJ8Ub1fKGv170mN0X.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Hurry Up Tomorrow
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1198030.mkv&play_token=Ps2MUHbF66&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5ug4LyLQFeR6azAJyIPBQz5ur9.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Shut In
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1193666.mkv&play_token=Nc2VXBVtA3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hx4nxhesaagsvJNhRw2fTobg8o.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Renegades
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1184421.mkv&play_token=X0XlY6KNC8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IfdpMdkRvdOQwGB7dzwraa8OJK.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Until Dawn
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1183218.mkv&play_token=Rsl9xXx4ss&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwLldS5JnB4441iS50ha9ZrkaA8.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Haunting
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180346.mkv&play_token=QNmg1Z54gQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTzi0no438AjKELtJgTbipNxWGu.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Dark Half
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180343.mkv&play_token=gIk30pycih&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQHhpTHiys0CZRrdDRKvXBmM5KL.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Shimmer Lake
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180034.mkv&play_token=bzIEyEUn95&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Self Reliance
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1174381.mkv&play_token=k8nzIGUnCz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jVzYOnylmvo7ZnGerjfoRj2wFz.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Moloch
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1170297.mkv&play_token=NmHenniPZg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ObJ4x7m1F5QRY06WzOxNJQHwGb.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Holy Spider
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1167131.mkv&play_token=7Veirv7ijU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Commuter
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1161811.mkv&play_token=tnRQ7CwFpV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSpM3QxmoSLp4O1WAMQpUDcaB7R.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Triple Threat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160578.mkv&play_token=ppkG9t8Dx7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GFPuL14eXi66V96xBWY73Y9PfR.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Hereditary
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160555.mkv&play_token=GA1iujoIdF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTMOiXPM6lDTSWcJBxZg2CPHcUu.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Sawyer Massacre
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1158564.mkv&play_token=bFurTD9Lli&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwf3DGuWB1AptvIzHhlGxDUNnQX.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Maneater
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1158551.mkv&play_token=260lUZX3I7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDrToKMpKYTdwdpOhshL8ko6WVp.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Visit
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1153312.mkv&play_token=tD1VOHyPOp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2CSvCPfxGJrMIqT2GLc9eVHaIM.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Devon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1153226.mkv&play_token=0euJlMYp2Y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Ash
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1153224.mkv&play_token=R9VoKJfhH2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7NyxmdJ1ypn3Y6BVizjGODuBdO.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Sugar Baby
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1153015.mkv&play_token=NAEg25zMrj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqFIC6miVQWBUrkQYk3Fe0jqXrD.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Megan Is Missing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1153011.mkv&play_token=OHREhaNZUI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ao4qAFbjP7fcFOOdMNvQEnl0Yr.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Darkest Hour
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1136191.mkv&play_token=kdrE18UJyM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bq7DORCkAJlipdfgFzQdmzUAiTj.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Most Dangerous Game
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1136186.mkv&play_token=0GcbOJ6XBD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuzw7lXL9NJZpSL1B9ckwT8Z2ss.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Hold Your Breath
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1136184.mkv&play_token=6i8Hvkea4g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CfL5wy0srwNLi6hP9EZVwSAX41.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Séance Games - Metaxu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121767.mkv&play_token=54lNJ50qkc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ai73frMEz68bibFGRlPKdWBaIaq.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Blair Witch
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1121751.mkv&play_token=ZlHQXiFthN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fT6SIrOyGwWZ4ZujHjRcabcxgfq.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Dark Nuns
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1118239.mkv&play_token=4Mr6Kpc7cZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rK9NrcUedJXTzPV9ajQyEsZYLN.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ American Scream
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115261.mkv&play_token=RJkvvjZHQq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymJgjrRyqJsNK67dqLv4kwvPatV.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Operation Undead
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1114608.mkv&play_token=nfnGxWRXn0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnA4QkIZZCF9wRtF8HHxWwUXVMf.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Disclosure
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1112821.mkv&play_token=csKSPDtHDU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42C0Yq0TwqMUIWOBPNJ53mwWqyh.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Goldilocks and the Three Bears: Death & Porridge
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1110129.mkv&play_token=32JStagsLV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzhFIhBcjQRqCQi11ZkOl38xXfA.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Last Breath
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1107882.mkv&play_token=P27QPpOHPG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xf9qrzAe5DgM0z6DBDLJ8aoP7im.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Purgatory Station
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103099.mkv&play_token=KgBNyrP028&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viCQ1n20xN54DnztNTpMMw3Hfd6.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Stutter
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097995.mkv&play_token=nWVq8JSmBM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEot6Gg88yvIpLI9HTZNPvSkzTd.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",8 - 2020
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097983.mkv&play_token=iit6IM6W6E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rm6sGD0XmWVD2obuDPOTo88l4Eg.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Slatka Simona
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096177.mkv&play_token=FakJCPAaX0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLsQbDGHGaR8R6pBZac8V9Ui130.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Wasp
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1091219.mkv&play_token=HUGPh6kJHX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHlLBjjePH0Dv0dfGcj82H5Qsg7.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Black Box
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1091211.mkv&play_token=WjlxBtCLuC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkQEa3W4UbkAaL8kwv7pj7AiM0u.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ You Can't Run Forever
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089469.mkv&play_token=4e4aUogDYi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3M9xO7BhUTggWH5XXIHOHYmtXef.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ What Keeps You Alive
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089466.mkv&play_token=gjU871Yjps&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIcX3DdnMsDVeQUkriIZPXKQdSE.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Girl in the Trunk
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089464.mkv&play_token=yspLGoSG9Q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPO6yDif5TKSoO3lb3kFp44OR6Q.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Burnt Orange Heresy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089461.mkv&play_token=1QOPPE1bzm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ecSjKSjgIULyHfrfyyg9vgAI33.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Black Demon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089460.mkv&play_token=cH22089xXX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FN5n8wGYrfSJaKGF9uObdKimIh.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Security
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089457.mkv&play_token=ngwZOlfH7n&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iDIFMzYxY25X25KDeARA6VoDl3.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Piercing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089449.mkv&play_token=JGd0inmnB1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DW257Sze0unuyYS7qnoHhXmq0C.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ I Know What You Did Last Summer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089438.mkv&play_token=txQcn0vtRW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Axrbsz7ps5RzYB7a1L8IxBSfsD.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Get Out
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089435.mkv&play_token=ud3gRvWj00&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v28T5F1IygM8vXWZIycfNEm3xcL.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Fall
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089433.mkv&play_token=iACcmJydxE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yE9MCW7ZNxSw5SC1TMqm51pMBIV.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ 1408
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089429.mkv&play_token=LSkIQIODea&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OH3EY2dkpHJVJkObLKTuvZRYKP.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Badarawuhi di Desa Penari
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1081550.mkv&play_token=bUOHjc3z5c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iC0sFXBZuWPipYtye4dIf5U5E9k.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Vejen hjem [Way Home]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1067722.mkv&play_token=iToGbpffX8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Rise of the Planet of the Apes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1061649.mkv&play_token=QD8pB7Oj5Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhg1zYmo0CwQITXEIs45lxR5EOE.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Dead Thing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1056757.mkv&play_token=LYmnbFSivd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ex95XPudiAtyjuaBEELgwMcOKE.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Bad Genius
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1050262.mkv&play_token=BgU7DFP3MJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ge7zbYvpfsDP3luKi0iSpzOgncM.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Antichrist
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1050261.mkv&play_token=UtlmikZW1g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gzWiC555Dz1h9aBV8R9GHgm8dH.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Cherry Bomb
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041417.mkv&play_token=RO4FC4P1Yu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4aTDL3h40zkK3FpGgh8wPlj1F7.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Bone Face
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1041415.mkv&play_token=FhtWVYGNmg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwjF0GIHnNifGVdsQA9WDCkmckr.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃The Captive
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1039905.mkv&play_token=URXEdKNmtR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sukxYMaUTNizM7bcEJ4YeH80e8h.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃Red Lights
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1039901.mkv&play_token=mAnQhfadhS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utpyIEXW6CNNIzC5ZfO5AxVLpxG.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Schneider vs. Bax
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1033996.mkv&play_token=1lRbHrX1t6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SBdbOkH3SgN6kEtUR2fxB5YCEb.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Amityville: The Awakening
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1033977.mkv&play_token=Vd7EQ1qRJG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gezz9fe6RsFP6m1m88c0GIOfk47.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Unlock
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1029413.mkv&play_token=OFAcecP9q1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kgIOzBkiN1hW292JXxoylJ5YRv.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Mothman Prophecies
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1029411.mkv&play_token=cU4x2LXxPo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxTFHGcS0AJab3olU9BjABf5Ogx.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Crucifixion
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1029409.mkv&play_token=YyiOq0jiWA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk1ZERG6yhwAJqTobmDgw8jRL2C.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ See for Me
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1029404.mkv&play_token=UJC0zOpSBn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eol8FnndIY8drMknjUnRCjYaIe.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Pledge
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1029402.mkv&play_token=HgoIDaxFxf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtyc8NM4cOeQA5NpwpIWnwJp3nE.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Body of Deceit
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1029390.mkv&play_token=lRqSlgVOq2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sSWpTupVixOanIpZdLGzsKvcZS.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Before I Go to Sleep
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1029388.mkv&play_token=zNT0YZo1z6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Rental
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1029383.mkv&play_token=jVNza6BhCT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHzBTd502IZf60x8n2g0TB01vPF.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Hush
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1029382.mkv&play_token=p9W1OxAllW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsHrmfgDcEk5fGhSiieKvrDuofq.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Wicker Man
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1023612.mkv&play_token=7hOoD72C9D&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuUJihYcgJ9J6BFCGze9EeHMXfO.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Poker Face
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1023605.mkv&play_token=IyYHFpMMRD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJYPBa2EA6UIsXdrlOXkpnqbeQW.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Dare
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1023572.mkv&play_token=cWQKAggW2E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccDmzCsv5JWSkl0qygYPIIMcc8d.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Boat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1023570.mkv&play_token=SwvoJHel9q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hmaACPJfI2M0v38DeltW3dSggT.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Fear of Rain
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1023560.mkv&play_token=D93DbRfFBg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfnsGUwurUQqlpvArBvUVc9rYXa.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Fourth Kind
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1019001.mkv&play_token=QsuBJgxX5A&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ he Devil's Advocate
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1019000.mkv&play_token=d8aB1mGjLq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmkxXDKdWgonJ9vZlYPZhq663te.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Baby Girl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1015756.mkv&play_token=ES0OwH91CS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppoOXtJZBPXq9Qf2v9pxaa8UeQg.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Preservation
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1014233.mkv&play_token=daYon0EvGg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wM4LZzSn97EiND3BQrdKuWZ0GnU.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Pokot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1014232.mkv&play_token=dOBffIW2IW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Savage Salvation
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1011755.mkv&play_token=2v3NdMVZgW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MfBCvtT0NA5Uy9UF0oZAJWDvsq.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃  Trackman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1009791.mkv&play_token=nFLOXRopNR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2dqoY5cYop46SKebNXRNL5EXEM.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Ward
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1007312.mkv&play_token=margFjpOlj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Mist
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1005414.mkv&play_token=LRfzmZlGDb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elKf8Y5yi6Rl6teKsrQg0GAwaQD.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Werewolves
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=994511.mkv&play_token=TLwp6MJaBF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yef0tY1Nw3BX8PJTfBLieqHj5Hw.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Utopia
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=994510.mkv&play_token=t69rQdMnFx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gchhqclKEEwwAOzdILPWBO14ONB.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Hotel Artemis
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=987837.mkv&play_token=cNZ47r3jke&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNfmx8HvlIouzT54ptMWzXw5XiG.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Fracture
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=987836.mkv&play_token=DOMaIkv7qR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1J2zBCyOQJKsQipqJ0qXERC1Ma.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Exam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=987835.mkv&play_token=KgAITSzfX7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCLSgw1DaqkRvosYc3YUttBTtpT.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ House of Wax
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=983613.mkv&play_token=QJI0JFnenQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szArp3dQlVajpsqpyPFVAFHFsa3.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Copshop
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=983609.mkv&play_token=5061RDDSc8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rbXms0Xdp6nGkr9fVz0UpzDKKc.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Cliff Walkers [Xuan Ya Zhi Shang]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=983608.mkv&play_token=CYFlJWC0k8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBbceiJHq4dqrKcFEAKolBhiDx0.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ What You Wish For
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=982024.mkv&play_token=jlNhzbAX7w&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Sum of All Fears
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=982018.mkv&play_token=AJNlTi2HtN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Z9c1tbUhP0QruRjczPHnbx3U2D.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Oddity
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=982002.mkv&play_token=vdcI7axniT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ahZgaFAbWoKMfJHhmhZDrdStgD.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Paradise Highway
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=980933.mkv&play_token=PlGuQ476dh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6a1iqhfM0Y31kNPOSNPIuPrsYQ6.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Polaroid
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=978563.mkv&play_token=YlIf6OtZn9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbccmnqE4oAPI67bApgt2JiRPz8.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Traffic
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=970081.mkv&play_token=HIBY8MLgPR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fn0EHiPtbVJ0aH74rRVnWfq6p6h.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Double Life
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=970071.mkv&play_token=PUKUcuY6Sj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9b4cA1USAUXz0oxwWVja7sMNFa.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Phone Booth
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=965917.mkv&play_token=jiTwJdIG1j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7D5QqQ0q5EXU1UuZVY9KwIxoYR.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Perfect Stranger
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954333.mkv&play_token=MBr8SypolJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnqyaHpZ7CpgKBlmBgbgqyKicJX.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Frankenstein: Legacy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954328.mkv&play_token=aVdCF3a8ZO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiL4dt8QAWjim4oshn7wg2giqnM.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Nattevagten - Dæmoner går i arv
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=937699.mkv&play_token=Oe5U2EvShT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y93w5MGC9fbXjy1qfN6rUpSbBti.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Titane
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=935784.mkv&play_token=e70n0gwM9s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlUXQ2aEuYDEE0ok7DORE4uffjl.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Death and the Maiden
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=934617.mkv&play_token=41XZn9S13I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/witEJXV9I2RbWxxYKJkGmA1RsMs.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ The Jane Mysteries: Murder at Moseby
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=934273.mkv&play_token=FkOm3DyTWj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv51kXuHsKrD61lPIAA4QpzAXSX.jpg" group-title="┃NL┃ THRILLER ┃ MYSTERY",┃NL┃ Mørkeland
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=934271.mkv&play_token=RGJZZ5qxA1&type=movie

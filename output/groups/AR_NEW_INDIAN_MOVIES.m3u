@@ -1,427 +1,443 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Daayra - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2365527.mkv&play_token=w5mzTPeEDl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jPyjKZE2Bnm3esvDmWZyGA8mkr.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃#Cult (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2365526.mkv&play_token=pSRfLyWwzO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRKg0WoPV0D3bCl1B5jJtcRdU1Z.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Avaraachan & Sons (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2365524.mkv&play_token=QwJXFJ6end&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VuNFeniljhEe9MDW12MnDbETgH.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Modha Rathri (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2352099.mkv&play_token=mxVbHdIUzu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwyOrA2t78PT5xrayNRvqZisTpZ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Anakapalli (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2352094.mkv&play_token=jFY7WAe4G5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXaCyYYbafVyMrs8rwKmxezBYPJ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Ranabaali - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336190.mkv&play_token=S3Ez07hIw0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NkklX4xp3BlLmlMT0LXehkStJZ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Enna Vilai - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336185.mkv&play_token=OneULokLOr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Pati Patni Aur Woh Do (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2318802.mkv&play_token=aZm6gzpWzY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fygsmzrKBGV3O4ky6l26wKF8QBA.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ The Vvaan FAce of the Forrest
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285038.mkv&play_token=2JF2WBPMyr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2285038.mkv&play_token=Kio0PA7vH2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃The Dark Heaven - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217279.mkv&play_token=xmWFCAu661&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217279.mkv&play_token=Vc7aOyKm8P&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18Lhkc3nf92bY1cacQomXIqihhN.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Sigma (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217278.mkv&play_token=S4iTjcVv8u&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217278.mkv&play_token=6UYUJL9ASW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIK5YnqQWKZxyQgaeDDVywUxNWo.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃SI Yugandhar - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217277.mkv&play_token=VMK7kolikF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217277.mkv&play_token=BbUMm3dsNx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ78kbekUBZMcxla1lXABI9o2wL.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Pradhama Drishtiya Kuttakkar (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217274.mkv&play_token=1QvQtNcpFV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217274.mkv&play_token=qdFdUgaG1R&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLVMvJAmnVRo2lzbqtGiecLzPLy.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Mandaadi (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217273.mkv&play_token=ACMwI6kZoV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217273.mkv&play_token=mNy9QuuhGF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4N7M52cBbyi24xLga8yI6yt1u1.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Gajab Raat - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217272.mkv&play_token=j9zKWZg75w&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217272.mkv&play_token=YyGrUU6XHY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZCKwhUx7r9HRDqpGbavdMtd8f5.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Dhoomakethu - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217270.mkv&play_token=HTkPmbDNrp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217270.mkv&play_token=mosxYJAOKh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lajDAXof8GCO9RvnhtvQl9bgNlK.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Dahaan (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217269.mkv&play_token=zg2lfO7EFh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217269.mkv&play_token=AHCh71OPRK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Baththa (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217268.mkv&play_token=8R5dXiXehp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2217268.mkv&play_token=xbrkrvGgQ8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtnutjXr4bXhwfniuX4jaSholLT.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Sugriva - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149191.mkv&play_token=BQhTsEryga&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149191.mkv&play_token=EA8J71oM9A&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVabS4lTi6IMscr2FOucxydE6ZD.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Reporting Live (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149188.mkv&play_token=LSIOXEvbEn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149188.mkv&play_token=nzKYwfiXx1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6JmYwvEopRlHCV1NykM5NjSPrw.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Pooja Meri Jaan - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149186.mkv&play_token=CyZNwD19Zx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149186.mkv&play_token=WsaIh8MJba&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyA6vAbkh6NaqUIB0o7utHEZBKc.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Pani - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149185.mkv&play_token=swaDvUL7dH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149185.mkv&play_token=m4tyzPtR3Q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYfu1SIE1wViNVPT0zdlqTwpPeb.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Mahendragiri Vaaraahi - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149183.mkv&play_token=4X0dFgsf2J&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149183.mkv&play_token=eQnFIoWfze&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGVN0bh4xQtJIHiXFy2JyWVOiMd.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Karmakhya - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149179.mkv&play_token=ohTzvkDRIt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149179.mkv&play_token=tu6ahmgzYZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Irumudi - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149178.mkv&play_token=7pfQf9MiSt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149178.mkv&play_token=dOSFfJ7LZs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4N7M52cBbyi24xLga8yI6yt1u1.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Gajab Raat - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149177.mkv&play_token=UnLvSzXrrQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149177.mkv&play_token=eC3j4U3C1C&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Dorothy (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149174.mkv&play_token=3bQ4w6mxsL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149174.mkv&play_token=Sv20r3FjM3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPP7IWH0GeQDZ5VC9QsE6lRlijI.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Chinna Chinna Aasai - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149173.mkv&play_token=ISieapDqyY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149173.mkv&play_token=zHktFlhZi4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Bethlehem Kudumba Unit (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149172.mkv&play_token=0mF8tNzGhz&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149172.mkv&play_token=yPmE09AcjH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZyMVwRhI0Y1ANDRM4sAk7P4hYC.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Aasha (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149171.mkv&play_token=rYgCjGxybX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149171.mkv&play_token=2dEZKLTsFW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eZzBvETRK8uDz3mUK0Feio2T5C.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Aan Paavam Pollathathu (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149170.mkv&play_token=f8h7eoqtdP&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149170.mkv&play_token=dvQSWSShgw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃The Paradise - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146055.mkv&play_token=vRL4o4gSEC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146055.mkv&play_token=f0CDX5PhR4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9Anudrk4WFkJf91BGqTXl5rodI.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Thai Fighters - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146052.mkv&play_token=JKVqXuCuFE&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2146052.mkv&play_token=pfq3oBoYvm&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejoiE86NLKpDMnCz2YiCMJ3YGJh.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ഖലീഫ: The Ruler - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134313.mkv&play_token=KtkCRCPOdc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134313.mkv&play_token=exUkpfGzfb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Rao Bahadur (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988167.mkv&play_token=QkrRTMdhnY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988167.mkv&play_token=0WytOShaCd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Irumudi (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988165.mkv&play_token=Whqin7zTQa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1988165.mkv&play_token=5IpURumTPQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUBo6JBHGV52xbfPwg3xxyvBLPx.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Varavu (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985965.mkv&play_token=JzfUzE0QdG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985965.mkv&play_token=RHuTBe7fwq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOGcRUDWdY5XAzZXVtynDS7ZW0A.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Rakkasapuradhol (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985958.mkv&play_token=madfx8Cg2q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985958.mkv&play_token=ee0BpMXGog&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oM0daQezJfdK8ADtwi1SMCy1BJA.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Magudam - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985957.mkv&play_token=Vae8O1RTkn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1985957.mkv&play_token=Oj12MeWZFY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Gatta Kusthi 2 (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984426.mkv&play_token=aEb2pgXXHX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1984426.mkv&play_token=pSycesje5V&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Con City - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980352.mkv&play_token=2kH4qZ4zFT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1980352.mkv&play_token=heij3PAS67&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Lenin - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974104.mkv&play_token=hqlmhDhQvv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1974104.mkv&play_token=I2N9WvvnLF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHei97aPYCCsh4vicz9X0wmdFV.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Gandhari - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972893.mkv&play_token=NVdyt7dl8Y&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1972893.mkv&play_token=1Gme1p0BxZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RRA8UBAdPC08spbDgnU0ykQ2MR.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃Bandar - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949857.mkv&play_token=wRmCtgrUYh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1949857.mkv&play_token=WxBUhqOPwz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Cocktail 2 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873219.mp4&play_token=9JYRWSDPzK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873219.mp4&play_token=QGO7rZDHnF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf5lLrrikOswHKHpzW0UiHycJEx.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Bharat Bhhagya Viddhaata (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873217.mp4&play_token=KT0MrOz6Pc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1873217.mp4&play_token=BU3z2vlBjC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53FATyQirV8BuBcrsQMGPvGKgCu.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Kattalan (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1841217.mp4&play_token=olClOumstT&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1841217.mp4&play_token=meEZtAn0mO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ KD – The Devil (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809068.mp4&play_token=H0NNVXhjCw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809068.mp4&play_token=MWh4jbw2Mx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Maa Inti Bangaram (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809066.mp4&play_token=Hvv81xd9v4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1809066.mp4&play_token=Hx5AvlpZc9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Peddi (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794136.mkv&play_token=ptG9TJ9hTs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794136.mkv&play_token=bYgmDE2qhA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp5EAKE8nTx402n1fWz55QsuYY9.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Ikka - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794135.mkv&play_token=6h0fktdKqw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794135.mkv&play_token=H2DtKFDUvN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Blast (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765982.mkv&play_token=h8btKgrVgO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765982.mkv&play_token=xC63eDewTk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",Beast - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765981.mp4&play_token=GXeAcbeHV3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765981.mp4&play_token=3Y8Fm1rQ9j&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIQLFOdvrdrjHI31DazP06tp9zp.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",പൊങ്കാല - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760770.mp4&play_token=cONx3REp2C&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760770.mp4&play_token=CQMGUbTopo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ky3KDMdvaeApRVL03kpfYHXzXqd.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Karuppu (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760767.mp4&play_token=czVvmaPRfB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760767.mp4&play_token=KHYwfVzUVI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/456FlpiU1iOBnaOxSd783QhZKWw.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Drishyam 3 (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760764.mp4&play_token=dMnuoSIzH3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760764.mp4&play_token=3XcQOV8jVq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8yPjT9NAH87oD9TedclRaAW7RY.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",दो दीवाने शहर में - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760763.mp4&play_token=vRt5vYH4iA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760763.mp4&play_token=uFUS19Lnvj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZez7I5ctXVlOP73Js0G4cNgw16.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Spa (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753939.mp4&play_token=F8yLmHlA6r&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753939.mp4&play_token=lkS42WOvXq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIQLFOdvrdrjHI31DazP06tp9zp.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",പൊങ്കാല - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753936.mp4&play_token=I51dlkk69r&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753936.mp4&play_token=s54Ij3dk6u&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Karuppu (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753933.mp4&play_token=d1mIxZU3sv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753933.mp4&play_token=q2Mq6ezVMe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JqWaizfeplMDEZGuJAZZUO4Xtp.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",ദൃഢം - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753931.mp4&play_token=MqlZFg7vdi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753931.mp4&play_token=hFA20DejI0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oypl2SgvWqPhPGERB4n7Dhml3og.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",ਵਿਆਹ ਕਰਤਾਰੇ ਦਾ - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747100.mp4&play_token=V8DPBIKPF7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747100.mp4&play_token=GdcRKrRxgz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",माँ बहन - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747090.mp4&play_token=NsuenZhyhy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747090.mp4&play_token=S4KjZbWyIW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",29 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747084.mp4&play_token=jyzH8rLIAv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1747084.mp4&play_token=otdJt52k0p&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4igrj26TQvSCQ60vgVFSEQfIqeF.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Red Label (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742042.mp4&play_token=S6RVtR3J8F&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742042.mp4&play_token=PCzgrYLiYT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHxLBtHw4InwsVumnthupZYz6NM.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",मर्दानी 3 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742041.mp4&play_token=2ByH5967KO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742041.mp4&play_token=Qjw4NHISpC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvTjop7dGowpGnO1jPvcUrpiGiu.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",గాయపడ్డ సింహం - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742038.mp4&play_token=7uuZQxsuCl&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742038.mp4&play_token=6Odt0OaKQ1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkiu7ez8oL1Yme4k5cBxFz0zN4U.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",ഭീഷ്മർ - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742035.mp4&play_token=QUPli0zEqg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742035.mp4&play_token=0ya7vwrnCx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mvRYMgnRry77VW58EYbyVuTg8x.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",Youth - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735110.mkv&play_token=AZcO4zhkAQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735110.mkv&play_token=JazB8jfkmF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr7AI4AnkucXPaYdoMXN2CSjMax.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",To Philly with Love - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735109.mkv&play_token=PmJRS4vSuO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735109.mkv&play_token=f5JfX3hToU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aj1Q7QPpt1kTrbNBRENPh0rwEot.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",वध 2 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735108.mkv&play_token=VFgLWSJm9L&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735108.mkv&play_token=RN19KY4ZY1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaMcu3I9l3qyYovya7dwUcdU6ve.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",తండేల్ - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735106.mkv&play_token=5i36glZHkN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735106.mkv&play_token=CXuJPxf2G4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NaXPthSsxJHo5Br0IIiLYz0z3w.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",సాంప్రదాయిని సుప్పిని సుద్దపూసని - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735105.mkv&play_token=nKeYVWEsr1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735105.mkv&play_token=yznUtLuqdr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Bharathanatyam 2 Mohiniyattam (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735098.mkv&play_token=CWGxCnmxUi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1735098.mkv&play_token=ZKYgYDFsx1&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Dhurandhar - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1733919.mkv&play_token=pqqjuMRT7A&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1733919.mkv&play_token=QHxGT3W2sT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Mr. X - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732283.mp4&play_token=yXGv3r0CtC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732283.mp4&play_token=qEbOBo59OH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyJG0JzeZTo37giko4UJVVFktld.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Kartavya - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732282.mp4&play_token=8ASDa6dmAy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732282.mp4&play_token=ZplJ82wl2B&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Ustaad Bhagat Singh (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716155.mp4&play_token=7HepbjuXE2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716155.mp4&play_token=F8IeRmq6IE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s56x3fGTN6J1jbBMBDnLY7t4iyU.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Suyodhana (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716149.mp4&play_token=2eX3yVI80T&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716149.mp4&play_token=WOIurYmycU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89Tuu93NTJVef2Y4iATRwlyAO37.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Second Case of Seetharam (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716147.mp4&play_token=QAiTRB1F3q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716147.mp4&play_token=reHCAqu3iH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBNSo4T0R8UztkkpjYkzXI4bFAT.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Sambhavam Adhyayam Onnu (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716146.mp4&play_token=Yk6xU9XLhD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716146.mp4&play_token=7kWBI5T3ah&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awOmezCjTcdyjesrzowHIRYUUbE.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Kaa - The Forest (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716141.mp4&play_token=O1tms2e3bM&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716141.mp4&play_token=hrkUnZwkb6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dn025nJaG2ZKDA19ymPfZWUwPEH.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Ashakal Aayiram (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716137.mp4&play_token=t4BZzleYPG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716137.mp4&play_token=5Mq5wOfRQT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko4cEKcBHcCNbGok2YxnlD4u16N.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Valathu Vashathe Kallan (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1708682.mkv&play_token=RRs7iTuJAe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1708682.mkv&play_token=Qw92s7tDyj&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Ustaad Bhagat Singh (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1708681.mkv&play_token=jwcDYJwxcC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1708681.mkv&play_token=9zyyYya8It&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Thaai Kizhavi (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1708679.mkv&play_token=0bciMKWOGF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1708679.mkv&play_token=yQsRdIRU3m&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJu9oL6ElIaajAjwgoKyUCM319H.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Do Deewane Seher Mein (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1708673.mkv&play_token=gE4psej1VU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1708673.mkv&play_token=tDFmk7cvzp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ O' Romeo - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1687953.mkv&play_token=Ooox96z09p&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1687953.mkv&play_token=xXzXbgCO4N&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLo8qcDOw9CD1COzMLBouOqHtqX.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Mardaani 3 (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1687952.mkv&play_token=kF8xWk8GMr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1687952.mkv&play_token=jR3KoPJ5Z2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QoTnvsbIAAWVXpfHzQKeEQhUi7.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Bhartha Mahasayulaku Wignyapthi (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1679586.mp4&play_token=CLxIx0sIIY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1679586.mp4&play_token=jyoziZHs3Z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Akhanda 2: Thaandavam (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1593222.ts&play_token=eAIGn4dCm0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1593222.ts&play_token=n1qwzKb8EC&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ The Secret Agent (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1589460.mp4&play_token=gbBDDjmogg&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1589460.mp4&play_token=7AacAoUS8E&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7chr4m0OLkGX2curIk57ax27kk3.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Revolver Rita - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562857.mp4&play_token=ct54GZmv3G&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562857.mp4&play_token=5ifsBvvgC5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YtiecEbDSx4MEt2HUS2fKcJ9Dq.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Rambo - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562850.mp4&play_token=cvSxfsVht5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562850.mp4&play_token=IBrMcjoOz8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjEGEjsbj7Y5xyge5YA1YW0ZPfk.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Premante (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562848.mp4&play_token=SxB7aVfUKb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562848.mp4&play_token=eep7HUX9Hw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwyXKqVffOOoES5HhJutqivYEVi.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Mowgli - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562841.mp4&play_token=BNwkzEinoK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562841.mp4&play_token=qQvZouqM7g&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDTHRLgYTUAZimgNsmG6t2Saabz.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Little Hearts - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562838.mp4&play_token=sHHjkALSvk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562838.mp4&play_token=aR9X61gSIE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v71YwA416RIqvEMaQYQmY2tCPBV.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Beauty - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562818.mp4&play_token=maQ2UcX7Dp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562818.mp4&play_token=GDzg3oqzM6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ViF6UTWMh14gx77RvFALe5R6AL.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Idli Kadai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416991.ts&play_token=t24D8F2hVo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416991.ts&play_token=uDCW9UXY9r&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKMNqfF6BJZ47O7OklrMgZ5r6T.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Shakthi Thirumagan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416985.mp4&play_token=xzwoYOEPJ8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416985.mp4&play_token=NaapZeb0ov&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erEVbUNiNwbH8Pns2texFV1u5Xi.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Lokah Chapter 1: Chandra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416981.mp4&play_token=FOYAxtdZNk&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416981.mp4&play_token=EmxxhriPoA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svTVD1wWuB2B8CDNvRlTv81Sq0S.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Elumale
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416970.mp4&play_token=o820NBM8Hq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416970.mp4&play_token=NxLlgrFiWS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLPUsH3Fwe6mAU7n6WpMSDLdYCm.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Param Sundari
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1409256.mp4&play_token=5P0kqJ3kWa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1409256.mp4&play_token=YogsEEOgM0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQMBYG4JOD6WN8QzViPYqxuIsru.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Mere Husband Ki Biwi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1409254.mp4&play_token=4tf4GyCFdY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1409254.mp4&play_token=baLcIVpdtk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9aEFdp3LNzU9MOTPsmY4hUttM9.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Junior
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1409252.mp4&play_token=rvHiD4ie5G&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1409252.mp4&play_token=kgqEy3EAap&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGJ5NNMFENxOekN0Irrsq9Cd7PL.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Greater Kalesh
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1409249.mp4&play_token=DF0ZZTvNS7&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1409249.mp4&play_token=kbVkWiSfbG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2YEFW5o2Y7RAw2K4hSA4TEXF3Q.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Baaghi 4
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1392135.ts&play_token=Pelas8tk5x&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1392135.ts&play_token=ySir5POB4c&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YtiecEbDSx4MEt2HUS2fKcJ9Dq.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Rambo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1378038.mp4&play_token=aPLkvMUU6O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1378038.mp4&play_token=47qGIuJn0J&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHUEGjexjpTDO3ggla9JQ6CojxU.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  War 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360749.mkv&play_token=HgvHO91g8K&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360749.mkv&play_token=tRXp9AluQU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k47tmhqiUsmD6UoyoimHVQAjHx9.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Son of Sardaar 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360744.mp4&play_token=bnk9Aoh06j&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360744.mp4&play_token=96PNyXswj3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7tcEl28jq2dOm3iU2WqGVzGnTP.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Odum Kuthira Chadum Kuthira
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360738.mp4&play_token=230UkG6b0B&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360738.mp4&play_token=6qLGBEVM3h&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28mjgY8UHW96JtOmpgc9lZt5ZFq.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Mirai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360736.mp4&play_token=uVxIvtdUvX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360736.mp4&play_token=Is9OZyxOh0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGTF87VyfjtwwqRlT2apQg5YnEp.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Mahavatar Narsimha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360735.mp4&play_token=opHNnnqjWG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360735.mp4&play_token=s7GkNTUWLb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGW9ad5TERuoluGSkgF1wHXP45H.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Daaku Maharaaj
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356632.mp4&play_token=O0fT3w7tDj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356632.mp4&play_token=IL2hCCdgIu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucwirgaK4v9ylQyDkwoXJtDIlf7.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Officer on Duty
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1343702.mp4&play_token=Z0L0gpGloI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1343702.mp4&play_token=tykcasYnJf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjLC5DeA4FQTBv4xe8r3wYqh8lu.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Kuberaa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1343689.mp4&play_token=TlWXU1GMvL&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1343689.mp4&play_token=nAa2sF8c6W&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rN3i0QvAwsuo6TbdmrHIZGqgFF.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Madharaasi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1340084.ts&play_token=kl7GS97jQx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1340084.ts&play_token=6pT21DT9i0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbz9Y1NwnlE2GxXmgWTKZC1fste.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Tehran
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1315154.mkv&play_token=Prj8TQf562&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1315154.mkv&play_token=m54IkIfH5b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY3CT7RKVfJ9XcAthJscRHOUIfp.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Kingdom
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1315152.mkv&play_token=YcMJNqD2bs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1315152.mkv&play_token=lLfS6U0sdD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCnVJU1HrQVpk0R68aOw93iIeKJ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Bun Butter Jam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1313494.mp4&play_token=wVdgbfVsxX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1313494.mp4&play_token=1sxqHj7AAf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snQLwRrfQAl5YFKVefZq9Lbscki.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Bramayugam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1313493.mp4&play_token=90LvzKjcCw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1313493.mp4&play_token=FG9mTkA7YA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlmzM8CNm2fRJQW2iA9Ittwv0ig.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Metro... In Dino
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1305652.mp4&play_token=kQz0S3ryVx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1305652.mp4&play_token=rp0Xr6TVJH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckghAN8FuYY2icUyJjVkKXiBrek.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Akshardham: Operation Vajra Shakti
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1289600.mp4&play_token=OOpK26Iu2i&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1289600.mp4&play_token=RsXBWREHwz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY7OxwSmJdrdcNWVyimkly12ufe.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ The 100
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282077.mp4&play_token=Bt8bcmtuQr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1282077.mp4&play_token=XkP4OZJRo0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7JGfFgMnNuyF2Q4FSu7Kgip3mK.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Maareesan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1277313.mp4&play_token=ZbEbVHYaPj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1277313.mp4&play_token=KuYNHoLl3P&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njq3p81KoTVd0lWqGeudId7WwUn.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ 3BHK
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1277309.mp4&play_token=jYUZunwiWh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1277309.mp4&play_token=HjqZGgAzvW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50MxvHckUkNgPI4EzjMwcWAq7ea.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Ronth
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275785.mp4&play_token=3ABm5GxqM3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275785.mp4&play_token=BxncYqCfZy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMQPSIZdFmdbLTI97eWsEkpSsZ5.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Edagaiye Apaghatakke Karana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275781.mp4&play_token=Dnfx7KuGva&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275781.mp4&play_token=3D0gZQ0xPw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6x0wmp2LlLqhEbd8XKjJpTHdHsT.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Kingdom
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275770.mp4&play_token=GMVVEASHqn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275770.mp4&play_token=tLzaQcZ6eF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gN2bHdWTaLRS7rpcmlv8bZ6PQ5N.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Christopher
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275766.mp4&play_token=9BvNnDppAv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275766.mp4&play_token=DYqj7E8yxn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6V1mmiMzoLjn4kW05LZ2Rqt3J2.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Trending
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275764.mp4&play_token=WtKJ0KaVb2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275764.mp4&play_token=VlZiKjiadS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjswv9mQvvETJdtRHKakEIPav8Y.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Suryapet Junction
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275763.mp4&play_token=h0p6fIVvaK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275763.mp4&play_token=XXlN4EkqZh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLYMcBROkhdvUTjrA7Cgi8GlWI3.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Love Marriage
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275762.mp4&play_token=00GWZEzNr0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275762.mp4&play_token=mCh0NSb8UL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRKMtcIFzJyi59PtULiKQT4vPoA.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Kaliyugam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275761.mp4&play_token=JEq3Vn01HV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275761.mp4&play_token=vC6m4MyHub&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJMC7vzvfE4ttvfLTR5haXwwl93.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Dhruvathaare
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275760.mp4&play_token=izDF7Ldiv4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1275760.mp4&play_token=sAiXl36eKK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc5n7LJUmvBsVxzAla1ONN8kouP.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Maa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1272448.mp4&play_token=EQsVQmzMjx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1272448.mp4&play_token=FuVHkoH64s&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l92cbxp7GIOQnKjMsSd2HLm10rE.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ The Bhootnii
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1267497.mp4&play_token=BkpOKv8zRx&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1267497.mp4&play_token=2FkjxPoSMQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0h66Pj6FxVndvPQR3yoV5thkzf.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Sentimentaaal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1267495.mp4&play_token=UYOaX3RSDn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1267495.mp4&play_token=E1rkocCNOG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oWqfB5JEcLxr2ERqamoebbMzQ7.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Guard: Revenge for Love
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1267489.mp4&play_token=bvbrjKYqfB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1267489.mp4&play_token=ReaVMI3BOK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iplMLlXU1BgmTz4xviILTOlECYL.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Taandob
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1266545.mp4&play_token=urqNl0esQ4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1266545.mp4&play_token=dLah1Dk8XV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCXjEAJRaZZi5bMowWJQxK0827c.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Aghathiyaa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1266539.mp4&play_token=9FIEeRyPbe&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1266539.mp4&play_token=x8MMVuEPbS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Yc8Kl2ldPpDzLrG2M5Ddv62FXB.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ War 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262651.mp4&play_token=5b2LdORPp9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262651.mp4&play_token=7sgYabRUU0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etb6zsDB8SmIWBKXIUI2U73gfUH.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Maalik
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262642.mp4&play_token=nlotfKQmjX&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262642.mp4&play_token=Ro17dRw8Wc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZkWXHgW8Qk0lMGH1dQbBRzFJAc.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Jarann
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262641.mp4&play_token=674MjTuB35&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262641.mp4&play_token=e97Emkg3d7&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOTDBabtxHA6szYKQNQe9Y7rFlv.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Thudarum
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256003.mp4&play_token=HgvOVhqQ7c&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256003.mp4&play_token=a4o4eYtSqE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhjx4KLaLrZNxzsBY8j8U6Pntu.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Thammudu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256002.mp4&play_token=BnqSa7Cw3A&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256002.mp4&play_token=OzzG7KaBL3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmlHe006pSdY7IZukT9hVLA3h9U.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Ramam Raghavam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1255998.mp4&play_token=HVKDGV71r8&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1255998.mp4&play_token=vAhKRn6yaH&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCgKANxZJW645pXdmJdBb4ysRPk.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Chhorii 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1255994.mp4&play_token=Zbp1M9T1KC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1255994.mp4&play_token=w9fRYARNPe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ztRFbp1YSvMSIrr7AqYq6i6pqC.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Sitaare Zameen Par
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1248919.mp4&play_token=4PLOv8CI2f&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1248919.mp4&play_token=zqDyuYyuCg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mc83CBPbeHQceWwrb8wlvxCaL3k.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ St. Patrick's Day Massacre
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1246787.mp4&play_token=SjdapV9UCU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1246787.mp4&play_token=bbbV11PqZf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgNetedu19Ar9LkUXGNheh9NL1D.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Maargan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1246779.ts&play_token=F29V1gemKU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1246779.ts&play_token=jFegSHL6FI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3sgIwJY6xgeXKZeIXIbDtGEwXJ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Romeo S3
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1241266.mp4&play_token=RmEZLFwtIi&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1241266.mp4&play_token=jwnOomyIGG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xhdWk6y5hVUAOhW7MsBMA7wb10.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Narivetta
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1239405.mp4&play_token=s73Wo55xQJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1239405.mp4&play_token=M3J4FOw8YF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s31pY3kEvCSPLQMOWo1nvMKXzk1.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Kuladalli Keelyavudo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1239402.mp4&play_token=3nZxiqnfL0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1239402.mp4&play_token=FngAX1PDtA&type=movie
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zYq5JQC/MV5-BOGFj-OTg5-Yj-Qt-Nz-Jl-NS00-YTdm-LWJh-Mj-Ut-Yjk4-NWU5-NDVm-YTY1-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Anandi: Meyeder Protishodher Larai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1239393.mp4&play_token=gaRnhplIOm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1239393.mp4&play_token=xcySYDZE0S&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q94u10VJF75uyctLmqw5CL2S1d.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Saaree
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229974.mp4&play_token=VAvmDCrwWq&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229974.mp4&play_token=gi9O7zvjFh&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHazywwR708uGWC4FZXlfOETMkU.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Oka Pathakam Prakaaram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229973.mp4&play_token=gp8NXcP3lA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1229973.mp4&play_token=YjXe3hH01q&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzduT5nNgmjvfD9pJom265S9te3.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Uppu Kappurambu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1224546.mp4&play_token=weTXFeKWlU&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1224546.mp4&play_token=olhkTVrDYv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DmBbUtbA3T9sdVXDgIJ8bsIDw0.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Thug Life
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1224545.mp4&play_token=bUbRI14x97&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1224545.mp4&play_token=E6j9cC4H51&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DmBbUtbA3T9sdVXDgIJ8bsIDw0.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Thug Life
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1210556.mp4&play_token=uzLM775lNp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1210556.mp4&play_token=xNosVDklug&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9m4lvnqvwppA4BIoxqcWsWna5is.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Padakkalam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1210550.mp4&play_token=spee6gk6LA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1210550.mp4&play_token=kxAXVHtbXU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNSqWJaoiyA3hqNTQ1YB7VZTDTm.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Ground Zero
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1210545.mp4&play_token=PL0DmYoADj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1210545.mp4&play_token=7ly2kz7AsY&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2yVhbMkpi4JvvdIhvRpS0Muge7.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Saripodhaa Sanivaaram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1208308.mp4&play_token=wrf2mnZy2c&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1208308.mp4&play_token=q48YlfG8bt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x61qdvHIsr9U53FwoLVDQqAGur0.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Brahmāstra Part One: Shiva
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1206883.mp4&play_token=cSFIpoOPzm&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1206883.mp4&play_token=w3A3ECxoYQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwKUBNcmLxypUPdMHWp7WxcNbsJ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Bhavani Ward 1997
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202801.mp4&play_token=bUZ5L93LvD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202801.mp4&play_token=Yuues0TJwT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4OwzcY6r2L1M1S6uYzmtzjwAqX.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Alappuzha Gymkhana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202800.mp4&play_token=A31vKZy9vQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202800.mp4&play_token=E0DwM6ZjYA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpvptCCkoF85hZL3xd6olSAg8qc.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Borbaad
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202806.mp4&play_token=QuQ4QA0EnI&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202806.mp4&play_token=5qGFl1jbdA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SvN6sZikMa2leMSpHevuri0oic.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Veera Chandrahasa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202826.mp4&play_token=gIgjIy147u&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202826.mp4&play_token=1RG9AntHDp&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vyTSh8zZEWJzlkQo6RSgWo2pZ3.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Devmanus
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202808.mp4&play_token=ySemrAaHrR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202808.mp4&play_token=8CmY0e3nVR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mI2V4nh36F5bk93pIuin0eKh4rU.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Kesari Chapter 2: The Untold Story of Jallianwala Bagh
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202815.mp4&play_token=sOH8pRGEjY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1202815.mp4&play_token=5BbSUTevaA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t48miSSfe7COqgbgMyRIyPVTBoM.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Sikandar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200999.mkv&play_token=wTuM3CPbp0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200999.mkv&play_token=479YUqj8zV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JthNUcRU89h9M6k3yQxLkACEJQ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Deva
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200993.mkv&play_token=VygoKJfKgy&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1200993.mkv&play_token=EbPXcotLn6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwl9Y4px8TTIQK4N19k6gnW1RnX.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  The Diplomat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199877.mkv&play_token=fmezgjLw7q&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199877.mkv&play_token=e75uKnyBOq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jZaBr3dTIW8N4D6F4Cprssfm7V.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Test
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199873.mkv&play_token=jUF2Yenv9n&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199873.mkv&play_token=Xdl8ZRFnBk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucwirgaK4v9ylQyDkwoXJtDIlf7.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Officer on Duty
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199870.mkv&play_token=sJHHJlYvcF&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199870.mkv&play_token=yZWucfrWAQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pEX67LJd7ZIqYWtksBtOgQEGcQ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Court
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199867.mkv&play_token=NaWUUO4vSJ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Azaad
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199865.mkv&play_token=97jNWepYCC&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Retro
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1198848.ts&play_token=nnhtNIDIej&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Jaat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1198843.ts&play_token=o3sQGlArTb&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Sikandar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1190806.mkv&play_token=45MaimQncF&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Saripodhaa Sanivaaram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1190805.mkv&play_token=lsYZms2T0l&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ L2: Empuraan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1179638.mp4&play_token=BSS42d4S5m&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Deva
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1172405.mp4&play_token=7IxEr5J0j9&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Emergency
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1172395.mp4&play_token=ouAZtWOrcG&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Court: State vs. A Nobody
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1172392.mp4&play_token=DngeXIsOVi&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Hathya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160144.ts&play_token=2S3e9IRkDo&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Veera Dheera Sooran: Part 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160137.mp4&play_token=H6iC3cZWpt&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Superboys of Malegaon
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160131.mp4&play_token=MfL6ADLWCb&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Sky Force
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160129.mp4&play_token=xMvWoqrAuw&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Racharikam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160125.mp4&play_token=AuZRqWo4as&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Perusu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160123.mp4&play_token=vGdSc1qcFa&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ murmur
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160121.mp4&play_token=2puSldbQHF&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Mazaka
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160119.mp4&play_token=zVbWpFJbNE&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Majhail
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160118.mp4&play_token=OtCBAPYYxQ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Mad Square
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160117.mp4&play_token=KSlb6MGzdU&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Sikandar Ka Muqaddar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160114.mp4&play_token=1K0PZ6dCEz&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Jewel Thief: The Heist Begins
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160113.mp4&play_token=l7o0814IWZ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Indian 2: Zero Tolerance
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160112.mp4&play_token=b8YJIrJnrn&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ AKA
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160111.mp4&play_token=xlT4sz9Hyp&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Furlow
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160110.mp4&play_token=j0FNEdd0R7&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Fire
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160109.mp4&play_token=Z804yAFWSR&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ The Emergency
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160108.mp4&play_token=Yq3PRrU2bk&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Dhoom Dhaam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160106.mp4&play_token=Nu1LoqWa7c&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Crazxy
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160105.mp4&play_token=9VLWelVkzB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199867.mkv&play_token=tUa6U5inD5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWFpiJcUJfXRbm3om48kNJ0MU7A.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Azaad
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1199865.mkv&play_token=xeEFmXvtYM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGv62UIUfjrEUlItYPJXb1zU0lB.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Retro
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1198848.ts&play_token=mg7GzXZ0Qu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guTflsCTgLNqTbpHTi9gJANk1Rf.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Jaat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1198843.ts&play_token=GP38gvymsp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t48miSSfe7COqgbgMyRIyPVTBoM.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Sikandar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1190806.mkv&play_token=3IuevZMXA0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTDMz108ZexyvJlw3apgE2PJ6Lq.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Saripodhaa Sanivaaram
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1190805.mkv&play_token=msLIFstYKa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfaZipN3Aw5BK85nEvfr2FNg4EW.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ L2: Empuraan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1179638.mp4&play_token=kq2uZdGjmp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxtXzAlEPxmjHILU8k8wduvBSdo.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Deva
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1172405.mp4&play_token=CzAcZHncoW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yp5eg70g6LaZoBiApOv9oerzvvX.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Emergency
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1172395.mp4&play_token=L8Znl954ix&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pEX67LJd7ZIqYWtksBtOgQEGcQ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Court: State vs. A Nobody
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1172392.mp4&play_token=756WWVU5ro&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iD7ZM1vZXQ8A39b3UM0a44VKzQf.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Hathya
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160144.ts&play_token=raRaPu8LFe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iiWsXJ31BVbypWwzvoPKx24NFQ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Veera Dheera Sooran: Part 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160137.mp4&play_token=KjJZjbGjLm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DJusG45vG0487EplZH1Xrq508Z.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Superboys of Malegaon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160131.mp4&play_token=pI9NjwtRx0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmtev9YTlIRDo25G7lN8dzyoszn.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Sky Force
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160129.mp4&play_token=uuWhSM6Cfs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mGo4QTUZLITICL9vgk0km0Vdfq.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Racharikam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160125.mp4&play_token=dDCB7DHNWW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avD34sOjy6KbU1w6Xy9LhHYg60c.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Perusu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160123.mp4&play_token=wuzMvrtlAK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuBaqUxKRtecFARaQXsiKb97Gdt.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ murmur
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160121.mp4&play_token=yKjAFlLLIf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjQux36LtV5PfF4a0wgmp71Eo6p.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Mazaka
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160119.mp4&play_token=ILfXPNaop6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7OSIqomkkxwnCEVsMSD5M4HT4e.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Majhail
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160118.mp4&play_token=wD5dlXuZRU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC5QC3F6KQEeq5GAydzkOZnOPZD.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Mad Square
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160117.mp4&play_token=KnJWfBbuDN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWUh4rgxtgypgnOa6uGMnUt01ux.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Sikandar Ka Muqaddar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160114.mp4&play_token=DTVMBejiT8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Jewel Thief: The Heist Begins
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160113.mp4&play_token=a12LbdANqL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPoiIfqmVfNYZRVUtfTSyuAj8Tw.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Indian 2: Zero Tolerance
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160112.mp4&play_token=yurkDhF0oG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tP2PeEBybZC8orlVve96DeS7DcY.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ AKA
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160111.mp4&play_token=jW54MzV8LU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWFqyadJnAUkm0c9it86Kzh4WQN.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Furlow
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160110.mp4&play_token=MAoZReciCv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Nf52vNlQNJpSt2uFodMCdz99Dy.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Fire
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160109.mp4&play_token=0nyCohyaYa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yp5eg70g6LaZoBiApOv9oerzvvX.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ The Emergency
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160108.mp4&play_token=ABnxB0iyyu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2E7me3rPi8HqaeheuD86YlpNX6k.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Dhoom Dhaam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160106.mp4&play_token=8aDwbH2dIs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iv8aiThyZ1pUssV62jkmJNRUQn.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Crazxy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160105.mp4&play_token=HeB1fuFNip&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVMkRDvLSxOdDIHtc5oaVfBbQs5.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Costao
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160103.mp4&play_token=mnWNASVj95&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160103.mp4&play_token=UAl3tCmKHw&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JjBkOe7rhxRd4T2xTuaHXkZsA3.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Choo Mantar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160102.mp4&play_token=w7ZbVk4NpR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160102.mp4&play_token=uOTOpUiNZ6&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubRsrzb6NRW8YhVTJ6jG1kpNvCi.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Chhaava
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160100.mp4&play_token=i2kirrdFbC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160100.mp4&play_token=rbhorQYWP5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWFpiJcUJfXRbm3om48kNJ0MU7A.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Azaad
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160095.mp4&play_token=Ih75LvfNRb&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1160095.mp4&play_token=U5OkSmVpU0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R3KQiDQuNqB3gBnft4qShpJbrr.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ The Legend of Maula Jatt
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089507.ts&play_token=525LOTAgum&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089507.ts&play_token=r8B0uUcIyK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9poph8OdbAo2XUy9dJZpZGtOI6W.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Sorgavaasal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089506.ts&play_token=VvmmMnpZoh&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089506.ts&play_token=Mlj9dzC4of&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2coys6g8PRqiP0sHEA2T6uLkEf.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Mrs.
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089505.ts&play_token=0ynALDJX6M&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089505.ts&play_token=1PgVQs7e6v&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrkPOgbJpqCRqY0Z8cbltxLGwzl.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ MAX
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089504.ts&play_token=0Quqep2nwK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089504.ts&play_token=UmYBjLE9yU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Marco
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089503.mp4&play_token=NTozzyuzLp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089503.mp4&play_token=GADtaFDT3J&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muCgRYhmB2B52RHafNG0YX0qOQv.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Emakku Thozhil Romance
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089501.ts&play_token=tzDOFZgPTH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089501.ts&play_token=7anFOFR16z&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20gbgzSXWOXvCjQGzZj4J1aFp5t.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Maryade Prashne
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089491.mp4&play_token=zrfeypbsFB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089491.mp4&play_token=3rLmE0wU4M&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enCWwZO7i1gk7agzG4yvz5vZEDQ.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Dhakshina
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089486.mp4&play_token=RO9OJ2VVPp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089486.mp4&play_token=8ANEgck51a&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLHq7fQA3xpck5UIHcRYgip5pQD.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Den of Thieves 2: Pantera
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089485.mp4&play_token=X8vTZnXkOK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1089485.mp4&play_token=52R96kNAhI&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l86HDx0XbCi6d49HfAWcr3JUxOY.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Locker
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1064516.mp4&play_token=8akWIO2dXg&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Fear
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1064514.mp4&play_token=5hr6Q5n6jD&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Death Whisperer 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1048968.mp4&play_token=zsyutBzI0j&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1064516.mp4&play_token=28IrjVvm50&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yNwiNsFCKXHJ0Jubpu7p9PumUl.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Fear
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1064514.mp4&play_token=Uu6QhBTQWA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDW5eeFUYp1vaU2ymEdVBG6g7iq.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃ Death Whisperer 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1048968.mp4&play_token=otzcId23aU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ote8HmQOgmoAfqFaqVKsEdgD2q4.jpg" group-title="┃AR┃ NEW INDIAN MOVIES",┃AR┃  Bade Miyan Chote Miyan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=833538.mp4&play_token=z5ohbAcwDK&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=833538.mp4&play_token=YwVBkWfnB1&type=movie

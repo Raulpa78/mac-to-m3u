@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4maZqH6a4vOUKuFzUrARZAiNc3.jpg" group-title="┃PL┃ HORROR",┃PL┃ Lovely  Dark  and Deep
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800638.mkv&play_token=fua3rINW8U&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃PL┃ HORROR",┃PL┃ Urbex
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800637.mp4&play_token=wuV2hvu1u3&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asCLy4s7HYP3zSRlLP4Qgme5L0A.jpg" group-title="┃PL┃ HORROR",┃PL┃ Fear
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800627.mp4&play_token=XGXjhWuVOt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHbSC2Np17CRsRXIbaE0YY1Hora.jpg" group-title="┃PL┃ HORROR",┃PL┃ Separation
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800624.mp4&play_token=hYZWWEEU6P&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L3bzQ86Gxw2DboXEWIgymLLfvy.jpg" group-title="┃PL┃ HORROR",┃PL┃ It's a Wonderful Knife
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800608.mkv&play_token=4Bx5rYFOpt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4fDXNCILGFsSN4btDH08Wd5pax.jpg" group-title="┃PL┃ HORROR",┃PL┃ No Way Up
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800568.mkv&play_token=T1XnmrOBFY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tl3vIpRNKaWyMJiLxkpdT9Q2EWm.jpg" group-title="┃PL┃ HORROR",┃PL┃ Suitable Flesh
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799202.mkv&play_token=9MnAVh36rN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUw081I0k5JWL6NpTaDRjMpLKwr.jpg" group-title="┃PL┃ HORROR",┃PL┃ You Are Not My Mother
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799199.mkv&play_token=FQGZzUAdc4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qfkGjs83xAa1Vhe9SWklrjpEoD.jpg" group-title="┃PL┃ HORROR",┃PL┃ Row 19
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796611.mp4&play_token=Uc0a66VH4B&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL2BC3NE7U76ktoHRKAmA7meRoz.jpg" group-title="┃PL┃ HORROR",┃PL┃ Crow Valley
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796577.mp4&play_token=slFv7zYp1n&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWT70TvbsmQaqyphCZpsnQR7R32.jpg" group-title="┃PL┃ HORROR",┃PL┃ Blade
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796567.mp4&play_token=s05b5YiHmH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvwMvrX2XqZVOz35YuYbFx3Iggr.jpg" group-title="┃PL┃ HORROR",┃PL┃  Till Death
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796563.mp4&play_token=jcGFfv0wOT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ee1j9gW4tLZtVmKu6ru6grqRL8.jpg" group-title="┃PL┃ HORROR",┃PL┃ We Might Hurt Each Other
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795290.mkv&play_token=oJDDReovPL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cTS53OMxke1egPSZ3feW5TNb7B.jpg" group-title="┃PL┃ HORROR",┃PL┃ The Texas Chainsaw Massacre
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793658.mkv&play_token=2RTAe5Znl2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7VOAGERdMMa1S7PANXkdcjT1R4.jpg" group-title="┃PL┃ HORROR",┃PL┃ Story Game: mroczne opowieści z Japonii
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793651.mp4&play_token=X0hwEcvj7L&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/safosm5GTGKpJQxudigMv8HOIwL.jpg" group-title="┃PL┃ HORROR",┃PL┃ Nocny prześladowca
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793633.mkv&play_token=YaAOdpd0KF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AwhFI88HW2BE62E6kEsTGPliZKB.jpg" group-title="┃PL┃ HORROR",┃PL┃ Exeter
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793626.mp4&play_token=4pZMoUvnqe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4maZqH6a4vOUKuFzUrARZAiNc3.jpg" group-title="PL┃ HORROR",PL┃ Lovely  Dark  and Deep
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800638.mkv&play_token=vCXQ5X9VLD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PL┃ HORROR",PL┃ Urbex
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800637.mp4&play_token=iRyjmIzKGK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asCLy4s7HYP3zSRlLP4Qgme5L0A.jpg" group-title="PL┃ HORROR",PL┃ Fear
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800627.mp4&play_token=Y1sjrFfOZA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHbSC2Np17CRsRXIbaE0YY1Hora.jpg" group-title="PL┃ HORROR",PL┃ Separation
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800624.mp4&play_token=qmZEQglNf7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L3bzQ86Gxw2DboXEWIgymLLfvy.jpg" group-title="PL┃ HORROR",PL┃ It's a Wonderful Knife
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800608.mkv&play_token=uLSGpnA4aI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4fDXNCILGFsSN4btDH08Wd5pax.jpg" group-title="PL┃ HORROR",PL┃ No Way Up
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800568.mkv&play_token=pjBOSW76ZD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tl3vIpRNKaWyMJiLxkpdT9Q2EWm.jpg" group-title="PL┃ HORROR",PL┃ Suitable Flesh
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799202.mkv&play_token=O8oHJXVZY9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUw081I0k5JWL6NpTaDRjMpLKwr.jpg" group-title="PL┃ HORROR",PL┃ You Are Not My Mother
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799199.mkv&play_token=w8eqot5C1S&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qfkGjs83xAa1Vhe9SWklrjpEoD.jpg" group-title="PL┃ HORROR",PL┃ Row 19
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796611.mp4&play_token=8p4VZH51yR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL2BC3NE7U76ktoHRKAmA7meRoz.jpg" group-title="PL┃ HORROR",PL┃ Crow Valley
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796577.mp4&play_token=HnDKiHtDYH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWT70TvbsmQaqyphCZpsnQR7R32.jpg" group-title="PL┃ HORROR",PL┃ Blade
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796567.mp4&play_token=BIHjcRxGts&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvwMvrX2XqZVOz35YuYbFx3Iggr.jpg" group-title="PL┃ HORROR",PL┃ Till Death
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796563.mp4&play_token=YH12jFV8LJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ee1j9gW4tLZtVmKu6ru6grqRL8.jpg" group-title="PL┃ HORROR",PL┃ We Might Hurt Each Other
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795290.mkv&play_token=N7aa3hCMke&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cTS53OMxke1egPSZ3feW5TNb7B.jpg" group-title="PL┃ HORROR",PL┃ The Texas Chainsaw Massacre
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793658.mkv&play_token=egVF6w9ZxJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7VOAGERdMMa1S7PANXkdcjT1R4.jpg" group-title="PL┃ HORROR",PL┃ Story Game: mroczne opowieści z Japonii
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793651.mp4&play_token=lf2Z4b4AzJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/safosm5GTGKpJQxudigMv8HOIwL.jpg" group-title="PL┃ HORROR",PL┃ Nocny prześladowca
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793633.mkv&play_token=mSoNwmfQSb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AwhFI88HW2BE62E6kEsTGPliZKB.jpg" group-title="PL┃ HORROR",PL┃ Exeter
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793626.mp4&play_token=TAmpFaYMai&type=movie

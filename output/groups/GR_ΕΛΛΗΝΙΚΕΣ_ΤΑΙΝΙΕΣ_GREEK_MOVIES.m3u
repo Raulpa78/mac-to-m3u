@@ -1,309 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zyq2ACLQuasHLcv961fwkyU1kv.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Μετέωρο και σκιά (1985)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2426628.mkv&play_token=iQmqpnWCdN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4zqHptUoK39wIaZ6lpxAlQRqZ8.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η Παριζιάνα (1969)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2426627.mkv&play_token=pu2W8X2upt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etj4FBjI4iteFeyCom833gzH0GB.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η νύφη το 'σκασε (1962)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2420541.mkv&play_token=1ytjxdWp3M&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uGgMRxQrBp4bfQOfq4GlGgNj9l.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η Λίμνη των Στεναγμών (1959)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2420540.mkv&play_token=evCgKjI2iu&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aY2gDlyl0JdAloPPXTEcWdg7WT.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η Λίμνη Των Πόθων (1957)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2420539.mkv&play_token=Gn4akivJ0H&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUqgXIfNr2pGn4KOwIb1PbLEvfh.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η Βίλλα Των Οργίων (1964)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2363835.mkv&play_token=YAPSN21p80&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPi2w83rttCK1t9hm5yF98AWgu5.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η Αριστοκράτισσα Και Ο Αλήτης (1970)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2363834.mkv&play_token=KaDriAP21N&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDeuMsKWHFFrHC51UKGqACuuBT5.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Τελευταία πτήση (1978)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2361443.mkv&play_token=9xQleBMz7z&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuDqDiXx3xoAIHnodAZoAqu2wR.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Επιστροφή (1965)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2361442.mkv&play_token=zcKW5Nliqn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3Ioj5tIyRyiOQSXwh6bKiTECY5.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ποια Είναι Η Μαργαρίτα (1961)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351277.mkv&play_token=TVSytLR44b&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lz0B46JYNhurERFpuocKxBoYemH.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Παλικάρι στα Θρανία (1987)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351276.mkv&play_token=NytKejGDAl&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OjlHZdIEUXYm3Os8Wsif6S2SyU.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο τυχεράκιας (1968)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351275.mkv&play_token=RMANKWSElc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fU5j4aOl2sbYNhrw6hK4zNxUj1v.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο Πιο Καλός ο Μαθητής (1968)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344211.mkv&play_token=fu3cvbdaAf&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czf1KhMR1A1rt9oBNbdUsmgt23k.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Οι παράνομοι (1958)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344210.mkv&play_token=A9qQmgTg43&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzJcn2k6rbgfaf2zSlm8ItOqdbb.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο Παραγιός Μου ο Ραλίστας (1971)g
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336236.mkv&play_token=GlCei9SW2E&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iReaufBxJOtWAWkEvy5ombXTW2Q.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Οι Σφαίρες Δεν Γυρίζουν Πίσω (1967)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336235.mkv&play_token=SzCdaBrpMK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gN71GG3c1qzAemLIZ2N8Km3bgVK.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η Μαρία της Σιωπής (1973)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336234.mkv&play_token=kGIWjlyC8L&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9636Hapol4C77mSgNTCRFu07Hk.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Όταν οι γυναίκες αγαπούν (1967)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2313716.mkv&play_token=3dMNsCDHKe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/862QQ7zMmVwtLLMWbH5D3lObPQF.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο νάνος και οι 7 χιονάτες (1970)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2313715.mkv&play_token=0mlqS0TaZm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4LJrqMIleYgb4XB7X7Qncav94V.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Στεφανία (1966)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2308543.mkv&play_token=iaxEyb9hxq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m35ZtCOzQmxxCzqghZ5WbAbVov9.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο Μπαμπάς Μου Ο Τεντυμπόυς (1966)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2308542.mkv&play_token=7i7U3QZcsJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJORp1SGrtimzmqdO2rF0SAqRo4.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Θηλυκή Εταιρεία (1999)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2308541.mkv&play_token=ez56IcIKX9&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1zdZm1qmxDTtTeC9z9CCZJMGou.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ένα Αστείο Κορίτσι (1970)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284911.mkv&play_token=eyux8qDNdI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxKGOTIP1aMif2vULCkh8VpR7Ir.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ζούσα Μοναχός Χωρίς Αγάπη (1971)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2279015.mkv&play_token=h5BiAYQxvx&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMUzPHZfoVXXP86WdwpofikBa4n.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ένα Καράβι Παπαδόπουλοι (1966)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2279014.mkv&play_token=CzlpzELNs5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oebFhbWg2bh66n3TPYSiOTuADA4.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Υπάρχει Και Φιλότιμο  (1965)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2259130.mkv&play_token=Kn2wi4aE3e&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yU2H7Ehklgl90MCdddNH5TkC3Vg.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ταξίδι του μέλιτος (1979)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2259129.mkv&play_token=iEELavNQCY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uN6ghzdqU0UitjM21OBMXA0Ya0F.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Πανίδα (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2259128.mkv&play_token=SZwIDVybpJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywpmqYwi7GRvMTHXQgCivC14bjJ.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Δύο Κόσμοι (1949)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2259127.mkv&play_token=6wXcSHy8ft&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bi5paxTmFDPIomPsxpTcPMDfiE.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Το Κλάμα Βγήκε Απ' Τον Παράδεισο (2001)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2219150.mkv&play_token=dAIAoUgTn0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OZXji03kW0J0UGzJhOLuA8nUyx.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Διχασμός (1965)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2219149.mkv&play_token=7gBbr5Iry9&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yq6rmGxkfS8McsG8TXmVrtpjKWa.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Διαβόλου κάλτσα  (1961)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2219148.mkv&play_token=BSVdBFitcj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FCQCAonG9tWUHIbSMyiacMbuVW.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ψηλά τα χέρια Χίτλερ (1962)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150048.mkv&play_token=E82KFSYja8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQHaHLfjLKK0eGmuoSJJUij1zyp.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Υποβρύχιον Παπανικολής (1971)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150047.mkv&play_token=0whbjXMxkY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbvTnHzsozPQwDdTB7J9Y0fpSky.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Τελευταία Αποστολή (1949)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150046.mkv&play_token=OllEu8wbzU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePTFxKbmzGPNcvdaTDHwFqHDBdw.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Στη μάχη της Κρήτης (1970)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150045.mkv&play_token=7qoPHeeaHo&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SSvIzh6rbgVMkCeuEBTAT28hwu.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Δεκαεπτά σφαίρες για έναν άγγελο (1981)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150041.mkv&play_token=ZMzUNeAXa3&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xei538EdR2Zr9hi42mAYWv7HNec.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Προδοσία (1964)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149057.mkv&play_token=1CNVYqmp62&type=movie
-#EXTINF:-1 tvg-logo="https://mpellas.me/data/torrents/torrent_images/m/oxi.png" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΟΧΙ (ΤΟ ΕΠΟΣ ΤΟΥ 1940) (1969)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149056.mkv&play_token=tOCrb2YcGB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5OyJNlqUNPHZqFFwRGvvzBUYMX.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ουρανός (1962)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149055.mkv&play_token=dQAbl78PZ8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QKlzvOGnJYlaPMcS9htGz1G9se.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Οι Γενναίοι του Βορρά (1970)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149054.mkv&play_token=GmopS6FdJr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFvuq5HOMlPu228U5UTXU0tPKkk.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Οι τελευταίοι του Ρούπελ (1971)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148354.mkv&play_token=FhYGdr1e8d&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HeLByxITOBNpMRvsWwkhrejHWR.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Οι Πολεμιστές της Ειρήνης (1973)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148353.mkv&play_token=rf6yyary6e&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMJ42V3U9y9Xhj5yMAzoIhtpZJQ.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃Οι Γερμανοί Ξανάρχονται (1948)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148352.mkv&play_token=A1GYx8XQ1m&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c45JqeQohnMdXCEeDkJ4jaNDfQT.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Με Τη Λάμψη Στα Μάτια (1966)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148351.mkv&play_token=gSSjhtVuOw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhMje5Fq8J75OY8tvLEDeup7xt2.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ένας Γερμανός Στα Καλάβρυτα (1970)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148350.mkv&play_token=q5cdrmEfbQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGoxp0vgrAqu5sq9K6ACGFhwW2u.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Αδούλωτοι Σκλάβοι (1946)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148349.mkv&play_token=5CIY7v0ytT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzVbMIWPIFoAX1Vi7PDDOiAWWjO.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο τελευταίος των κομιτατζήδων (1970)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147552.mkv&play_token=RWO8fu0Juz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lszHSfIMy6GilPuNNfwFRI51MtA.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Οι Γενναίοι Πεθαίνουν Δύο Φορές (1973)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147551.mkv&play_token=Y3VxNK0PpN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azkJDUW3OQpjcabFxTyRmAeBJLr.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο γυρισμός του στρατιώτη (1966)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147550.mkv&play_token=a5KVVVHJ6F&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azkJDUW3OQpjcabFxTyRmAeBJLr.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο γυρισμός του στρατιώτη (1966)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145908.mkv&play_token=rPO40v2EAv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91v81bbZK5s8izEoZivEq5lf2ok.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο αντιφασίστας (1972)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145907.mkv&play_token=u2P57i4A4a&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWvfb9NyxSo7c61nb5eWIEtuOjO.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ξεχασμένοι Ήρωες (1966)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2145906.mkv&play_token=xJS9qvIIs8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Fgx0UDcD5gooU20PIQ37uULKH7.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Μια Γυναίκα Στην Αντίσταση (1970)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144879.mkv&play_token=IJLjOMMR6u&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWkOv0U4WxTlsK7AADgZSsbMl7m.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Κοντσέρτο Για Πολυβόλα (1967)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144878.mkv&play_token=2AFaf1AiUa&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87VCVmvdfPZQn9ZEInQ8ikgqpGE.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η Χαραυγή Της Νίκης (1971)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144877.mkv&play_token=ywkVPMt8sH&type=movie
-#EXTINF:-1 tvg-logo="https://mpellas.me/data/torrents/torrent_images/m/h-daskala-me-ta-xanyha-malia.png" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η ΔΑΣΚΑΛΑ ΜΕ ΤΑ ΞΑΝΘΑ ΜΑΛΛΙΑ (1969)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143652.mkv&play_token=qioTP0bA2L&type=movie
-#EXTINF:-1 tvg-logo="https://mpellas.me/data/torrents/torrent_images/m/h-daskala-me-ta-xanyha-malia.png" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΕΠΙΚΙΝΔΥΝΗ ΝΥΧΤΑ (1976)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143651.mkv&play_token=q9f6XfZYLz&type=movie
-#EXTINF:-1 tvg-logo="https://mpellas.me/data/torrents/torrent_images/m/egw-rezilepsa-ton-xitler.png" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΕΓΩ ΡΕΖΙΛΕΨΑ ΤΟΝ ΧΙΤΛΕΡ (1970)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143650.mkv&play_token=HdbhEzHWy9&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQ2hR7VKALZxqf7xYaeDJOCTw3s.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Άννα Ροδίτη (1948)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142672.mkv&play_token=onEnJB22Ck&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmaNTgMFtdMSs8fOXlo64xrgkIO.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΑΡΚΟΥΔΟΤΡΥΠΑ (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134048.mkv&play_token=fUG8gTmAoc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uLGQE5bztyxJSihYg65k64ZTGm.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Σχολή για Σωφερίνες (1964)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2131912.mkv&play_token=6F28VEafsC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDF6JGndrS9wG3eABTxuw6D5RNm.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο Πεθερόπληκτος (1968)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2131911.mkv&play_token=ylShzIpQLf&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lE763fUdlyIwtHu6NWXAEF9pOHM.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Καποδίστριας (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2131910.mkv&play_token=LFvoDDXTj9&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mxWIaTNAzmlHza3llZZtme1M1T.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ένας Τρελλός Γλεντζές (1970)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2131909.mkv&play_token=g3YmoZeNbT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIjQD2LLZ0mVUbIWUInxRzdRAHb.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η Μουσίτσα (1959)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2118846.mkv&play_token=quQHh6tSqz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIjQD2LLZ0mVUbIWUInxRzdRAHb.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η Μουσίτσα (1959)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2114595.mkv&play_token=19knbjKKRw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8ojPUe7fbXsVTmEABc9qruyjft.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο Θόδωρος και το δίκανο (1962)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2108724.mkv&play_token=T8qKHOObVj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qySKGV5FCeRO28Gy31em1my1F15.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΑΓΑΠΗ ΜΟΥ ΟΥΑ-ΟΥΑ (1974)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2108723.mkv&play_token=nLxX9lwmf2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRs8hlY0MfuUhKMW1lu0r4iutde.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Πέντε: Το Ολοκαύτωμα της Σαμοθράκης (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2074299.mkv&play_token=yBIw6vrpIe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VjeWL8KQQFnURC9JZvS5EFLG0j.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Θανασάκης ο Πολιτευόμενος (1954)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2074298.mkv&play_token=mTHLYNDT2z&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOQJfvQ6DR4zaOa6DYRjZNpCiAp.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Το παραστράτημα μιας αθώας (1959)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2063627.mkv&play_token=3y0OwMpqkM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xENoEhUI9xwYhDr8pBJAN2dJm2C.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο Παπατρέχας (1966)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2063626.mkv&play_token=N0lryy8Ug6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9an8iqcWuLNNeRqhgHzZ1cGR2T.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Μέντιουμ (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2063625.mkv&play_token=tJ4TtyUkvw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27hTbHivabTuKDJaqz9pLTYalmW.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η Μοδιστρούλα (1964)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2063624.mkv&play_token=8XeCmWO1V5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqwoxIxNjWgmpgYE3DPFFU3RQRm.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Το Ποτάμι (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030163.mkv&play_token=FzqVfdP9e8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLgbupB4xCyBnGeiDOfYXepM632.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Τελευταία Κλήση (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030162.mkv&play_token=1vZSgbv0Vs&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhklS2VC8ywpShsTBCUHyyirQ11.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο σπαγγοραμμένος (1967)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030161.mkv&play_token=mv6cfDWSSq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTIpXZC8pmEVhbbH9MJkIy8OSx.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο ΜΕΓΑΛΟΚΑΡΧΑΡΙΑΣ (1957)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1977541.mkv&play_token=suMlv7gOzu&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sadPlgIdJl8RPFMlAqSUphqgsSu.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ι-4: Λούφα Και Απαλλαγή (2008)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1977540.mkv&play_token=uBgVdOUHZo&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsa3qmiI7slbc1JinUTHQYspIgt.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο Ατσίδας (1962)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936977.mkv&play_token=wQUo4oVhpA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozEBYShc8glFRzLlkJpEsWLc1LH.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ραντεβού Στην Κέρκυρα (1960)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936976.mkv&play_token=no9nRlzZbU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZnNTphdBqR13hzZqE4m6FoKNQL.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Άκουσέ Με (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936975.mkv&play_token=ShIRmWSv5B&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfTtxsaUG0NzCMcmWkUeNrycC6F.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΤΟ ΤΡΑΓΟΥΔΙ ΤΟΥ ΧΩΡΙΣΜΟΥ (1940)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1900152.mkv&play_token=R1Ddqwq0Gw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsbyYMkp0n8KvmwSXbIueHx4F0W.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Όχι κύριε Τζόνσον (1965)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1900151.mkv&play_token=CbKPwF9F9O&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLpneQB7F41zMVVuQRaJxBbkSkQ.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο ΜΑΝΩΛΙΟΣ ΣΤΗΝ ΕΥΡΩΠΗ (1971)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1900150.mkv&play_token=tGPWhykO11&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1sVOGFvmastUs6LApZWusSTuVu.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η Ρουτίνα (2015)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1860572.mkv&play_token=7yKmpeXxQN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peJBBhhqRS3JBAEgbCQdW6s8V6A.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΕΤΕΡΟΣ ΕΓΩ (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1840787.mkv&play_token=rRYV2zxr5P&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8Ps8x6soCS3aX3zwTzjB1r4hHO.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Μια Ζωή την Έχουμε! (1958)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834326.mkv&play_token=hVDGzmIThS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXN89cdSCzm9r77sWxqIrcKaBuA.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΚΑΤΑΙΓΙΔΑ (1965)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834325.mkv&play_token=HkzosoX9Au&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQ5rnBTZqwudrClfqndvzgC8mcA.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΔΕΣΜΑ ΑΙΜΑΤΟΣ (2012)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834324.mkv&play_token=bRy4D3Gjzm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrr8kibQErzrHbjAw92FyaF7IqI.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Νοτιάς (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1821216.mkv&play_token=HuD5shkI7N&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AssgmaK619u686PCN0iHI10kwD4.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΨΥΧΗ ΚΑΙ ΣΑΡΚΑ (ΕΣΥ ΚΑΙ ΕΓΩ ) (1974)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1814212.mkv&play_token=RnzzDoGEvn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slI4IThQpga60XdaWcwHyhHUEXd.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο Λαμπρούκος μπαλαντέρ (1981)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1814211.mkv&play_token=OVZz93J2PE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvJZl9oHFAyLCUvMyEn2VN3FekP.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Κιούκα: Πριν το τέλος του καλοκαιριού - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810849.mkv&play_token=YCynLKeLBo&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmoMEhM0PsgYx93e2ajSx7Vuu4p.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Το πλοίο της χαράς (1967)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1805529.mkv&play_token=hUJDdyTgNP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJL6uBFugMvDLeJY6NZvB2qfVXg.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΤΟ ΠΙΟ ΛΑΜΠΡΟ ΑΣΤΕΡΙ (1967)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1805528.mkv&play_token=HvTedKrK4Y&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fSaFTVLyrOA8uTYUzBFQ2cCnCb.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Το κορίτσι της γειτονιάς (1954)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1805527.mkv&play_token=gXffB3o6iV&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZdcNtRmElayvXHDHQRaQ8zVBXw.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Τα Χριστούγεννα Του Αλήτη (1962)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1805526.mkv&play_token=ao8huCdyTH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2NmcPhoToBk4VRxo40i0xMzFkh.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο ΑΓΑΠΗΤΙΚΟΣ ΤΗΣ ΒΟΣΚΟΠΟΥΛΑΣ (1955)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1795079.mkv&play_token=spTXT5aMgz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vD5vsWgRCPuhf6X7mKDGkc7Y64t.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ξύπνα Βασίλη - 1969
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1795078.mkv&play_token=YasYlo55ti&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7giOX46H7I6t31lOyVs2PkAIs2n.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η Μανούλα  το Μανούλι και ο Παίδαρος (1982)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1795077.mkv&play_token=Zifh3pPL6Y&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xrVyLWrc25vjCYs3P8PYxc0Xcc.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Επαγγελματίες ρεμάλια (1976)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1795076.mkv&play_token=kxuuKQD3k4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5w9TjE5tXHjBImcgaEZ2M9fzzQ.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΕΛΛΗΝΙΣΤΙ  ΚΥΠΡΟΣ (1974)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1787357.mp4&play_token=OpjIf3WDmN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzSdN8r7VYdKgAwDbK8MKOlDYvV.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο ΤΑΥΡΟΜΑΧΟΣ ΠΡΟΧΩΡΕΙ (1963)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781538.mkv&play_token=tqHdllvKhg&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGvmHAu5Bqe3ZDs3SNtxAPtT5kX.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΝΑ ΖΕΙ ΚΑΝΕΙΣ Η ΝΑ ΜΗ ΖΕΙ (1966)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781537.mkv&play_token=Txu69T6bHb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAQrGDNH51RUDvGHuEzmt5isIDY.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Μοντέρνα Σταχτοπούτα - 1965
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781536.mkv&play_token=M4R63qtkjQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbvTnHzsozPQwDdTB7J9Y0fpSky.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΤΕΛΕΥΤΑΙΑ ΑΠΟΣΤΟΛΗ (1949)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1778837.mkv&play_token=lyhNSwpgyw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhnD9xtmVRBO7Cu1wfd0coJnMSR.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο φαντασμένος (1973)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1778836.mkv&play_token=B7nu8IPRzm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkHBS7gu7RmJ6ATqgSW2LU3L5Hp.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο Δολοφόνος Αγαπούσε Πολύ... (1960)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1778835.mkv&play_token=fsvSjjkaW2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhMSOub1iFOeE7SXMpqPVaGNczl.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Έχω Κάτι να Πω (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1778834.mkv&play_token=mC5PMk28z5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dT7JMKFOJPi3SaZuMxzsIfVK6N5.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Το σωφεράκι (1953)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760282.mkv&play_token=y96axPreb6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfs434vKXItZjVSa3jKJ7onlzPO.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΠΟΤΕ ΔΕΝ ΣΕ ΞΕΧΑΣΑ (1962)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760281.mkv&play_token=XoMiQ5Zs5y&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5VjPsEs03InCXAtTLXdntFkLV0.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Πεινασμένος και τζέντλεμαν (1989)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760280.mkv&play_token=5FJunPZtEc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Abu99Za4WZPzsXTvbT90PId0Pc4.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο Μιμίκος Και Η Μαίρη (1958)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753764.mkv&play_token=LpaXypf4bU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TR7L5HS2WlOQVp7hGLJfTKtciv.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Μια Τρελλή Τρελλή Οικογένεια (1965)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753763.mkv&play_token=ZLnWwOzKum&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFcQ9zvQ07eNxvk0SaycPMYyiWq.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Μην Ερωτεύεσαι Το Σάββατο... - 1962
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753762.mkv&play_token=RaJlFCl6br&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDuiXwUzeR0sdi09A2RNJJqaP3.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Το Τανγκό των Χριστουγέννων - 2011
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1752824.mkv&play_token=Z5xkVauOAD&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDTWQRpVS1oYzxwz44WRQe7zg5e.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Το Μόνον Της Ζωής Του Ταξείδιον (2001)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1752823.mkv&play_token=FjI4WlfaKk&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RI497Myhdc23vF1cjwNbwCebnH.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο Θανάσης στη Χώρα της Σφαλιάρας (1976)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1752822.mkv&play_token=cmvVoHebty&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/df3yYz5d3oXZT7RB63O6YR2pMdT.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο Άνθρωπος που Γύρισε από τη Ζέστη (1972)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1752821.mkv&play_token=HcGaeMYeSt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWGEooABYFysoBa3e6cK2V3pAqG.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΤΑΓΚΟ (1973)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1746709.mkv&play_token=WrOXcp6udO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moGM5NUpjknl2k4Hkf1Dw8ZHmbV.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο ΑΓΙΟΣ ΠΡΕΒΕΖΗΣ ΚΑΙ Η ΠΑΠΑΔΙΑ(1982)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1746708.mkv&play_token=VZCQfWpkXz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6kxsnPCgH8AdGU35r3qNgAkeSV.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",Μια Ιταλίδα στην Ελλάδα - 1958
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1746707.mkv&play_token=yR5S4MgpSM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAK3iKslN77lmc8zRIXNUdUSLGk.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Μακρυκωσταίοι και Κοντογιώργηδες (1960)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1746706.mkv&play_token=IRDMe58jhX&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pxfKkyLVreqlT4R5WCuOhr6Kvc.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Μαγική Πόλις (1955)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1746705.mkv&play_token=nO6wRFasnO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV0LWXXnfUVFVdgZBsXAqopCfoK.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Θανασάκης ο Πολιτευόμενος (1954)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741517.mkv&play_token=LMye3pzSdz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szCVeIbJ9Yxl1Ls4jSEI1QCiZ0l.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Δόκτωρ Ζι-Βέγγος (1968)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741516.mkv&play_token=J5h2ezunyp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teE4RYubNKN59VxqkTOolAYklyx.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Αστέρω (1959)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1741515.mkv&play_token=VZPJjrzVAu&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFULnVs0T6oj1ribfttQOQyJP0z.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Κομάντος και μανούλια (1982)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1740272.mkv&play_token=qvLlyf59wN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNZ7GWKvtkZyBZ1ZzNRgFOWn6Gs.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΚΑΤΗΓΟΡΩ ΤΟ ΚΟΡΜΙ ΜΟΥ (1969)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1740271.mkv&play_token=7AYAmrQIPp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4aPu6lu7lG00E2yP4FsfYhOzKz.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ένα Γελαστό Απόγευμα (1979)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1740270.mkv&play_token=vtszVddOeF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaROqFdYcDaOeXXbWQdM9MrYvQz.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",Καλημέρα Αθήνα - 1960
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1736568.mkv&play_token=nITvcKIMEh&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugTkxnb0J8VHC7TQ12riZpRhKbx.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",Η Ψεύτρα - 1963
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1736567.mkv&play_token=HgaMRj2AjK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcmMG4hE3zK0vXEuPO175I5eIsr.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΠΙΚΡΗ ΖΩΗ (1965)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732547.mkv&play_token=pLMFFSROtt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oD5Q5ZbshCtw9rgFMUmEhw4LHS.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Η Δε Γυνή Να Φοβήται Τον Άνδρα (1965)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732546.mkv&play_token=apIpGuddzW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxkTLUn6hqFF5CmfSJKQHb2lQWP.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΕΝΑΣ ΜΑΓΚΑΣ ΣΤΑ ΣΑΛΟΝΙΑ (1969)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732545.mkv&play_token=oJO1gx2trD&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8axiIu33K7b7KivKrN1gbSpFROe.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ένα αγόρι αλλιώτικο από τ' άλλα (1971)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732544.mkv&play_token=rT9DUF4nDO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqIDDbMYxuAwdyCLbpFHJz0qhZp.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΔΙΩΓΜΟΣ (1964)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1732543.mkv&play_token=SS3iZz4Njd&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLsyP227j0pV83ua6oGRzSYGOna.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΕΓΚΛΗΜΑ ΣΤΟ ΚΑΒΟΥΡΙ (1974)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727608.mkv&play_token=Ec5ikreNdN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slkEpViuytoG0zKw52oXQY50nEH.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΓΥΦΤΙΚΗ ΚΟΜΠΑΝΙΑ (1983)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727607.mkv&play_token=GkbqZIafBc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eL8TwetppJIIJkutuoouVfdK6Vq.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΑΠΟ ΠΟΥ ΠΑΝΕ ΓΙΑ ΤΗΝ ΧΑΒΟΥΖΑ (1978)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727606.mkv&play_token=XdQdOjCKXI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXZ8XRY5TqJwFT9Z5Hr0i3YdVte.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ 2000 ναύτες κι ένα κορίτσι (1959)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1727604.mkv&play_token=IcT841EEyK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMR0xycs0JvnZuZdMAQiZj18ua8.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Φωνάζει Ο Κλέφτης
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1721780.mkv&play_token=SDkDXpbndN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1n26CBxsJEhcHHrWvFc949VJxtw.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Έλα στο θείο  (1950)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1721779.mkv&play_token=rLZWMMpHvL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQHaHLfjLKK0eGmuoSJJUij1zyp.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Υποβρύχιον Παπανικολής (1971)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1719346.mkv&play_token=3jvvSA1EeL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaJEUTdMhbYugbMSiYTCLOrbAXr.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Τον Καιρό των Ελλήνων (1981)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1719345.mkv&play_token=zq7YoYHC93&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/duNLM7qlfHLDUxKsxuUaUZNalPV.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Τζαμάικα (2017)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1719344.mkv&play_token=z0naPuJsCw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KCiksCW8CSSNoZSnb0i1bAhsA1.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΣΤΟ ΤΕΛΟΣ ΞΥΡΙΖΟΥΝ ΤΟΝ ΓΑΜΠΡΟ (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1719343.mkv&play_token=Ys1NgitkBI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx3nrWwuiKjMFQZRdwMviDjeXGF.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Προδομένη αγάπη (1962)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1719342.mkv&play_token=FuoC1TqrOX&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/448k4i1cwHJef9qOniUXryychbc.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Ο-ΚΕΫ ΦΙΛΕ (1974)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1719341.mkv&play_token=TQnVi5D0Ph&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybbJtuUM5T2mEjL8vplcUGmkkr6.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Τα 201 Καναρίνια (1964)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1714595.mkv&play_token=GvuX49aedB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT9eV4oPu3iVS8w8V5Q0loAvMry.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ ΣΥΝΝΕΦΙΑΣΜΕΝΗ ΚΥΡΙΑΚΗ (1959)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1714594.mkv&play_token=3g7S3u9VLb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcdfkJ3Goa0bdA9OslDfm8EO16F.jpg" group-title="┃GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",┃GR┃ Δάκρυα Για Την Ηλέκτρα (1966)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1714593.mkv&play_token=EmJhQJFuav&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zyq2ACLQuasHLcv961fwkyU1kv.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Μετέωρο και σκιά (1985)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2426628.mkv&play_token=HNOWz3Ilnh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4zqHptUoK39wIaZ6lpxAlQRqZ8.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Η Παριζιάνα (1969)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2426627.mkv&play_token=bkyI36HaeX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etj4FBjI4iteFeyCom833gzH0GB.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Η νύφη το 'σκασε (1962)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2420541.mkv&play_token=Ha2fGAZuyH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uGgMRxQrBp4bfQOfq4GlGgNj9l.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Η Λίμνη των Στεναγμών (1959)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2420540.mkv&play_token=GnGKEdAotm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aY2gDlyl0JdAloPPXTEcWdg7WT.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Η Λίμνη Των Πόθων (1957)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2420539.mkv&play_token=1MVrRe7vbV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUqgXIfNr2pGn4KOwIb1PbLEvfh.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Η Βίλλα Των Οργίων (1964)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2363835.mkv&play_token=BA4y1gXQrS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPi2w83rttCK1t9hm5yF98AWgu5.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Η Αριστοκράτισσα Και Ο Αλήτης (1970)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2363834.mkv&play_token=WZXuQbxzqy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDeuMsKWHFFrHC51UKGqACuuBT5.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Τελευταία πτήση (1978)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2361443.mkv&play_token=NExZGC88oo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuDqDiXx3xoAIHnodAZoAqu2wR.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Επιστροφή (1965)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2361442.mkv&play_token=7Cnpg6o5lQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3Ioj5tIyRyiOQSXwh6bKiTECY5.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Ποια Είναι Η Μαργαρίτα (1961)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351277.mkv&play_token=PfCRnA3R10&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lz0B46JYNhurERFpuocKxBoYemH.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Παλικάρι στα Θρανία (1987)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351276.mkv&play_token=1tw23yCsls&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OjlHZdIEUXYm3Os8Wsif6S2SyU.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Ο τυχεράκιας (1968)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351275.mkv&play_token=o2x7ZnYjp7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fU5j4aOl2sbYNhrw6hK4zNxUj1v.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Ο Πιο Καλός ο Μαθητής (1968)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344211.mkv&play_token=tzjQVeVGfj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czf1KhMR1A1rt9oBNbdUsmgt23k.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Οι παράνομοι (1958)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344210.mkv&play_token=lk12eZbXfC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzJcn2k6rbgfaf2zSlm8ItOqdbb.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Ο Παραγιός Μου ο Ραλίστας (1971)g
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336236.mkv&play_token=HxeDId3OYR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iReaufBxJOtWAWkEvy5ombXTW2Q.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Οι Σφαίρες Δεν Γυρίζουν Πίσω (1967)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336235.mkv&play_token=UwHfBQ4Xlp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gN71GG3c1qzAemLIZ2N8Km3bgVK.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Η Μαρία της Σιωπής (1973)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336234.mkv&play_token=SybvxKRGE2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9636Hapol4C77mSgNTCRFu07Hk.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Όταν οι γυναίκες αγαπούν (1967)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2313716.mkv&play_token=zvv2QkD7QV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/862QQ7zMmVwtLLMWbH5D3lObPQF.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Ο νάνος και οι 7 χιονάτες (1970)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2313715.mkv&play_token=uXFzMHvHU3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4LJrqMIleYgb4XB7X7Qncav94V.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Στεφανία (1966)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2308543.mkv&play_token=9y1wDUbg9L&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m35ZtCOzQmxxCzqghZ5WbAbVov9.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Ο Μπαμπάς Μου Ο Τεντυμπόυς (1966)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2308542.mkv&play_token=UZQhGUVkx0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJORp1SGrtimzmqdO2rF0SAqRo4.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Θηλυκή Εταιρεία (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2308541.mkv&play_token=EvOBPWIJfy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1zdZm1qmxDTtTeC9z9CCZJMGou.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Ένα Αστείο Κορίτσι (1970)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2284911.mkv&play_token=TiRdyTDZbJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxKGOTIP1aMif2vULCkh8VpR7Ir.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Ζούσα Μοναχός Χωρίς Αγάπη (1971)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2279015.mkv&play_token=hvokcwOC5m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMUzPHZfoVXXP86WdwpofikBa4n.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Ένα Καράβι Παπαδόπουλοι (1966)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2279014.mkv&play_token=mEC1RQ31ib&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oebFhbWg2bh66n3TPYSiOTuADA4.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Υπάρχει Και Φιλότιμο (1965)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2259130.mkv&play_token=2AiHl1maCm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yU2H7Ehklgl90MCdddNH5TkC3Vg.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Ταξίδι του μέλιτος (1979)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2259129.mkv&play_token=QN2pDE3TZu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uN6ghzdqU0UitjM21OBMXA0Ya0F.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Πανίδα (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2259128.mkv&play_token=kQS7DolsOF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywpmqYwi7GRvMTHXQgCivC14bjJ.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Δύο Κόσμοι (1949)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2259127.mkv&play_token=2PHR6ydGLx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bi5paxTmFDPIomPsxpTcPMDfiE.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Το Κλάμα Βγήκε Απ' Τον Παράδεισο (2001)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2219150.mkv&play_token=eFUtX79j9r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OZXji03kW0J0UGzJhOLuA8nUyx.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Διχασμός (1965)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2219149.mkv&play_token=HvqOQzQTa5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yq6rmGxkfS8McsG8TXmVrtpjKWa.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Διαβόλου κάλτσα (1961)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2219148.mkv&play_token=m176uQ8Ic2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FCQCAonG9tWUHIbSMyiacMbuVW.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Ψηλά τα χέρια Χίτλερ (1962)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150048.mkv&play_token=oaOikXG6Rs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQHaHLfjLKK0eGmuoSJJUij1zyp.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Υποβρύχιον Παπανικολής (1971)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150047.mkv&play_token=Jr7pIjy4Fi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbvTnHzsozPQwDdTB7J9Y0fpSky.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Τελευταία Αποστολή (1949)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150046.mkv&play_token=8auQw9uNJN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePTFxKbmzGPNcvdaTDHwFqHDBdw.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Στη μάχη της Κρήτης (1970)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150045.mkv&play_token=4WCqCYarNh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SSvIzh6rbgVMkCeuEBTAT28hwu.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Δεκαεπτά σφαίρες για έναν άγγελο (1981)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150041.mkv&play_token=s4FZ8VuYWa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xei538EdR2Zr9hi42mAYWv7HNec.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Προδοσία (1964)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149057.mkv&play_token=RdPm2kNIOc&type=movie
+#EXTINF:-1 tvg-logo="https://mpellas.me/data/torrents/torrent_images/m/oxi.png" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ ΟΧΙ (ΤΟ ΕΠΟΣ ΤΟΥ 1940) (1969)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149056.mkv&play_token=JQCgPrpyT7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5OyJNlqUNPHZqFFwRGvvzBUYMX.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Ουρανός (1962)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149055.mkv&play_token=mNMApgnsni&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QKlzvOGnJYlaPMcS9htGz1G9se.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Οι Γενναίοι του Βορρά (1970)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149054.mkv&play_token=CD5m03GMRA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFvuq5HOMlPu228U5UTXU0tPKkk.jpg" group-title="GR┃ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ ┃ GREEK MOVIES",GR┃ Οι τελευταίοι του Ρούπελ (1971)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148354.mkv&play_token=wCbGusfLRr&type=movie

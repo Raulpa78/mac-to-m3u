@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zChQ3tTAtUn306xBrDdI1VQkagZ.jpg" group-title="┃TR┃ GÜNLÜK -  PAZARTESİ",┃TR┃ Delikanlı | 4. Bölüm | 27.04.2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1695248.mkv&play_token=GqQxNj6o1q&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="┃TR┃ GÜNLÜK -  PAZARTESİ",┃TR┃ Uzak Şehir | 59. Bölüm | 27.04.2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1686318.mkv&play_token=0dCqq2p5Af&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="┃TR┃ GÜNLÜK -  PAZARTESİ",┃TR┃ Cennetin Çocukları | 30. Bölüm | 27.04.2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1686319.mkv&play_token=eHZ3ICV6E9&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ GÜNLÜK -  PAZARTESİ",TR┃ Delikanlı | 4. Bölüm | 27.04.2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1695248.mkv&play_token=z8xuP3mgau&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ GÜNLÜK -  PAZARTESİ",TR┃ Uzak Şehir | 59. Bölüm | 27.04.2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1686318.mkv&play_token=K5gW1jaTmx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ GÜNLÜK -  PAZARTESİ",TR┃ Cennetin Çocukları | 30. Bölüm | 27.04.2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1686319.mkv&play_token=gzt4GVCrwo&type=movie

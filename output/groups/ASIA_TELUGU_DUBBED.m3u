@@ -1,29 +1,433 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃Clashing Through the Snow (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2421229.mp4&play_token=DIoIavCsqt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFnFLqXjf7RQfkNxrrys43BZKxJ.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃O.M: Operation Mole (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2416801.mp4&play_token=QX6rjx0lMe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃Perfect Liars (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2363715.mp4&play_token=ueKDR9liZw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8g8kx20bZCJ2nqCwORfRLTbKYWf.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃Our Girls (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2363714.mp4&play_token=Pa657mWx6E&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thZGedKvZnnvuLpNWEA1nmalM7K.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃Haiku (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2359979.mp4&play_token=PJPRtwpWRK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21mr5tanGxmvzzt7y9ykfsBkjPj.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃Drones (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2359977.mp4&play_token=xmHQCkenk1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sMOtNG5oMNfBOc3WwWYzEJ3tnw.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃Anbil Avan (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2359897.mp4&play_token=OEwrtJyutc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k37axEHszFP9WOVvbozxF0r7X7g.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃The Mechanic (2011)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351765.mp4&play_token=YC0VOJ9U8j&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃Mechanic: Resurrection (2016)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351764.mp4&play_token=8DpXa1RzSF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃Madden (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351763.mp4&play_token=QBWvsHl2d6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃Guarding Stars (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351762.mp4&play_token=mNbpq7pB81&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃The Odyssey (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2348173.mp4&play_token=TN9RyDWnjq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJsUmiwuZ9eKnOiYLAVk8THFk7i.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃Premada Oorali (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2348172.mp4&play_token=Ttw9IXRcGU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1WtsW3HgUQraeM7Yx7SsOer3cb.jpg" group-title="┃ASIA┃ TELUGU DUBBED",┃TELUGU┃Fight Against Evil 3 (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2348171.mp4&play_token=Quuldg1K1T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lE1XfidwJml7lNGi0D4KlB8uQFY.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Redline (2007)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2439761.mp4&play_token=yVPM8Ezbhl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Rob Lowe: The Outsider (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2426498.mp4&play_token=9V8lj7xh93&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Clashing Through the Snow (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2421229.mp4&play_token=MZMf8SKZDx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFnFLqXjf7RQfkNxrrys43BZKxJ.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ O.M: Operation Mole (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2416801.mp4&play_token=LgwL2178IQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Perfect Liars (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2363715.mp4&play_token=NZxYJvE7zs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8g8kx20bZCJ2nqCwORfRLTbKYWf.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Our Girls (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2363714.mp4&play_token=MUTNozAzss&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thZGedKvZnnvuLpNWEA1nmalM7K.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Haiku (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2359979.mp4&play_token=m3C9XG94KL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21mr5tanGxmvzzt7y9ykfsBkjPj.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Drones (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2359977.mp4&play_token=c4mC8GMnvm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sMOtNG5oMNfBOc3WwWYzEJ3tnw.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Anbil Avan (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2359897.mp4&play_token=nmflCVrXF3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k37axEHszFP9WOVvbozxF0r7X7g.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Mechanic (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351765.mp4&play_token=CCHcRwwnmK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Mechanic: Resurrection (2016)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351764.mp4&play_token=spYQ2pbZ7q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Madden (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351763.mp4&play_token=pGMPdJHCQE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Guarding Stars (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351762.mp4&play_token=gsodtVn62s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Odyssey (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2348173.mp4&play_token=yyIXYD61A5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJsUmiwuZ9eKnOiYLAVk8THFk7i.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Premada Oorali (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2348172.mp4&play_token=iyYTfJKGIi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1WtsW3HgUQraeM7Yx7SsOer3cb.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Fight Against Evil 3 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2348171.mp4&play_token=dXui1ctlZN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocg5JfJP19fodcv5uQUApkmZMdI.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Beast (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344608.mp4&play_token=WTwZgfgXLh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjvSMN5dhSh7cymjj6if2aJ4ejW.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Sapta Sagaradaache Ello – Side A (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344607.mp4&play_token=0A06QpbUh2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Vibe (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344589.mp4&play_token=FeZ2ZhzkEk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNKwDvLdx81UqY4KVl0KybtSTqo.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Third Murder (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344588.mp4&play_token=0yjuVYiyJv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Obsession (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344587.mp4&play_token=klcxKrcjKk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Killing Season (2013)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344586.mp4&play_token=iMrYPoFVSY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Heartland (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344585.mp4&play_token=ZME1WPaNZ0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HA2iiq982e01EKXJvPFyfMADVM.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Cold Storage (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344584.mp4&play_token=kHUpCMBTKO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtDv3lCnST0fZRvdYFwR5CVwK2x.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Avengers Endgame: Encore (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344583.mp4&play_token=M0ytrWET0A&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nP4lF51Ea861YfHEEqhZBLYv3e.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Street Fighter (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344549.mp4&play_token=mc4CIWRSt9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSuqCq3YYLS8VOdiU9ikKOBs5Tz.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Saayavanam (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344546.mp4&play_token=P1fK72hS6b&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Jailer 2 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344545.mp4&play_token=ssOaoPENzG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Gospel of Christmas (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344536.mp4&play_token=YQwEm208dl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Good Lawyer (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344523.mp4&play_token=2JkdVRC433&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNNzsstJeQxnESyH0hZcLGblLMz.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Mookuthi Amman 2 (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344522.mp4&play_token=Zmh50A70tx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Dark Heaven (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344512.mp4&play_token=7NFGaFFY12&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vjVJKpdT6gha7cpkmDJODpk8mU.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Scene (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2343678.mp4&play_token=JSDEmTFbFI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Possible Love (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2283196.mp4&play_token=NdBetME8xy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRhRrxkz4EO14dhKTwl5hG3RrO9.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Nooru Kodi Vaanavil (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2283195.mp4&play_token=D9qg4HIUSo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3zmkbaQSQgWVpNBGbfJlLU9jk8.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ I'm Game (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2283194.mp4&play_token=UOakEddIhb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Ramayana: Rise of a Legend (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2279069.mp4&play_token=eoDCBxCJR9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Meesaya Murukku 2 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2279068.mp4&play_token=tbfgtzUWGv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzxWBdkOWDzOhUD7BdpKKlylAMn.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Frequency of Fear (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2279067.mp4&play_token=Z1eDUQzljK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cV31QO65DA6mk4Hd6S7QncVq85T.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Dilwali Diwali (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2279066.mp4&play_token=XW0ISzeuqX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYaivVOAflK4kcJDUNNxkyminxZ.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Tula Pahta (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2271086.mp4&play_token=OKvrZguNZj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Mongoose (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2271023.mp4&play_token=CwLGrd8Mq4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IdjgWe7XzSHflYWfIVTiZyDDYT.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Aazam (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2271022.mp4&play_token=rwQqkQrkkS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CXBZH6sRJpFTMSaY3wj1jx98F4.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Aakhri Sawal (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2271021.mp4&play_token=IpHMwRlqXS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TSsdfaD0gGlVqBuy2xYxr3RTaL.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ A Dog's Perfect Christmas (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2271020.mp4&play_token=c83LH4tgkp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAgWJhUSQWCgtKR8170nMkYlBda.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Resident Evil (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2259073.mp4&play_token=VLGRVCuPKH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWi4D1rUX1Pg4MaafpwwssqJ9lv.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Strangers: Chapter 3 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184072.mp4&play_token=3hCJwysUPi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqGFILLsEDwsLteNDQextojsYFV.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Birthday​ Gift​ (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184071.mp4&play_token=rZPa8REaMu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTJYIPjyuCbkc7zEtfAFJfVDSV5.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Meethe Mein Kya Hai (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184070.mp4&play_token=AJFdtlk1Tk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Collision Course (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184054.mp4&play_token=RWcNLyg0Sa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plu8tTviVZDO5jP7nzNXsDHLu8P.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Apocalypse Z: New World (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184049.mp4&play_token=t6emL8zSTh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18Lhkc3nf92bY1cacQomXIqihhN.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Sigma (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2173387.mp4&play_token=kDs4ayJuBl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIK5YnqQWKZxyQgaeDDVywUxNWo.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ SI Yugandhar (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2173386.mp4&play_token=wLf8mjD1SK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFCMObAyeWE7iWFH30XNiOjcWsv.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Avaraachan & Sons (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2173385.mp4&play_token=3MdhkqS62o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ev68TZqunJ31uvn7cbchALeDkn.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Immortal (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2170499.mp4&play_token=xjVa8WJ0Po&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Baththa (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2159062.mp4&play_token=C3QGlKynMQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Verity (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2159007.mp4&play_token=0CytAn6Gdb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Drive - The Pretenders (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2159005.mp4&play_token=gozesjUskG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Ali G: Who Iz I? (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2159001.mp4&play_token=xgcIz2HwJs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Aquaman (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2150000.mp4&play_token=nD6lmTnAGX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Dr8Chzse8VagexAporUu2RtLx.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Invite (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147309.mp4&play_token=1c3IUiv3GE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tT9VKxtyyb5uFsxZhdnvE1GVZJd.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ It's a Medical Miracle (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147306.mp4&play_token=nCFAXFiY3l&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4N7M52cBbyi24xLga8yI6yt1u1.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Gajab Raat (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147305.mp4&play_token=QSBGqSZYvM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Dorothy (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147304.mp4&play_token=I5BW7fzB0e&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zsNfsLTfWf0j7L2xbAUnFfwnHF.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Dhoomakethu (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2147303.mp4&play_token=TX3VsJt5YP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nO07vsSxqrE0VN7TcQdtKwaToWY.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Nishaanchi 2 (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144844.mp4&play_token=1FpiSReuGP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0L5ZQP4PjdNziVGvcOeaihXyCc.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Legend of the White Dragon (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2144843.mp4&play_token=0XYyAGS8J7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDI8pTr7QDs1QnDKCKsAoEampZj.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Nishaanchi (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143566.mp4&play_token=nerDjTDYd4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Moana (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143565.mp4&play_token=VED0esNThi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Ghost in the Cell (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2143564.mp4&play_token=eokBsuQGzN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Cape Fear (1991)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2141200.mp4&play_token=6ul7AO7r7w&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lajDAXof8GCO9RvnhtvQl9bgNlK.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Dahaan (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138387.mp4&play_token=SBvM1lN2gt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xmXVd7nCK3tAo34XkO58SxUCip.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Masterplan (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136598.mp4&play_token=YhZwB9NyFX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7twlevJFJzq2icPbIgKCeIrS9TB.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Blue (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2136595.mp4&play_token=Z7HNxzawtA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhvvef3ayMfnuA4wQcPscC8em0A.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Lenin Pandiyan (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2135677.mp4&play_token=1omi6pCdXG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1I0E3f44UEsBmYpK6qkNLzvDQoN.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Colony (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2135675.mp4&play_token=FX6pSfyvNT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZyMVwRhI0Y1ANDRM4sAk7P4hYC.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Aasha (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2135674.mp4&play_token=JrGZPpIIc5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Sacrifice (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2135567.mp4&play_token=sMA6kvH3tk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDCibWYezvX3L56ZiplxKiHAuXr.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Enna Vilai (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134298.mp4&play_token=G6hFNJTpJC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpLFV4vrb5O56ydvnAvuA1QX6Jm.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Charukesi (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134297.mp4&play_token=lcG5T1zdD2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Love of Your Life (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134163.mp4&play_token=47ml6mhYRu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Mg3Dv3qA3TBwdlw0bHZgmNxmCo.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Reporting Live (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2114343.mp4&play_token=6lKML5Wd2I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Animals (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2114342.mp4&play_token=U1J3goAXMv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAl7uuRojdxysptYBj9Mg0czGmI.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Khalifa: The Ruler (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2110062.mp4&play_token=eQyYVIzxu2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDFW9BI1PSqrBWu8W0ZoeUQivEM.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Mandaadi (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2094130.mp4&play_token=xNOlaJeJpE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8S3Tt4gQudJUsK9jKu5Gy1mDfvb.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Butcher's Blade (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2093984.mp4&play_token=h7X9xT3m55&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTExMzE0YzUtZGJhNy00YWQ1LThjMjItNDQxYTMxMWIyNmUyXkEyXkFqcGc@._V1_SX300.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Monster (2022)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2093983.mp4&play_token=t9y3EooUO6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Spider-Man: Brand New Day (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2093599.mp4&play_token=5MJ0hS6f1D&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejI1ANa8nu2hYN7iVBWJfpaaJoe.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Masterminds (1997)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2093036.mp4&play_token=t6zh3odqBK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Insidious: Out of the Further (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2093035.mp4&play_token=ZhsaJHy1cS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Hungry (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2093034.mp4&play_token=KXCRpAfkbf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Toxic (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051228.mp4&play_token=elGy5I6ecU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Doing Life (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2042826.mp4&play_token=NGNxAVHVHD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The End of Oak Street (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030229.mp4&play_token=GmrPSSf4Qm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Bethlehem Kudumba Unit (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030228.mp4&play_token=JVmG12Bprx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Widower: 'Til Death Do Us Part (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030211.mp4&play_token=9hu5o8TV8F&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6rHcQFiYcczLQPrmxXPAicm54E.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Hokum (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030210.mp4&play_token=0QEzPgiGK7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocasYrRgkfKBdabKNPl8ttZuu7x.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The India Story (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029787.mp4&play_token=EOsLSSIoia&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGo0XltwTLbCvPO7VvtirXlbKny.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Sardar 2 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029786.mp4&play_token=TvTlLd6gq8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Ip Man: Kung Fu Legend (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2029785.mp4&play_token=tO1vWmiaEa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDpHlnupMglK84UZWQfXfRQ6kfb.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Unmadham (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966314.mp4&play_token=vLz8pW8VQw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awOmezCjTcdyjesrzowHIRYUUbE.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Kaa - The Forest (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966313.mp4&play_token=C7lW8dwfvM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHei97aPYCCsh4vicz9X0wmdFV.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Gandhari (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966306.mp4&play_token=XJrzS8vp23&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Backrooms (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1966279.mp4&play_token=o1D96OLAZe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Runner (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1957503.mp4&play_token=Ao17iooeLn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEV2G1oXTJVSFZLgMdUwVLTvWZE.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Orphans (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1950092.mp4&play_token=KL397xx90k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BCEYcclrfWWLcsTzhweSVFb8tO.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Monster Island (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1947620.mp4&play_token=S4EXgH3U2b&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljSqZTl5oophHsH1Qtyv7AF2BW6.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Calendar Girl (1993)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1947619.mp4&play_token=NG9zQgSbRH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Hi! (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1939541.mp4&play_token=FWyyyz5reZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Bay (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1936624.mp4&play_token=fmQhT4Y0JS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Whisper Man (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1929986.mp4&play_token=J9ahxDxtMd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/201CEvG6ayNj71iSLxxEk7pUv0N.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Anbe Diana (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1926392.mp4&play_token=NGJpFTzZPE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Last Sunrise (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912955.mp4&play_token=RUYNPYEBPb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLd1aJmAaNvLM8SwkD3cGVYIrTO.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Ghost Mansion (2021)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1912954.mp4&play_token=Pf59bY9b8h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ I  Nobody (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911059.mp4&play_token=BozmihBfga&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Evil Dead Burn (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1906367.mp4&play_token=pmYAlDRUvN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTwwCsmWvHxj2olhCB2VEGcDUXD.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Bury the Devil (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1895155.mp4&play_token=rjoJc6zdcA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Pyaar Prema Kalyanam (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1886541.mp4&play_token=KTE72zhRoe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adDZVEQZnMJ380zPOmVj6vBWHgk.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Vishwanath & Sons (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1876246.mp4&play_token=jnvVSWij0g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmphewalX6Npa5Aedimxq3yvYk0.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Snake 5: Monster City (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1876245.mp4&play_token=hHwf2pcx0I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPsJfQHRw5QiwQqOoOQWkfBmnhE.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Magudam (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1876244.mp4&play_token=ZsGeEoHUuw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Jana Nayagan (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1876243.mp4&play_token=gero8NOtNE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diDNHFfccBZxw0CmQoVQkSuJIri.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Agent Zero (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874393.mp4&play_token=8Nrf5eNJFo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZlNXEHZsBp7unqw009MeBbMv87.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Stolen Girl (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1860093.mp4&play_token=S4CirRpOAG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92Tsfx7SFafOqWsotvrlJbHyehd.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Death of Robin Hood (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1845284.mp4&play_token=wf3TyMZEBI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hdIs2D3w8QrCYYQwVwy6aAe1t6.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ To The Max (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839527.mp4&play_token=E1J1d9jnTi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Don't Say Good Luck (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839526.mp4&play_token=PAPzl8fqFX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOGdCCuLdlEaAI8iFHseeLvoJUm.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Close to Me (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839525.mp4&play_token=VXsMtk7KCc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ In the Grey (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836338.mp4&play_token=RTmrXcmCoY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ G.D.N (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836337.mp4&play_token=SxZgOk9zhh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pH5QDBV55imyvC31MMdxTtHUT6t.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Achyuta Avataaram (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836336.mp4&play_token=kUBC29bQPh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4J33Qf5LsFbateO8T9x4uxyabso.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Happy New Year (1987)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1834299.mp4&play_token=EuZbtVlbfX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ DC (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1832412.mp4&play_token=oMbudbNvFf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBwLtvk9H5HnfbVD8hbss4NSHqw.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Last House (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831959.mp4&play_token=ib4Bkmjea6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gfs5OsGINENFAl0h1XZPNup9lI.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Idhayam Murali (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831958.mp4&play_token=6BvHziLriL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKjGI2AAg5UHaBvVVR7oI865Zth.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Things Change (1988)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831858.mp4&play_token=aZKT9OUaUZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89Tuu93NTJVef2Y4iATRwlyAO37.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Second Case of Seetharam (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831857.mp4&play_token=FP61SC5izw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45D153Bk0bNwonV1w5IBBvqssPV.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Need for Speed (2014)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1829582.mp4&play_token=Cm8OU7oXxp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN1nAE5WgSY0HauFlgty4sOAcnd.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Unidentified (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827776.mp4&play_token=mHknUt5u8c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y46hn6OvMtqLAUU6Gjn6g5IMwp1.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Crossing Lines (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827775.mp4&play_token=bcqIsWqYBK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Big Chicken: A Fast Food Conspiracy (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827774.mp4&play_token=JhKimrDc7m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwtro7QfU2uqufSa73Q73MnK6J.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Uyir (2006)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827708.mp4&play_token=gVcM4zFJM4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Storm on Sesame Street (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827707.mp4&play_token=knFI5qnLW6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37svY2bwI83NSHuR6KSQeBhjgOt.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Love Oh Love (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1819982.mp4&play_token=65VYICYZZr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Gatta Kusthi 2 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1818535.mp4&play_token=ewUjlOVtMu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKUYfLzpb6nIxz2OnzoAmxIMFFX.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Chum (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1818534.mp4&play_token=A6iYT07doD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Balan - The Boy (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1818533.mp4&play_token=HulWgLHTC9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Devil's Mouth (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816907.mp4&play_token=ZciinJ7ZFj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ifY8XwrWv4gAgFiJyMcqdYNJ0m.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ In God's Hands (1998)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816229.mp4&play_token=vhG2LXohkW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IM2OXyozpmi9dLpx46XYQXxOTd.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Chinna Chinna Aasai (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1816228.mp4&play_token=VVXFb0veGq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niSvU02l2BONH9ivubV6K1a5QiK.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Supergirl (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1814602.mp4&play_token=GotyVoY6sv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khV9zPcvgOjrqwlk3dI1lGojZib.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Dancer  Texas Pop. 81 (1998)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1812869.mp4&play_token=YmXEsJ26yj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ The Truthers (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811627.mp4&play_token=JekG4Mj6PZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Protector (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811626.mp4&play_token=clfBUdQ3de&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ 72 HOURS (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811625.mp4&play_token=H37MsVJZTU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Con City (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1811064.mp4&play_token=GRmKwSmKmz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26lQ3OJqv5NRDpd38eU54zAfLxr.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Sing (1989)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810679.mp4&play_token=0aax6FcHWj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEzXdyJhdWc2msM0oBC9N8pKtMY.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Pallichattambi (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810678.mp4&play_token=VEtvaG2hxp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Masters of the Universe (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1808868.mp4&play_token=S8ZCi0H4Nd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tky5hpVgeOuA9cel0sDSZkFdqYP.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Rubin & Ed (1992)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1807499.mp4&play_token=FQlr0h939S&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56uBGeVBKUHAV0x7eRWIIt70Epd.jpg" group-title="ASIA┃ TELUGU DUBBED",Mister Middle Class - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1805189.mp4&play_token=EG8klCd3Vc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLEenJ0I1XqySVezRdETf2n2w7H.jpg" group-title="ASIA┃ TELUGU DUBBED",하이재킹 - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1805188.mp4&play_token=QN0hhEaZX9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg" group-title="ASIA┃ TELUGU DUBBED",இதயம் முரளி - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803504.mp4&play_token=wIseP373gZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg" group-title="ASIA┃ TELUGU DUBBED",Desert Warrior - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802529.mp4&play_token=WMqY9agjdw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg" group-title="ASIA┃ TELUGU DUBBED",23 000 Leben - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802528.mp4&play_token=v0EUxgAmUA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weGYcQIjFplav4GHGQlvpPoozJ6.jpg" group-title="ASIA┃ TELUGU DUBBED",13 Jours  13 Nuits - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802527.mp4&play_token=ZK7TMV5mjO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yA9LoOXHl5gTxfizEpl4407phT.jpg" group-title="ASIA┃ TELUGU DUBBED",Rocket Gibraltar - 1988
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1800781.mp4&play_token=FscAXi7NUe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZn71TZDhV5c58cmWmOLyZGQ6U9.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Ek Din (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1799328.mp4&play_token=WT4oUujHPR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chLoHQjsw484y6nUYTtSgr5BKBF.jpg" group-title="ASIA┃ TELUGU DUBBED",Housekeeping - 1987
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797968.mp4&play_token=mjXHYf45ox&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjGrjHNjsR0klih0bkGBHbukMdX.jpg" group-title="ASIA┃ TELUGU DUBBED",The Trip - 2011
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797006.mp4&play_token=n1x2S53pg6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6Ga1AUGPe3GwlpX3qDYrD9y3EZ.jpg" group-title="ASIA┃ TELUGU DUBBED",Hollow Man 2 - 2006
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797005.mp4&play_token=1NHAO8Od0K&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbdfhYD5MiNQBp4krWRyM30Efni.jpg" group-title="ASIA┃ TELUGU DUBBED",Falling from Grace - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1796015.mp4&play_token=QfSqwrF3HC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ TELUGU DUBBED",That's Life - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794817.mp4&play_token=Ggbaz87ce5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/db5IkOJu9UHktrKroNktw1Z8ARY.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Only the Brave (2017)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794816.mp4&play_token=IMXnS2jKOO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOBhDCSoC9F10DlBj8Bis6odG5v.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Desert Bloom (1986)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794815.mp4&play_token=AKrQk0L0S9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg" group-title="ASIA┃ TELUGU DUBBED",Shipwrecked: Nightmare at Sea - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792754.mp4&play_token=P6NlVV07OQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN2TOTKin83av7hwYnwAKSd3EG8.jpg" group-title="ASIA┃ TELUGU DUBBED",பரிமளா & கோ - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792753.mp4&play_token=rSDyGqqCW4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8ExDio1HExjFVHwSYr5xVcdSEk.jpg" group-title="ASIA┃ TELUGU DUBBED",मुखबिर: द स्टोरी ऑफ अ स्पाई - द मूवी - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792752.mp4&play_token=7YmoER9Fxq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MCnV8wb1tODOrM8NmWAuPWm40Y.jpg" group-title="ASIA┃ TELUGU DUBBED",Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792751.mp4&play_token=rALe1apsMd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp5EAKE8nTx402n1fWz55QsuYY9.jpg" group-title="ASIA┃ TELUGU DUBBED",Ikka - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792750.mp4&play_token=JzlVELkBEj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3fLvXCkYev8LEQ6HUiJOB45q5p.jpg" group-title="ASIA┃ TELUGU DUBBED",Double Occupancy - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792749.mp4&play_token=PCeerPKoSw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twQSpDQxukOGmSGOX6RCvK3Dn0u.jpg" group-title="ASIA┃ TELUGU DUBBED",Dose - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792748.mp4&play_token=50h4zfZ3U3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8SXr3SCtHESHkmO2mFqzqlJ09L.jpg" group-title="ASIA┃ TELUGU DUBBED",Baltimore - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1791388.mp4&play_token=KlupScgwx8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgvYPByEcOBAP3PLIFATQ3ApvaM.jpg" group-title="ASIA┃ TELUGU DUBBED",Bait - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1791387.mp4&play_token=FTGZsc18Rn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYQmXiKEooImScqysi2HbjjRrgC.jpg" group-title="ASIA┃ TELUGU DUBBED",Nothing to Lose - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1789919.mp4&play_token=Wi8zlLu6v1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Donnie Brasco (1997)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1789918.mp4&play_token=DGJpen2Ne1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg" group-title="ASIA┃ TELUGU DUBBED",മോളിവുഡ് ടൈംസ് - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1783016.mp4&play_token=VO8kNargYW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxnD6Npyv8SkMdrLpkbu2Uegm2l.jpg" group-title="ASIA┃ TELUGU DUBBED",കറക്കം - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781885.mp4&play_token=HtgdrIRAhI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRcGnwShS9wpqlTc6KvK4WUY55A.jpg" group-title="ASIA┃ TELUGU DUBBED",Hunting Jessica Brok - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781227.mp4&play_token=whfp6SfyR8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg" group-title="ASIA┃ TELUGU DUBBED",Enola Holmes 3 - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781226.mp4&play_token=aKmUqXnfq8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNOEUXsb3LMdBLDafaWYziLCQbO.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Bossa Nova (2000)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781225.mp4&play_token=PWDQZZdCZP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC892vhMsNwcIUX5UfrsTSy9IL9.jpg" group-title="ASIA┃ TELUGU DUBBED",The Last Breath - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766496.mp4&play_token=KzF64CI9po&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg" group-title="ASIA┃ TELUGU DUBBED",The Yeti - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765809.mp4&play_token=bZ9SOOaC7k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg" group-title="ASIA┃ TELUGU DUBBED",Little Brother - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1765808.mp4&play_token=bgFbHoqC4o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg" group-title="ASIA┃ TELUGU DUBBED",In the Hand of Dante - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764610.mp4&play_token=smO3H2XXTE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Blast (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1764609.mp4&play_token=yEJdhxuJDg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx8rkZWmVbc6Zy9PSBUx5c7yjYn.jpg" group-title="ASIA┃ TELUGU DUBBED",De Schapenspeurders - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763564.mp4&play_token=af9jAfgqtl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg" group-title="ASIA┃ TELUGU DUBBED",Gladiator Underground - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763563.mp4&play_token=k1IMCbIj8g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbpq1CjIhitKzcNfCoG8qlB9OYH.jpg" group-title="ASIA┃ TELUGU DUBBED",BreakFast - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763562.mp4&play_token=TuHyn3L9kH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAnLeakkcgsp7KahiQ43T44Wkdg.jpg" group-title="ASIA┃ TELUGU DUBBED",Avatar: Fire and Ash - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763561.mp4&play_token=oVhbPRhqQz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14iMtdJY3HjwrmqPUZ55F4LzuCd.jpg" group-title="ASIA┃ TELUGU DUBBED",The Competition - 1980
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762734.mp4&play_token=AVhT9Bu4Zb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mT6l2TO3kbeG7olZV5Zmd8MqSh8.jpg" group-title="ASIA┃ TELUGU DUBBED",Seems Like Old Times - 1980
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1762733.mp4&play_token=1mUspQ042q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooY4L186ndddAO0bHpSHxwE3Z77.jpg" group-title="ASIA┃ TELUGU DUBBED",Garbham - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1761952.mp4&play_token=Go9ZCDL6fa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/canZTWSxACSnAluir3dCtMxKpA1.jpg" group-title="ASIA┃ TELUGU DUBBED",Voicemails for Isabelle - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758925.mp4&play_token=6DrYb2CW8d&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0CXTCWEbqpOypNnVLLw0jikNsX.jpg" group-title="ASIA┃ TELUGU DUBBED",黑白潜行2 - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758924.mp4&play_token=ZuSlxmfOpG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg" group-title="ASIA┃ TELUGU DUBBED",Husbands in Action - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758923.mp4&play_token=ILnP8rToYn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swU1gHR88apVPthor7RVv8AOa1j.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Anali (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1758922.mp4&play_token=fGorF3cM79&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wqoFGTRB2iUnAElxjolw1pP9XJ.jpg" group-title="ASIA┃ TELUGU DUBBED",Mortal Kombat II - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1757858.mp4&play_token=OlTISIqjcC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbYoC9wmfo2w7EDVXYrnX4PRBWr.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Athiradi (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1757857.mp4&play_token=zUaKVo2YXT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S58eWt1O8SqQi5oSlIUyu0xkIf.jpg" group-title="ASIA┃ TELUGU DUBBED",Maiin Haan - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1757417.mp4&play_token=w2IX4ugDiB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/456FlpiU1iOBnaOxSd783QhZKWw.jpg" group-title="ASIA┃ TELUGU DUBBED",TELUGU┃ Drishyam 3 (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756593.mp4&play_token=nZYDwwACrV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOw0SaMgFGRPttN6DXhZTuDYp5p.jpg" group-title="ASIA┃ TELUGU DUBBED",Arco - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756567.mp4&play_token=yoDX4kIaNt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="ASIA┃ TELUGU DUBBED",Your Fault: London - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756566.mp4&play_token=TWsJ8B1Na4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jFuUoddURp94ZvL7haeunK7fsm.jpg" group-title="ASIA┃ TELUGU DUBBED",கெணத்த காணணோம் - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754440.mp4&play_token=QJWTIJRa52&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3HXf0nIN7tvpTF8fxiJrvD603f.jpg" group-title="ASIA┃ TELUGU DUBBED",The Deep - 1977
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753958.mp4&play_token=bisJeI9GoZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qm87HHUew8ICtUCM4asO3gFYvby.jpg" group-title="ASIA┃ TELUGU DUBBED",Seven Years in Tibet - 1997
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753957.mp4&play_token=j8B0NeRnAC&type=movie

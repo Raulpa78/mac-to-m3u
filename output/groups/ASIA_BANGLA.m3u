@@ -1,29 +1,1317 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oXOYtTp98AroU8BuirKju2wOcZ.jpg" group-title="┃ASIA┃ BANGLA",┃BANGLA┃Rudra Garuda Purana (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2421215.mp4&play_token=8FBRpfImea&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Lg1mq2qUPjWYdN6FQ48AOYWG0l.jpg" group-title="┃ASIA┃ BANGLA",┃BANGLA┃Shot Boot Three (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2369308.mp4&play_token=AcSfMlY0fZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV3N83F2bTzbaOKF7HEHTeA6UcL.jpg" group-title="┃ASIA┃ BANGLA",┃BANGLA┃Raghu Dakat (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2363697.mp4&play_token=yLcihtcBd2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eejQaIM37uL0KN3mg4KSE4TbIcJ.jpg" group-title="┃ASIA┃ BANGLA",┃BANGLA┃Lanke (2021)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351744.mp4&play_token=lJsFFnM1lM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agEJmfFzX4r3xhItqz3ZOpuHZmm.jpg" group-title="┃ASIA┃ BANGLA",┃BANGLA┃Tarpan (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344614.mp4&play_token=d8GKHLFNFS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGATAJvy0pWeJ1Y05s92ljL8Q.jpg" group-title="┃ASIA┃ BANGLA",┃BANGLA┃Mrigaya 1.5: The Hunt Continues (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344550.mp4&play_token=RXLMrAQPWc&type=movie
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjg1NGQyYzAtMzE3Zi00OTQ5LTljNjUtNDBjZTFkMzAxNWE2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="┃ASIA┃ BANGLA",┃BANGLA┃No Maas No Din Ebong Antoheen - Silence of the Womb (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344526.mp4&play_token=JNnyO77Xzd&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udkbDwBbysCGEydt0FHnl9dVO2k.jpg" group-title="┃ASIA┃ BANGLA",┃BANGLA┃Thamma (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344525.mp4&play_token=WxsgNNRBt1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yXcvXk4VCFn3WJW9U7Ka45yvBP.jpg" group-title="┃ASIA┃ BANGLA",┃BANGLA┃Phalana Abbayi Phalana Ammayi (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344524.mp4&play_token=gl2JWZjimI&type=movie
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODA5MWY3MzQtNzc2NS00MDljLThiYTAtMGM3MzQ3NGI3ODI4XkEyXkFqcGc@._V1_QL75_UX380_CR0,22,380,562_.jpg" group-title="┃ASIA┃ BANGLA",┃BANGLA┃Sardarbarir Khela (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244998.mp4&play_token=bvwn565PHL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1x8Ti2xPMOAcUlFCnUUpf9oR2M.jpg" group-title="┃ASIA┃ BANGLA",┃BANGLA┃Winkle Twinkle (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184008.mp4&play_token=Y6zZtpnmoV&type=movie
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE2YmQ0MzItYjAwYi00YjY5LThhNDMtZmViMWZlMDNkYmFlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="┃ASIA┃ BANGLA",┃BANGLA┃Bohurupi: The Golden Daku (2026) (Cam)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184007.mp4&play_token=qXV3WrMNkO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bshqlomXJRIKHCpmyU2rTYTgTGm.jpg" group-title="┃ASIA┃ BANGLA",┃BANGLA┃Shadowbox (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2170403.mp4&play_token=Q5PiWjDVhj&type=movie
-#EXTINF:-1 tvg-logo="https://cinedoze.tv/wp-content/uploads/2026/10/Cafe-Umbrella-2026-Bengali-iScreen-WEB-DL-H264-AAC-1080p-720p-480p-Downloa-240x300.webp" group-title="┃ASIA┃ BANGLA",┃BANGLA┃Cafe Umbrella (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2170389.mp4&play_token=8DGAatyqrl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oXOYtTp98AroU8BuirKju2wOcZ.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Rudra Garuda Purana (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2421215.mp4&play_token=o67ktBLefs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Lg1mq2qUPjWYdN6FQ48AOYWG0l.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Shot Boot Three (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2369308.mp4&play_token=GfuKBquxXw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV3N83F2bTzbaOKF7HEHTeA6UcL.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Raghu Dakat (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2363697.mp4&play_token=yvmrMsbpvJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eejQaIM37uL0KN3mg4KSE4TbIcJ.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Lanke (2021)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2351744.mp4&play_token=yPfxi5qZeQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agEJmfFzX4r3xhItqz3ZOpuHZmm.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Tarpan (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344614.mp4&play_token=U4x8RxBDBf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGATAJvy0pWeJ1Y05s92ljL8Q.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Mrigaya 1.5: The Hunt Continues (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344550.mp4&play_token=56IL0pTq5L&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjg1NGQyYzAtMzE3Zi00OTQ5LTljNjUtNDBjZTFkMzAxNWE2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ No Maas No Din Ebong Antoheen - Silence of the Womb (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344526.mp4&play_token=lWKo2cofGZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udkbDwBbysCGEydt0FHnl9dVO2k.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Thamma (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344525.mp4&play_token=Xic5DyooZ4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yXcvXk4VCFn3WJW9U7Ka45yvBP.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Phalana Abbayi Phalana Ammayi (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2344524.mp4&play_token=AEXznTBjDW&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODA5MWY3MzQtNzc2NS00MDljLThiYTAtMGM3MzQ3NGI3ODI4XkEyXkFqcGc@._V1_QL75_UX380_CR0,22,380,562_.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Sardarbarir Khela (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2244998.mp4&play_token=k6DA4OFedx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1x8Ti2xPMOAcUlFCnUUpf9oR2M.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Winkle Twinkle (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184008.mp4&play_token=5ySyzf1EvB&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE2YmQ0MzItYjAwYi00YjY5LThhNDMtZmViMWZlMDNkYmFlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Bohurupi: The Golden Daku (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2184007.mp4&play_token=zNrO62b1e8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bshqlomXJRIKHCpmyU2rTYTgTGm.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Shadowbox (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2170403.mp4&play_token=oomEpWe07l&type=movie
+#EXTINF:-1 tvg-logo="https://cinedoze.tv/wp-content/uploads/2026/10/Cafe-Umbrella-2026-Bengali-iScreen-WEB-DL-H264-AAC-1080p-720p-480p-Downloa-240x300.webp" group-title="ASIA┃ BANGLA",BANGLA┃ Cafe Umbrella (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2170389.mp4&play_token=dDGNeYXhUu&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA3MzBkZTctNjg0NS00ZDg0LWFmZjEtNWU3NGJhNWY5NmRiXkEyXkFqcGc@._V1_.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Police (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149032.mp4&play_token=1mwpnhBKUw&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWYzNGY0YmEtNWYwNC00YzkyLTk4M2YtZDIxMTgxZWM3OGJmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UY563_CR172,0,1000,563_.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ DeSu7 (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2148062.mp4&play_token=cheTxxppbz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXB4YcanRqEp8cwt3amZcYhDIeD.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ The Eken: Kerala-e Kurukshetra (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142696.mp4&play_token=cwp8IfKZyb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smmca4zD32XDKGn0MFeorKw6kX2.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Emperor vs Sarat Chandra (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2142687.mp4&play_token=VmOyOMXE9c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXt07MYeiyQRzS69PMHy0BPjCGP.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Laapataa Ladies (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2141188.mp4&play_token=HPCB97U57i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AFx9g6hECASeZhY1sAjYfRoc09.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Haati Haati Paa Paa (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138379.mp4&play_token=0B37CbVRwo&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc4N2JiNjItYjJkOC00MGM0LWFhYjUtZmY5NzlhYzllYjY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,99,380,562_.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Dhrubor Aschorjo Jibon (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2138376.mp4&play_token=V8c7g8Ud2U&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Saiyaara (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2134151.mp4&play_token=Sej04nKafr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vj6xNjxaERcNNRtQxMFPO0JNYe6.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Raas (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2131983.mp4&play_token=hZ60f6aW5x&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VkNjEzOTUtYzJjYi00NjgyLWIyMjQtZWE3MGJmZDBjZjY1XkEyXkFqcGc@._V1_SX300.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Vijaynagar'er Hirey (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2119050.mp4&play_token=n2hY2vIdd9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vT3VllVhSFw2D7t2M91WmM7Dsqc.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Keu Bole Biplobi  Keu Bole Dakat (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2114333.mp4&play_token=nEbrGEDcp2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Avi1xDS28NKEdbiBGn6IJDYI8TO.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Pressure Cooker (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2110051.mp4&play_token=K8mTSB3xhA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4f9yUzXb1Q3t5H1YhXyrNjvQTQ.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Happily Married (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2110048.mp4&play_token=yr8bTmO65e&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovfLSxsgLFYm2ISjfH1Te0lNyEr.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Deiva Thirumagal (2011)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2110038.mp4&play_token=LqETb10suu&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ5ODEwOTQtYjNkMi00ZTk5LWJhYmYtYjVkYTIyZWQ0NjVhXkEyXkFqcGc@._V1_QL75_UX154_.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Politricks (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2093586.mp4&play_token=pTRqlWr7n5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3utQKppNDh6Cc7kTc5fjfVUfx6d.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Checkout (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2093585.mp4&play_token=mgOEMln2sz&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNlOWU0NjItMzgzNC00Y2VkLTlmNTQtN2I5NTM3ZDUzN2NlXkEyXkFqcGc@._V1_QL75_UX154_.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Laiba Ka Ghar (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2057274.mp4&play_token=XeT8CiVEhs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIZFjv8ZjOUZZBNRMjqeWW8JqIm.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Rabindra Kabya Rahasya (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2051211.mp4&play_token=HYBmUQrneL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9mFZoVLfHT4pNKyq1ZON6wslHt.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Bahurup (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2030213.mp4&play_token=DFLjxTTC8E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXpkJVmOnZzoaLAuhxY2IImlWz.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Puratawn (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1967041.mp4&play_token=Vc5xPtk3gR&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRmMWUxZjQtYmIyYy00ZjhlLWFmNTAtMDkzNmIxMTQ1NmY1XkEyXkFqcGc@._V1_QL75_UX154_.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Sada Golap (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1947609.mp4&play_token=9JQUaTDNe0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54QCyDeqFgVZ5df3eqp51y6HyG5.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Padatik (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1939536.mp4&play_token=1sGIFfRrFu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vtb6ZT7HCl9rJhRrvXduin6LF8.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Babu Shona (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1939535.mp4&play_token=FuNEoj75oa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e25BBKlSQjRKQFCcLhyIABSD90O.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Khejdi (2018)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1911045.mp4&play_token=RNAPnBMTtN&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xPionJuZGJsFiZ-3-2W2VQVywJQjQni-YHO0VCKw6L_oskZ_bH0WbDA&s=10" group-title="ASIA┃ BANGLA",BANGLA┃ Ultorath (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1900461.mp4&play_token=9AvpLp90uK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vT3VllVhSFw2D7t2M91WmM7Dsqc.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Keu Bole Biplobi  Keu Bole Dakat (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1895149.mp4&play_token=hZwkc55gTG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w706ji0OCHYIrZk5laSq7wEX4Me.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Bini Sutor Taan (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1874378.mp4&play_token=5d51ZUOsy0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kDRU8m2hLlSaDyFb85GbrVSF4X.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Phool Pishi O Edward (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1868752.mp4&play_token=3BkyMT9W7c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D2MMLs9H5r27EcRMI75vuepJwv.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Onekdin Por (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1868751.mp4&play_token=PfHCr7CdcA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqTh7TYdAnZTHLfgyHPPUSXwXMw.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Bagha Jatin (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1847984.mp4&play_token=z1JQLmubTR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Mbi8MAvBYYTUtxYFCmVDdsq1Pv.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Nibba Nibbi (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1839500.mp4&play_token=xm1sFXNGy7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGGp9mgUzaAp1WMfCCtscsZ5urh.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Rongin Shurma (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836318.mp4&play_token=zGGARnxDxn&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-InZhkIvPiqDpjdURXFVAgX1ucWRNzW_uFIgCZZiuXigY0jtao1vWm2U&s=10" group-title="ASIA┃ BANGLA",BANGLA┃ Aarshikathan (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1836317.mp4&play_token=RmTr1kkWuS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5dYph0olL4LTmMih7GP5WZrCRk.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Malik-Mata (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1831846.mp4&play_token=zhvyvGPslD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91YwoAfOtbhMtXFzPHmWOEz15Q8.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Rockstar (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810661.mp4&play_token=2AzFJcL6wK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEzXdyJhdWc2msM0oBC9N8pKtMY.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Pallichattambi (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1810660.mp4&play_token=hkVhAiPWuC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpsMRdcrXE4iQpOasSNtlZyhgrN.jpg" group-title="ASIA┃ BANGLA",সপ্তডিঙার গুপ্তধন - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802506.mp4&play_token=hAcT6vHlCA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4bStMKjNzAy4IiIqbjOQ4frrGe.jpg" group-title="ASIA┃ BANGLA",Prince: Once Upon a Time in Dhaka - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802505.mp4&play_token=V8F2T5EkPv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePdQRmZLTj0ccNNLDPtAN2pimGL.jpg" group-title="ASIA┃ BANGLA",আবার হাওয়া বদল - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1802504.mp4&play_token=Do8QqE7LQR&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/9b7f415e-04b4-4b17-9dec-bb37eec85539/cb27126b-9261-4063-a21c-fbf9ab215d38.jpg?width=600" group-title="ASIA┃ BANGLA",BANGLA┃ Football Hottogoal (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1797960.mp4&play_token=2oO0Yy0lnm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezqTX0oQtRlJD30zj9twWPEBR7t.jpg" group-title="ASIA┃ BANGLA",ফুটানিগঞ্জের মহেশ - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1794804.mp4&play_token=KH37kvfaFQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3lcofmg6YoDOPCR0peenvJbPVO.jpg" group-title="ASIA┃ BANGLA",নারী চরিত্র বেজায় জটিল - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1792722.mp4&play_token=cdFFY0ynct&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHewWBdFBJ1IDIvzCEpLOaeqTb9.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Roid (2026) (CAM)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1787346.mp4&play_token=AJWBEVEdCD&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI0NjcwNGUtMmNlYy00Zjc1LTgwNTUtNzI0OTc2MGUwNWNhXkEyXkFqcGc@._V1_.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Omanush Holo Manush (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763547.mp4&play_token=96hX9Gj07U&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjI0ZWE4YmQtNTc3Zi00YTA2LWIzMDgtNjdiNjJlODRjMzVmXkEyXkFqcGc@._V1_.jpg" group-title="ASIA┃ BANGLA",BANGLA┃ Direct Attack (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763546.mp4&play_token=d8uz2MD5to&type=movie
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/nlGfXrfLgwfDpHDYBbgcsiSSGkhNwPq6ZmcYtAJzfFbkFYiuc8oP8ebY6d0PtmzIDV-JxG-1M3tULg=s2048-c-fcrop64=1,00000000ffffffff-nd-v1?days_since_epoch=20627" group-title="ASIA┃ BANGLA",BANGLA┃ Ashirbad (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1763545.mp4&play_token=6s6HFEMhag&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epOQz87kzBnxDZMrgYCmFuDZXNx.jpg" group-title="ASIA┃ BANGLA",Lifeline - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760886.mp4&play_token=BBBFi16Cfa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLVC19LeYRJYU7RXxRdMuSqnPvd.jpg" group-title="ASIA┃ BANGLA",অভিমান - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760885.mp4&play_token=G7Z5F8vcGl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPbLh3EuvcGrxhpOMfK5XIUT1az.jpg" group-title="ASIA┃ BANGLA",Aliya Basu Gayab Hai - 2024
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1760884.mp4&play_token=QZjgoRMwGV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaYKWssPeu6Poj8tRvTazhTStfF.jpg" group-title="ASIA┃ BANGLA",BHRAM - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1756557.mp4&play_token=FFKULoH6Yw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jFuUoddURp94ZvL7haeunK7fsm.jpg" group-title="ASIA┃ BANGLA",கெணத்த காணணோம் - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754433.mp4&play_token=Ilw4KFU60L&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePdQRmZLTj0ccNNLDPtAN2pimGL.jpg" group-title="ASIA┃ BANGLA",আবার হাওয়া বদল - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1754330.mp4&play_token=o8hzf1LvXz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpsMRdcrXE4iQpOasSNtlZyhgrN.jpg" group-title="ASIA┃ BANGLA",সপ্তডিঙার গুপ্তধন - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1753945.mp4&play_token=JT8XZKtfrg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qv8FwLbkt7dGHE35r7HdiWtedTr.jpg" group-title="ASIA┃ BANGLA",IN┃ The Endless Trail
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798108.mp4&play_token=4ZMmpC7Boy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Golam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798107.mp4&play_token=mzDHtdiU38&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Gohine shobdo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798106.mp4&play_token=1pgGqppK6C&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1ZM6Suux6gFKO2vEKmyvL9PUR5.jpg" group-title="ASIA┃ BANGLA",IN┃ Glamour
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798105.mp4&play_token=AYQNxIL4mA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Girlfriend
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798104.mp4&play_token=FmTZmTDMeE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r36eI13Z71xWMGFIgudqWa5EOg.jpg" group-title="ASIA┃ BANGLA",IN┃ Ghuddi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798103.mp4&play_token=kwOEDzdKQd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ghrina
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798102.mp4&play_token=OKrvNqzfWA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ghoroni
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798101.mp4&play_token=vr5ZhZSznV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ghorer shotru
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798100.mp4&play_token=utJt9gx9Nh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ghorer lokkhi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798099.mp4&play_token=At62TJ2TA5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qw3EL3E8q2mWOfcNVytKKcfmcg.jpg" group-title="ASIA┃ BANGLA",IN┃ Ghatkali
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798098.mp4&play_token=5DLWptr4Gd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ghatak
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798097.mp4&play_token=w5lwabBHwb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Gharer bou
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798096.mp4&play_token=pCUKgb3hkf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8NgQMeFfqpfRrrC7grQKofzKS9.jpg" group-title="ASIA┃ BANGLA",IN┃ The Home and the World
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798095.mp4&play_token=9j2nzaGpUi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ghar jamai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798094.mp4&play_token=7OfMdzyArU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csvtIeviNwTOtZ479mf8Qk8S7Nx.jpg" group-title="ASIA┃ BANGLA",IN┃ Generation Aami
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798093.mp4&play_token=s4W8FZK7ha&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Gate 2 gether
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798092.mp4&play_token=hYQeZUTvfX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Garmil
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798091.mp4&play_token=onKl8fvGny&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Garments konna
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798090.mp4&play_token=0ZncMvfbFy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Gangster
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798089.mp4&play_token=Y62AnW7TIH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Gaj ukiler hatya rahasya
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798088.mp4&play_token=28VufLqgPJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ful ar kata
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798087.mp4&play_token=d6TGOK6kWt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Flop e
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798086.mp4&play_token=5T2wWhSxsm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Pb3Hgof3AqpAv5CyQIV8JuX2DZ.jpg" group-title="ASIA┃ BANGLA",IN┃ Flat No 609
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798085.mp4&play_token=Rc9fuERHmp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ferari fouj
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798084.mp4&play_token=WAzCMfxR8V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciPlzqkvZMMXI9ciQCqxJfP9WUD.jpg" group-title="ASIA┃ BANGLA",IN┃ Felunather Marksheet
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798083.mp4&play_token=8DP6d2OE9N&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Faisala
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798082.mp4&play_token=if7gzRcveM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMZUAqVOwZITpXCR6ytPFZSXj3k.jpg" group-title="ASIA┃ BANGLA",IN┃ In Spring Breeze
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798081.mp4&play_token=JSzsrVqDxv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Faand the trap
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798080.mp4&play_token=Hbe3O4Euw8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Eve teasing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798079.mp4&play_token=F7LAq4d1g3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Eti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798078.mp4&play_token=fzDJAYLR8Q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Etai Swarga
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798077.mp4&play_token=7AUvk2DvC9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Eri naam dosti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798076.mp4&play_token=uWCi2OhxV9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Epar opar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798075.mp4&play_token=zu2CfvB0BW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ektu choya
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798074.mp4&play_token=roCklYK4dz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evrbl0ztaKQO73GXTmS6g4gcvLM.jpg" group-title="ASIA┃ BANGLA",IN┃ One Night
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798073.mp4&play_token=eD54rxdSGr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ekjon songe chhilo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798072.mp4&play_token=30uM9ofdtk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ekhoni
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798071.mp4&play_token=3mJZtITBbG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rTvVy8DQ4FfxJGodP2BFMDN6q0.jpg" group-title="ASIA┃ BANGLA",IN┃ Ekhane Pinjar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798070.mp4&play_token=lrcqg6S55l&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ekbar bolo bhalobashi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798069.mp4&play_token=M5lKC20u1V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmigmEHwWET3a4jfbLKLiuqt9bi.jpg" group-title="ASIA┃ BANGLA",IN┃ Ekai Eksho
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798068.mp4&play_token=jVlN1amhCb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ek takar denmohor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798067.mp4&play_token=MaoI0Yrl73&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ek rokha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798066.mp4&play_token=1XkXqLfsFG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ek pashia brishti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798065.mp4&play_token=6hDfKTNNR9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ek nadir galpo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798064.mp4&play_token=RCCiQeQ12m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ek Mutho Chabi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798063.mp4&play_token=zrnSvApyIL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ek mutho bhat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798062.mp4&play_token=983K0VJddz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4XCx17o9LAZUZxOQblwa72wRmV.jpg" group-title="ASIA┃ BANGLA",IN┃ Ek Mon Ek Pran
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798061.mp4&play_token=HtSncCkKFV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ek joban
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798060.mp4&play_token=quoGWRqPBp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTAhkFpqaHQ8rCPkF4NP2fZxSgX.jpg" group-title="ASIA┃ BANGLA",IN┃ The Girl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798059.mp4&play_token=CXsW2nXoVw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ek buk jala
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798058.mp4&play_token=pQWEI8vik0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ek buk bhalobasha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798057.mp4&play_token=OJ60DVDTWV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Eito valobasha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798056.mp4&play_token=ZtCZ6pPEdu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Eito prem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798055.mp4&play_token=C5zNxwUBof&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1V4h5LtR2Uyp2AqlWGCt1PZEX8l.jpg" group-title="ASIA┃ BANGLA",IN┃ Ei Prithibi Tomar Aamar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798054.mp4&play_token=krkpANFuxb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ei mon tomake dilam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798053.mp4&play_token=C28xLA2U6a&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ei mon chai je
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798052.mp4&play_token=XlUz1tcFtn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ei ghar ei sansar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798051.mp4&play_token=pH67G98x5m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ebong tumi aar ami
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798050.mp4&play_token=aVT9391Xgh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ebadot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798049.mp4&play_token=9PChWegCVQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ebadat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798048.mp4&play_token=Z9urkGGyqe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ East bengaler chele
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798047.mp4&play_token=SUEwJWnXyJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hx6rJIyZW0G4tBZeAIbpIqH4NEq.jpg" group-title="ASIA┃ BANGLA",IN┃ Dynamite
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798046.mp4&play_token=NK7EnEtyMl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndaOFeaFnd2QaZsWFyztxmLSK8u.jpg" group-title="ASIA┃ BANGLA",IN┃ Dutta Vs Dutta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798045.mp4&play_token=rH11LXoUpU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Duti mon duti asha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798044.mp4&play_token=SGBfVeIBWI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dushmon duniya
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798043.mp4&play_token=29mvh7JXjL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4us8dIOmktEm99ZnexuHZssHgTA.jpg" group-title="ASIA┃ BANGLA",IN┃ Durga Sohay
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798042.mp4&play_token=SPuFAuKYou&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Durer nadi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798041.mp4&play_token=L68ic7ygwF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Durdhorsho
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798040.mp4&play_token=pyuFhieIJh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Duniar badsha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798039.mp4&play_token=VyxF9prECD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dulabhai zindabad
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798038.mp4&play_token=REJUNGjbrz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijt4uzmIV9toeDGIrA93RnFvnfV.jpg" group-title="ASIA┃ BANGLA",IN┃ Dujone
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798037.mp4&play_token=LfYBvbjD8Y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dujon dujonar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798036.mp4&play_token=7BF7QgB2Q7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dui purush
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798035.mp4&play_token=m22Kqtxg7I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dui prithibi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798034.mp4&play_token=rVlSyfHUwI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaa5NYIUf9HXZCNlYwomexBSoOT.jpg" group-title="ASIA┃ BANGLA",IN┃ Dui Prithibi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798033.mp4&play_token=WwVsPEs0Sy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dui poysar alta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798032.mp4&play_token=aiUsKaS41G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dui number
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798031.mp4&play_token=g6DfOkIN8G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv4siY647kBDfIM1TuhUavUVI8f.jpg" group-title="ASIA┃ BANGLA",IN┃ Dui Noyoner Alo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798030.mp4&play_token=R4waZDCTeU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dui jibon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798029.mp4&play_token=jasF25sT92&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dui bhai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798028.mp4&play_token=Qrxv5qbnF2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/965VvKrjfMRWeBITpHa6X5hd3Zp.jpg" group-title="ASIA┃ BANGLA",IN┃ Double Feluda
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798027.mp4&play_token=rHFk1dX68i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dost dushman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798026.mp4&play_token=CM7dW6IHFH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dossu bonhur
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798025.mp4&play_token=8EVXMYmYGf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dosshu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798024.mp4&play_token=Fcnu6I2GLO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dosar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798023.mp4&play_token=DLx5oB9PEW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dora
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798022.mp4&play_token=OwIERQve1P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Don number one
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798021.mp4&play_token=5GrzLXUaDK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dolopoti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798020.mp4&play_token=6feEkAQmbq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dolon chapa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798019.mp4&play_token=IyHbwusiBo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dola
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798018.mp4&play_token=qvetppcqI5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dohon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798017.mp4&play_token=xZA7gq3tT3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dobir saheber songsar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798016.mp4&play_token=gsC3AzACYX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Disco dancer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798015.mp4&play_token=P9Mv1lyF39&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Gz1HkpZhwWpyuual7eytb5CBj9.jpg" group-title="ASIA┃ BANGLA",IN┃ Dipu Number 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798014.mp4&play_token=wBuoDtadOA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Din jay kotha thake
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798013.mp4&play_token=h3CANDwDkJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZOhAcXSEW0h7sQ5KNk1p23hpq3.jpg" group-title="ASIA┃ BANGLA",IN┃ Din Jai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798012.mp4&play_token=Oee4MUg62D&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dhusar Godhuli
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798011.mp4&play_token=WpgUB5gboK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dhor soytan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798010.mp4&play_token=NBzaravKEC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dhoni goriber prem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798009.mp4&play_token=48HL2BO6bc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dhoka
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798008.mp4&play_token=khYUE2or0q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dheu Er Pore Dheu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798007.mp4&play_token=65HbKJtEFb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dhawa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798006.mp4&play_token=KTdPOYodhy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYqvw64V76ynUXo19tJ3C09ASmN.jpg" group-title="ASIA┃ BANGLA",IN┃ Dharasnan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798005.mp4&play_token=1jD2CWpWBJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dharapat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798004.mp4&play_token=1AT3shVcca&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dhakaiya pola borishaler maiya
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798003.mp4&play_token=hU92696EYs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dhakaiya mastan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798002.mp4&play_token=VU1TO8Eyqy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nM8zTkAKrxtQmlZqLO8ZTiaOgeY.jpg" group-title="ASIA┃ BANGLA",IN┃ Devdoot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798001.mp4&play_token=tRqWJ3W4sK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Devdas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=798000.mp4&play_token=jJW04kCIor&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Devdas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797999.mp4&play_token=VhMmz8Ucr0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Deva
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797998.mp4&play_token=lqOqvyUTMD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Desh premik
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797997.mp4&play_token=sUoXSEArAK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Desh
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797996.mp4&play_token=U8ECjeHQqn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Den mohor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797995.mp4&play_token=CsxPNEluyR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dekha holo dujonay
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797994.mp4&play_token=o94V15wQEs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rdcjVK2IutEPYdf1p7G2n4vrOq.jpg" group-title="ASIA┃ BANGLA",IN┃ Dehorokkhi: The Bodyguard
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797993.mp4&play_token=bkTHizYrlr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSrtmgczjP5KjBMVW5z8al47IgV.jpg" group-title="ASIA┃ BANGLA",IN┃ Deep Nebhe Nai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797992.mp4&play_token=Ns6OTtuXfl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Debibaran
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797991.mp4&play_token=2KV8iHk4cP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Debar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797990.mp4&play_token=MM5Ar3LRiZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Debanjali
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797989.mp4&play_token=tzl8J19310&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dayi ke
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797988.mp4&play_token=YjxI5MfUbM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Darowaner chele
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797987.mp4&play_token=2Q4bMuAkYD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Daring lover
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797986.mp4&play_token=CR9P2xuomK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Danger
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797985.mp4&play_token=iwDdzh9skA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Danga
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797984.mp4&play_token=CMTdB8Fb9r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Damu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797983.mp4&play_token=L0NIW4nJUE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dampati
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797982.mp4&play_token=bUK9i54tXz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Damadol
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797981.mp4&play_token=CDyRRjzdfN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Daku rani
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797980.mp4&play_token=Ogn78DBsVv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dakat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797979.mp4&play_token=QOlxYjK7wg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dahan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797978.mp4&play_token=VmuAS46v5i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOAQPgYgJSNzkAj0kpfXHtH9iw5.jpg" group-title="ASIA┃ BANGLA",IN┃ Affliction
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797977.mp4&play_token=T6DEHZSUKn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dadu No. 1
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797976.mp4&play_token=cJYIMVIfH1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dadima
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797975.mp4&play_token=K2jaKW5Pag&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buaBAnbhpsQv48fK8ambZYXiWMU.jpg" group-title="ASIA┃ BANGLA",IN┃ Dadar Kirti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797974.mp4&play_token=PJLHflkMQa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dadamoni
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797973.mp4&play_token=0lFLub7utm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEG2hW5dl7xXrlVxFC5X5LsKjLo.jpg" group-title="ASIA┃ BANGLA",IN┃ Cross Connection 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797972.mp4&play_token=lVC3ifOiVI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Criminal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797971.mp4&play_token=CcdWjZG3AJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Crime road
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797970.mp4&play_token=OX5IfIrUyc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daVwy7uxCoJrMSMZyTXCZjr1Osj.jpg" group-title="ASIA┃ BANGLA",IN┃ Common Gender
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797969.mp4&play_token=2731EdB7AB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Commander
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797968.mp4&play_token=3GvAeC0aof&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Cobra
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797967.mp4&play_token=IQE3FAO7J4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ City terror
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797966.mp4&play_token=Vu8lSXCVCB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kalmilata
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797965.mp4&play_token=6CP2qkvARV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kallu mama
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797964.mp4&play_token=1LC0HdjjKq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0NuMFqJVU85GTuR1BZm5FMuoPf.jpg" group-title="ASIA┃ BANGLA",IN┃ Never Came
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797963.mp4&play_token=8TYbSMx57P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kajer meye
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797962.mp4&play_token=Vw6CY0kZ8O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kajer manush
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797961.mp4&play_token=lWsdjCMnq4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kabin nama
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797960.mp4&play_token=Rx8HTi5DSp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kabin
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797959.mp4&play_token=wP4iYSmQm8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kaal sokale
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797958.mp4&play_token=AtmrCipAXD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ka Kha Ga Gha Umo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797957.mp4&play_token=sz7d39RDeR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jyoti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797956.mp4&play_token=FK6Wz9vngE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Judge saheb
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797955.mp4&play_token=Fk5J9QYWVi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Judge barristerr
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797954.mp4&play_token=zo0QzecLzA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Judge barrister police commissioner
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797953.mp4&play_token=Jo5zz5sdpS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Juddhe jabo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797952.mp4&play_token=jqhwVBE0Ew&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Juari
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797951.mp4&play_token=kSziESJK2P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Joyjyanti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797950.mp4&play_token=qdY8igc88c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Joy porajoy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797949.mp4&play_token=rnSUtx5YQr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jotil prem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797948.mp4&play_token=LglYtL29a8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Xw8o3CADoxMNii0HpA0TOjVQuX.jpg" group-title="ASIA┃ BANGLA",IN┃ Joradighir Chowdhury Paribar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797947.mp4&play_token=xVlMh8phSo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jor kore balobasa hoy na
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797946.mp4&play_token=svhu6GX3hb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797945.mp4&play_token=zCQaa9IhLU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jontor montor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797944.mp4&play_token=ZRJLLfiSit&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jonom jonomer prem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797943.mp4&play_token=R2z3lMPaCq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jonom jonom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797942.mp4&play_token=kiv1TEIW3N&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jonmo tomar jonno
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797941.mp4&play_token=1toAyG9qYl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jonmo theke jolchi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797940.mp4&play_token=dwMWigC29K&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jonmo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797939.mp4&play_token=AXbWPVGlDW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jonakir aalo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797938.mp4&play_token=DvZkZIABS2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jomoj
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797937.mp4&play_token=aLKE6jz17c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jomidar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797936.mp4&play_token=PbOdyOABI2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6egetSB9WdWt3S0lu7P8AuUNTrJ.jpg" group-title="ASIA┃ BANGLA",IN┃ Jomer Raja Dilo Bor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797935.mp4&play_token=KauEo7vxkV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jomdut
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797934.mp4&play_token=a3QSK73tv1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Johnny
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797933.mp4&play_token=dqu9lNlTdZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jogajog
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797932.mp4&play_token=2YRdN9Arrg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jobab
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797931.mp4&play_token=lJKKzDJDmw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Joar elo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797930.mp4&play_token=2GDVmy8ctR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4d6DXkv2Jyj88qOu8IjAp9VUunq.jpg" group-title="ASIA┃ BANGLA",IN┃ Jio Pagla
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797929.mp4&play_token=h4g9AZglCN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jinjir
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797928.mp4&play_token=SMkoNRdJu2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jiboner golpo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797927.mp4&play_token=aI5D2XEekr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jiboner cheye dami
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797926.mp4&play_token=Hx5ycoXB7h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jibon songsar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797925.mp4&play_token=ILXDpWAsDG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jibon songi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797924.mp4&play_token=olLEkDJO4Y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jibon Nouka
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797923.mp4&play_token=5t7a0u4fj0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jibon mane juddho
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797922.mp4&play_token=rfGriBBu2O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2YklUmPzULICTuzjxZgjnQmBUS.jpg" group-title="ASIA┃ BANGLA",IN┃ Jiban Trishna
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797921.mp4&play_token=YopEOFYFnE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDYBUTB7RZxKNIJ6cO3Bhls2P7.jpg" group-title="ASIA┃ BANGLA",IN┃ Jhumura
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797920.mp4&play_token=SnGIZgyQP4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jhorer pakhi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797919.mp4&play_token=k6i0BXHd4a&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jhor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797918.mp4&play_token=HKgDOhYFYz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jhontu montu dui bhai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797917.mp4&play_token=mQYCtRjzBn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jawab chai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797916.mp4&play_token=4zL6VLUA4y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKovS57xAx6MmvOQgt6JVPhMRWE.jpg" group-title="ASIA┃ BANGLA",IN┃ Jar Je Priya
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797915.mp4&play_token=pRX9UNdhR0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jannat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797914.mp4&play_token=WlIffVfBES&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Janmadata
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797913.mp4&play_token=su3O0Ga19J&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4v0l6ZRmn0mWiKDRWzJ7E7vM4ML.jpg" group-title="ASIA┃ BANGLA",IN┃ Janla Diye Bou Palalo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797912.mp4&play_token=itKC9oyhly&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Janer jaan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797911.mp4&play_token=QpILwRXwGg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aj2D1fCEHJMT0dgyUHUzYb50j1J.jpg" group-title="ASIA┃ BANGLA",IN┃ Janatar Adalat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797910.mp4&play_token=2or3R9xEzn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jamai No. 1
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797909.mp4&play_token=ddmCe8u47V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckbt1I1ut29CWSMGMBkdPPhFlzg.jpg" group-title="ASIA┃ BANGLA",IN┃ Jamai Badal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797908.mp4&play_token=LIWAahho3z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jamai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797907.mp4&play_token=GnN4Aauu39&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbcOKg8wGA3zCSiCFdeL2xDbd7v.jpg" group-title="ASIA┃ BANGLA",IN┃ The Music Room
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797906.mp4&play_token=QWXEw8EU9k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jadur bashi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797905.mp4&play_token=HobUfgVotq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jadu Bansha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797904.mp4&play_token=b2ArglKkQJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkLrimITzOoOvuAUBHbyGO0tkDK.jpg" group-title="ASIA┃ BANGLA",IN┃ Jaatishwar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797903.mp4&play_token=XRfIu9O4IG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jaat shotru
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797902.mp4&play_token=FxsXp3Y9Lm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Itihaas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797901.mp4&play_token=m5wXHRKwy2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6VI7FWad6boEZvUvGFDltQj6ih.jpg" group-title="ASIA┃ BANGLA",IN┃ Iti Mrinalini: An Unfinished Letter...
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797900.mp4&play_token=2TWC1pCJpd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Iswar parameswar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797899.mp4&play_token=xMLck2mkAh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7M9e6meIoGjahU0TR9oa6q6K2bM.jpg" group-title="ASIA┃ BANGLA",IN┃ Indrani
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797898.mp4&play_token=Gm98xPoSUx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8y7qqKZ8ABLYm3QECJUktt2MNlr.jpg" group-title="ASIA┃ BANGLA",IN┃ Indrajit
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797897.mp4&play_token=b6hqTUWzQU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Incomplete
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797896.mp4&play_token=4LrJTZCDrJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHCDzxztLXHPV4jH7RQ7aqyzVq7.jpg" group-title="ASIA┃ BANGLA",IN┃ Inchi Inchi Prem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797895.mp4&play_token=lOgYe7s1ml&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLPRkkZ1x6gCZjbsFd1MaeQA3u.jpg" group-title="ASIA┃ BANGLA",IN┃ In Search of Famine
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797894.mp4&play_token=q0TB9AHWN8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Idiot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797893.mp4&play_token=txYosaitGg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Iblish
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797892.mp4&play_token=cwQ6FB0waW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ I love u
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797891.mp4&play_token=Ghnrwr9dta&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ I dont care
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797890.mp4&play_token=s1wkmbaRbz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hungama
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797889.mp4&play_token=NURBK5Slmh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Humkir mukhe
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797888.mp4&play_token=QAcJA4pUUG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hridoyer bashi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797887.mp4&play_token=n1GSgMles1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hridoyer bandhon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797886.mp4&play_token=RnLOZdDHDi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hridoyer ayna
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797885.mp4&play_token=EjuZs4EjFj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hridoye lekha nam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797884.mp4&play_token=YQ3ExbUfVb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hridoy shudu tomar jonno
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797883.mp4&play_token=Hzhpt3tBow&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hridoy amar naam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797882.mp4&play_token=XxGSSDnlC2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Holud pakhir dana
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797880.mp4&play_token=Q0B5Rgefkv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3lP023szpFOLleg7Ncpdo0eh9A.jpg" group-title="ASIA┃ BANGLA",IN┃ Hoichoi Unlimited
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797879.mp4&play_token=pVgFF0voyp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hoichoi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797878.mp4&play_token=luaxJiP0xA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hit list
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797877.mp4&play_token=VL4v4UvgSR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hirer shikal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797876.mp4&play_token=iIWn0tc11i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPYnj9Jp2lkE0NploBm7PFEwYG7.jpg" group-title="ASIA┃ BANGLA",IN┃ The Diamond Ring
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797875.mp4&play_token=VDOZbSb3wO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hira chuni panna
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797874.mp4&play_token=j0ZzLC2jbS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hingshro manob
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797873.mp4&play_token=OoRLuuSRhf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hingshar poton
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797872.mp4&play_token=0iTThk2gQa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hingsha protihingsha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797871.mp4&play_token=I70PIAJ26y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Himmat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797870.mp4&play_token=tof06GxSiJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sboIxtXvRemQMrngJM1Gt8TLS8.jpg" group-title="ASIA┃ BANGLA",IN┃ Himghar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797869.mp4&play_token=xAlKqpz2WP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Herbert
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797868.mp4&play_token=ed3rd6ZkJ8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hay prem hay bhalobasha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797867.mp4&play_token=JtaM1Ad7HN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hathiyar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797866.mp4&play_token=Ovbei32GCr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hate raila tin
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797865.mp4&play_token=vpz7sZphHa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hason Raja
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797864.mp4&play_token=MDTsSpwdsS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hasna hene
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797863.mp4&play_token=kzelDizv3x&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Harishchandra shaibya
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797862.mp4&play_token=jXj74xKiTt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Pamy2zo6uouI75uIfzEJk4Gk7Y.jpg" group-title="ASIA┃ BANGLA",IN┃ Haripada Bandwala
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797861.mp4&play_token=rbVKuTN0cX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpQCrpZWeg6aQV0Ng3gwLxrXR6V.jpg" group-title="ASIA┃ BANGLA",IN┃ Harano Din
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797860.mp4&play_token=VSCjclELvt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cSAmHSH5gN1aJ9XMyVySBJ0EKj.jpg" group-title="ASIA┃ BANGLA",IN┃ The Accepted Defeat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797859.mp4&play_token=Kwjuj1ZWTR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sa0L64JVYOB4evgRmVAr5RSGDi.jpg" group-title="ASIA┃ BANGLA",IN┃ Hanshi Khushi Club
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797858.mp4&play_token=ngbEx1MyBS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hangover
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797857.mp4&play_token=gy3Tgvcm5M&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Haatchhani
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797856.mp4&play_token=RYWGRuLnUU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyZ6SSV8F7yQxEiYCk2QSgzLIXI.jpg" group-title="ASIA┃ BANGLA",IN┃ Haami - A Gentle Kiss
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797855.mp4&play_token=K9JKgIM9Cp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Gurudeb
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797854.mp4&play_token=xfBzeXmryH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMOF2wlUuZUxOmob1ezGb2yFCiN.jpg" group-title="ASIA┃ BANGLA",IN┃ Guru Dakshina
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797853.mp4&play_token=ljVLmpzQOW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Gundar prem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797852.mp4&play_token=rCsOVYY9ek&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhkeL5TudgLYdZxI3Q70sXKXjcG.jpg" group-title="ASIA┃ BANGLA",IN┃ Gunda The Terrorist
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797851.mp4&play_token=KinzEtJjsC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Gunda
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797850.mp4&play_token=Sfzk3aS18B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Gram gonjer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797849.mp4&play_token=swwSIFMM6n&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPxwLW0UobcrtBqZ6fsSdas9IRO.jpg" group-title="ASIA┃ BANGLA",IN┃ Goynar Baksho
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797848.mp4&play_token=a9WqU1H3cR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EnhxLtVynFpFK0dAYgWI7oM4PW.jpg" group-title="ASIA┃ BANGLA",IN┃ Goyenda Tatar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797847.mp4&play_token=ITIGGCO4f4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txfHZAKr7kdY1MZFktJPg17RHeP.jpg" group-title="ASIA┃ BANGLA",IN┃ Gorosthane Sabdhan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797846.mp4&play_token=O5OOyCtDFg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Gorom hawa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797845.mp4&play_token=toEcniCJPs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Goriber ostad
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797844.mp4&play_token=Ufn1XOqjpY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Goriber bhai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797843.mp4&play_token=WDeyYFOeyE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRm7R2w3POAgQM7ozSLN0sfXSpR.jpg" group-title="ASIA┃ BANGLA",IN┃ Goraay Gandogol
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797842.mp4&play_token=y3EUsaSvXm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Gono dushmon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797841.mp4&play_token=n24bFTXgqS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kacher shotru
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797840.mp4&play_token=WnvPZ0REjp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56leEOqIZbUIKwgESe3NYCYh6Zd.jpg" group-title="ASIA┃ BANGLA",IN┃ Jyeshthoputro
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797839.mp4&play_token=urpLorAbVS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Juari
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797838.mp4&play_token=ApWaOep6QC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YpHBidUMacAinE6Mq97ypgOCXv.jpg" group-title="ASIA┃ BANGLA",IN┃ Jongole Mitin Mashi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797837.mkv&play_token=rXrVJt4ITo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0CPONn71dFF6Kl2bossZnRJQea.jpg" group-title="ASIA┃ BANGLA",IN┃ The Elephant God
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797836.mp4&play_token=iEYGMSEHsJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jinda dafon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797835.mp4&play_token=ykMTvvH3AA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iibyPzeN3OGKxSrdqUS9b1nHg1Q.jpg" group-title="ASIA┃ BANGLA",IN┃ Jijibisha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797834.mp4&play_token=nlwY8flpxe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jiban Sathi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797833.mp4&play_token=GCBUgndbWc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ji hujur
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797832.mp4&play_token=EdkMq7N71r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jhinukmala faruk nipa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797831.mp4&play_token=yMzppHZ7eN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNlLoyFG4AxNjTyT8Xc00zjoT9T.jpg" group-title="ASIA┃ BANGLA",IN┃ Jhilli
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797830.mkv&play_token=9ewXn2bKZc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jeevan pradip
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797829.mp4&play_token=Goidy77IpF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOvUHYRvhptpRwPj27s6gOVG94L.jpg" group-title="ASIA┃ BANGLA",IN┃ Je Jon Thake Majhkhane
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797828.mp4&play_token=fmLWabY4p4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jaydev
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797827.mp4&play_token=sZR99tv58H&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Janmantar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797826.mp4&play_token=fkUD4aQTWz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Janani
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797825.mp4&play_token=uRssWxSbRS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Jan qurban
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797824.mp4&play_token=RnPV1YXdtf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aj3lQwdLCqQi7XSRhoZHJmsxVR4.jpg" group-title="ASIA┃ BANGLA",IN┃ Jai Kali Kalkattawali
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797823.mp4&play_token=vgs4gM4zmg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ui7ciB0ztK1egkMhiZTzEXfE10.jpg" group-title="ASIA┃ BANGLA",IN┃ Jaanbaaz
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797822.mp4&play_token=0hzcELnfWa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yE4SdH99m3beLq11bWHj3ZVwv9N.jpg" group-title="ASIA┃ BANGLA",IN┃ Inspector Notty K
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797821.mp4&play_token=k1xfEianoX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gu3oYNly7oAysOvR2uCsV791qx.jpg" group-title="ASIA┃ BANGLA",IN┃ Hridpindo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797820.mp4&play_token=tuNvWTeKMI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEwjMymnEDYzbzQGuBXK5ljDRdc.jpg" group-title="ASIA┃ BANGLA",IN┃ Hridoyer Kotha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797819.mp4&play_token=KPPjnVbJGq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hridoy theke hridoy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797818.mp4&play_token=1EEO9BBFaA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hridoy amar naam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797817.mp4&play_token=Zo5oJOHNqt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Housful
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797816.mp4&play_token=IfVRtvlUn2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hitman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797815.mp4&play_token=YanaztIa7S&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Highway
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797814.mp4&play_token=5sgE9hYWJ0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hercules
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797813.mp4&play_token=t2V6BxMBhn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWwElgvTntbHFL2pNOvRAURdcxK.jpg" group-title="ASIA┃ BANGLA",IN┃ Hemlock Society
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797812.mp4&play_token=e9RtPIHcKN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oApHSmNMAygyjMClFQwWcJ6eAt.jpg" group-title="ASIA┃ BANGLA",IN┃ Hemanta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797811.mp4&play_token=Qg1VCEh9KE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzPLgC8dE2kMs0rpky0P21ffQwz.jpg" group-title="ASIA┃ BANGLA",IN┃ Headmaster
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797810.mp4&play_token=lyoPXMQTqN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycnKYxmXVX8JlxDo2keE1EWXgNr.jpg" group-title="ASIA┃ BANGLA",IN┃ Haripada Haribol
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797809.mp4&play_token=4Dkaf39Xyq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQv8BRZ7e9SfIAke4pUdbhmQL96.jpg" group-title="ASIA┃ BANGLA",IN┃ Har Har Byomkesh
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797808.mp4&play_token=yNLwQ3mbTa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Hajarmbochor dhore
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797807.mp4&play_token=DEHvaKQx1y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DpvmTKbps3qN9QB5Bva0UtI4ZB.jpg" group-title="ASIA┃ BANGLA",IN┃ Haami 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797806.mkv&play_token=FpfVamQvbk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcmum4KvsNPK6Ryadq0xRDxeSTY.jpg" group-title="ASIA┃ BANGLA",IN┃ Guptodhoner Sondhane
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797805.mp4&play_token=y8D7qKh5b5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8t4rsFgYKd95AxywMJW9N5kJtNa.jpg" group-title="ASIA┃ BANGLA",IN┃ Gumnaami
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797804.mp4&play_token=TkKCPEXeUv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ddJu8HaommBk9GNG0ie04Q13Eo.jpg" group-title="ASIA┃ BANGLA",IN┃ Guldasta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797803.mp4&play_token=KpPEZCkKCt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZJS0xDeUootL8jZkOEITmEkZP4.jpg" group-title="ASIA┃ BANGLA",IN┃ Goyenda Junior
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797802.mp4&play_token=x25lmAqxMq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFTONcQuVNivSDZMV7Uao1AePq2.jpg" group-title="ASIA┃ BANGLA",IN┃ Byomkesh Gotro
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797801.mp4&play_token=qC69O495K3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0ANtmpz38FuQBEzwSuORPwKxtt.jpg" group-title="ASIA┃ BANGLA",IN┃ Boundary
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797800.mp4&play_token=xIeM3gWuzg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5of8D5PY6O67asXAHYTMu3Ya9F.jpg" group-title="ASIA┃ BANGLA",IN┃ Golpo Holeo Shotti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797799.mp4&play_token=iiZtjopDz6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFa4Utyaic4Y1Y2tUntq75dolKn.jpg" group-title="ASIA┃ BANGLA",IN┃ Golondaaj
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797798.mp4&play_token=qUdKkxfIGE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jezqesFI7oUoc7wm4lzeNk3HGcL.jpg" group-title="ASIA┃ BANGLA",IN┃ Ghore Pherar Gaan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797797.mp4&play_token=IfW6i30RHY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yKaQlQC26aa8yXavh35RHTrmyO.jpg" group-title="ASIA┃ BANGLA",IN┃ Ghawre Bairey Aaj
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797796.mp4&play_token=qlJQ964ixQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAyGR3APNsLclfarLMCwVmOUm2R.jpg" group-title="ASIA┃ BANGLA",IN┃ Ghare & Baire
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797795.mp4&play_token=OpP9zoJWCF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ghar sansar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797794.mp4&play_token=0gUGtdnDUx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Garial bhai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797793.mp4&play_token=IqQHg0BL0y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctAGjCNv3rg8BKM2RqIFbsKjaif.jpg" group-title="ASIA┃ BANGLA",IN┃ Gandu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797792.mp4&play_token=gGQxdjd6Ep&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Galpo holeo satti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797791.mp4&play_token=I8glBIGYzN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Gaddari
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797790.mp4&play_token=iDRZZ9ybC5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esADAwpQP8jOI3l51RgzxWm2oVu.jpg" group-title="ASIA┃ BANGLA",IN┃ Finally Bhalobasha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797789.mp4&play_token=ZdIPwMr4lW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boUwVljEdNJxIqn2gnO4d5BkUHE.jpg" group-title="ASIA┃ BANGLA",IN┃ Fatafati
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797788.mp4&play_token=ITFvmijBFv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMZUAqVOwZITpXCR6ytPFZSXj3k.jpg" group-title="ASIA┃ BANGLA",IN┃ In Spring Breeze
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797786.mp4&play_token=QyWJyXRtyV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ F i r No
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797785.mp4&play_token=3GMAPMkJBJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ex jokhon nurse
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797784.mkv&play_token=umR4jHbslV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Elar cha adhyay
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797783.mp4&play_token=XA33TjXTbn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ekhane nongor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797782.mp4&play_token=4yz2VmsOPy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXMgZmychBKT1qcTbSroQGjWjGv.jpg" group-title="ASIA┃ BANGLA",IN┃ Ekannoborti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797781.mp4&play_token=viN2W2Mnl9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQPP9n4BihZWMJaE4YoHooQzAaJ.jpg" group-title="ASIA┃ BANGLA",IN┃ Ek Takar Bou
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797780.mp4&play_token=aM0ENj9XTP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkQAZgdGSynE7CCu057rWzGhw2h.jpg" group-title="ASIA┃ BANGLA",IN┃ Ek Je Chhilo Raja
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797779.mp4&play_token=pD1y51vgw3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ei je duniya
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797778.mp4&play_token=WeyKe9W6in&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Egaro the immortal 11
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797777.mp4&play_token=yBKqVyZLkh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdcVIudf64Ws2EQzwaS18HMjxmz.jpg" group-title="ASIA┃ BANGLA",IN┃ Ebar Shabor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797776.mp4&play_token=QZIscfASpL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0nPQ2ulfem8dEVlXh0z1SMg1ad.jpg" group-title="ASIA┃ BANGLA",IN┃ Eagoler Chokh
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797775.mp4&play_token=u8ONdku0MI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDk6cMpCMFjX5jt5hrL2jui9Mxm.jpg" group-title="ASIA┃ BANGLA",IN┃ Dwitiyo Purush
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797774.mp4&play_token=A3Q69r5nF9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dushmon dorodi shakib khan dipjol purnima
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797773.mp4&play_token=3cc9jCDTVJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JOCaF50Bt266UviLLTsBDfHKQ6.jpg" group-title="ASIA┃ BANGLA",IN┃ Durgeshgorer Guptodhon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797772.mp4&play_token=XYkvdHNxuT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Durga durgatinashini
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797771.mp4&play_token=FU5kVJm4Xe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MYPBWqsw2TKGATp6reXtYTGveB.jpg" group-title="ASIA┃ BANGLA",IN┃ Dukhai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797770.mp4&play_token=ziq7AgEu8w&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dui peithibi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797769.mp4&play_token=8dXQbtpVmQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dui nagin shakib khan munmun dipjol
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797768.mp4&play_token=Te3Q0fi5m8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBwwBqUK5cRaidGN7LtZHOJUC8S.jpg" group-title="ASIA┃ BANGLA",IN┃ Drishtikone
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797767.mp4&play_token=bdmVPCQs7m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Drishti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797766.mp4&play_token=m4iqDeEIfF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMWNJPPgMnFkBuCNYhU4c4TITxu.jpg" group-title="ASIA┃ BANGLA",IN┃ Dracula Sir
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797765.mp4&play_token=7mJpb8VuZB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dictionary
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797764.mp4&play_token=pRmAH43742&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dhumketu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797763.mp4&play_token=XOUt85su7y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dhooli
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797762.mp4&play_token=Nte13Y1a1j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IhV6gZNoj4Weq38u75PzrIYRe4.jpg" group-title="ASIA┃ BANGLA",IN┃ Quiet Flows the Meghna
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797761.mp4&play_token=kBrgGvUdqf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVs897LNWwxTbWNOha8v9I2HZl1.jpg" group-title="ASIA┃ BANGLA",IN┃ Dhatteriki
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797760.mp4&play_token=PAq8KQe9lk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouLvE4abdkSy3vMtxO80yuPeT1D.jpg" group-title="ASIA┃ BANGLA",IN┃ Dhananjoy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797759.mp4&play_token=3ah9Zs0ZFP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dhaker king
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797758.mp4&play_token=1ZS6Ng7ZJk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XSCOyTZ3g0qo0LVCkcxxzT8JwT.jpg" group-title="ASIA┃ BANGLA",IN┃ Dhaka Attack
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797757.mp4&play_token=9rdJOUmCij&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhUjbAo0gTG80cqk1Ekh5Yqm8eK.jpg" group-title="ASIA┃ BANGLA",IN┃ Devi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797756.mp4&play_token=rs3B7UEYFX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3gjGt86lFKFyRUxX3TMO7EpQes.jpg" group-title="ASIA┃ BANGLA",IN┃ Dekh Kemon Lage
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797755.mp4&play_token=jfsxF5YEsH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Debika
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797754.mp4&play_token=7q2yXT4dkO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Datta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797753.mkv&play_token=pPLwGNR3gr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOEjxyiYGF9kvC18WfBm6wP2O8s.jpg" group-title="ASIA┃ BANGLA",IN┃ Daruchini Dwip
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797752.mp4&play_token=gy87r3RJI5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8amchpxUAaPE7E3ocWLOEPFTjf.jpg" group-title="ASIA┃ BANGLA",IN┃ Dark Chocolate
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797751.mp4&play_token=HQui45PXUv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Dapot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797750.mp4&play_token=QZF7Cu0zGp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ILhxeFrepgC1DEldiz4egxS8px.jpg" group-title="ASIA┃ BANGLA",IN┃ Damal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797749.mp4&play_token=jMhPgcynBQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZISh3XBe1SO6lwDmAJXRFHAO77.jpg" group-title="ASIA┃ BANGLA",IN┃ Daal Baati Churma (Chacchari)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797748.mp4&play_token=r9S8RJsOjS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZISh3XBe1SO6lwDmAJXRFHAO77.jpg" group-title="ASIA┃ BANGLA",IN┃ Daal Baati Churma (Chacchari)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797747.mkv&play_token=jnQyeMzLXw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",crisscross_2018_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797746.mp4&play_token=jzBLXgiTAb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",crime_the_dark_side_2018_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797745.mp4&play_token=S7kk6oadaK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",cosmic_sex_2015_720p_hd.mkv
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797744.mp4&play_token=FrB8TIIdEJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",coolie_1997_720p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797743.mp4&play_token=TgZERnww75&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",colkatay_columbus_2016_720p_hd.mkv
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797742.mp4&play_token=geInBe83KG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",cockpit_2017_720p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797741.mp4&play_token=aOO8Tbj1y2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",chotushkone_2014_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797740.mp4&play_token=eyuaYR3GyG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5w9OaPPAnheu2PdkdqdMPjB1GZg.jpg" group-title="ASIA┃ BANGLA",IN┃ Chotoder Chobi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797739.mp4&play_token=bCasUSXKwn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Chorabali
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797738.mp4&play_token=ocBePlDcPC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Chirantan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797737.mp4&play_token=PbPiOoCjYo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WFPLqddv3HY532tMWWYWHdiKqw.jpg" group-title="ASIA┃ BANGLA",IN┃ Chhaya O Chhobi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797736.mp4&play_token=AYsZ3a06WQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkEQiWvOp4MYElFfnFv8jqajVPR.jpg" group-title="ASIA┃ BANGLA",IN┃ Chengiz
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797735.mkv&play_token=X8JEz0lbVD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Chena Achena
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797734.mp4&play_token=17xgtAXhkl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ldwCECRGWsmVGh7ZgbmVr1jH0Z.jpg" group-title="ASIA┃ BANGLA",IN┃ Cheeni 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797733.mkv&play_token=KoDhofvtaL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Cheeni
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797732.mp4&play_token=wse7F5DNGV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Chattogram astragar lunthan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797731.mp4&play_token=CN32KJsJlE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Chandra grohan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797730.mp4&play_token=XKociH3YyC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",challenge_2_2012_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797729.mp4&play_token=Q3tuUGEFkb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",challenge_2009_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797728.mp4&play_token=KdYgaWIHVJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",chaamp_2017_720p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797727.mp4&play_token=whJ39c9DYf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",byomkesh_phire_elo_2014_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797726.mp4&play_token=fj1jPLG96S&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",byomkesh_gotro_2018_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797725.mp4&play_token=aSWnPzy6pW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",buro_sadhu_2019_720p_webrip
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797724.mp4&play_token=Hi8l2dWDza&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bulet_bangla_superhit_action
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797723.mp4&play_token=iHPSf5ZPzg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",brihonnola_2014_1080p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797722.mp4&play_token=bDMdgVuFF1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",brahma_janen_gopon_kommoti_2021_720p_webdl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797721.mp4&play_token=pPeT92NEES&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",boudi_canteen_2022_1080p_webdl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797720.mp4&play_token=3H6OYBMy6M&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bou_er_jala_2007_720p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797719.mp4&play_token=UvT1KsjmjY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",borunbabur_bondhu_2020_720p_webdl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797718.mp4&play_token=feo7WeBh7e&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",boro_loker_dosh_din_goriber_ekdin_2010_1080p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797717.mp4&play_token=7sXjSj6CtI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",boro_bhalo_lok_chhilo_1982_1080p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797716.mp4&play_token=gJNx62ZYXn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bornoporichoy_a_grammar_of_death_2019_1080p_webdl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797715.mp4&play_token=mZvOUL4asg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",boomerang_2018_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797714.mp4&play_token=0hyPmZ4aoq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bony_2022_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797713.mp4&play_token=J0AbUMeMRK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bolo_dugga_maiki_2017_720p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797712.mp4&play_token=0a2LDix164&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bojhena_se_bojhena_2013_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797711.mp4&play_token=4zXvL5GLqL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bodhan_1981_1080p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797710.mp4&play_token=cbm77zsAAU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",biye_bibhrat_2023_1080p_webdl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797709.mp4&play_token=CzZMh6CLAK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bishwapremik_1995
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797708.mp4&play_token=gWk15ssdRd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bird_of_dusk_2023_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797707.mp4&play_token=hrMXfH9hCN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bindur_chheley_1952_480p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797706.mp4&play_token=snqusXg5ph&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bijoya_2019_720p_webrip
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797705.mp4&play_token=TocJCmU4DH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",big_brother_2015_1080p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797704.mp4&play_token=sD6EjOMBSj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bidrohini_2020_1080p_4k
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797703.mp4&play_token=9J1y1kiya8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bidrohi_1987_1080p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797702.mp4&play_token=7JMPTdkzZm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bibaho_obhijaan_2019_1080p_webdl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797701.mp4&play_token=NxaH1VOuYa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bibaho_diaries_2017_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797700.mp4&play_token=pqmKZb3kAc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bibaha_bibhrat_1971_720p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797699.mp4&play_token=qxHbdzPUVx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bhoy_2023_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797698.mkv&play_token=6p1WI1Du9e&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bhoy _2020_720p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797697.mp4&play_token=7HFB6xXvv6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bhoot_chaturdashi_2019_1080p_4k
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797696.mp4&play_token=FRwOoUArQu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bhobishyoter_bhoot_2018_720p_dvdrip
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797695.mp4&play_token=6GrjMXpFwT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bhalobasar_rajprasade_2001_1080p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797694.mp4&play_token=jRK5QHfL1N&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bhalo_theko_2018_1080p_4k
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797693.mp4&play_token=npqaeuY9GS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bhaijaan_elo_re_2018_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797692.mp4&play_token=fj57EYY5iY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bhagya_chakra_1980_480p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797691.mp4&play_token=Bmk6DF93kn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bhagshesh_the_remainder_2018_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797690.mp4&play_token=1qq7HZPbTH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",belashuru_2022_1080p_webrip
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797689.mp4&play_token=uJZE7amKRC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",batasi_1980_1080p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797688.mp4&play_token=XR6IbTs8yT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",basu_poribar_2019_1080p_webdl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797687.mp4&play_token=qXH7OheqP4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bastu_shaap_2016_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797686.mp4&play_token=1Q5v3QWzWG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",basanta_bilap_1973_1080p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797685.mp4&play_token=mdmPiEH1y0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",barof_2019_1080p_4k
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797684.mp4&play_token=QT7LKUcaZl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",baranda_2017_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797683.mp4&play_token=HWS5CrOs8G&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bapi_bari_ja_2012_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797682.mp4&play_token=k3VyZqcV40&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bap_betir_juddho_shakib_khan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797681.mp4&play_token=etJiJkRPaZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",banglar_hero_2006_720p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797680.mp4&play_token=u7ffQckHt7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bangla_movie_gangajatra
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797679.mp4&play_token=XmwbBlJzHQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",baje_chele_2016_1080p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797678.mp4&play_token=tOwMUIm9m2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",baishe_srabon_2011_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797677.mp4&play_token=aDM5NdIdYD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bahadur_sontan_2002_720p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797676.mp4&play_token=Yhqdo2JBYQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bagha_jatin_2023_720p_hdcam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797675.mkv&play_token=thrnS65W3w&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",badsha_the_don_2016_720p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797674.mp4&play_token=ddm6PAewOh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",bachelor_2004_1080p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797673.mp4&play_token=NCpqVcrNPo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",baccha_shoshur_2019_720p_hdrip
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797672.mp4&play_token=1mm3dcyUdc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",baba_baby_o_2022_1080p_webdl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797671.mp4&play_token=IfU2HDQwQM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",atikram_1994_1080p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797670.mp4&play_token=pt7WiCc6gw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",asur_2020_720p_webdl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797669.mp4&play_token=mYllpfiqWk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",astonishing_lamp_2013_720p_hd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797668.mp4&play_token=pqElFHpjiZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",ashami_bodhu_1999_1080p_sd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797667.mp4&play_token=Cf5K5PqKLw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFiEQdkNzFJvrSflqoJoCsqcNAM.jpg" group-title="ASIA┃ BANGLA",IN┃ Aschhe Abar Shabor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797666.mp4&play_token=ABkqcjx68W&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Arshinagar 1
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797665.mp4&play_token=YKZv7zzfKp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Archier gallery
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797664.mp4&play_token=JudNsAnpy3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nCvHtGyitnJpOKkJre9647qgB0.jpg" group-title="ASIA┃ BANGLA",IN┃ Apur Sansar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797662.mp4&play_token=K50C7m8Yzl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvR2Qs42WHwCEcuwhQnterU3gVY.jpg" group-title="ASIA┃ BANGLA",IN┃ Aparajito
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797661.mp4&play_token=S18nwl2oSN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTpUq8HZgndi6BYZ5Ft3qSsY4DR.jpg" group-title="ASIA┃ BANGLA",IN┃ Aparajita Tumi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797660.mp4&play_token=5QxQQbFO5j&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Aotar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797659.mp4&play_token=u2BbLBBoOg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Anweshan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797658.mp4&play_token=ozYaE0T1I2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Anubhav
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797657.mp4&play_token=qqBxO2ugaN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdJQlHQPuvojzcIclFXl7AYLwbA.jpg" group-title="ASIA┃ BANGLA",IN┃ Antonagar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797656.mp4&play_token=YpKLi5iGbh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGnEfGpq1LylxHuLVEmyECj8pCS.jpg" group-title="ASIA┃ BANGLA",IN┃ Antim Swash Sundar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797655.mp4&play_token=M8RkRItaAh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjwg9XkL22GZ2XQdfMvcAofLE1O.jpg" group-title="ASIA┃ BANGLA",IN┃ Antarjal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797654.mkv&play_token=FHFiozYl3E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Antaratma
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797653.mp4&play_token=D0Sm5Rwqyc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kusum kusum prem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787642.mp4&play_token=bh0rPY1GZw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kukkhato khuni
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787640.mp4&play_token=qRMXyFtT7o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kuasha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787639.mp4&play_token=t3NcHFFb7m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Krishno pokkho
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787638.mp4&play_token=Dv4PqbVWMH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Koto shopno koto asha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787637.mp4&play_token=44EE6os5OD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Koto je apon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787636.mp4&play_token=goXOmEBwwX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Koti takar prem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787635.mp4&play_token=auGazesCol&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pHby8T0b6lrzvtcegKYLzM7Q3l.jpg" group-title="ASIA┃ BANGLA",IN┃ Koti Takar Kabin
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787634.mp4&play_token=Ph7D9yZvc2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kothin purush
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787633.mp4&play_token=sLDMfw8ck9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSL6rFLWqMV3xd1nHPl6jWzzGh2.jpg" group-title="ASIA┃ BANGLA",IN┃ Kothin Protishodh
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787632.mp4&play_token=RhQ3jjXoQE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kothin prem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787631.mp4&play_token=MojHRK60Qz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kothin bastob
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787630.mp4&play_token=fpdeinkzLJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kostho
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787629.mp4&play_token=h5kTuGjiHn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kosom banglar mati
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787628.mp4&play_token=8GXtWs5Owo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivf8hN6JPmaAz1AFXqfsyW7NYes.jpg" group-title="ASIA┃ BANGLA",IN┃ Konnadan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787627.mp4&play_token=ZevIzIfk8v&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kokhono megh kokhono brishti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787626.mp4&play_token=tBZyLQPWOs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kokhono bhule jeo na
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787625.mp4&play_token=Y8SxhhwDd6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kodom ali mastan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787624.mp4&play_token=JOFS0fswWZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKYVgG9rijEASqfcvoI6URUrBzh.jpg" group-title="ASIA┃ BANGLA",IN┃ Kistimaat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787623.mp4&play_token=O4vfzHtJ8k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ki prem dekhaila
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787622.mp4&play_token=iBpQ4jl9xb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ki jadu korila
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787621.mp4&play_token=EoAqS5oBna&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ki darun dekhte
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787620.mp4&play_token=KCwqwvFAIN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Khude joddha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787619.mp4&play_token=zMJuiD4fHH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Khotipuron
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787618.mp4&play_token=Ei2u7P5KXV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Khomotar gorom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787617.mp4&play_token=mTEBHT0vne&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Khomotar dapot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787616.mp4&play_token=LPDAfBSz1Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Khodar pore maa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787615.mp4&play_token=CDvCGTguuv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Khobordar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787614.mp4&play_token=MPXjEmdsML&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Khepa basu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787613.mp4&play_token=4z0bczdveu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Khelaghor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787612.mp4&play_token=5Eejs4U2bb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Khash zamin
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787611.mp4&play_token=nVU3aOzK3L&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Khal nayika
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787610.mp4&play_token=uU8WNNmvth&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Khairun sundori
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787609.mp4&play_token=Y1QR1QSMMp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Keyamot theke keyamot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787608.mp4&play_token=8RkBGmOpsl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ke oporadhi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787607.mp4&play_token=5t22anGu16&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ke ami
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787606.mp4&play_token=G0kzxS1gw8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ke amar baba
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787605.mp4&play_token=T0gtZ3ADKZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22o4NjeRQJCWucqcd3ovz04tUee.jpg" group-title="ASIA┃ BANGLA",IN┃ Kathbirali
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787604.mp4&play_token=5GBnpjR7WY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kata rifle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787603.mp4&play_token=AB2oC7X0JL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kata lash
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787602.mp4&play_token=SXreRvYriL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kashem malar prem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787601.mp4&play_token=CLKjwBfUBT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Karon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787600.mp4&play_token=nadOyaV6kR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Karishma
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787599.mp4&play_token=0UJ3GVBWpl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Kalu gunda
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787598.mp4&play_token=Y3wKhozUNB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sc4HCrwb8teO13Mfj0LgF1vVUPu.jpg" group-title="ASIA┃ BANGLA",IN┃ Angshuman MBA
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787597.mkv&play_token=t9xXYUSiQs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Andhar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787596.mp4&play_token=oDb89Xa70X&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NXzH3W24q4OLK88H8NZFLmjgVF.jpg" group-title="ASIA┃ BANGLA",IN┃ Andha Bichar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787595.mp4&play_token=2rAcIO8H0l&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Andha bhalobasha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787594.mp4&play_token=08PxWtato1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ananta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787593.mp4&play_token=seXeoVPr8x&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amrapali
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787592.mp4&play_token=AJXU1V945g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPCGHZOAjQpGEIAakfdl3ZCy7qx.jpg" group-title="ASIA┃ BANGLA",IN┃ Amodini
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787591.mp4&play_token=1T7GB1GZsW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ammajan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787590.mp4&play_token=pD42yLvmPG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ami Je Tomari
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787589.mp4&play_token=E0LYaiWthJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ami jail theke bolchi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787588.mp4&play_token=4ggDKKe92b&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ami bachte chai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787587.mp4&play_token=uz8Gj4MVAV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amar swapna amar songsar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787586.mp4&play_token=Mg1xt8toO5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mho7NfNiqdTFFAuCXqXXSeopdit.jpg" group-title="ASIA┃ BANGLA",IN┃ Amar Shopno Tumi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787585.mp4&play_token=wEGxzKupv1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amar prithibi tumi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787584.mp4&play_token=iAZ3A3yBcD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amar praner swami
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787583.mp4&play_token=cvLHQl54qF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amar praner priya
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787582.mp4&play_token=VQ6Ugb6NDj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amar ontore tumi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787581.mp4&play_token=i7TN25sHG9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amar mayer shapath
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787580.mp4&play_token=T3rym6WUeU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amar maa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787579.mp4&play_token=S67tzrG7ua&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amar kantak
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787578.mp4&play_token=CHaAjwP5NM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amar jonmobhumi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787577.mp4&play_token=w9q4evX7Gd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amar jaan amar pran
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787576.mp4&play_token=d6dAjjptZF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amar jaan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787575.mp4&play_token=afTb2xgc57&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amar challenge
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787574.mp4&play_token=Ih1m5mXm3O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amar buker modyekhane
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787573.mp4&play_token=Dp6xhzp6hW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlzq3j8Y0hUYkNbHTsl3W6b8Kz0.jpg" group-title="ASIA┃ BANGLA",IN┃ Amar Aponjon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787572.mp4&play_token=0TpBD0YwSC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMXO0K4BqxW8sv9em7I6vETgMno.jpg" group-title="ASIA┃ BANGLA",IN┃ Amar Ache Jol
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787571.mp4&play_token=Bmq9ihYUMo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UbJ163EpVqTQHFvqzyiep7a4HR.jpg" group-title="ASIA┃ BANGLA",IN┃ Amanush 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787570.mp4&play_token=yEM1KClfzN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amader shontan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787569.mp4&play_token=LLzoZecqsn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Amader choto shaheb
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787568.mp4&play_token=cbVKjaTpL6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySq1yAn6RJqcnwXbg9hm7RBlV6Y.jpg" group-title="ASIA┃ BANGLA",IN┃ Alor Michil
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787567.mp4&play_token=r5l1IQ5Gj7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9qHZo2nCIiYTZWB90jXQqZeMeQ.jpg" group-title="ASIA┃ BANGLA",IN┃ Alo Amar Alo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787566.mp4&play_token=x9Vmv0ENav&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Aleyar alo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787565.mp4&play_token=L4Fbk9Bjx0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Akheri nishan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787564.mp4&play_token=qdYjyvaR1J&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w54vvN65n4T8aT5Hte6tbl2KjSd.jpg" group-title="ASIA┃ BANGLA",IN┃ Akash Ongshoto Meghla
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787563.mp4&play_token=92neXnCgl5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Akash koto dure
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787562.mp4&play_token=89rdZjzExu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Akash chhoa bhalobasa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787561.mp4&play_token=Be99MXuQT6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCkDEGtnweEEDjk52ZluqPB2hKZ.jpg" group-title="ASIA┃ BANGLA",IN┃ Ajob Prem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787560.mp4&play_token=iic0pN7Jui&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ajker sontrasi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787559.mp4&play_token=9krMgFFnwL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ajker somaj
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787558.mp4&play_token=yWSOhby5QL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPvI1ksCAXCwG8XrY3S5gUkbagQ.jpg" group-title="ASIA┃ BANGLA",IN┃ Ajker Shortcut
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787557.mp4&play_token=cuJyZw2GOZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ajker kedar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787556.mp4&play_token=viStVGccZO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ajker dapot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787555.mp4&play_token=EFaQZadxSL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ajantay
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787554.mp4&play_token=fzOlZ9Ufmp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46v2POr7kYkWFjL9yDRoUPezmLF.jpg" group-title="ASIA┃ BANGLA",IN┃ Ahare Mon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787553.mp4&play_token=2Do031XBUd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Ahaa re
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787552.mp4&play_token=jWEqC4lfIt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Aha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787551.mp4&play_token=Mom5qNiazQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygJopYcwwi8wbZTaUFav5u6Rz8L.jpg" group-title="ASIA┃ BANGLA",IN┃ Aguner Poroshmoni
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787550.mp4&play_token=9M7wMFqGBy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMp0FSCCjmRGhEEcCNxbtsWC4d3.jpg" group-title="ASIA┃ BANGLA",IN┃ Aguner Pakhi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787549.mp4&play_token=NnnVJrgq5V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Agun jole
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787548.mp4&play_token=3z7XUl75EW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8OvYrTjY10YCKE0jT9zuqqYHB9.jpg" group-title="ASIA┃ BANGLA",IN┃ Agnishwar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787547.mp4&play_token=i68xc8zxIg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uJ262E1WjSM4qoBqOpNk0Y5nk5.jpg" group-title="ASIA┃ BANGLA",IN┃ Agnishapath
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787546.mp4&play_token=RsYU7Azet5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utZM7gNL3ouqHGmxUv7IB5TaZ09.jpg" group-title="ASIA┃ BANGLA",IN┃ Agnipurush
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787545.mp4&play_token=5KYIPCRQ5v&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vn9O1N9G2M6Jc2NlhqcNxAy9Z0.jpg" group-title="ASIA┃ BANGLA",IN┃ Agnipath
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787544.mp4&play_token=BlsDtjT1SL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Aagni shikha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787543.mp4&play_token=lKDp0pjePv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Agni kanya
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787542.mp4&play_token=ZGmpp62ui1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Aghat palta aghat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787541.mp4&play_token=jF1924OrRw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Agaman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787540.mp4&play_token=sDoRTz6i1k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIY0mbJmiFEHq4KGEC6zJC2a488.jpg" group-title="ASIA┃ BANGLA",IN┃ Ae Desh Tomar Amar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787539.mp4&play_token=fvWbZSEA3X&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Adorer sontan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787538.mp4&play_token=r8llW5STjM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Adorer jamai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787537.mp4&play_token=O0O3LjU5yj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Adhikar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787536.mp4&play_token=OZ0czU5knt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Adhiar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787535.mp4&play_token=sNJmzspkjk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAOkKa1tIluL1EfMjybxGSOVwGH.jpg" group-title="ASIA┃ BANGLA",IN┃ Action Jasmine
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787534.mp4&play_token=5oBMnQbKCt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Abujh sontan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787533.mp4&play_token=hLX3zyae72&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhigoa9iOfZvbTJksF4K6aUSepQ.jpg" group-title="ASIA┃ BANGLA",IN┃ Abosheshey
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787532.mp4&play_token=kJUlkSC3ds&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Aborto
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787531.mp4&play_token=0dcHpxu7aD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Abirbhab
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787530.mp4&play_token=KTNUsU6CJX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Abhoman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787529.mp4&play_token=4S01HNGbsn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Abhishkar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787528.mp4&play_token=9R7cm0TmQO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Abhimaan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787527.mp4&play_token=wDa0Dn6wAO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Abhaya o srikanta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787526.mp4&play_token=CpqgncuAT5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/poRRu8cMWO60AmgUQt4grFvq5Yr.jpg" group-title="ASIA┃ BANGLA",IN┃ Abelay Garam Bhat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787525.mp4&play_token=G8WrYNCEZJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Abdullah
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787524.mp4&play_token=bOihsiXxGQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpJ6cApDk7yUWZmDKVO6yugZTIG.jpg" group-title="ASIA┃ BANGLA",IN┃ Abby Sen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787523.mp4&play_token=sWtQ47Uy7m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Abbajan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787522.mp4&play_token=TGIwqHYvYO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Abar ekti juddho
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787521.mp4&play_token=tEVN32js5X&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Abar byomkesh
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787520.mp4&play_token=FzAWKAbT2D&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZevTU8CHgGPKvQMazBr9OkFoxm.jpg" group-title="ASIA┃ BANGLA",IN┃ Abar Bibaho Obhijaan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787519.mp4&play_token=YlzW5WMGY6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhlw69bpspMofOBEowPBeBRynJ5.jpg" group-title="ASIA┃ BANGLA",IN┃ Abar Basanta Bilap
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787518.mp4&play_token=lQl1GMH9ho&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uk9TYD3TLArjDJOfk1lqpCJqq2V.jpg" group-title="ASIA┃ BANGLA",IN┃ Aasroy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787517.mp4&play_token=lKsilO8Udh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0KW8mRXfAR7mKuIRQrQ0nSX5i8.jpg" group-title="ASIA┃ BANGLA",IN┃ Aami Sei Meye
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787516.mp4&play_token=xk0MFpMyKw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Aamar sathi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787515.mp4&play_token=GMnXDfuRZD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66J6ZLkPV0F25uUSCFVz3WR1Qty.jpg" group-title="ASIA┃ BANGLA",IN┃ Aamar Aami
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787514.mp4&play_token=K1tr6P0lPh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Aaj kal parshu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787513.mp4&play_token=vDKWD9RwE4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFC3EiN61tq0frk602EMxO5zJRw.jpg" group-title="ASIA┃ BANGLA",IN┃ Aainaate
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787512.mp4&play_token=6g1O7JpbFp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ Aagoon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787511.mp4&play_token=pprslgPoUH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ A desh kar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787510.mp4&play_token=auXGFf1rzN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ 90 Ghanta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787509.mp4&play_token=d8ZbbsSr18&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cM6DsCYtJVzFz7FrOaIv6zVqorU.jpg" group-title="ASIA┃ BANGLA",IN┃ 8:08 Er Bongaon Local
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787508.mp4&play_token=mFfMwa7reB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ 61 No Gorpar Lane
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787507.mp4&play_token=T1OhVYegAW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KkjPxOoQhnZpCsxXgFBNcAJMgx.jpg" group-title="ASIA┃ BANGLA",IN┃ 3 Patti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787506.mp4&play_token=o8Y1pdhV39&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ 10:10
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787505.mp4&play_token=J0mMzTqoA3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ BANGLA",IN┃ 100 love
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787504.mp4&play_token=ygi2lGkrHZ&type=movie

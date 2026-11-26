@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LFVYj5NnkDXtR8fK0xPXZlxdkn.jpg" group-title="IT┃ RAI PLAY",IT┃ Un'estate a Praga
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=744323.mkv&play_token=Fo97WhIQXz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOAQ4ZxHELc0CzNMtjmbMwVKkuQ.jpg" group-title="IT┃ RAI PLAY",IT┃ 1989 - La Svolta -A Spy Story
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=744268.mkv&play_token=ZzhbjR0eqD&type=movie

@@ -1,115 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugGJVXgRNLcJwmPpSCX5PjBSlde.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Rocky IV
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356737.mkv&play_token=tDnTa5hbka&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dqTmlVhd6rQrV5HFByrsBhPC0P.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Rocky III
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356736.mkv&play_token=BB9xojgwQm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sD5wuQ9MR4UFWKOkqZzMmYmaUDN.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Rocky II
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356735.mkv&play_token=gcoKmnwPeC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWABvAo7vWGGaFk37yUd0SKhrch.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Rocky
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356734.mkv&play_token=qDhJyfxLqY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7b6L8HZDq5N0tix8dhOmBufAJt.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Hangover 3: Felekten Bir Gece
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356733.mkv&play_token=77dSqq7GCQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHMcMyIz3fdyTDPYMepQBjXl4Tj.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Felekten Bir Gece Daha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356732.mkv&play_token=j1V3f5wvCM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E3Ss66DcscchIbW7GCxFuqlKSZ.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Felekten Bir Gece
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356731.mkv&play_token=w2SPeNbMbA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i83Ykng2HVY5EF043zMmeQdLUQY.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Beyazlar Zıplayamaz
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356730.mkv&play_token=cIwZV3O5rv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zs4Ek2VyuRBnwQmzUuaBbpjCE6O.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Troller Hep Beraber
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356729.mkv&play_token=Io28rxBqTB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7R1oYhsc76aYy8m6TsD6k5UlXeX.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Üstat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356728.mkv&play_token=o02d9mdZDF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KIKEWXAbR4vGww70rL5YdhcauG.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Sistem
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356727.mkv&play_token=2ZdWn1ssAY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AlZ25eQsA36dMzVmUuorTjwgAy.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Süper Mario Kardeşler Filmi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356726.mkv&play_token=bAV4zgZAso&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65yYJyPkCXDoBfIqZFDjIbf6Z9F.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Huysuz Kitapçı Fikry'nin İnanılmaz Hikayesi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356725.mkv&play_token=V4jx4jyQEA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a88ArTe039MWZNMi6cEbl9zvwpz.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Suskun İkizler
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356724.mkv&play_token=q9Gs5dYKQP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2kPOEavnqKxic1I5R8d9B6GuQ3.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ The Plains
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356723.mkv&play_token=uJnD7mk9FG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Loraks
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356722.mkv&play_token=yJWFpaBpR4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd9D9O9LuZ4aaJK73fMjTt8MVlR.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ The Independents
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356721.mkv&play_token=BLjD83P7kQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Fabelmanlar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356717.mkv&play_token=waEZJHp8SH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YdUQqK31S9BeAz08fQYGzYCrvA.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Yaz Tatili
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356716.mkv&play_token=1hMfWXIAIG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6FQtqoIP7JUqc9hRwQQfuYG2kz.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Spoiler
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356715.mkv&play_token=m42OxvNwyC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZybVdFkiAJ5aeb9zcTUovLRo8v.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Gülümse
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356714.mkv&play_token=p7Jz6Kd3Ux&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/int5eEKNc8g0V5i3XYaPeaC6paD.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Rye Lane
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356713.mkv&play_token=UMCQJvxrqY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Resurrection
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356708.mkv&play_token=PfDVmKO33p&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTNHwO896WKkaoPtpMMS74d8VNi.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Yağmur Adam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356706.mkv&play_token=mUpCxWtzwH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6uFA7r4VqqQeW4u9YtktheRXUt.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Quasi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356705.mkv&play_token=fOmBfKozPf&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVgRfuBvsFTU4mFvDt1Qlqo1CRo.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Prom Pact
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356704.mkv&play_token=vQvXxKGFU8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkPSqbR7QrbCyJFPFtkfFTURG52.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Tehlikeli Oyun
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356703.mkv&play_token=E05Fw7PW1V&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Pearl
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356702.mkv&play_token=yzxJgXOJ2B&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gAhzumKbbJXBddscZeuREMmAdf.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Kötü Kızlar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356701.mkv&play_token=hlNDFqLQ1k&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYEFfBWOiXMZ3GWnR6RcDp0Z9pH.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Yaşamak
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356700.mkv&play_token=QjYynGU8Es&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xp6tTBq5WwALGMWbNWMPDes4k7Z.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Kulübeye Tıklat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356699.mkv&play_token=1HVpxYIozK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tayHRAWq3GXhqeLdYlm4azDjPKr.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ İçeride
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356698.mkv&play_token=8LG1yjucx4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BTxNvVFMhuZSbkZu9ytgKpI8El.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ İsa için Korna Çal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356697.mkv&play_token=8vAyEPRjhI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uFxc6jDoWuNcMPP76zgZRjKamn.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Cadılar Bayramı Sona Eriyor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356696.mkv&play_token=VEmHc4jgXa&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lBdVyTcWxW7q36A31NEllcSAie.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Grev
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356695.mkv&play_token=AG9yLEGedp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkuq73zdrsG4P5pUvCKEDeI1TxX.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Tanrı'nın Ülkesi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356694.mkv&play_token=qpUfohnR4p&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9GinPUm7cxu1Fud4fxDmIhoCpj.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Freddy'nin Pizza Dükkanında Beş Gece
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356693.mkv&play_token=VaEVlgc5Ad&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Am1mIWClibXSNcDudFRV9F9RdBm.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃  Hızlı ve Öfkeli 10
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356692.mkv&play_token=4760xr7twN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjb12317D6TFFnkZO3z6DLUeyrs.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃  Kötü Ruh: Uyanış
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356690.mkv&play_token=d23a0Wsb23&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/md4LKwHrbw0RsLcteawkGuEAgo1.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃  Işık İmparatorluğu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356689.mkv&play_token=aBv4c92EPs&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lraVawavIXh5geMlVjpzCw9TGwR.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Dogville
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356688.mkv&play_token=YXdFsgaFs8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWzOfTJRZHPNO1VNrMnNFqRcJwg.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Karanlıkta Dans
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356687.mkv&play_token=xQyqzCXeOh&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppOj3kwMWBm767rA10pI8X4waja.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Dampyr
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356686.mkv&play_token=gGi03mEnmo&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQyLgugl8sEEw3xlhnYdZEAFeBr.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Krater
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356685.mkv&play_token=MEKV7JFfQm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfHU3L96IbSvLMVwZcYl9gwN6KB.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Belalı Karakol
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356684.mkv&play_token=Y1V2QhtjMk&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJsIX1fIfWOWY3ECOB6EzB4dQBZ.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Kod Adı Banshee
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356683.mkv&play_token=AcSXqwDrIr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6Yt77C9u7Aume9dTJMCSRzWDED.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Clock
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356682.mkv&play_token=4LGukNVFG0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohaIkrTd47z43IuLlwwNg7bi96c.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Chang Can Dunk
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356681.mkv&play_token=1pjSCE16gE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1H9RpfmIwDM5norUpYdiOdRkVQi.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Bruiser
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356680.mkv&play_token=es0kUYEuHs&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJTC92PAdq33sKkaO1eThS6ukFG.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Kankalar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356679.mkv&play_token=ndKRi3c2sj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nN2j5GKQVmNNkyRLwDfR6n3zsw6.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Meilleurs Colocs
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356678.mkv&play_token=1yuQmlSE34&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJEdNJZaAhlRQh4fcHsloq4LOy3.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Kopuş
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356677.mkv&play_token=6Zf2327eMl&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6PzROu0MKZDaGjP7q1vAW0CIjt.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Suikastçı Kulübü
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356676.mkv&play_token=UYOK7w6chK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMK717aDWhboXOiVbZ9sLBqLmKh.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Armageddon Time
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356675.mkv&play_token=wGcrPu7RbI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiifrFJTGkU6zI7e7YH9q5neH8O.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Ant-Man ve Wasp: Quantumania
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356674.mkv&play_token=W5GUcPfjHo&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGF5AaBqUckyElDGtHuWYikhgMq.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Alice Müzikali
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356673.mkv&play_token=1tLFVW8e6F&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu1vb2P54vm3IR7AGALKYNerF9D.jpg" group-title="┃TR┃ 4K HDR | SDR",┃TR-4K┃ Ajan Oyunu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356672.mkv&play_token=fjEFhyrkiR&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Rocky IV
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356737.mkv&play_token=RjYaeM5C0T&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Rocky III
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356736.mkv&play_token=tfDft6czNx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Rocky II
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356735.mkv&play_token=5kPmZvQ1WC&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Rocky
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356734.mkv&play_token=Rbbed9htrx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Hangover 3: Felekten Bir Gece
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356733.mkv&play_token=5OLyIrSayg&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Felekten Bir Gece Daha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356732.mkv&play_token=O2cm3Osws7&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Felekten Bir Gece
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356731.mkv&play_token=QJdMDo7BYW&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Beyazlar Zıplayamaz
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356730.mkv&play_token=yHCpGto49z&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Troller Hep Beraber
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356729.mkv&play_token=GQBF3H11As&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Üstat
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356728.mkv&play_token=tqVcrqQxMF&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Sistem
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356727.mkv&play_token=WSLh75XlxH&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Süper Mario Kardeşler Filmi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356726.mkv&play_token=SmpgJhoBhR&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Huysuz Kitapçı Fikry'nin İnanılmaz Hikayesi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356725.mkv&play_token=lI7Q9c2chT&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ 4K HDR | SDR",TR-4K┃ Suskun İkizler
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356724.mkv&play_token=VdlbX5FaBv&type=movie

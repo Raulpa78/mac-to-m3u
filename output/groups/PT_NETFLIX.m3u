@@ -1,85 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TcTdvMOZvZ6kDLEm0SZlkNm9Vu.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Havoc
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1154697.mp4&play_token=lTir7aR5E6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZ6rR0kXKlBRXGYjOTJx8j82sqs.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ To All the Boys: Always and Forever
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148638.mp4&play_token=ICojkf92X7&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVHGPxHXIpOet5H7orIFMIjzeva.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ På villspor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148636.mp4&play_token=dKyszARysf&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p91IMcRiHvDc1Ou8rDBdEIHZcli.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Tornado: Apanhados na Tempestade
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148635.mp4&play_token=OSJj5TN7Lg&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6QqW954LzK1Fs6Dc1mM9iSZgyD.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ La vita davanti a sé
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148633.mp4&play_token=MQ4k1vhKJq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omGWTCLiaEWt55JInKLQ58H0Z1b.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Rica Vida
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148623.mp4&play_token=VN9bv8VGB5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xODFawcWmxx2vn7rCw3KrdZmtmy.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Plâncton: O Filme
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148619.mp4&play_token=K97zpfHq4i&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUirEoPDHqKYKzpfExHPvcnz6ME.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Patrulha Pata: o Super Filme
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148615.mp4&play_token=wiIaOqXSbC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u226mX8Fr6eHpRnB0SBvZbWgSrJ.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Os Dois Hemisférios de Lucca
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148603.mp4&play_token=tav2HliJaH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIgwLgltdbJtJHwkemdl32w27Ye.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Nos Confins do Mundo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148601.mp4&play_token=qOPoHOAqSV&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Kraven  o Caçador
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148599.mp4&play_token=WdsfIppvI7&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qh4H7H0XYv9TJ0ZSFsOc64NUG1W.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Mais ou Menos Grávida
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148598.mp4&play_token=BiI4g59KUC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JRF2CsPVaqbjxJkZM0zAKfdoXH.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Eu e Mamã Vamos de Lua de Mel
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148593.mp4&play_token=br5gSqO0Gq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6mdvaGWxdfLb23wWBO1gHdnMdG.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Imortal: O Homem Que Quer Viver Para Sempre
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148586.mp4&play_token=FqScfzecOj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBh6Cljpg7678grLPZFLLmzMCPq.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Delicious
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148583.mp4&play_token=8PjubScRkd&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQOyS5280smeEOqXJ6VQbGFospl.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Morte Antes do Casamento
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148580.mp4&play_token=iELjkZmZ8x&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQsMy1xn8NG1VfVWFpEhhAsp4pi.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Contra-Ataque
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148577.mp4&play_token=O8RozXBSfD&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvM4FDKDfeUFZnf6RGOLRMzT6zf.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Caos: Os Crimes dos Manson
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148572.mp4&play_token=zI1xdPWyns&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht9LiXOHBvDkvTQl9sAwllOsF81.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Bogotá: A Cidade dos Sonhos Perdidos
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148570.mp4&play_token=xtv0KGk5pM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDVsBMUE3QI0lZE44vfqpIojqRg.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Barbie & Teresa: Recipe for Friendship
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148567.mp4&play_token=gHOU8IT55k&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h87bgIhs4keL005Ch5aeKhnaAIL.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ iHostage
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147244.mp4&play_token=EHhG7TJ7Ey&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1EByaSlnST1ieAagdM3LJamlJ7.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Stranger Things: The First Shadow – Les coulisses de la pièce
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147236.mp4&play_token=5wOnY5LvP6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gspluUUTwGMT33rR6YietqRIjok.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Banger
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147235.mp4&play_token=jwzP0mHpOb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v11kXYtSffp3t10VdM5EnORMbUn.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Tim Dillon: I'm Your Mother
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147231.mp4&play_token=uNB5hFqHwQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zrVB7SQe9UZNRABpca66lObH0n.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Um Ano Para Ser Feliz
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147230.mp4&play_token=11wEaJCRK5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qED1q18l2rM5eBbJsmnc4JakN5b.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Lo mejor del mundo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147229.mp4&play_token=iQXa4L1QHc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5w4tc7RJOT104dHXQUla5xRQVPT.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Setetes Embun Cinta Niyala
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147225.mp4&play_token=FSyKDD0f1B&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb30hkUpBm23stnVgDJGYGsC0R0.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Aníkúlápó
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096063.mp4&play_token=2ghX976f2q&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yi3rC99fntOrrdX3Dg54cM5cKK6.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Amy Schumer: Emergency Contact
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096057.mp4&play_token=zMtHxBsh2R&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ A Todas Partes
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096017.mp4&play_token=hpS0jGvu9H&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygKMsqCscAnRl0F8utCh23w5M2C.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Afterlife of the Party
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095981.mp4&play_token=honTm6Ms6D&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfjdBn9rOoMZQgCqySlpjZv4L2V.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ A Week Away
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095947.mp4&play_token=DZfh83NH4b&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nhTfuDkks0MZgx0gncPvz1L59p.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ A Tourist's Guide to Love
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095941.mp4&play_token=7nU5SRE2DJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Entre el Amor y la Amistad
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095937.mp4&play_token=SWk5cCrWOE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8cbfqsFcXBgoJhnsajx9tMTpTp.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Reviviendo la Navidad
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095927.mp4&play_token=rtoUuTYgl5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQqmFcKOSg7RVtaIKOTtv1vWQPx.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ A Fall from Grace
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095897.mp4&play_token=yYpTX6nWGB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik7x3QS4LVfZPMV4lAIFtoh7ASS.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ Um Rapaz Chamado Natal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095889.mp4&play_token=hNAUXkEMNF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uy3NhZq5IMw9c7vSoP2Z1GsQOJo.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ 20th Century Girl
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095871.mp4&play_token=SH6CHXSBMn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3N0nM4ouA500Xp5uSMpVazLNF0c.jpg" group-title="┃PT┃ NETFLIX",┃PT┃ 12 Órfãos Poderosos
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095859.mp4&play_token=0RFEt2FMiL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oFfY1HpzJDlRzKSCBF2sA5mb9U.jpg" group-title="┃PT┃ NETFLIX",Your Place or Mine - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094773.mp4&play_token=CX0oAGo8dc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg" group-title="┃PT┃ NETFLIX",You People - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094771.mp4&play_token=jfPX7LpcDt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WN4bLzEeVwHKMzDc2GrOWSkFHY.jpg" group-title="┃PT┃ NETFLIX",야차 - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094769.mp4&play_token=1lwDyEmXQg&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Havoc
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1154697.mp4&play_token=gjSnJW8e8q&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ To All the Boys: Always and Forever
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148638.mp4&play_token=SaLpQiYVlz&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ På villspor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148636.mp4&play_token=naCAVS9YcD&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Tornado: Apanhados na Tempestade
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148635.mp4&play_token=OYkUCT0p4t&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ La vita davanti a sé
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148633.mp4&play_token=NOcnHAIEOQ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Rica Vida
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148623.mp4&play_token=FgavDJGdac&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Plâncton: O Filme
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148619.mp4&play_token=tma49LLPXF&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Patrulha Pata: o Super Filme
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148615.mp4&play_token=3MiRisCkBG&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Os Dois Hemisférios de Lucca
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148603.mp4&play_token=zMsXjJyQWk&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Nos Confins do Mundo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148601.mp4&play_token=MxHg23Zydy&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Kraven  o Caçador
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148599.mp4&play_token=1FK628yezE&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Mais ou Menos Grávida
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148598.mp4&play_token=G0gTzLwraU&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Eu e Mamã Vamos de Lua de Mel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148593.mp4&play_token=iydZmtJaIe&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Imortal: O Homem Que Quer Viver Para Sempre
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148586.mp4&play_token=TkVEAIm2Qu&type=movie

@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="┃TR┃ GÜNLÜK -  ÇARŞAMBA",┃TR┃ Eşref Rüya | 42. Bölüm | 29.04.2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1686323.mkv&play_token=B6zWEeCjlV&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="┃TR┃ GÜNLÜK -  ÇARŞAMBA",┃TR┃ Kuruluş: Orhan | 22. Bölüm | 29.04.2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1686324.mkv&play_token=u0y8r2QBMb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg" group-title="┃TR┃ GÜNLÜK -  ÇARŞAMBA",┃TR┃ Yeraltı | 13. Bölüm | 29.04.2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1686325.mkv&play_token=UO8vwxpou2&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ GÜNLÜK -  ÇARŞAMBA",TR┃ Eşref Rüya | 42. Bölüm | 29.04.2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1686323.mkv&play_token=yhhyqTK5mG&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ GÜNLÜK -  ÇARŞAMBA",TR┃ Kuruluş: Orhan | 22. Bölüm | 29.04.2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1686324.mkv&play_token=yUTrfONrjR&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ GÜNLÜK -  ÇARŞAMBA",TR┃ Yeraltı | 13. Bölüm | 29.04.2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1686325.mkv&play_token=19xARsn8Qc&type=movie

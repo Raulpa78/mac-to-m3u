@@ -1,29 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXWW7AZITRYJhHZby8QuQ34Q90o.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ War Game (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292880.mkv&play_token=Cwp8IVRn8Y&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mHykq2lVPYShsyamIqW3Jf1yEn.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ Tupac and Biggie: Worlds Collide (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292875.mkv&play_token=r5zjW2LkDn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncooKftvF8XzXTQJ1ZBGSprYujO.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ Trentatré - A Dream in the Heart: Naples Rises Again (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292872.mkv&play_token=xVpnTS3vRd&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eykwtACYOMMJdTO40vh70BpreUv.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ Tom Cruise: The Last Movie Star (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292869.mkv&play_token=5x0prZkCe5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7uQT3jpdCaxcK9jn3cJY1Tfryq.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ Vampire Zombies...from Space! (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292858.mkv&play_token=Wqi1lgkuO0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xanYKxuFkDPrMngvm1NSHVGOEjS.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ Unstoppable (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292854.mkv&play_token=8AElirGLbb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93MYst2Ze6Ih7esraRn3lI6qZ3e.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ Truth and Lies: Who Killed JFK? (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292843.mkv&play_token=41HGNi3jAM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iglQAfChFU4vWSSi2NdGG2s1FEi.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ Trump: The Criminal Conspiracy Case (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292841.mp4&play_token=7ir7foZhH6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ Trolls Wereldtour (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292838.mkv&play_token=JSkC1khxeZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJKVVPRB1H97xnmYONjHJiRP0n9.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ Trey Kennedy: Grow Up (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292836.mkv&play_token=6NtJHGZkxi&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iow3KuKBJN2Hfqi7i7Tq3pZUbAa.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ Tornado (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292829.mkv&play_token=QOpK2FcWCl&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ Top Gun: Maverick (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292828.mkv&play_token=i6xwzshrv8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vPfPIBpW3jP7rZkZeaw8GImgIN.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ To Dye For: The Documentary (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292822.mkv&play_token=ca1RW3vfig&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78B66xBCgmnh88d10B85uFjC88V.jpg" group-title="┃EN┃ AMAZON PRIME",┃EN┃ Thieves Highway (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292809.mkv&play_token=L8518FLfbP&type=movie
+#EXTINF:-1 tvg-logo="" group-title="EN┃ AMAZON PRIME",EN┃ Harvest (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2442612.mkv&play_token=cL57T1HmIk&type=movie
+#EXTINF:-1 tvg-logo="" group-title="EN┃ AMAZON PRIME",EN┃ Ghosts: The Possession of Button House (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2442611.mkv&play_token=d00ju3KodC&type=movie
+#EXTINF:-1 tvg-logo="" group-title="EN┃ AMAZON PRIME",EN┃ Daniel and the Fiery Furnace (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2442608.mkv&play_token=7dzARHbCn1&type=movie
+#EXTINF:-1 tvg-logo="" group-title="EN┃ AMAZON PRIME",EN┃ Clashing Through the Snow (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2442607.mkv&play_token=8xLsPps3d8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmxxKMl4pmsfUGRbSCtVW7KreS6.jpg" group-title="EN┃ AMAZON PRIME",EN┃ The Rivals of Amziah King (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2419431.mkv&play_token=ec2AIn4okD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtNdrKvD5MqvUbAQEja5WaKuVN1.jpg" group-title="EN┃ AMAZON PRIME",EN┃ King Ivory (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2419430.mkv&play_token=nroTcAmJke&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlKgtTrLlcv2OCFETv6VTqQyLuP.jpg" group-title="EN┃ AMAZON PRIME",EN┃ First Christmas Home (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2419426.mkv&play_token=QqtTsnNFuw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oV5r8NlY2qJbttdoH0kVd3q2AnI.jpg" group-title="EN┃ AMAZON PRIME",EN┃ Time for Them to Come Home for Christmas (2021)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2416575.mkv&play_token=Ge2sOYmfBj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4d5qYyjYBJcYIFujoVIKURod28.jpg" group-title="EN┃ AMAZON PRIME",EN┃ National Theatre at Home: War Horse (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2365178.mkv&play_token=hyRXBklyVj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnyHZJgy31bUGZmtTMpnGJK85cU.jpg" group-title="EN┃ AMAZON PRIME",EN┃ T Bird (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2365171.mkv&play_token=0hBYqFvHQU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUeokUVXBCgLYf6pUSsEGJAQBjd.jpg" group-title="EN┃ AMAZON PRIME",EN┃ Heel (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2365160.mkv&play_token=IuvVPbedXn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tmffZhi559MC3FzPi48I7UMJJR.jpg" group-title="EN┃ AMAZON PRIME",EN┃ Camp (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2365154.mkv&play_token=f1TNeXyipv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dbCO59o0FZ3EPH0sgUC71h00uP.jpg" group-title="EN┃ AMAZON PRIME",EN┃ Do Or Die (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2361005.mkv&play_token=XWipePqPqP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6Z1LHeKNoh87xmQOI7xk59m008.jpg" group-title="EN┃ AMAZON PRIME",EN┃ Blue Emanuelle (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2361004.mkv&play_token=Ey2VZK3eKi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUAWodBBFn35ODmgdEOL6dLj3p4.jpg" group-title="EN┃ AMAZON PRIME",EN┃ Verity (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360999.mkv&play_token=VfNDqCUe9H&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg" group-title="EN┃ AMAZON PRIME",EN┃ V/H/S/MIXTAPE (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360998.mkv&play_token=5P0RCbwFX6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HW5lVwsuLo6CHW3i9Cm240jLL2.jpg" group-title="EN┃ AMAZON PRIME",EN┃ Union County (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360997.mkv&play_token=7EgEhxO8YZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RZs7BrmQEz498HIOV0fnyYmgZ1.jpg" group-title="EN┃ AMAZON PRIME",EN┃ The Weight (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360995.mkv&play_token=XRmCKWM4lm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGNiQH6EfbmV7jBHmrRf4kA1WIw.jpg" group-title="EN┃ AMAZON PRIME",EN┃ The Uprising (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360994.mkv&play_token=B5XMNBWQHO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg" group-title="EN┃ AMAZON PRIME",EN┃ The Stunt Driver (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360993.mkv&play_token=pGKOMxqSCZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" group-title="EN┃ AMAZON PRIME",EN┃ The Mongoose (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360991.mkv&play_token=WqAkkbZaIZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBAeq5GAt6QKUL5eS0UalflLysH.jpg" group-title="EN┃ AMAZON PRIME",EN┃ The Militia (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360990.mkv&play_token=XGizH9eQfi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGzHMnQF42fT0BZcIEWf0sobeAq.jpg" group-title="EN┃ AMAZON PRIME",EN┃ The Fix (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360988.mkv&play_token=dF1H2Ak6wo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zShaBZCBknqIFEzZp5BfETKV5ho.jpg" group-title="EN┃ AMAZON PRIME",EN┃ The End of Oak Street (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360987.mkv&play_token=DzRczMbKFz&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMigBYbBj7rdh6L3ErK36dSDxpLBj-EYALbWVCwwwo58F3mveZ6TXJw98&s=10" group-title="EN┃ AMAZON PRIME",EN┃ The Christmas Rewrite (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360985.mkv&play_token=Cbe8gVQBfn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2cNnJg1pkez7b4B1DUAjUdJ1FD.jpg" group-title="EN┃ AMAZON PRIME",EN┃ She Dances (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360983.mkv&play_token=Uj1viOZt9F&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a54YwgUQpdSH1jR2pmDULuujaQU.jpg" group-title="EN┃ AMAZON PRIME",EN┃ Rosebush Pruning (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360982.mkv&play_token=AcfjJEwZUP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ytng6mEmuaNJbIw7bYCC24gsW8.jpg" group-title="EN┃ AMAZON PRIME",EN┃ Primetime (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2360980.mkv&play_token=7w0VfepBAc&type=movie

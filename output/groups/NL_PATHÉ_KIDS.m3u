@@ -1,29 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54P3fwqhRCPBtVbFesjTXit7FIo.jpg" group-title="┃NL┃ PATHÉ KIDS",Gabby's Poppenhuis De Film - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1752644.mkv&play_token=V8IUqhUUPe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekF2RiziyzLeXsTvEvhhRjEc7Eo.jpg" group-title="┃NL┃ PATHÉ KIDS",┃NL┃ The Super Mario Galaxy Movie - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1723104.mkv&play_token=BWN9GuHzqL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozUcWnTDu1j0tlj1UzCNSLWWKw8.jpg" group-title="┃NL┃ PATHÉ KIDS",┃NL┃ Goat: De geweldige geit (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1701638.mkv&play_token=ykDS1ZrBlQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by3ljkY6jPChoPRePaYHqwIENez.jpg" group-title="┃NL┃ PATHÉ KIDS",┃NL┃ De Wraak van de Ninja 3 - 2026 [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1648195.mkv&play_token=ot76bGWQcx&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wIB7d8YEArA1DicLPsotXSoCin.jpg" group-title="┃NL┃ PATHÉ KIDS",┃NL┃ De Wraak van de Ninja 2 - 2021 [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1648194.mkv&play_token=EnKjfToBrL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8rZNM0AKh8U1ca7Ui3oLkYe05.jpg" group-title="┃NL┃ PATHÉ KIDS",┃NL┃ De Wraak van de Ninja - 2018 [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1648193.mkv&play_token=PEyWapRevt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tcgDTETcdK1s8nd91WU4sP8Lys.jpg" group-title="┃NL┃ PATHÉ KIDS",┃NL┃ Zootropolis 2 (NL GESPROKEN) - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602981.mkv&play_token=nmAXL4RILm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG2DKybojcjrsTa6rlYDBtAfItu.jpg" group-title="┃NL┃ PATHÉ KIDS",┃NL┃ Elio [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1265651.mkv&play_token=g0PFb8igAq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUg4NkS7LtfdAB9CYOodbU8UOfn.jpg" group-title="┃NL┃ PATHÉ KIDS",┃NL┃ Krekel & Mierabella [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=989986.mkv&play_token=mnLr1NJEgs&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glHahY9YNFBRPdra3X2dFdEvgs1.jpg" group-title="┃NL┃ PATHÉ KIDS",┃NL┃ De wilde robot [NL Gesproken] [The Wild Robot]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=989982.mkv&play_token=uXjFJjJmeu&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glHahY9YNFBRPdra3X2dFdEvgs1.jpg" group-title="┃NL┃ PATHÉ KIDS",┃NL┃ De wilde robot [The Wild Robot]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=918318.mkv&play_token=WvDMypzHMR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uddYSa7NFus1UeAhlDHlY7bpovm.jpg" group-title="┃NL┃ PATHÉ KIDS",┃NL┃ Don & DJ: Vrienden voor het leven
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=791682.mkv&play_token=fSc77Mp4At&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giBFulYGdxsdLfS1nrIFHkwkY9E.jpg" group-title="┃NL┃ PATHÉ KIDS",┃NL┃ KuToppen - På sporet (NL GESPROKEN)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=753712.mkv&play_token=JJpHJh3loP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpPMewlugFaejXjz4YNDnpTniFX.jpg" group-title="┃NL┃ PATHÉ KIDS",┃NL┃ DC League of Super-Pets
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=645754.mkv&play_token=Y6Nh4de3Kk&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/63e3b09a44b438be.jpg" group-title="NL┃ PATHÉ KIDS",Gabby's Poppenhuis De Film - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1752644.mkv&play_token=wLjg0Ee4IT&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3695b37ad4d8a4f8.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ The Super Mario Galaxy Movie - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1723104.mkv&play_token=tj3IbSpVLF&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f90fe5c19a66ae79.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Goat: De geweldige geit (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1701638.mkv&play_token=pAbkgoz0jT&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5aa6612369ff55fa.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ De Wraak van de Ninja 3 - 2026 [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1648195.mkv&play_token=iQUxsRYwFg&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/4f04a5bc8640e837.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ De Wraak van de Ninja 2 - 2021 [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1648194.mkv&play_token=7eCs5fS5uF&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5882dd8b91e32d89.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ De Wraak van de Ninja - 2018 [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1648193.mkv&play_token=qIiPUrCz3q&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a840c30fe08c05a1.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Zootropolis 2 (NL GESPROKEN) - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1602981.mkv&play_token=sOGkHPjVwY&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e59e7f765718b1dc.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Elio [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1265651.mkv&play_token=zgjZdn9DNy&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/bb2aa5f40348e0a3.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Krekel & Mierabella [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=989986.mkv&play_token=YRgrSzyhcp&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5babaf46cd9fd5b4.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ De wilde robot [NL Gesproken] [The Wild Robot]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=989982.mkv&play_token=ZO92mWjqls&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/144fbb8079251a7c.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ De wilde robot [The Wild Robot]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=918318.mkv&play_token=LDUkTNgDYO&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/46a6ab3c48f7a350.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Don & DJ: Vrienden voor het leven
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=791682.mkv&play_token=eJr0YGwgE4&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/424b51f087f9e26e.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ KuToppen - På sporet (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=753712.mkv&play_token=5tMyELfntZ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3656cda45d05e461.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ DC League of Super-Pets
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=645754.mkv&play_token=qHG9eQhMxB&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d2edf8d3ccac33af.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Sing
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596076.mkv&play_token=iX541P58lH&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a1052554530b798d.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Ruby Kieuwmans: Tiener met Tentakels (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=581452.mkv&play_token=1JJ5yhtT02&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ae79c4254aadb1b4.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Mijn Kat & Ik Het Grote Avontuur van Poes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=559486.mkv&play_token=d2d7uG9eu0&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/21066875fd846efe.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Leeuwin (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=531941.mkv&play_token=QFicIY5JVq&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/cfd1266ff20d238d.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Trouble
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524190.mkv&play_token=PSIPdIUoG0&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/9629472ea206882c.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Think Like a Dog (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524176.mkv&play_token=UygHtBpSSR&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2794f286f6c3c610.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ The Magic Kids: Three Unlikely Heroes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524073.mkv&play_token=N8jT6FY870&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0e0eff6dcb45ea2c.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Sing 2 (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=524031.mkv&play_token=Yk0u7irBMk&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2e187cc1569bda5a.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Pokémon: Mewtwo slaat terug evolutie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511823.mkv&play_token=0ZLge0ayCs&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d68dd961e368a064.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Trouble (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509849.mkv&play_token=oKG3SfJR4S&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f932f628dcafb975.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Elleville Elfrid
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509829.mkv&play_token=rgdqYxJnVY&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a88dcda9e3a4ce24.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ ADe Magische Poort (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509788.mkv&play_token=rpbXLcspm3&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ecb38f0304ac1304.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Bigfoot Family
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509666.mkv&play_token=aYgUjWccXs&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/c5253bc7c9552aff.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Bigfoot Family (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=509665.mkv&play_token=9CWchPG1na&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ced015ba5471f89f.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Spokenjagers
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=507907.mkv&play_token=CxurwWHQfM&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/40d96c23676bf981.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Charlotte
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=355572.mkv&play_token=in3yGUJko2&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/def16252fcb99f7c.jpg" group-title="NL┃ PATHÉ KIDS",NL┃ Robbing Mussolini
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=328985.mkv&play_token=6wnM9deRs8&type=movie

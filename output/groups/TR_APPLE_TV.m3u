@@ -1,81 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Gev2eDPnYeoS1B2QwqSqXBHYb.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Kötü Huy (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751305.mkv&play_token=viosh2rVai&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFqxkexPDfkafDT4hjyHRA3zbFv.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Sesin Hikâyesi (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742782.mkv&play_token=MUnMtxI2ir&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kd2AEp0yK5b3gNZILMcSJyY5NI3.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Giant (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742314.mkv&play_token=PBfA4DTPma&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnYWsIFDmygCjNg65rY3uBymx81.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ The Instigators (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739400.mkv&play_token=sDZtU6Oo3h&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YDW8dCrQyRpppK5985hKY1Mc8X.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ The Beanie Bubble (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739397.mkv&play_token=Mt9X1VjvGf&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biXzsw22U6vSd0XktmZwAOc4uik.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ The Banker (2020)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739396.mkv&play_token=t9BJC5EHjD&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKZmSQHD17JjGUYkluhpttgJRi.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Raymond ve Ray (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739312.mkv&play_token=aWQbaDzgW0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPyNQD92BhShuws1qlsOTG6rC2a.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Hayvan Mezarlığı: Kan Bağı (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739307.mkv&play_token=PY2ZLEQwHo&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pq2p8ovf8PZps2HafvJaLrZK8gS.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Flora and Son (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739304.mkv&play_token=Au9XVYYbGl&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q04g3un61aeBoheQEso7enM28AF.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Fingernails (2023)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739303.mkv&play_token=gXLcyVrzwE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUzKIqFIS05Ss31zRTfZfHJIgDP.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Causeway (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739299.mkv&play_token=vYAN0PajSR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkq9Kh1mbWcvo3bOH5ryYwYRvUS.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃Star Trek: Bilinmeze Doğru (Star Trek Into Darkness)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400213.mkv&play_token=ydTxQKGM5p&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV5OpzAss1z06YNagOVap1I35mH.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃Star Trek
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400187.mkv&play_token=3CPWEmCfbv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃London Calling
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400181.mkv&play_token=ckIfA6CUSb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRFlDK9cXKNF3UU1E567ZpsC4Rq.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃Wildcat
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400179.mkv&play_token=0jOjkFqIvq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNxvX3fxRLjGXsZJA2GcW5KfrBT.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃Fantastik Dörtlü: İlk Adımlar (The Fantastic Four First Steps)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400047.mkv&play_token=pnjumG1T16&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mOH8EqumIaepdP94e0cy4Xnyg7.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Schindler'in Listesi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398828.mp4&play_token=3dtsFDzSOR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDO4gYZxvdsIrHKzsSAbc3N7Wfg.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ STILL: A Michael J. Fox Movie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1398827.mkv&play_token=PSjXfk0xsW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adYjCJGSNiL7CIaDW3g0Bcg7r2Z.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃Sitaare Zameen Par
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364938.mkv&play_token=ieS12Xx62N&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6KbCTdI5rOaEgziVhA6eyggEsD.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃The Naked Gun
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364939.mkv&play_token=S9X3xCKDxj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃The Lord of the Rings
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364902.mkv&play_token=HGCuolVVK8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BfZLQYj97NO1yD5JkSAf5vWzGj.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃Geçen Yaz Ne Yaptığını Biliyorum (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1360758.mkv&play_token=d2GDZaJJRu&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7boG6uqhMHNuAyYIiLCUgxFzZGJ.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Ejderhanı Nasıl Eğitirsin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1357645.mkv&play_token=CEMh2SVSyA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPsLSqO2tJhR9DtpzUvpM3Llc3N.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ The Promised Land [Toprak Uğruna]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=878587.mkv&play_token=oQbHAwipWy&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKh28PVUqt1vY2oAdFlauXkDacW.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ The Hill
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=870195.mkv&play_token=ZRhz4S2bTY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1o9B0ibENdNroYrBCQemG2jnr.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Last Sentinel [Son Gözcü]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=868731.mkv&play_token=NKUw3Y1ls4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWrw5wwfJllkapZw2tcVc36lZkb.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Resident Evil: Death Island  [Ölümcül Deney: Ölüm Adası]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=868730.mkv&play_token=DfNv5OtTVE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8O0D0CSKFz0c8Osvu6SWIL0jxaZ.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Das Lehrerzimmer - Ogretmenler Odasi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=845076.mkv&play_token=kCD2KwyNkx&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28C4Lq5xDsc13onUg75x2RxVsVx.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Insidious - The Red Door [Ruhlar Bölgesi: Kırmızı Kapı]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842813.mkv&play_token=fE2P1pnKsL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9a9Uo1YtkEeXPgAFvDyEGcMnYCX.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Coup!
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842812.mkv&play_token=GMR6CQSLTH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhE14GmuqUhuPVvJxsB6kkpjqSN.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Altın Gaga ve Macera Çetesi [Goldbeak]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842810.mkv&play_token=GF0YQr9CPG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLtsR4j4hkZnDh9JfCpMlucdRne.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Only 3 Days Left
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=842809.mkv&play_token=aaBtFTUcZc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7S0wsNh6RfU8DWCM2bWPInFj0k.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Lo Capitano - Kaptan Benim
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=831144.mkv&play_token=gZw5Xi4141&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSyDO8dvG5Vg4dJrg98u8eWtPkP.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Force of Nature: The Dry 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=820203.mkv&play_token=kgjOifrkn6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhejMQdsqPtTTCKIkyoJ5FLfC3F.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Yeniden Basla - A Good Person
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804755.mkv&play_token=EJ5QSvc3b2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VHSzNBTwxV8vh7wylo7O9CLdac.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Geride Kalanlar - The Holdovers
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804753.mkv&play_token=SSUcvnBIni&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1QB5pJeoPUR25zzLpW5YihzeYi.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Snoopy Presents: One-of-a-Kind Marcie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800194.mkv&play_token=B2rVnDBGtt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHJUIEqeIecXd700H0AF5ZxvAiQ.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Anselm – Das Rauschen der Zeit
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=797216.mkv&play_token=4IW99pxZu8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjIrYzc31kHTySiovHAt0o3qDc2.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ Snoopy Presents: Welcome Home  Franklin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795776.mkv&play_token=CqxaP83MJA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aEBzQNOGptXNU99lK9XptuGfmS.jpg" group-title="┃TR┃ APPLE TV+",┃TR┃ The Velveteen Rabbit
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795775.mkv&play_token=AzNIsjB4Bx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ Kötü Huy (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1751305.mkv&play_token=mwOXXlfUCc&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ Sesin Hikâyesi (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742782.mkv&play_token=l93fYp8FNA&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ Giant (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1742314.mkv&play_token=bc7XYx5sP8&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ The Instigators (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739400.mkv&play_token=QsEwpiDuAZ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ The Beanie Bubble (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739397.mkv&play_token=gyE6y4Wtgp&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ The Banker (2020)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739396.mkv&play_token=YYAPI1CGh0&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ Raymond ve Ray (2022)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739312.mkv&play_token=ZQ0Z2BvJt2&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ Hayvan Mezarlığı: Kan Bağı (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739307.mkv&play_token=5kCZfncaAA&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ Flora and Son (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739304.mkv&play_token=3OgzRDLqAq&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ Fingernails (2023)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739303.mkv&play_token=m5XbENchAV&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ Causeway (2022)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739299.mkv&play_token=535CQxbp42&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ Star Trek: Bilinmeze Doğru (Star Trek Into Darkness)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400213.mkv&play_token=WiWAbN6TnC&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ Star Trek
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400187.mkv&play_token=JsaD03xygk&type=movie
+#EXTINF:-1 tvg-logo="" group-title="TR┃ APPLE TV+",TR┃ London Calling
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400181.mkv&play_token=iVfhylHJbs&type=movie

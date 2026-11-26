@@ -1,281 +1,289 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Vidhata
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792743.mp4&play_token=UI0k2u4Rjj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Udandi seeta
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792742.mp4&play_token=sEzDgcMWyx&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Tunda Baida
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792741.mp4&play_token=FlIJVF4aj9&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Tumaku Paruni Ta Bhuli
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792740.mp4&play_token=CGfrYLxpWX&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Tu thile mo dara kahaku
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792739.mp4&play_token=7ZTbgkUxUM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Tu Mo Dehara Chhai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792738.mp4&play_token=Vt43fVScpr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Tu mo arambha tu mo sesha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792737.mp4&play_token=iI0j3GJoh0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Tu Aau Mu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792736.mp4&play_token=F8ypbdS5Wm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Topae Sindura Di Topa Luha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792735.mp4&play_token=rloBlez8Xm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ To pain nebi mu sahe janama
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792734.mp4&play_token=3bSsk4Aud7&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ To akhi mo aiena
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792733.mp4&play_token=7iJAM5fIbY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Thili jhia heli bahu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792732.mp4&play_token=ZuL5brTqoU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Thank you bhagban
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792731.mp4&play_token=98AvdFGLnM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Thakura achanti chau bahaku
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792730.mp4&play_token=2geMjQ602F&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Tate Mo Rana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792729.mp4&play_token=iKL5kVQVQT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/de43fI1Q7MyWjwwctv9bmERKL3d.jpg" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Tarzan and the She-Devil
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792728.mp4&play_token=iXb67WWuVA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sweet Heart
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792727.mp4&play_token=Q8SvqMA4XE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Super Michhua
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792726.mp4&play_token=OEr5DibaDz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9JXeWaO1D5m9H6109yqgUUPQBh.jpg" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Suna Chadhei Mo Rupa Chadhei
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792725.mp4&play_token=0vHw2Zlry3&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Stree
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792724.mp4&play_token=4GcB8gUYDe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Smile please
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792723.mp4&play_token=97Vyn1SYsj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Singha bahini
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792722.mp4&play_token=4NXScdiwuK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sindura nuhein khela ghara
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792721.mp4&play_token=fEQjxlngwU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Shesha Shrabana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792720.mp4&play_token=0qcKsFAyo4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Shaashu ghara chaalijibi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792719.mp4&play_token=LfPyQmcMv7&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGUCNM5IyFbPx7GYvb1jHC96uhd.jpg" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sei Jhiati
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792718.mp4&play_token=RTtxgDkvea&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Satya meba jayate
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792717.mp4&play_token=qRpFxx12So&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sathire
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792716.mp4&play_token=xVmCa7WAZC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sata sure bandha e jibana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792715.mp4&play_token=ONiRXcTXCk&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sarpanch babu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792714.mp4&play_token=LIP1rIv0BE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sankha Sindura
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792713.mp4&play_token=PZypLaoQpM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sankha Mahuri
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792712.mp4&play_token=qRNkMPd3oF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sanju Aau Sanjana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792711.mp4&play_token=ZIXWNbxbXj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sangam
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792710.mp4&play_token=lJpqPKAMtl&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Samaya hathare dori
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792709.mp4&play_token=tD2TBZ9zgR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Samaya chakare sansara ratha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792708.mp4&play_token=AtPIDuQPfV&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sakhi rakhiba mo shankha sindura
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792707.mp4&play_token=tc85aW53VN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sakhi rahila ae singha duara
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792706.mp4&play_token=5rHA2oS3ji&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sakala Tirtha To Charane
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792705.mp4&play_token=mI0gdwpaOc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Sabata Maa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792704.mp4&play_token=mvKzjXeUqG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Romeo: The Lover Boy
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792703.mp4&play_token=xA9xnxpC89&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Rana Bhumi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792702.mp4&play_token=zUHSfRHhlw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Ram laxman
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792701.mp4&play_token=7Jq3f6J2tR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Rakhile siba mariba kie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792700.mp4&play_token=Oxtm6lrcHI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Rakhiba jadi se maariba kie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792699.mp4&play_token=L9QpOITXTO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Rakata Kahiba Kie Kahara
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792698.mp4&play_token=ixwOabOanN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Raju Awara
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792697.mp4&play_token=GlWyw3wIOM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Rajanigandha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792696.mp4&play_token=xbODNDXG7u&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Raja Jhia Sathe Heigala Bhaba
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792695.mp4&play_token=RwGI0TEZvZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Rahichi rahibi tori paain
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792694.mp4&play_token=08ec6Lvk8N&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Prem bandhan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792693.mp4&play_token=GQ0vIPFTb8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdDcAFP3iPoiTVBxgVkFxOhnnCK.jpg" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃   Prem Bandhan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792692.mp4&play_token=4uRWZCf9JK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃  Prathama prema
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792691.mp4&play_token=r4GEGGDDI9&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Pooja phula
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792690.mp4&play_token=lkHFznrrn1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Phula chandana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792689.mp4&play_token=SKkLT1ZQ9s&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Parshuram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792688.mp4&play_token=eqtp7MfDko&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Paradeshi Chadhei
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792687.mp4&play_token=IsrnbO2Gj3&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Panjur bhitare sari
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792686.mp4&play_token=Qprgh2dqJt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Palataka
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792685.mp4&play_token=R62AYQS7AB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Paka Kambal Pot Chhota
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792684.mp4&play_token=HAYVHRTf5R&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Pagala Karichu Tu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792683.mp4&play_token=pOMN9t699X&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Pagala Karichi Paunji Tora
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792682.mp4&play_token=FmJ9Sedbib&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Pacheri Uthila Majhi Duaru
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792681.mp4&play_token=MmQqxovMRY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Onnorokom bhalobasha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792680.mp4&play_token=uWTlvvtjKf&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Om Sai Ram
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792679.mp4&play_token=mOCUuep3bY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Nei jaa re megha mate
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792678.mp4&play_token=dHWidO8xqj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Nari Nuhen Tu Narayani
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792677.mp4&play_token=cbU3wfIVJc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Naga Panchami
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792676.mp4&play_token=WVwa2X1IBR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃  Mukhyamantri
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792675.mp4&play_token=QFALxNFdqB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Mu Tate Love Karuchi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792674.mp4&play_token=bDoiOUwuo6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Mu Premi Mu Pagala
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792673.mp4&play_token=8EnmWd2ZbF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Mu Eka Tumara
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792672.mp4&play_token=FQmHDHCeDi&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Mu aashiq mu awara
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792671.mp4&play_token=qG5WG3WGrY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Mo Suna Pua
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792670.mp4&play_token=V2miFJPwgn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃  Mo Kola To Jhulana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792669.mp4&play_token=hgrp6NOMvB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Matrushakti
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792668.mp4&play_token=mSfXrkCevk&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Mate Ta Love Helare
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792667.mp4&play_token=dS0rlMaHn3&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Mani Nageswari
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792666.mp4&play_token=XOkBYbo9Kx&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Mamata ra dori
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792665.mp4&play_token=sBC6V9glOC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Mahanayak
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792664.mp4&play_token=P4cQnATJGm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Maa mote shakti de
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792663.mp4&play_token=V23k3HSl40&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Love Master
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792662.mp4&play_token=1FfaH54DCK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Love Dot Com
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792661.mp4&play_token=18mUGlW2Kg&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Loafer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792660.mp4&play_token=rjQy9HiILa&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Laxman Rekha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792659.mp4&play_token=GRZN8DwukZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Lakhmi pratima
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792658.mp4&play_token=bDb8Er5sfr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Lakhe siba puji paichi pua
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792657.mp4&play_token=ltinnZU24R&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Kula Nandan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792656.mp4&play_token=RHonKeVKRc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Krishna
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792655.mp4&play_token=xJeJ7FIwKQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Kotie Manisha Gotie Jaga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792654.mp4&play_token=wUEb5taBky&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ King Khan
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792653.mp4&play_token=NuJadrQTnw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Kehi Jane Bhala Lagere
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792652.mp4&play_token=szGisqcNZG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Kebe tame naha kebe mu nahi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792651.mp4&play_token=zZD53gmx2j&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Katha Deithili Maa Ku
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792650.mp4&play_token=dZYLgEaNcH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Kapala Likhana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792649.mp4&play_token=lu9y6ssDDm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Kandhei akhire luha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792648.mp4&play_token=WsPsT8iqRW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjByNedOok31wDRgHvXSYP25KKx.jpg" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Kalishankar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792647.mp4&play_token=Q2Mlr4AcDu&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃  Kala manika
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792646.mp4&play_token=V0yThGxsqZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃  Kabula barabula
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792645.mp4&play_token=So2fj7XRMG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Kaberi sriram panda
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792644.mp4&play_token=5b7sPxjI9V&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃  Kaberi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792643.mp4&play_token=mhlHERbryF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHWpSBojVGkpuEPg4ZaM1F6DMw9.jpg" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Jor Jar Mulak Tar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792642.mp4&play_token=nYWxy0Olqv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃  Jiye jaha kahu mora dho
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792641.mp4&play_token=Y2EYh6bOmW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃  Jibana sathi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792640.mp4&play_token=c5OGrKeLnz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Jananee
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792639.mp4&play_token=aIUZOfWKR4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Jaga hatare pagha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792638.mp4&play_token=1wiMkS6iH0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃  Jaga Hatare Pagha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792637.mp4&play_token=o0iZSd3TZ6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Jabardast Premika
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792636.mp4&play_token=KN8z6zpoYa&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Im sorry i love you
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792635.mp4&play_token=41agpX6Fe1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Idiot i do ishq only tumse
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792634.mp4&play_token=guI0WjRO1R&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃  I love my india
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792633.mp4&play_token=QWtcYbL7q0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Hisab Nikas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792632.mp4&play_token=9nEFbZCCoy&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYVK9hfuo5pmBpi3hdTEwgS3jUI.jpg" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Hero - Prem Katha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792631.mp4&play_token=wgNpsxIWsK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Hari Om Hari
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792630.mp4&play_token=SP02uxnmFr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yv0WZz5LjV5M0IQLdnRis810ghc.jpg" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Gunga Jumna
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792629.mp4&play_token=6DtNFxLr8E&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Dhire Dhire Prema Hela
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792628.mp4&play_token=5fBpFqlZbm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Dhauli Express
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792627.mp4&play_token=GB9ezUxeIm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Dharma Sahile Hela
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792626.mp4&play_token=R8Cn5QJUMa&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Dharma ra heba jay
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792625.mp4&play_token=9mjt585aWZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃   Dharma
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792624.mp4&play_token=DJtNtCxK7I&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Deewana Deewani
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792623.mp4&play_token=Nr0EzThT90&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃Danda balunga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792622.mp4&play_token=LUeCY9qJgU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃  Daha balunga
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792621.mp4&play_token=Yyj3NPuMzW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃    Criminal
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792620.mp4&play_token=WmDECKFxnS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Chhatire Lekhichi Tori Naa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792619.mp4&play_token=9NixI8QkK6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Chaka bhaunri
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792618.mp4&play_token=hSBEauFNXi&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃Chaati chiri dele tu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792617.mp4&play_token=vzaqLd9Wyq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Bye Bye Dubai
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792616.mp4&play_token=r93LGfxnnA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Bhul Bujhibani Mate
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792615.mp4&play_token=kXU2qIdzMT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhUgeOJz3NrjOoTjfzVOEWqnPjJ.jpg" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Bhookha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792614.mp4&play_token=KOPkCuOncw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Bhagya hate doro
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792613.mp4&play_token=JDUnUuz81x&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Bhagya Chakra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792612.mp4&play_token=gkM0aE3LBU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Balunga Toka
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792611.mp4&play_token=rM6EIZWd7A&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Bahudibe Mo Jaga Balia
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792610.mp4&play_token=F8OZyUwHgC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃  Akashe ki ranga lagila
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792606.mp4&play_token=ZNSp3BZEJw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Agni Parikshya
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792605.mp4&play_token=2YmFwj3EHk&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ Ae Jugara Krushna Sudama
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792604.mp4&play_token=VMa4NapeJW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃ ACP Sagarika
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792603.mp4&play_token=34piz9S7Wo&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃   Abhimanyu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792602.mp4&play_token=jFUd4p7vRp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃ASIA┃ ODIA MOVIES",┃IN┃  Aama Bhitare Kichhi Achhi
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792601.mp4&play_token=Oct69XqMZP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Vidhata
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792743.mp4&play_token=9CA9Lm79RO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Udandi seeta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792742.mp4&play_token=ST8trErCeW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Tunda Baida
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792741.mp4&play_token=dKqlUHtxs1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Tumaku Paruni Ta Bhuli
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792740.mp4&play_token=8CS6PpvXWK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Tu thile mo dara kahaku
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792739.mp4&play_token=ArXzDL459w&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Tu Mo Dehara Chhai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792738.mp4&play_token=458eCZCrNC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Tu mo arambha tu mo sesha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792737.mp4&play_token=MCEcCjPsHe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Tu Aau Mu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792736.mp4&play_token=R38cQhOpQe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Topae Sindura Di Topa Luha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792735.mp4&play_token=t0UamkqZVu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ To pain nebi mu sahe janama
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792734.mp4&play_token=1OSOoaYDcn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ To akhi mo aiena
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792733.mp4&play_token=cuNBJnH7lH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Thili jhia heli bahu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792732.mp4&play_token=mNVq3xxQJO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Thank you bhagban
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792731.mp4&play_token=zEBOmViA5x&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Thakura achanti chau bahaku
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792730.mp4&play_token=yd4VVOGIGl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Tate Mo Rana
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792729.mp4&play_token=4GEM4D5dRx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/de43fI1Q7MyWjwwctv9bmERKL3d.jpg" group-title="ASIA┃ ODIA MOVIES",IN┃ Tarzan and the She-Devil
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792728.mp4&play_token=ldtx6ptoLk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Sweet Heart
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792727.mp4&play_token=JrTvk3tTmz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Super Michhua
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792726.mp4&play_token=6ZJhuu4PLO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9JXeWaO1D5m9H6109yqgUUPQBh.jpg" group-title="ASIA┃ ODIA MOVIES",IN┃ Suna Chadhei Mo Rupa Chadhei
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792725.mp4&play_token=64YsoeeTPE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Stree
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792724.mp4&play_token=uNoZqrVVlZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Smile please
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792723.mp4&play_token=JPxqNPve7F&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Singha bahini
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792722.mp4&play_token=1lfIt54DxM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Sindura nuhein khela ghara
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792721.mp4&play_token=KeZSTh5QwA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Shesha Shrabana
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792720.mp4&play_token=MA3DNcBVlh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Shaashu ghara chaalijibi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792719.mp4&play_token=uZ8ImoQYW8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGUCNM5IyFbPx7GYvb1jHC96uhd.jpg" group-title="ASIA┃ ODIA MOVIES",IN┃ Sei Jhiati
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792718.mp4&play_token=FtVorKQn7b&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Satya meba jayate
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792717.mp4&play_token=eklcRhAlXa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Sathire
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792716.mp4&play_token=TRO7gJUOzb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Sata sure bandha e jibana
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792715.mp4&play_token=EsXh9i1wSl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Sarpanch babu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792714.mp4&play_token=ADusBPMeeB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Sankha Sindura
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792713.mp4&play_token=IZXWJunFNf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Sankha Mahuri
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792712.mp4&play_token=ocz8TD8LPV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Sanju Aau Sanjana
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792711.mp4&play_token=T0AYa6Gmbp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Sangam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792710.mp4&play_token=x2a01N6096&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Samaya hathare dori
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792709.mp4&play_token=LArK7avSlO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Samaya chakare sansara ratha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792708.mp4&play_token=qxVJhrOSDU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Sakhi rakhiba mo shankha sindura
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792707.mp4&play_token=sYdZdIAumm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Sakhi rahila ae singha duara
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792706.mp4&play_token=3rJAa1KevF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Sakala Tirtha To Charane
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792705.mp4&play_token=DQyGhazVWb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Sabata Maa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792704.mp4&play_token=aauZ5LGjr8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Romeo: The Lover Boy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792703.mp4&play_token=jKHmQbbE3T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Rana Bhumi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792702.mp4&play_token=8lcFmccfMY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Ram laxman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792701.mp4&play_token=D1qXATDAYG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Rakhile siba mariba kie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792700.mp4&play_token=OTkK3SShwW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Rakhiba jadi se maariba kie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792699.mp4&play_token=2ix1uPm5Qh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Rakata Kahiba Kie Kahara
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792698.mp4&play_token=DSLS19aP81&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Raju Awara
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792697.mp4&play_token=noMc6LQW3k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Rajanigandha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792696.mp4&play_token=euNZ6GdD77&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Raja Jhia Sathe Heigala Bhaba
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792695.mp4&play_token=MtGFs6gNbh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Rahichi rahibi tori paain
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792694.mp4&play_token=RyyypnlP1w&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Prem bandhan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792693.mp4&play_token=EaoWnX1kkD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdDcAFP3iPoiTVBxgVkFxOhnnCK.jpg" group-title="ASIA┃ ODIA MOVIES",IN┃ Prem Bandhan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792692.mp4&play_token=Nixm1aKvjR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Prathama prema
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792691.mp4&play_token=6iNbZdHIEB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Pooja phula
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792690.mp4&play_token=aNTv3fHwQa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Phula chandana
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792689.mp4&play_token=ova4WyOVoj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Parshuram
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792688.mp4&play_token=yuLyp8I9oi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Paradeshi Chadhei
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792687.mp4&play_token=trappdd6DO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Panjur bhitare sari
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792686.mp4&play_token=o9hNIrkCcV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Palataka
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792685.mp4&play_token=uShFssc9yB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Paka Kambal Pot Chhota
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792684.mp4&play_token=K1BKKlBr9d&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Pagala Karichu Tu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792683.mp4&play_token=IgtZRVNUIc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Pagala Karichi Paunji Tora
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792682.mp4&play_token=DZGKeGhJIE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Pacheri Uthila Majhi Duaru
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792681.mp4&play_token=wKourI4XvI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Onnorokom bhalobasha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792680.mp4&play_token=SGZs3mffct&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Om Sai Ram
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792679.mp4&play_token=LL4fIHphne&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Nei jaa re megha mate
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792678.mp4&play_token=LlSKm218XD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Nari Nuhen Tu Narayani
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792677.mp4&play_token=kn7sIy8X7L&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Naga Panchami
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792676.mp4&play_token=VNhfK9gKDA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Mukhyamantri
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792675.mp4&play_token=3JW6y47S91&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Mu Tate Love Karuchi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792674.mp4&play_token=G698djgUKf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Mu Premi Mu Pagala
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792673.mp4&play_token=4NMcSWmhfK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Mu Eka Tumara
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792672.mp4&play_token=So9eYcsSaa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Mu aashiq mu awara
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792671.mp4&play_token=YBjFubjvVP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Mo Suna Pua
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792670.mp4&play_token=tS84CcyYlA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Mo Kola To Jhulana
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792669.mp4&play_token=FiAQEz7Xa7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Matrushakti
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792668.mp4&play_token=GpHexy7nvK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Mate Ta Love Helare
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792667.mp4&play_token=ugVcxdx1pG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Mani Nageswari
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792666.mp4&play_token=1RHmdXi6OT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Mamata ra dori
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792665.mp4&play_token=hhJNXKy5Yl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Mahanayak
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792664.mp4&play_token=bnOgau0w2p&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Maa mote shakti de
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792663.mp4&play_token=Qdr3l9tWZU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Love Master
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792662.mp4&play_token=DOZ4sfSVVo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Love Dot Com
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792661.mp4&play_token=kupeXKkBGq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Loafer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792660.mp4&play_token=Ow2WQTepQ0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Laxman Rekha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792659.mp4&play_token=eio8d2EHdB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Lakhmi pratima
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792658.mp4&play_token=L0kqLwhQNn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Lakhe siba puji paichi pua
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792657.mp4&play_token=wp1P2VCLk4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Kula Nandan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792656.mp4&play_token=oz5gNQUqzl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Krishna
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792655.mp4&play_token=kH1aNkdWDf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Kotie Manisha Gotie Jaga
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792654.mp4&play_token=vIlD8Cqmui&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ King Khan
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792653.mp4&play_token=LYhOiCPFKm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Kehi Jane Bhala Lagere
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792652.mp4&play_token=ir1N4KiiRJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Kebe tame naha kebe mu nahi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792651.mp4&play_token=G8ab8ynifr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Katha Deithili Maa Ku
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792650.mp4&play_token=h6OXvrSay8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Kapala Likhana
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792649.mp4&play_token=n2ebm9NXqL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Kandhei akhire luha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792648.mp4&play_token=2IF7o8Mljv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjByNedOok31wDRgHvXSYP25KKx.jpg" group-title="ASIA┃ ODIA MOVIES",IN┃ Kalishankar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792647.mp4&play_token=3q8LyrqD7t&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Kala manika
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792646.mp4&play_token=wOySAgziwp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Kabula barabula
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792645.mp4&play_token=n2nEbwdEMR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Kaberi sriram panda
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792644.mp4&play_token=BzLnDouKM2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Kaberi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792643.mp4&play_token=DfoSplG9CG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHWpSBojVGkpuEPg4ZaM1F6DMw9.jpg" group-title="ASIA┃ ODIA MOVIES",IN┃ Jor Jar Mulak Tar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792642.mp4&play_token=ZR9ecSWptk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Jiye jaha kahu mora dho
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792641.mp4&play_token=g4iYudfYB3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Jibana sathi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792640.mp4&play_token=bJUkRsBrdK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Jananee
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792639.mp4&play_token=KjPc59sHkc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Jaga hatare pagha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792638.mp4&play_token=F3s2GVUS06&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Jaga Hatare Pagha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792637.mp4&play_token=kyhQQhooWK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Jabardast Premika
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792636.mp4&play_token=Y7OJEBvAtV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Im sorry i love you
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792635.mp4&play_token=uxOCLHYSas&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Idiot i do ishq only tumse
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792634.mp4&play_token=CGBBRTbGxN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ I love my india
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792633.mp4&play_token=lUQ32GOqCm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Hisab Nikas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792632.mp4&play_token=MyrQq17sst&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYVK9hfuo5pmBpi3hdTEwgS3jUI.jpg" group-title="ASIA┃ ODIA MOVIES",IN┃ Hero - Prem Katha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792631.mp4&play_token=0R5hkxf30E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Hari Om Hari
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792630.mp4&play_token=xVJ9uPfU0t&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yv0WZz5LjV5M0IQLdnRis810ghc.jpg" group-title="ASIA┃ ODIA MOVIES",IN┃ Gunga Jumna
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792629.mp4&play_token=Nk86oahPNR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Dhire Dhire Prema Hela
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792628.mp4&play_token=wTo8edhqir&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Dhauli Express
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792627.mp4&play_token=rD4m2oRGCL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Dharma Sahile Hela
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792626.mp4&play_token=sZmnwittKW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Dharma ra heba jay
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792625.mp4&play_token=UaXg6kY4VB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Dharma
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792624.mp4&play_token=laW9qWCGNl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Deewana Deewani
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792623.mp4&play_token=XopXxsvwtq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Danda balunga
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792622.mp4&play_token=XW4rws9LFA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Daha balunga
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792621.mp4&play_token=29hAAmK6Vt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Criminal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792620.mp4&play_token=tyY3XGneqf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Chhatire Lekhichi Tori Naa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792619.mp4&play_token=MAD4qhNOss&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Chaka bhaunri
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792618.mp4&play_token=tJWVYusSrD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Chaati chiri dele tu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792617.mp4&play_token=vZgyh3R4yA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Bye Bye Dubai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792616.mp4&play_token=2mm3wkBDVT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Bhul Bujhibani Mate
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792615.mp4&play_token=XmkaPXxM33&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhUgeOJz3NrjOoTjfzVOEWqnPjJ.jpg" group-title="ASIA┃ ODIA MOVIES",IN┃ Bhookha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792614.mp4&play_token=QW9sGppgCf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Bhagya hate doro
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792613.mp4&play_token=SbizGb2L9U&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Bhagya Chakra
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792612.mp4&play_token=rxXeBb4GZT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Balunga Toka
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792611.mp4&play_token=RmUKhAiSwR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Bahudibe Mo Jaga Balia
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792610.mp4&play_token=KBAbFMbbUl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Akashe ki ranga lagila
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792606.mp4&play_token=Hzwvz0mANo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Agni Parikshya
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792605.mp4&play_token=nQLy9y1Hxm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Ae Jugara Krushna Sudama
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792604.mp4&play_token=DagLpM9mc0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ ACP Sagarika
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792603.mp4&play_token=h1LNAk4ewk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Abhimanyu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792602.mp4&play_token=4wcCWW1eaL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Aama Bhitare Kichhi Achhi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792601.mp4&play_token=8Gz4oUlPYS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Aaa re saathi aa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792600.mp4&play_token=yYJp67ajcB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ Janani
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792599.mp4&play_token=P4JCz988ki&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/usjr7QqE9Mr5oNUTcpdVA83NmdH.jpg" group-title="ASIA┃ ODIA MOVIES",IN┃ 3 Wicketinu 365 Runs
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792598.mp4&play_token=m1PwzF3g8X&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ASIA┃ ODIA MOVIES",IN┃ 143 I Love You
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792597.mp4&play_token=7mVPRqWtUP&type=movie

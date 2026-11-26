@@ -1,197 +1,877 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5i7S46DT1ESy7URkh2l92awGRr.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Conan the Destroyer - 1984
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2347275.mkv&play_token=Tbn8dmkJkX&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qw2A587Ee61IwcSOLNFRhuOACZZ.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Conan the Barbarian - 1982
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2347274.mkv&play_token=6IiIea7Szc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHStfRjQGstuqtUz4Q22lbFU58M.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Push - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130338.mkv&play_token=FLLJ7BSkbF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3mdSgsnpoi4UiUufdybhjha68t.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ United 93 - 2006 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1976589.mkv&play_token=PaRAP1mwoB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAmofQjo2lECavOLlK72O3kFNc0.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Lola Versus - 2012 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1976586.mkv&play_token=UVLKsB4hhf&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkQmzaSuDj8QyXmwNhCceCAmwUe.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Purple Rain - 1984
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813449.mkv&play_token=97vpwovXcZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GwuoGZaCbdKt4lcx9ATG5KmN8C.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Family Man - 2000
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1506300.mkv&play_token=rCtL7sGkV7&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sG7VAXuZSkdEV2BfE9GI82V1wn.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Deadly Girls Trip - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1506292.mkv&play_token=HqJtqw13LM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzsN0ACTOuobTJJy2DU4WP28ylt.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Nuremberg [DOLBY] 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1499904.mkv&play_token=TaYJc7lF5E&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKvHwL0GqLOear8rTnUPSTRYY0r.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Unstoppable - 2010 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461654.mkv&play_token=DSKfWlnfK0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfIcONZO4AiWpzm3jEpbR4llzVX.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Unhinged - 2020 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461653.mkv&play_token=nni3zB2LKk&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Underwater - 2020 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461652.mkv&play_token=zGUT2atJnz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lc7jXmjQmITnfUBX7nN4kxKKbI.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ U-571 - 2000 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461651.mkv&play_token=zSxlgcTI9d&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98JYjLElGk8cHYd2FT0DLK11CcJ.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ İki Dünya Bir Dilek - 2025 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461650.mkv&play_token=8M5f6Folns&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUeiwBQdupBLQthMCHKV7zv56uv.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Training Day - 2001 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461649.mkv&play_token=FvTS653n3w&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Top Gun: Maverick - 2022 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461648.mkv&play_token=1pTPr8JIV7&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Top Gun - 1986 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461647.mkv&play_token=k0qeqYuTn4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Book of Eli - 2010 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461646.mkv&play_token=gn2qGiSli8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CBhSjQa07LYt0RGejYjWugGmdV.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Safe House - 2012 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461645.mkv&play_token=56F2zjSBgx&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMExJ6RdJQmRMydvozhEBlOLX1m.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Out of Time - 2003 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461644.mkv&play_token=JAg2StQUsw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3GTFGwesNBNd0t1hiLaEk1iqZU.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Olympus Has Fallen - 2013 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461643.mkv&play_token=PbM2dBk6vH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEbLkYzyiUdOKNK4WNBFyGH7r2Y.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ London Has Fallen - 2016 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461642.mkv&play_token=Jcm6J2nBs0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sg4xJaufDiQl7caFEskBtQXfD4x.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Ghostbusters: Afterlife - 2021 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461640.mkv&play_token=Pk6R25ZbW3&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Ghostbusters: Frozen Empire - 2024 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461639.mkv&play_token=aafgVyWlnQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Ghostbusters - 2016 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461638.mkv&play_token=k5kgN2koY0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4IACuEUGkygp2QsZPUEMY5Tlft.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Get the Gringo - 2012 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461637.mkv&play_token=CNk5SJESTM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFsHDNclXoCKy2xMxskzXXMaFJS.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Flight - 2012 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461636.mkv&play_token=5x7VVhfHGu&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CjSVSWz8FnTa26fVEHQA1PGwSd.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Movie - 2023 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461635.mkv&play_token=IcBqBkELWJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akss8b3BwW5uvtLp4XeFTmprVMX.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Drop - 2025 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461634.mkv&play_token=mKNff2n59v&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTX6hklzFOiEVqVukNCEedZKhix.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Déjà Vu (2006) [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461633.mkv&play_token=2KBefx0tYL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRa8B3tQCUK6pVwjasIyQehbvpF.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Ash - 2025 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461631.mkv&play_token=qsraN2OOLn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Angel Has Fallen - 2019 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461630.mkv&play_token=pqMWBZqlAJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlEtOQAQVy6eW65sHz3UduvzRK.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Wrong  [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440785.mkv&play_token=94QtisvTuM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqbJ2Hd6OX4fIC8I55NGh1EverJ.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Unknown [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440784.mkv&play_token=Eu3uB1SBD0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFMkqerSlifIae2cja6K1fdvz2G.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Tropa de Elite [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440783.mkv&play_token=YpH9W2rzcJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldCCmRdBPk5FR13W975zXAM1dGi.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Tropa de Elite 2 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440782.mkv&play_token=5oibZMBZ1W&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQrroNwP8hbFiUlNMs20emauwPE.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Tower Heist [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440781.mkv&play_token=9UDIrcSBuN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Commuter [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440780.mkv&play_token=VIm0wAA6d1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3BM9liGHm4nvzsDO3frDtiEC6P.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Battle at Lake Changjin [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440779.mkv&play_token=sRjcpIKLts&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vcDalR50RWa309vBH1NLmG2rjQ.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Marksman [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440778.mkv&play_token=xl2nUjXSdQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tQIzk5bKhYqQHiEtsKzDNO5Po6.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Shattered [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440777.mkv&play_token=dbdjeVKQpe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Non-Stop [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440776.mkv&play_token=gIOv9oXKXV&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Q1n3TwieoULnuaztu9aFjqHDTI.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Memory [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440775.mkv&play_token=upkvlvOkDn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Yo3wwbzlKLgzH7Wd8YZniNYC24.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The House Next Door: Meet the Blacks 2 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440774.mkv&play_token=ARBK1BOWof&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQ3fDI9m7vQ5LG8RqNPwwgwSvcW.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Kruimeltje [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440773.mkv&play_token=nrpzelOHZ4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeD4PabP6099gpE0STWJrJrCBCs.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Honest Thief [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440772.mkv&play_token=b3tUrXqCHB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RILVnOchQyL1LbcVzmabipdJfc.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Cold Pursuit [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440771.mkv&play_token=acayJdkdhT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Blacklight [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440770.mkv&play_token=gC2GjyEfZg&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDlmrGZROewneCoSwPjKx6Qfown.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ 21 Bridges [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440769.mkv&play_token=r5x3pyN1YN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2zGQmeOydo0Wnx0LTTISDwyD9G.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The War to End All Wars - The Movie [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437925.mkv&play_token=jgizYEteqo&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Nightmare Before Christmas [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437924.mkv&play_token=J1HAe7Yjtd&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssrV29QSVVJuemBHho0Qx7pFYak.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Muppet Christmas Carol [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437923.mkv&play_token=1gemsTsT9s&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8t4UnJnC24S9ygoaFgmMzRbErd.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Ides of March [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437922.mkv&play_token=KKhQ8RuKPi&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Christmas Chronicles 2 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437921.mkv&play_token=wsWkA6CENn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Cljtc3h97xJmsc0a2ISHSIOjif.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Manolo's Magische Reis [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437920.mkv&play_token=8VOlK1l3ns&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihWF0uY1xnKqw9YK7ZHNLUZOhcO.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Bodyguard [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437919.mkv&play_token=DrTfNf3CDn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilHG4EayOVoYeKqslspY3pR4wzC.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Run [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437917.mkv&play_token=2wJV2jvvVq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5CTddemx8h3e1kKCUvjf9KGsOq.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Resurrection [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437916.mkv&play_token=VVfGT0WBv3&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Outside the Wire [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437913.mkv&play_token=OQzsDDrzH3&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylP19iX8OTcPK0D1suHQGc7ESKI.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Het Kerstfeest van Mickey [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437911.mkv&play_token=7tFaFjZGYY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzPCU6xQ2XQmD76cDVZPm5PZAaS.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Krampus [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437910.mkv&play_token=uLMqMsOGao&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7O2U0WPFPSvNSUYZlhbnV081lBF.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Killer Elite [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437909.mkv&play_token=7gjkEYBwRm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ John Wick: Chapter 3 -  [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437908.mkv&play_token=rIss43eNPv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ John Wick: Chapter 2 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437907.mkv&play_token=2c7zllOLXA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ John Wick [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437905.mkv&play_token=a4whYp4Gpo&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/np7ZzU2rmUqqIPQ4HtfcC8JLOvS.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ In Your Dreams [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437904.mkv&play_token=BmuHlVBVii&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WZbbPApEivA421gCOluuzMMKCk.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Dr. Seuss' How the Grinch Stole Christmas [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437903.mkv&play_token=7KcnfoTcp6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePpEZavm379yDhx92ekbDnpGa9a.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Deathstalker [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437902.mkv&play_token=d2evOrUvq5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Dead of Winter [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437901.mkv&play_token=1M08kT6Pt1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nc18JXQ4yLkClFFJQUYgFahMBhZ.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Dark Encounter [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437900.mkv&play_token=RGnOsUpWaE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ A Very Jonas Christmas Movie [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437899.mkv&play_token=iyhsX1FaWR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Croods [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430265.mkv&play_token=8X8k2ezpOx&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDaZZzO8U6YWLmw4XV18auB3VHC.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Turning Red [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416893.mkv&play_token=boAhVvoHai&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Roald Dahl's The Witches [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416892.mkv&play_token=VTGU3IY81i&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJFU24brU1Zrp9H9vDqDbZnDwSn.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ De Enige Echte Ivan [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416891.mkv&play_token=dPpXhNPiux&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uK6Mn9nLTiyN357H7jYp06GrAY.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ De Familie Claus 2 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416890.mkv&play_token=zq11yg2Mjj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9yLQXQTm3rR3FhanFOiDTcejeH.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Ted & De Magische Smaragd [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416889.mkv&play_token=SSfUrNmIQQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPZ3I27oeSm4zVesgMxXlhW8GDe.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Seal Team [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416888.mkv&play_token=Iqk5rfidl6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30ULVKdjBcQTsj2aOSThXXZNSxF.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Clifford de grote rode hond [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416886.mkv&play_token=VA25ETnWjj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q09UDicxWmlnQeXS2CwFqNqcPIV.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Chupa [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416885.mkv&play_token=6ZEDIWYICQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD8RChlG2mqvIwGFxq7xNR4sa8s.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Abadi Nan Jaya [The Elixir] [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416849.mkv&play_token=Xgd9KfU2gS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpl7d2ALW2TkPt7ziXPGxGJrU0h.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Pedro Páramo [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416848.mkv&play_token=htLZMEXStQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rg5mbCEUGHormBTeGqVVWxiwZg2.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Napad [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416847.mkv&play_token=gHXMLWR2RP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Ballad of a Small Player [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416846.mkv&play_token=sDDpbwqHWW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9aMzKmb5yqxLYLRbvrxJh2xlKY.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Warm Bodies [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416328.mkv&play_token=TJZQhtqh7M&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbDMsV4VJAL2xJ2JXdWWjmUXZkT.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Wanted [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416327.mkv&play_token=RWPjmzLSGG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsFun8nATm52aGHeT8ueAel98nE.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Van Helsing [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416326.mkv&play_token=8fcuvxoR1i&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVGsmh7dZhkl98Bdw27uYBGKVAB.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ De Notenkraak [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416325.mkv&play_token=odAOSozCIe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3acM1lX5PNWQa6r5qeMAJOxbnT.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Mummy: Tomb of the Dragon Emperor [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416324.mkv&play_token=lRqfuumbQk&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Mummy [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416323.mkv&play_token=wo7FQwrHPa&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9QkkyM8nqmwYGU9FCEuzcV9y4D.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Man with the Iron Fists 2 [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416322.mkv&play_token=IEe06IkdJt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHgkRj6Igx3QsHmTyF4oAfBjAE7.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Man with the Iron Fists [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416321.mkv&play_token=PDzibKNRjA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbKcVBcxF96ARW2oKHqDYAcLdu.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Longest Yard [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416320.mkv&play_token=4Ufqa3H2nq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0DLCiDbnYywOHiISALbl2EH2NE.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Impossible [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416318.mkv&play_token=J62hVhPwDP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zplJqfuUyqzW0D4jX3W1afl0d7b.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Edge [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416317.mkv&play_token=fMrOt4H9kI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pHoSVTvFOp7YBMu4cBH03X057A.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ The Bitter Taste [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416316.mkv&play_token=oMqjJJoHCD&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrdnN8WqvyOt8Bnl3hgWcZD6ZyM.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Smokin' Aces [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416315.mkv&play_token=3w1AGFBDmq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AirrhRJjHwytOV0pdLu7YZ4DEyr.jpg" group-title="┃NL┃ DOLBY VISION",┃NL┃ Ronin [DOLBY]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416313.mkv&play_token=SzxeDueVvJ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f1c087e173e8a320.jpg" group-title="NL┃ DOLBY VISION",NL┃ Conan the Destroyer - 1984
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2347275.mkv&play_token=afvy3G34wQ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e76c3aee62929b23.jpg" group-title="NL┃ DOLBY VISION",NL┃ Conan the Barbarian - 1982
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2347274.mkv&play_token=VTXEsKzwqY&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8a342d63d13a5841.jpg" group-title="NL┃ DOLBY VISION",NL┃ Push - 2009
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2130338.mkv&play_token=GPLxXSDmKz&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/4e06e447ba32cede.jpg" group-title="NL┃ DOLBY VISION",NL┃ United 93 - 2006 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1976589.mkv&play_token=eeahy3EYCf&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/18e597469af3de1d.jpg" group-title="NL┃ DOLBY VISION",NL┃ Lola Versus - 2012 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1976586.mkv&play_token=dgqy7joCaR&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/771d1ce999a69000.jpg" group-title="NL┃ DOLBY VISION",NL┃ Purple Rain - 1984
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1813449.mkv&play_token=lQQF7ZfuaE&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/cfc61c26a42720bb.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Family Man - 2000
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1506300.mkv&play_token=96PeCeJwYX&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/37ed236caeae6911.jpg" group-title="NL┃ DOLBY VISION",NL┃ Deadly Girls Trip - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1506292.mkv&play_token=lTYfWs0l7e&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5d424615d516c7a3.jpg" group-title="NL┃ DOLBY VISION",NL┃ Nuremberg [DOLBY] 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1499904.mkv&play_token=0bt2ZEcxx7&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/16bebfdaaad4ae5b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Unstoppable - 2010 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461654.mkv&play_token=CbowfIuDeT&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/391deca8b070ebf3.jpg" group-title="NL┃ DOLBY VISION",NL┃ Unhinged - 2020 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461653.mkv&play_token=b0rLY7KESF&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d1d9e61b9f294644.jpg" group-title="NL┃ DOLBY VISION",NL┃ Underwater - 2020 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461652.mkv&play_token=31bDEANai2&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/65f35eff40b86e9e.jpg" group-title="NL┃ DOLBY VISION",NL┃ U-571 - 2000 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461651.mkv&play_token=TQZfJsiO7r&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a898968d164571a0.jpg" group-title="NL┃ DOLBY VISION",NL┃ İki Dünya Bir Dilek - 2025 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461650.mkv&play_token=UgPx0Az2wA&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/da9b3396e47a76a3.jpg" group-title="NL┃ DOLBY VISION",NL┃ Training Day - 2001 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461649.mkv&play_token=xVTu8cCx5k&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/55ea8f8b063c3a94.jpg" group-title="NL┃ DOLBY VISION",NL┃ Top Gun: Maverick - 2022 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461648.mkv&play_token=yYzt3LebdV&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f804d16733af6820.jpg" group-title="NL┃ DOLBY VISION",NL┃ Top Gun - 1986 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461647.mkv&play_token=AmAMv7gXUi&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5b96db254f86e822.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Book of Eli - 2010 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461646.mkv&play_token=3HLBhHu9MS&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/4e27ba6405862c3d.jpg" group-title="NL┃ DOLBY VISION",NL┃ Safe House - 2012 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461645.mkv&play_token=KJOKfm2or4&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/33ba449adcbc168f.jpg" group-title="NL┃ DOLBY VISION",NL┃ Out of Time - 2003 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461644.mkv&play_token=IgKTL2fOEF&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8352f13fe31dd539.jpg" group-title="NL┃ DOLBY VISION",NL┃ Olympus Has Fallen - 2013 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461643.mkv&play_token=x8PKlg9Is4&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5281900b47609327.jpg" group-title="NL┃ DOLBY VISION",NL┃ London Has Fallen - 2016 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461642.mkv&play_token=l41VmG8Jti&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1f9e3dbf2e11df89.jpg" group-title="NL┃ DOLBY VISION",NL┃ Ghostbusters: Afterlife - 2021 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461640.mkv&play_token=r4QWs6GvMj&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/781c30265e36293d.jpg" group-title="NL┃ DOLBY VISION",NL┃ Ghostbusters: Frozen Empire - 2024 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461639.mkv&play_token=zSucwyG76Q&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f2f358288eb8b59f.jpg" group-title="NL┃ DOLBY VISION",NL┃ Ghostbusters - 2016 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461638.mkv&play_token=zwtMNQFDdi&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/32fb933730927b5f.jpg" group-title="NL┃ DOLBY VISION",NL┃ Get the Gringo - 2012 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461637.mkv&play_token=yzFqAPwMMh&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/190a88248e42a633.jpg" group-title="NL┃ DOLBY VISION",NL┃ Flight - 2012 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461636.mkv&play_token=KFvc1Tk00p&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/60da62b6971abb48.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Movie - 2023 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461635.mkv&play_token=dtvYRLAPhH&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a74b8a4e785014f6.jpg" group-title="NL┃ DOLBY VISION",NL┃ Drop - 2025 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461634.mkv&play_token=HDaTw86D5F&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/977d5ed8369c09bd.jpg" group-title="NL┃ DOLBY VISION",NL┃ Déjà Vu (2006) [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461633.mkv&play_token=Lcfmbvphou&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/473249a11c73ccb7.jpg" group-title="NL┃ DOLBY VISION",NL┃ Ash - 2025 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461631.mkv&play_token=BvtVIPBgAN&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/885e71d2e80c08c9.jpg" group-title="NL┃ DOLBY VISION",NL┃ Angel Has Fallen - 2019 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1461630.mkv&play_token=gU48f8qVQa&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8dd60c873ee8079e.jpg" group-title="NL┃ DOLBY VISION",NL┃ Wrong [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440785.mkv&play_token=2lKIDDwUvT&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/cc8d8aabe2db4588.jpg" group-title="NL┃ DOLBY VISION",NL┃ Unknown [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440784.mkv&play_token=7O3YlJGyNC&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2ae5f01432d97675.jpg" group-title="NL┃ DOLBY VISION",NL┃ Tropa de Elite [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440783.mkv&play_token=DwEID0hPJM&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1ea4131cf2267fc7.jpg" group-title="NL┃ DOLBY VISION",NL┃ Tropa de Elite 2 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440782.mkv&play_token=SRsfBEo61y&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d1baaa6de9e179aa.jpg" group-title="NL┃ DOLBY VISION",NL┃ Tower Heist [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440781.mkv&play_token=bVQrVCatFa&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3decb81191c1a83d.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Commuter [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440780.mkv&play_token=b1ILMoyejw&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/09f25bae138bc66d.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Battle at Lake Changjin [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440779.mkv&play_token=XZsIUprBki&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3e24ad5c40215af7.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Marksman [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440778.mkv&play_token=cQ1JPNJaz3&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8b7e514bbd940beb.jpg" group-title="NL┃ DOLBY VISION",NL┃ Shattered [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440777.mkv&play_token=9thhgeMG6B&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ab6d9b45e0991a65.jpg" group-title="NL┃ DOLBY VISION",NL┃ Non-Stop [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440776.mkv&play_token=JPhEBUZ0v9&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/57a80ced1aefcdf5.jpg" group-title="NL┃ DOLBY VISION",NL┃ Memory [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440775.mkv&play_token=omGvb5JYie&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f962b136a61ecc51.jpg" group-title="NL┃ DOLBY VISION",NL┃ The House Next Door: Meet the Blacks 2 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440774.mkv&play_token=xIL9GiFOug&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/01670e140e7931c9.jpg" group-title="NL┃ DOLBY VISION",NL┃ Kruimeltje [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440773.mkv&play_token=BWNp2kJHlM&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/c733642d6654b575.jpg" group-title="NL┃ DOLBY VISION",NL┃ Honest Thief [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440772.mkv&play_token=hZJct5E74w&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/acaf706443209212.jpg" group-title="NL┃ DOLBY VISION",NL┃ Cold Pursuit [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440771.mkv&play_token=fffANvhsTN&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/b25d8da64243fbac.jpg" group-title="NL┃ DOLBY VISION",NL┃ Blacklight [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440770.mkv&play_token=Q6UEEvqhqc&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/cb841f2ab5097288.jpg" group-title="NL┃ DOLBY VISION",NL┃ 21 Bridges [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1440769.mkv&play_token=tpACEtqwY1&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/674e7b6e1eb12c08.jpg" group-title="NL┃ DOLBY VISION",NL┃ The War to End All Wars - The Movie [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437925.mkv&play_token=KPiGF5GcE2&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/877f705f3de7b03c.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Nightmare Before Christmas [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437924.mkv&play_token=BmViForBrV&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/86cba3ac7055c1e0.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Muppet Christmas Carol [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437923.mkv&play_token=M3JohuCnFc&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d2edafebc8146ee5.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Ides of March [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437922.mkv&play_token=OJwsUkwVcK&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ec90f1e6bcab7b95.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Christmas Chronicles 2 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437921.mkv&play_token=qQHy2aX6NE&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0d7c5a40a9e0e6f5.jpg" group-title="NL┃ DOLBY VISION",NL┃ Manolo's Magische Reis [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437920.mkv&play_token=VVqdioO5Wy&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5e1763e85fa075a0.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Bodyguard [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437919.mkv&play_token=Bpub4IhycC&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/512f29cb7935a0d5.jpg" group-title="NL┃ DOLBY VISION",NL┃ Run [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437917.mkv&play_token=yy0aibCvrx&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2c8236949c783a34.jpg" group-title="NL┃ DOLBY VISION",NL┃ Resurrection [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437916.mkv&play_token=DOCuqMatdG&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f1291e332f06d0c4.jpg" group-title="NL┃ DOLBY VISION",NL┃ Outside the Wire [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437913.mkv&play_token=Le1FBQAH88&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/b0e97f0b251925dd.jpg" group-title="NL┃ DOLBY VISION",NL┃ Het Kerstfeest van Mickey [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437911.mkv&play_token=kPNgQeu5Fy&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/919bc8a3ff136bf8.jpg" group-title="NL┃ DOLBY VISION",NL┃ Krampus [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437910.mkv&play_token=Byo6KtBDEp&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/94a6af45bd71ca37.jpg" group-title="NL┃ DOLBY VISION",NL┃ Killer Elite [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437909.mkv&play_token=NgKv8xozHZ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/23f4a61256b66789.jpg" group-title="NL┃ DOLBY VISION",NL┃ John Wick: Chapter 3 - [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437908.mkv&play_token=dIuhIcLCcB&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1d63af0be0f27544.jpg" group-title="NL┃ DOLBY VISION",NL┃ John Wick: Chapter 2 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437907.mkv&play_token=1AhWCXOM1X&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/148d9f9f7b583903.jpg" group-title="NL┃ DOLBY VISION",NL┃ John Wick [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437905.mkv&play_token=a4UprNz2xM&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/da36945728c36946.jpg" group-title="NL┃ DOLBY VISION",NL┃ In Your Dreams [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437904.mkv&play_token=3U5CkKT8Gq&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/135289656ca72b06.jpg" group-title="NL┃ DOLBY VISION",NL┃ Dr. Seuss' How the Grinch Stole Christmas [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437903.mkv&play_token=BKl7WML7AU&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/033bb6ba3652237b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Deathstalker [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437902.mkv&play_token=ruSTrdM5hf&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/c7c320c06bf8271f.jpg" group-title="NL┃ DOLBY VISION",NL┃ Dead of Winter [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437901.mkv&play_token=uQHrgOiJpy&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8f3f82f89a46cab3.jpg" group-title="NL┃ DOLBY VISION",NL┃ Dark Encounter [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437900.mkv&play_token=JMBH6RYpG3&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a0d3cab805159473.jpg" group-title="NL┃ DOLBY VISION",NL┃ A Very Jonas Christmas Movie [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437899.mkv&play_token=XUlic8PTM4&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d95a0e08f72066af.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Croods [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1430265.mkv&play_token=eZdxHFTc0G&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3566dc7ebcea05cc.jpg" group-title="NL┃ DOLBY VISION",NL┃ Turning Red [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416893.mkv&play_token=rw9I3wPvAI&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/95b63ccc12bb6fbe.jpg" group-title="NL┃ DOLBY VISION",NL┃ Roald Dahl's The Witches [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416892.mkv&play_token=SPZNxCfI5G&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/6cee4817f8503b87.jpg" group-title="NL┃ DOLBY VISION",NL┃ De Enige Echte Ivan [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416891.mkv&play_token=57XMMqLuLW&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/c1f391fa2c7d3b23.jpg" group-title="NL┃ DOLBY VISION",NL┃ De Familie Claus 2 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416890.mkv&play_token=MqKPX3PjeO&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/26eb57d3d4939d10.jpg" group-title="NL┃ DOLBY VISION",NL┃ Ted & De Magische Smaragd [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416889.mkv&play_token=MpD9RbfIPI&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/83d7582318684f3e.jpg" group-title="NL┃ DOLBY VISION",NL┃ Seal Team [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416888.mkv&play_token=APCTNO4SmY&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1e3f042f59c56337.jpg" group-title="NL┃ DOLBY VISION",NL┃ Clifford de grote rode hond [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416886.mkv&play_token=kc7OOn5nTB&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/33758e5e1fc7675d.jpg" group-title="NL┃ DOLBY VISION",NL┃ Chupa [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416885.mkv&play_token=zRBmhyCRom&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f975ce8cbc7984b8.jpg" group-title="NL┃ DOLBY VISION",NL┃ Abadi Nan Jaya [The Elixir] [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416849.mkv&play_token=sWi3Jh30mW&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/b81c9ac5be0b1664.jpg" group-title="NL┃ DOLBY VISION",NL┃ Pedro Páramo [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416848.mkv&play_token=07671lTZnC&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/196bf01023d25c76.jpg" group-title="NL┃ DOLBY VISION",NL┃ Napad [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416847.mkv&play_token=SmRnlce9WQ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d355fd678e614cf6.jpg" group-title="NL┃ DOLBY VISION",NL┃ Ballad of a Small Player [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416846.mkv&play_token=0jbIMVCUkM&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/927e74d6a90d8eb8.jpg" group-title="NL┃ DOLBY VISION",NL┃ Warm Bodies [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416328.mkv&play_token=49Jl6D6tfA&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2d530303b41f5205.jpg" group-title="NL┃ DOLBY VISION",NL┃ Wanted [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416327.mkv&play_token=OdlyEBA3l5&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/af079489c2902533.jpg" group-title="NL┃ DOLBY VISION",NL┃ Van Helsing [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416326.mkv&play_token=KRg8sOgaDK&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/b939a51b4ae3b454.jpg" group-title="NL┃ DOLBY VISION",NL┃ De Notenkraak [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416325.mkv&play_token=5jwJqJrmUI&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/686320986724e8a1.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Mummy: Tomb of the Dragon Emperor [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416324.mkv&play_token=sWUBSdYsAi&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3a85b1f6de7bd58c.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Mummy [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416323.mkv&play_token=fSfSSs4bds&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/435902673906f34b.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Man with the Iron Fists 2 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416322.mkv&play_token=tot93U0YUA&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/75c2658aade97500.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Man with the Iron Fists [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416321.mkv&play_token=QwsJ1ESit3&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a7b19546ba4513cf.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Longest Yard [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416320.mkv&play_token=Y6jxI5DBfx&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0ceff80c76a70210.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Impossible [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416318.mkv&play_token=NfOLbJKr73&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/69ae5225ac0d85e7.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Edge [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416317.mkv&play_token=umQQ5vs01n&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ad172ed357487837.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Bitter Taste [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416316.mkv&play_token=M1ZRa7fsNf&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/383f2c13e1c6b66a.jpg" group-title="NL┃ DOLBY VISION",NL┃ Smokin' Aces [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416315.mkv&play_token=jZ13pxSPqI&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/855eb5b81703022b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Ronin [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416313.mkv&play_token=ZpK67Wij2o&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/afdfe2d0bdde4f3c.jpg" group-title="NL┃ DOLBY VISION",NL┃ Romeo + Juliet [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416312.mkv&play_token=TDuPecP645&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3018b586514fa3b7.jpg" group-title="NL┃ DOLBY VISION",NL┃ Notting Hill [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416311.mkv&play_token=lJSI0DCsVV&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/c78a594320d08ef8.jpg" group-title="NL┃ DOLBY VISION",NL┃ Mean Machine [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416310.mkv&play_token=BaBWUbbKA0&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/7e9189ac8e0661b4.jpg" group-title="NL┃ DOLBY VISION",NL┃ Love Actually [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416309.mkv&play_token=q0k93Ni0L3&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2a6dbde1b803e910.jpg" group-title="NL┃ DOLBY VISION",NL┃ Joy Ride 3 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416308.mkv&play_token=2Q07ZZBRVc&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/228472cb43689538.jpg" group-title="NL┃ DOLBY VISION",NL┃ Inglourious Basterds [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1416307.mkv&play_token=xHgiN51KKb&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/198ea4bcf71c645c.jpg" group-title="NL┃ DOLBY VISION",NL┃ X-Men: Days of Future Past
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400963.mkv&play_token=2DN4utzY2G&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0b354839699901d6.jpg" group-title="NL┃ DOLBY VISION",NL┃ Wish
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400962.mkv&play_token=dvKXCBDQj2&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a6d38411e1ebfcad.jpg" group-title="NL┃ DOLBY VISION",NL┃ Divja Slovenija
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400961.mkv&play_token=NBqZiyabab&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3446c4b6e368a838.jpg" group-title="NL┃ DOLBY VISION",NL┃ Le Pacha  ma Mère et Moi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400960.mp4&play_token=w2VpTZFsHd&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/40e04ccc98157197.jpg" group-title="NL┃ DOLBY VISION",NL┃ R.I.P.D. 2: Rise of the Damned
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400958.mkv&play_token=KCDjlec4L4&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/bbb6b5083bd3d802.jpg" group-title="NL┃ DOLBY VISION",NL┃ R.I.P.D.
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400957.mkv&play_token=FvZirVpHSL&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5cdec40f12b48aff.jpg" group-title="NL┃ DOLBY VISION",NL┃ Kingdom Uncovered: Inside Saudi Arabia
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400955.mkv&play_token=Qx6jYLEh4X&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/576f188c33a91112.jpg" group-title="NL┃ DOLBY VISION",NL┃ Jimmy Carr: Natural Born Killer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400954.mkv&play_token=ufcqqUORjc&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/63b3bfb24e9f1324.jpg" group-title="NL┃ DOLBY VISION",NL┃ Jay and Silent Bob Strike Back
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400953.mkv&play_token=l3N4BR4OIM&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d420c4902c8e7f02.jpg" group-title="NL┃ DOLBY VISION",NL┃ Jay and Silent Bob Reboot
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400952.mkv&play_token=0OxWhicCNa&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/58d016c4113bc453.jpg" group-title="NL┃ DOLBY VISION",NL┃ I See You
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400951.mkv&play_token=EsJC5sz4mH&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1f939c34d92fdb18.jpg" group-title="NL┃ DOLBY VISION",NL┃ Gods of Egypt
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400948.mkv&play_token=2iWbM8TOjX&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3261c12d6a353c36.jpg" group-title="NL┃ DOLBY VISION",NL┃ Game of truth
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400947.mkv&play_token=0nIlfcvB5i&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8e83a84c8ace4a54.jpg" group-title="NL┃ DOLBY VISION",NL┃ Death Race
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400946.mkv&play_token=7Fs9QiRpPr&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/87c07cfcf92d4c65.jpg" group-title="NL┃ DOLBY VISION",NL┃ Canada: Surviving the Wild North
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400945.mkv&play_token=KKkC7YLRvD&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2a3d0e0d91305ab2.jpg" group-title="NL┃ DOLBY VISION",NL┃ Big Mommas: Like Father  Like Son
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400944.mkv&play_token=wKEEKonyL1&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/018461ddbd260c91.jpg" group-title="NL┃ DOLBY VISION",NL┃ Big Momma's House 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400943.mkv&play_token=ysJRdiaS6T&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d29ed281bb44b03c.jpg" group-title="NL┃ DOLBY VISION",NL┃ Alita: Battle Angel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1400939.mkv&play_token=08Wl761OvJ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/bc0d3bbdb56dcdd7.jpg" group-title="NL┃ DOLBY VISION",NL┃ Rush Hour 3 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394121.mkv&play_token=XhzQnnuDO3&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/01118f24e19fdb4c.jpg" group-title="NL┃ DOLBY VISION",NL┃ Rush Hour 2 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394120.mkv&play_token=JNHFMB1qRs&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0743ae2ed529cdd4.jpg" group-title="NL┃ DOLBY VISION",NL┃ Rush Hour [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394119.mkv&play_token=zpjgQwysKl&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/198987933a340254.jpg" group-title="NL┃ DOLBY VISION",NL┃ Rocky Balboa [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394118.mkv&play_token=LUa3GlwdQ9&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f5444eea89a2c777.jpg" group-title="NL┃ DOLBY VISION",NL┃ Rocky V [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394117.mkv&play_token=7i9pPqo4qF&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5db8d1487071ed7c.jpg" group-title="NL┃ DOLBY VISION",NL┃ Rocky IV [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394116.mkv&play_token=mE9dwyrlOm&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a526540b22adbe75.jpg" group-title="NL┃ DOLBY VISION",NL┃ Rocky III [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394115.mkv&play_token=XEz6jaQLJR&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/96cdfde532f129b0.jpg" group-title="NL┃ DOLBY VISION",NL┃ Rocky II [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394114.mkv&play_token=TPRBXZwOPv&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/49ebd6fbffac1cc1.jpg" group-title="NL┃ DOLBY VISION",NL┃ Rocky [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394113.mkv&play_token=gCqYHqPyUc&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/88bd953643a71efd.jpg" group-title="NL┃ DOLBY VISION",NL┃ Noah [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394112.mkv&play_token=Xo0wc0j4x2&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/43037cc717f673ec.jpg" group-title="NL┃ DOLBY VISION",NL┃ Maggie [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394111.mkv&play_token=Dnijobk15T&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1250e2a98ace67f5.jpg" group-title="NL┃ DOLBY VISION",NL┃ Hannibal [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394110.mkv&play_token=bP4DKpZqGE&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/4520037a691c2428.jpg" group-title="NL┃ DOLBY VISION",NL┃ Driven [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394109.mkv&play_token=OauCGbuu0o&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/18921438a856d0a2.jpg" group-title="NL┃ DOLBY VISION",NL┃ Cliffhanger [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1394108.mkv&play_token=bmu2rYkamT&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/13be6ef20da88ad9.jpg" group-title="NL┃ DOLBY VISION",NL┃ War for the Planet of the Apes DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386648.mkv&play_token=GTWgB8qrNI&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/67c542b3820796f1.jpg" group-title="NL┃ DOLBY VISION",NL┃ Vivo DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386647.mkv&play_token=ayB5CVvwIu&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/887dae2bfe569e2b.jpg" group-title="NL┃ DOLBY VISION",NL┃ SpongeBob: Spons op het Droge DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386646.mkv&play_token=SAX6ilEAkY&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8cdeed3ff0948cb9.jpg" group-title="NL┃ DOLBY VISION",NL┃ De Grinch DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386645.mkv&play_token=LXfmS3wMl2&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/fd4343a82fc2a3f5.jpg" group-title="NL┃ DOLBY VISION",NL┃ Rise of the Planet of the Apes DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386644.mkv&play_token=3FMePmDhVn&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/51562258bf058486.jpg" group-title="NL┃ DOLBY VISION",NL┃ Planet 51 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386643.mkv&play_token=Vx7OAi1Ys3&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/affd8911e65e0e9b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Planet of the Apes DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386642.mkv&play_token=f32wKmxBSe&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/c4b2c58889859d1f.jpg" group-title="NL┃ DOLBY VISION",NL┃ Planet of the Apes - 1968 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386641.mkv&play_token=ZJD563zuN9&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ec6356f8ec20f472.jpg" group-title="NL┃ DOLBY VISION",NL┃ ParaNorman DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386640.mkv&play_token=OC5K7BhCcO&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e1aed81bacee1f4b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Horton DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386638.mkv&play_token=7sBU35d5s9&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f8cff00bbb53c55b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Escape from the Planet of the Apes - 1971 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386637.mkv&play_token=JSNFoQL071&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/b78d76234ca92dd1.jpg" group-title="NL┃ DOLBY VISION",NL┃ Death Wish II - 1982 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386636.mkv&play_token=pNMvaZGoOA&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/11b807e0f8b960e4.jpg" group-title="NL┃ DOLBY VISION",NL┃ Death Wish - 1974 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386635.mkv&play_token=kRoa44e457&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/13f5bd7b17a4b321.jpg" group-title="NL┃ DOLBY VISION",NL┃ Death Wish V: The Face of Death - 1994 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386634.mkv&play_token=il6tcZTNBB&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/522aceb41b6b72ba.jpg" group-title="NL┃ DOLBY VISION",NL┃ Death Wish 4: The Crackdown - 1987 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386633.mkv&play_token=cbJsP27cqP&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/9316186a94ebf3b0.jpg" group-title="NL┃ DOLBY VISION",NL┃ Death Wish 3 - 1985 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386632.mkv&play_token=nE7SVDXBNS&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/891fd3f4e4668152.jpg" group-title="NL┃ DOLBY VISION",NL┃ Conquest of the Planet of the Apes - 1972 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386630.mkv&play_token=FhVkaA2A9I&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5b54ed0db4d1bbd9.jpg" group-title="NL┃ DOLBY VISION",NL┃ Beneath the Planet of the Apes - 1970 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386629.mkv&play_token=zVCIcLlejg&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2cb5400dae0504eb.jpg" group-title="NL┃ DOLBY VISION",NL┃ Battle for the Planet of the Apes - 1973 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1386628.mkv&play_token=ZQSaODSZxF&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8a528a1b04bbf60a.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Fantastic 4: First Steps [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1361153.mkv&play_token=vBCWIDEnaI&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/11b72958dd5541be.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Whole Ten Yards [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350404.mkv&play_token=yxLoaAn14O&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/21aee8c059d87965.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Net [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350403.mkv&play_token=y00xuN8EJ3&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/dbf28742f937c945.jpg" group-title="NL┃ DOLBY VISION",NL┃ Speak No Evil [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350402.mkv&play_token=qEDjUPmfJe&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f40bcc87cdae1def.jpg" group-title="NL┃ DOLBY VISION",NL┃ Smallfoot [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350401.mkv&play_token=zbFcMIbZ0S&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a136d7f3e55e39f7.jpg" group-title="NL┃ DOLBY VISION",NL┃ Small Soldiers [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350400.mkv&play_token=xs0QRBXSqk&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/b29c5334f485f3d1.jpg" group-title="NL┃ DOLBY VISION",NL┃ Serial Mom [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350399.mkv&play_token=DObiqGC24M&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/322d7949ca225272.jpg" group-title="NL┃ DOLBY VISION",NL┃ My Stepmother Is an Alien [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350398.mkv&play_token=MayaCNwWQO&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/be9a442c26525cc8.jpg" group-title="NL┃ DOLBY VISION",NL┃ Legally Blonde 2 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350397.mkv&play_token=oIpfTKp8Ro&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8b8ff66712e5838b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Knight Rider 2000 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350396.mkv&play_token=FOd6hCj8nQ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/7eb18fbadf21165b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Johnny English Strikes Again [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350395.mkv&play_token=TmaiXXn5Xm&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/edde4e7c77cdfe88.jpg" group-title="NL┃ DOLBY VISION",NL┃ Johnny English Reborn [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350394.mkv&play_token=UU84WkKOv6&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0766ba0b5536d05f.jpg" group-title="NL┃ DOLBY VISION",NL┃ Johnny English [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350393.mkv&play_token=xsDRpGuyVP&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/008ff2d445c056dc.jpg" group-title="NL┃ DOLBY VISION",NL┃ Happy Feet Two [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350392.mkv&play_token=suWncTAsih&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/dcf3eb2523919179.jpg" group-title="NL┃ DOLBY VISION",NL┃ Coneheads [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350391.mkv&play_token=UF8Vu1pQa8&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f81d4307efd5b634.jpg" group-title="NL┃ DOLBY VISION",NL┃ Carlito's Way [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350390.mkv&play_token=tKE9wAPfZa&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f5134d985878c310.jpg" group-title="NL┃ DOLBY VISION",NL┃ Betting on Zero [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1350389.mkv&play_token=stHY8ROn9M&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/345443ebf7958a06.jpg" group-title="NL┃ DOLBY VISION",NL┃ Wild Wild West [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345424.mkv&play_token=anVAg7eZA6&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/6049aa8e7e9676be.jpg" group-title="NL┃ DOLBY VISION",NL┃ What Lies Beneath [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345423.mkv&play_token=NCR7RLt1gh&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f7aab2537467622a.jpg" group-title="NL┃ DOLBY VISION",NL┃ Universal Soldier [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345422.mkv&play_token=BGimjO1dtm&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/cef50a2806896bd3.jpg" group-title="NL┃ DOLBY VISION",NL┃ My Girl 2 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345421.mkv&play_token=FrUEA0sogV&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2183338c3e85ed97.jpg" group-title="NL┃ DOLBY VISION",NL┃ Minority Report [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345420.mkv&play_token=UKnBXmshlN&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1c9d5a56ae63bbbd.jpg" group-title="NL┃ DOLBY VISION",NL┃ Ghost Ship [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345419.mkv&play_token=BpPwdGuH52&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/117232235eaaa264.jpg" group-title="NL┃ DOLBY VISION",NL┃ Gangs of New York - 2002 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345418.mkv&play_token=LeLpOsioeS&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ae4d3c236adca34f.jpg" group-title="NL┃ DOLBY VISION",NL┃ Colombiana [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345417.mkv&play_token=oHyrEDZfSR&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/744ecf3324a237d1.jpg" group-title="NL┃ DOLBY VISION",NL┃ Bloodsport [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345416.mkv&play_token=DB6vR8oTzr&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/19037131796d6d78.jpg" group-title="NL┃ DOLBY VISION",NL┃ Blast from the Past [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345415.mkv&play_token=xoeuwCzJBt&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/4e8f1404b689127d.jpg" group-title="NL┃ DOLBY VISION",NL┃ Assassins [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1345414.mkv&play_token=liTDOAGTby&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d19d7f6d51f4b832.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Jacket [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334751.mkv&play_token=5sQTwcJBJr&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ee34109d12152c07.jpg" group-title="NL┃ DOLBY VISION",NL┃ Romeo Must Die [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334750.mkv&play_token=DPuFcOZZyk&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/c9bc00bce3d56241.jpg" group-title="NL┃ DOLBY VISION",NL┃ Fear and Loathing in Las Vegas [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334749.mkv&play_token=X0WMLsb4Cl&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/9c99d7b20e87c11f.jpg" group-title="NL┃ DOLBY VISION",NL┃ Edward Scissorhands [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334748.mkv&play_token=5iNekYft76&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1bf95e9e13f9b894.jpg" group-title="NL┃ DOLBY VISION",NL┃ Christmas with the Kranks [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334747.mkv&play_token=CJ2UI6jta1&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/188d16d00c475b2e.jpg" group-title="NL┃ DOLBY VISION",NL┃ Airport 1975 - 1974
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328163.mkv&play_token=AF6ksRj4yl&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/470d66ca61b00c10.jpg" group-title="NL┃ DOLBY VISION",NL┃ Airport - 1970
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328162.mkv&play_token=rSaiSwPj75&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/042318121c70872b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Airport '77 - 1977
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328161.mkv&play_token=kxawSWE3RG&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e50fc957f28ef651.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Concorde ... Airport '79 - 1979
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1328160.mkv&play_token=O0v0X4NyqJ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/757f7ee5f2534ea7.jpg" group-title="NL┃ DOLBY VISION",NL┃ WWE Friday Night Smackdown 2025-09-26
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327629.mkv&play_token=4XFGV88MkW&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/73f0a82340efcba1.jpg" group-title="NL┃ DOLBY VISION",NL┃ Halloween: Resurrection - 2002 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327625.mkv&play_token=Xmbsx0GWVO&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a9377c931875876f.jpg" group-title="NL┃ DOLBY VISION",NL┃ Halloween III: Season of the Witch - 1982 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327624.mkv&play_token=Ce6ppOjkeJ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/dab970a79a4e531b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Halloween II - 1981 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327623.mkv&play_token=KNB95tO4GH&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Halloween H20: 20 Years Later - 1998 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327622.mkv&play_token=QtL4VrNAKE&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Halloween - 1978 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327621.mkv&play_token=CjwFVCgRME&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Halloween 5: The Revenge of Michael Myers - 1989 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327620.mkv&play_token=RyGAyNvtf3&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Halloween 4: The Return of Michael Myers - 1988 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1327619.mkv&play_token=Qrw4qjk3gY&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Anthropoid [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262996.mkv&play_token=GFu473ma8y&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Vir Das: Fool Volume [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1262071.mkv&play_token=PvMfGhZpLp&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ In the Lost Lands [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1209556.mkv&play_token=L2zeRyBVUC&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Smoke & Mirrors [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1183209.mkv&play_token=EZsyUwjDZp&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Queen of Katwe [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1183208.mkv&play_token=2dFSFwAV1i&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Mohawk [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1183206.mkv&play_token=ZTaueDPrGh&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Bowling Balls
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1182292.mkv&play_token=p1ikE8xqM6&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Last Samurai [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1180347.mkv&play_token=53hOUC8Hdn&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Butchers Book Two: Raghorn [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1142304.mkv&play_token=GTDg201tAI&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Taxi 2 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1141381.mkv&play_token=sD5r1Clei7&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/736f81919f588052.jpg" group-title="NL┃ DOLBY VISION",NL┃ T4xi [Taxi 4] [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1141380.mkv&play_token=8ChvMHOGLh&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/989661dab7123d5a.jpg" group-title="NL┃ DOLBY VISION",NL┃ Taxi 3 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1141379.mkv&play_token=euK6XlqR5i&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/39c4abc33c8aaa57.jpg" group-title="NL┃ DOLBY VISION",NL┃ Taxi [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1141378.mkv&play_token=OlgFRCesCe&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0d2aaa11b85ecd5c.jpg" group-title="NL┃ DOLBY VISION",NL┃ Mickey 17 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1124023.mkv&play_token=xkkAMfHXxt&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d11e5f23b79467b0.jpg" group-title="NL┃ DOLBY VISION",NL┃ We Live in Time [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1118670.mkv&play_token=pZxcS4YZ3p&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0038339567b2f8d5.jpg" group-title="NL┃ DOLBY VISION",NL┃ Better Man [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1118669.mkv&play_token=pimfzrQGbZ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/4be85eec4c9e8714.jpg" group-title="NL┃ DOLBY VISION",NL┃ Zip en Zap en het eiland van de kapitein [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115273.mkv&play_token=VRIA3FJxhL&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/39c8d16c6f024233.jpg" group-title="NL┃ DOLBY VISION",NL┃ Contratiempo [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115272.mkv&play_token=9TYYPtsgtF&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a0f2b5078b39a9a9.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Life List [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115271.mkv&play_token=X0Wr9bKBEI&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8d2480e14f9ee0a7.jpg" group-title="NL┃ DOLBY VISION",NL┃ Revolt [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115270.mkv&play_token=YKIXB0uYeT&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/465d8844dca383ee.jpg" group-title="NL┃ DOLBY VISION",NL┃ Carjackers [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115269.mkv&play_token=shM2SdUdw7&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0241ce1c3ae95598.jpg" group-title="NL┃ DOLBY VISION",NL┃ Bring Them Down [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115268.mkv&play_token=JtQjg3IEgk&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/bf0295e23f68a95a.jpg" group-title="NL┃ DOLBY VISION",NL┃ Alexander and the Terrible  Horrible  No Good  Very Bad Road Trip [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1115267.mkv&play_token=xUoNZWsMpW&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ef6125d2689b4077.jpg" group-title="NL┃ DOLBY VISION",NL┃ Once Upon a Time in Venice [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1112827.mkv&play_token=z0VUWE5wcQ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8905a96f63f51da1.jpg" group-title="NL┃ DOLBY VISION",NL┃ Goat [DOLBY}
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1112826.mkv&play_token=Qv2ZsGnaCQ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3e5e5376f895360d.jpg" group-title="NL┃ DOLBY VISION",NL┃ Dragonheart: Battle for the Heartfire [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1112825.mkv&play_token=3W6Qx5pgC1&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/7ac38a115d9e9f03.jpg" group-title="NL┃ DOLBY VISION",NL┃ Pikku Siperia [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1112132.mkv&play_token=pPozc4w79z&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/6b8e3e52db7a832b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Young Hearts [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1111474.mkv&play_token=OgZfxdRdQr&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/34ae3c73730b8e69.jpg" group-title="NL┃ DOLBY VISION",NL┃ Star Trek: Section 31 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1111473.mkv&play_token=OtaMvvU71x&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e86845fbbf13dec7.jpg" group-title="NL┃ DOLBY VISION",NL┃ O'Dessa [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1111472.mkv&play_token=aTPueGlFTr&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0ed31b6f9f48c05d.jpg" group-title="NL┃ DOLBY VISION",NL┃ Vaiana 2 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1111471.mkv&play_token=ihKo2t7LOV&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/b5d10c06fa784d1a.jpg" group-title="NL┃ DOLBY VISION",NL┃ Black Out [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1111470.mkv&play_token=6XZ4wFAAds&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/af387601b84c6022.jpg" group-title="NL┃ DOLBY VISION",NL┃ 24 Hours To D-Day [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1111469.mkv&play_token=SEHRkvZ1t7&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/08d7c4997315eeed.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Blind Side [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1110143.mkv&play_token=XjU1X47UzJ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/337c6aa43b1e5ee7.jpg" group-title="NL┃ DOLBY VISION",NL┃ Dragon: The Bruce Lee Story [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1110142.mkv&play_token=3KZ9tcwZXt&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/54539807c8ceba74.jpg" group-title="NL┃ DOLBY VISION",NL┃ [REC]² [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1110041.mkv&play_token=LKIMA6LY0i&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3604dab9aced7cf3.jpg" group-title="NL┃ DOLBY VISION",1 - 2009
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1110040.mkv&play_token=Jjnujj1GuZ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f4056e0a8cb2f8f7.jpg" group-title="NL┃ DOLBY VISION",NL┃ Haunting of the Queen Mary [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1110039.mkv&play_token=VjNGKgokYU&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Last Breath [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1107877.mkv&play_token=or6vQuAR8n&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Savage Dog [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1106212.mkv&play_token=mwpRjixEIY&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Rules Don't Apply [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1106211.mkv&play_token=VVtOz0Pb63&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ La Confession [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1106210.mkv&play_token=nlBJ5NWDcP&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Shangri-La Suite [Kill the King] [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1106209.mkv&play_token=VZfZI0OsdN&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Handsome Devil [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1106208.mkv&play_token=H8Jw1g2bLy&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Get the Girl [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1106207.mkv&play_token=Tf664ha5KX&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Feed [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1106206.mkv&play_token=oM726dRSKN&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Silent Zone [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1104463.mkv&play_token=O294KbqC3C&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Invisible Guardian [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103117.mkv&play_token=Uhyc7PO32E&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Edge of Seventeen [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103116.mkv&play_token=XXuNi6m8oi&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Mil-jeong [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103115.mkv&play_token=8Je4b39v6L&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Some Kind of Hate [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103114.mkv&play_token=JIpNpqn9ls&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ S.W.A.T.: Under Siege [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103113.mkv&play_token=Ty6vWlqWXy&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Koning van Katoren [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103112.mkv&play_token=fbowtkIG30&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Grey Lady [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103111.mkv&play_token=Xvpnr4bVyq&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Gold [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103110.mkv&play_token=vyon6xzx4S&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Agent [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1103109.mkv&play_token=iOsvDipvUH&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Ottoman Lieutenant [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097975.mkv&play_token=JmOpkyznJH&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Security [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097974.mkv&play_token=ix2cwYmcXL&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Norman [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097973.mkv&play_token=sk1Jo7RLZI&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ King Arthur: Legend of the Sword [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097972.mkv&play_token=e1ykCBcnlg&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Kiddo [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097971.mkv&play_token=BGNpi57KJk&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Hunt for the Wilderpeople [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097970.mkv&play_token=OzDZHPszPm&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Sonic the Hedgehog 3 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1022621.mkv&play_token=sp3bwwjme4&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Joker: Folie à Deux [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=930277.mkv&play_token=2ldalp9gJB&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Deadpool & Wolverine [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=928894.mkv&play_token=XTel7CoRr9&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Breathe [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=870128.mkv&play_token=4073TzVHE6&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Black Book [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=869589.mkv&play_token=LYV78SGZK8&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ LaRoy  Texas [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=869583.mkv&play_token=JAKDEtNFmX&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Despicable Me 4 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=868729.mkv&play_token=byENKi2uPU&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ DarkGame [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=867820.mkv&play_token=Xidv30hRb7&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Mothers' Instinct [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=867652.mkv&play_token=xJbyUUwn7M&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Love Lies Bleeding [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=867283.mkv&play_token=0M86QCJ4w7&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Little Dixie [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=867281.mkv&play_token=NvRVtWxrbp&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Serena [ DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=851471.mkv&play_token=rXUQ8FcJ2P&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Watchers [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=843379.mkv&play_token=2bpSVN2FwK&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Wandering Earth [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=833765.mp4&play_token=NOgjTYbpIs&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Håndtering av udøde [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=833763.mkv&play_token=uptH8r2o7H&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Furiosa: A Mad Max Saga [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=828432.mkv&play_token=5H9FKKOhZV&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Snag [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=819027.mkv&play_token=zEadgLfX0R&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Strangers: Chapter 1 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=819025.mkv&play_token=QYewI7R7b4&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Opération Portugal [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=819024.mkv&play_token=BnYeKjyDfp&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Opération Portugal 2 - La Vie De Château [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=819023.mkv&play_token=FPInG1dMK1&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ I.S.S. [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=819021.mkv&play_token=6Tqu8PYiWg&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Wicked Little Letters [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=809300.mkv&play_token=h2oRSvZWdY&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ They Turned Us Into Killers [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807851.mkv&play_token=IfTl9a4hQZ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Les Chambres Rouges AKA Red Rooms [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807850.mkv&play_token=NWcpDOW3uo&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Konvoi [DOLBY}
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=807849.mkv&play_token=RB4a8Zd64p&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Les Chambres rouges [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=806440.mkv&play_token=fb4xmbWAwP&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Ordinary Angels [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=806438.mkv&play_token=9JdWNGbrR6&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Les Poings Serrés [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804481.mkv&play_token=863EZ7k1Se&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ La vie de ma mère [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804480.mkv&play_token=MMWRNonQhA&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Heist 88 [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804479.mkv&play_token=h5qahoo6hK&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Bonnard  Pierre et Marthe [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=804478.mkv&play_token=AWcJlVg0rs&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Die Hart: Die Harter [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=803068.mkv&play_token=iYtVPwgc8x&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/9959d3c199c96f9c.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Three Musketeers: D'Artagnan [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=802216.mkv&play_token=6nM9YIUIf1&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2e3fc1d68a6dfc78.jpg" group-title="NL┃ DOLBY VISION",NL┃ Adagio [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=802214.mkv&play_token=4dtEPn821F&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/dd8c1848bf693925.jpg" group-title="NL┃ DOLBY VISION",NL┃ The First Omen [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=801730.mkv&play_token=9jeWVWiDRs&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a6374595ea2a6acb.jpg" group-title="NL┃ DOLBY VISION",NL┃ Friend Request [Chance at Romance]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=801725.mkv&play_token=Q8mDZG05eh&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f5a8d39329c8c710.jpg" group-title="NL┃ DOLBY VISION",NL┃ Civil War [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=801723.mkv&play_token=rTOTnEg8nu&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5c7a9e463f690548.jpg" group-title="NL┃ DOLBY VISION",NL┃ Lost Angel [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799943.mkv&play_token=mxc8ttqceW&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/6e04c8c7c72a3359.jpg" group-title="NL┃ DOLBY VISION",NL┃ Huda's Salon [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799942.mkv&play_token=3moNnckaPt&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/28ea56868a2adbfe.jpg" group-title="NL┃ DOLBY VISION",NL┃ Poseidon [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796665.mkv&play_token=LbsGL5aZgb&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/59ac5aab9e6ccdb1.jpg" group-title="NL┃ DOLBY VISION",NL┃ Tomorrow  When the War Began [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796348.mkv&play_token=2xMneqoYc7&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e4169793ebd034be.jpg" group-title="NL┃ DOLBY VISION",NL┃ La Marginale [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796346.mkv&play_token=zucK5tAQFY&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/7a096268322a5c76.jpg" group-title="NL┃ DOLBY VISION",NL┃ Cabrini [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796345.mkv&play_token=Yts7aA7l87&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8bb8c5ed873476c0.jpg" group-title="NL┃ DOLBY VISION",NL┃ What Happens Later [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795156.mkv&play_token=2Mkbbjy42I&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/eabf0784afefe227.jpg" group-title="NL┃ DOLBY VISION",NL┃ Drive-Away Dolls [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795154.mkv&play_token=O3qmkknIcG&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/204dfbfc78c8d0fc.jpg" group-title="NL┃ DOLBY VISION",NL┃ Pirates of the Caribbean: Salazar's Revenge [DPLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795054.mkv&play_token=0LQ1jJQPwV&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/30f6471db44ede50.jpg" group-title="NL┃ DOLBY VISION",NL┃ Pirates of the Caribbean: The Curse of the Black Pearl [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=795050.mkv&play_token=P2Ct6t1kHO&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/6d1a9a09b51ae84d.jpg" group-title="NL┃ DOLBY VISION",NL┃ All Fun and Games [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=794044.mkv&play_token=Ju5265sBZi&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/343f361e0bb93658.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Blind [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793754.mkv&play_token=5Kw4esg9M4&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ae5b958e84750b1a.jpg" group-title="NL┃ DOLBY VISION",NL┃ Abigail [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793753.mkv&play_token=W45lXW2jw1&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/7a3aa4a16e715972.jpg" group-title="NL┃ DOLBY VISION",NL┃ Godzilla x Kong: The New Empire [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793604.mkv&play_token=9QQs1nJWwk&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/7aa9467f9ca1ee0d.jpg" group-title="NL┃ DOLBY VISION",NL┃ Mercy [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793039.mkv&play_token=eVLi2YDjPw&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/071ed7a3879b4874.jpg" group-title="NL┃ DOLBY VISION",NL┃ MR-9: Do or Die [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793038.mkv&play_token=pvXVJpoMZK&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/202c95854930b03a.jpg" group-title="NL┃ DOLBY VISION",NL┃ Verliefd op Bali [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792336.mkv&play_token=liVgcJXgDl&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/468486e5e8ae8563.jpg" group-title="NL┃ DOLBY VISION",NL┃ Stockholm Bloodbath [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792335.mkv&play_token=9YEBdt7QbT&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5e5e4d43ffeec15f.jpg" group-title="NL┃ DOLBY VISION",NL┃ Shayda [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792334.mkv&play_token=ycUHCBs83d&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d43a13cf60bd54f6.jpg" group-title="NL┃ DOLBY VISION",NL┃ Purple Hearts [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792333.mkv&play_token=aroUEpKNHK&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e0b1a3b2efe359d9.jpg" group-title="NL┃ DOLBY VISION",NL┃ Mother of the Bride [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792331.mkv&play_token=nx3cEukExB&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/b10171a5c01fc8d6.jpg" group-title="NL┃ DOLBY VISION",NL┃ John Wick: Chapter 3 - Parabellum [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792328.mkv&play_token=NW9NIUUecg&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e5ad66f9566c5376.jpg" group-title="NL┃ DOLBY VISION",NL┃ Force of Nature [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792325.mkv&play_token=XrFOujMEXb&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3215e933f0fd8568.jpg" group-title="NL┃ DOLBY VISION",NL┃ El correo [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792321.mkv&play_token=RheB9gx2Fe&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e0949ea8b6ae88f1.jpg" group-title="NL┃ DOLBY VISION",NL┃ Chief of Station [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792320.mkv&play_token=7KxnHrDWDB&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d81aa3589162d0d3.jpg" group-title="NL┃ DOLBY VISION",NL┃ Cash Out [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792319.mkv&play_token=R10ydpl44x&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d4c2359cb68caac1.jpg" group-title="NL┃ DOLBY VISION",NL┃ Breakout [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=792318.mkv&play_token=a2asE0Waqn&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2a20227c28a6449e.jpg" group-title="NL┃ DOLBY VISION",NL┃ Eileen [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=788331.mkv&play_token=51ryfw9IFD&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/6efe34e81b39be68.jpg" group-title="NL┃ DOLBY VISION",NL┃ Priscilla [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787496.mkv&play_token=KmlKk95Ljf&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d6f2c546ac4a07a9.jpg" group-title="NL┃ DOLBY VISION",NL┃ Blood for Dust [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=787494.mkv&play_token=2nnfuWoCjV&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/b3de4022e37dd97b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Bob Marley: One Love [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=782602.mkv&play_token=t5oRkVviwd&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/28793606211bc312.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Channel [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=773548.mkv&play_token=6SXaALZtOv&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a4cee5ed7451c1b0.jpg" group-title="NL┃ DOLBY VISION",NL┃ Sleeping Dogs [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=773546.mkv&play_token=gt0v2yJf4l&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0decb2977e5f6df0.jpg" group-title="NL┃ DOLBY VISION",NL┃ Out of Darkness [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=773543.mkv&play_token=PwckAVkTd5&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2d3c337cdb975466.jpg" group-title="NL┃ DOLBY VISION",NL┃ Destroy All Neighbors [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=773540.mkv&play_token=3VtUU636IG&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/eafb63f02fec1c56.jpg" group-title="NL┃ DOLBY VISION",NL┃ Bon Bini: Bangkok Nights [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761327.mkv&play_token=w7coKx5BrL&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/76d94d4aff765a52.jpg" group-title="NL┃ DOLBY VISION",NL┃ Invitation to a Murder [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761238.mkv&play_token=eXQiLrJuE0&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/518d644221002e79.jpg" group-title="NL┃ DOLBY VISION",NL┃ Back on the Strip [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=761236.mkv&play_token=0m97CeDUAQ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/bfefc4b4f3391aab.jpg" group-title="NL┃ DOLBY VISION",NL┃ Goodbye Bruce Lee [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759263.mkv&play_token=hsvi3lc3ec&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ba7e2d5dfe0e8afa.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Legend of Bruce Lee [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759217.mp4&play_token=KJg7xViYwo&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/37b7b4701adbc89a.jpg" group-title="NL┃ DOLBY VISION",NL┃ Bruce Lee - The Way of the Dragon [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759216.mkv&play_token=3ogLhSw4da&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3f81325f39938fb7.jpg" group-title="NL┃ DOLBY VISION",NL┃ Bruce Lee - The Big Boss [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759215.mkv&play_token=YcqwSgWCY4&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/b6bdff3c119575f7.jpg" group-title="NL┃ DOLBY VISION",NL┃ Bruce Lee - Game of Death [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759214.mkv&play_token=HmFNqlOFhk&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/258b04eb98abd19b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Bruce Lee - Enter the Dragon [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759213.mkv&play_token=gJ1a9t0cCt&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/c8ce7d138d4844ff.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Omen III - The Final Conflict [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759036.mkv&play_token=7VnEUjSdHj&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0c2d3767351f7f73.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Omen II - Damien [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759035.mkv&play_token=Wo8VvVgc5u&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/28b6257a4b22cf6d.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Omen [DOLBY] (REMAKE FROM 1976)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759034.mkv&play_token=1UwXtP9BqZ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/441f43bfbc649673.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Omen [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=759033.mkv&play_token=FGapZmO4RJ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/9fcebbe3363074e0.jpg" group-title="NL┃ DOLBY VISION",NL┃ Madame Web [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=756849.mkv&play_token=jKqC0U9hCl&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e4ad93e12c47c9e3.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Taste of Things (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=756509.mkv&play_token=WPJT94uF9f&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1b3482df90dccf58.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Holdovers (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=756508.mkv&play_token=IWdvELo44o&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Todos los nombres de Dios (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=755140.mkv&play_token=2wHGfK2fzG&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Ricky Stanicky (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754050.mkv&play_token=feuJZDzGYw&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Fear the Night (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754047.mkv&play_token=0dtK45Un1f&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Dark Asset (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=754045.mkv&play_token=v1pdRBhCAp&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Dark Windows (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=749914.mkv&play_token=OZDvAx82Kd&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Hunger Games: The Ballad of Songbirds & Snakes (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=748121.mkv&play_token=n812H0YqBm&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Warhorse One (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=741288.mkv&play_token=46N3DPGwhn&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Saw X (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=740878.mkv&play_token=KUivx3HOsr&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Dream Scenario [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=731061.mkv&play_token=pqn4yyejY3&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Kill Room [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722954.mkv&play_token=jl8uJTFZcD&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Kuolleet lehdet [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722952.mkv&play_token=ePUR4LOGP6&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Thanksgiving [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722556.mkv&play_token=CbM6TBMM87&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Io capitano [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722550.mkv&play_token=yT732xerNV&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Hunger Games: The Ballad of Songbirds & Snakes [DOLBY}
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=722312.mkv&play_token=cAiqBjLJBi&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Deep Fear [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=720878.mkv&play_token=yxDGIWYegR&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Ferrari [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=715893.mkv&play_token=ydLa48P3iL&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Night Swim [DOLBY]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=712891.mkv&play_token=k2IcY9KLHe&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ It Lives Inside
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=699695.mkv&play_token=y0bHLXujJf&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Dovbush
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=699495.mkv&play_token=A3buGHO0c6&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Marvels
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=699479.mkv&play_token=83FYPHGMWc&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Asteroid City
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=698722.mkv&play_token=b5opqe82ku&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Wonderwell
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=677205.mkv&play_token=eGsiQxQFYV&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Aporia
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=674090.mkv&play_token=8MC3092RpZ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Shrapnel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=674035.mkv&play_token=YZsI6LLO3s&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Roundup: No Way Out
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=671658.mkv&play_token=ODCpxfFnv7&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ You Hurt My Feelings
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=671611.mkv&play_token=FMTBudZRSx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Sound of Freedom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=671013.mkv&play_token=BVaNt0KISi&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ La piel del tambor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=662916.mkv&play_token=CFCt46iVpi&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/7a7435781e381fc0.jpg" group-title="NL┃ DOLBY VISION",NL┃ How to Blow Up a Pipeline
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=662913.mkv&play_token=YhVNS9CD9o&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/b28f8651b6906f8d.jpg" group-title="NL┃ DOLBY VISION",NL┃ Rumble Through the Dark
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=662188.mkv&play_token=S87JYj7pdS&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ce833dbbba5d7d93.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Exorcist: Believer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=661370.mkv&play_token=Ru4fKtOx32&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8563b930281c5718.jpg" group-title="NL┃ DOLBY VISION",NL┃ Ride On
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=661369.mkv&play_token=42Ksub3Ls5&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/feb7f4f8372f1511.jpg" group-title="NL┃ DOLBY VISION",NL┃ Muzzle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=660302.mkv&play_token=knUKylPHSd&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/75b969a7205bc262.jpg" group-title="NL┃ DOLBY VISION",NL┃ Blood
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=660228.mkv&play_token=H7xnrN5mV8&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/4553ffbe115edbac.jpg" group-title="NL┃ DOLBY VISION",NL┃ Hunt Her  Kill Her
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=659387.mkv&play_token=ZU0Qq2Qid3&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/4769fc0d99222214.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Creator
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=659236.mkv&play_token=lVQ9j0TTRr&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ae9026820073d898.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Machine
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=604673.mkv&play_token=EcBmd2i1ux&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/4d9f8d45853c97f8.jpg" group-title="NL┃ DOLBY VISION",NL┃ Assassin
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=604661.mkv&play_token=ioexgFXwYL&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/7cb075928c306a23.jpg" group-title="NL┃ DOLBY VISION",NL┃ Blue Beetle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=603197.mkv&play_token=PnB7IxfARc&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1bc03211025a000b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Qui rido io
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=602810.mkv&play_token=qqwdvT4ITl&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/28d71971eab1b9f9.jpg" group-title="NL┃ DOLBY VISION",NL┃ To Catch A Ciller
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596106.mkv&play_token=DpHX1Y2WFA&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/87e43a27bfc39e36.jpg" group-title="NL┃ DOLBY VISION",NL┃ Operation Seawolf DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=594661.mkv&play_token=ASiNcE4RUh&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ One Ranger
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=594660.mkv&play_token=h29hjXTdYw&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ The Boogeyman [Atmos]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=588622.mkv&play_token=mPRCdzXrZu&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ On the Line
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=588620.mkv&play_token=S96jgpfI1p&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Air
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=588614.mkv&play_token=3WXthLP67N&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Robots
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=586903.mkv&play_token=uz6Hf2cqQv&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Hypnotic
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=586899.mkv&play_token=jg6VpBI739&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Deadstream
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=586618.mkv&play_token=kBnPlrSrSx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Marlowe
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=586519.mkv&play_token=7NShRHVgZ7&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Kandahar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=582731.mkv&play_token=0DzJ0zzVXH&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Indiana Jones and the Dial of Destiny
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=582730.mkv&play_token=kBP78lqdaJ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Operation Napoleon
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=581769.mkv&play_token=zOC6zaMLu7&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Meg 2: The Trench
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=581767.mkv&play_token=GmiDE0XMEf&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Indiana Jones and the Dial of Destiny
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=578511.mkv&play_token=CpIx0QPtX0&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ DOLBY VISION",NL┃ Onder Water
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=565754.mkv&play_token=k4Zt2lPWJb&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/87f9c5f8faa700fa.jpg" group-title="NL┃ DOLBY VISION",NL┃ Het Geheugenspel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=563454.mkv&play_token=1Q3Gsh52Dq&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/c805f833825e11c6.jpg" group-title="NL┃ DOLBY VISION",NL┃ Black Lotus DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=556948.mkv&play_token=GaSFoglm8o&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/7492e58ba1a08283.jpg" group-title="NL┃ DOLBY VISION",NL┃ La piel del tambor DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=539921.mkv&play_token=9KZvdrhKkX&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/9026ad3eabd6680b.jpg" group-title="NL┃ DOLBY VISION",NL┃ About My Father
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=538581.mkv&play_token=2yYD93scho&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/255a44bb41100ca2.jpg" group-title="NL┃ DOLBY VISION",NL┃ Guardians of the Galaxy Vol. 3 (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=518085.mkv&play_token=0BpIAyF4uf&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f3c32391d86bff75.jpg" group-title="NL┃ DOLBY VISION",NL┃ Resident Evil: Death Island (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=503246.mkv&play_token=BmADe9X43M&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d19796f0ea49cf91.jpg" group-title="NL┃ DOLBY VISION",NL┃ Bad Boys II DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=495422.mkv&play_token=sgQrIMAZSB&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/954a21993a392727.jpg" group-title="NL┃ DOLBY VISION",NL┃ Bad Boys DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=495420.mkv&play_token=950gv6UM1m&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/09e31e75d586609e.jpg" group-title="NL┃ DOLBY VISION",NL┃ Scary Movie 5 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=490109.mkv&play_token=SUIERv58cW&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3b9207c04084576b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Scary Movie 4 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=490108.mkv&play_token=zCAMCOJfLY&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2544d03ba32e1ea3.jpg" group-title="NL┃ DOLBY VISION",NL┃ Scary Movie 3 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=490107.mkv&play_token=1TopBWd33N&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1d88a68ac5704337.jpg" group-title="NL┃ DOLBY VISION",NL┃ Scary Movie 2 DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=490106.mkv&play_token=4st8YvRQxr&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/bfcd05c8d8164f6d.jpg" group-title="NL┃ DOLBY VISION",NL┃ Scary Movie DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=490105.mkv&play_token=QfPBhJpveT&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a9a9b96def5e82dd.jpg" group-title="NL┃ DOLBY VISION",NL┃ Shazam! Fury of the Gods (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=431747.mkv&play_token=HULxGtFkZR&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2621aafda0e37452.jpg" group-title="NL┃ DOLBY VISION",NL┃ Paradise City (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=430660.mkv&play_token=FOTyn71FfW&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/43a5bb0cdc95b80b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Jonah Hex (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=428521.mkv&play_token=obvwRPCryt&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/c914645e8482e659.jpg" group-title="NL┃ DOLBY VISION",NL┃ Jesus Revolution (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=428520.mkv&play_token=gvnKVlPthv&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/95f48546fe4c3e4d.jpg" group-title="NL┃ DOLBY VISION",NL┃ Champions (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=428519.mkv&play_token=28eFg5SLZ4&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/145ae6a83aa7d8c8.jpg" group-title="NL┃ DOLBY VISION",NL┃ Alice  Darling (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=428518.mkv&play_token=sIqSVTJkYZ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a65cfd8794c8a405.jpg" group-title="NL┃ DOLBY VISION",NL┃ An Cailín Ciúin
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=390192.mkv&play_token=QIuJZXvydE&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d99523855905f44b.jpg" group-title="NL┃ DOLBY VISION",NL┃ Lamborghini: The Man Behind the Legend (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=390169.mkv&play_token=YCr0rnBN5T&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a7956e10a2e8e852.jpg" group-title="NL┃ DOLBY VISION",NL┃ Insomnia
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=389437.mkv&play_token=0gAhCAdyOi&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/82a040b5da7fa5bc.jpg" group-title="NL┃ DOLBY VISION",NL┃ This Game's Called Murder
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=379165.mkv&play_token=qDzV6OTjPb&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/850ab2fcd80d8be2.jpg" group-title="NL┃ DOLBY VISION",NL┃ The Magic Flute [DOLBY}
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=379164.mkv&play_token=l5mIJ3xgKG&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ae11baab7eb6836c.jpg" group-title="NL┃ DOLBY VISION",NL┃ Leila et ses freres
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=379163.mkv&play_token=Nye7PMXwHR&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/7c820d24b7bfb429.jpg" group-title="NL┃ DOLBY VISION",NL┃ Guy Ritchie's The Covenant (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=375927.mkv&play_token=0deApU4EH1&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3068315a9560e908.jpg" group-title="NL┃ DOLBY VISION",NL┃ House Party (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=375926.mkv&play_token=hna8xjT69f&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/76dc6acf59f6d940.jpg" group-title="NL┃ DOLBY VISION",NL┃ Evil Dead Rise (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=375925.mkv&play_token=AYSf1zUt3M&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1fca87350c32e498.jpg" group-title="NL┃ DOLBY VISION",NL┃ Occhiali neri
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=369753.mkv&play_token=bWCxLzMSBw&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/da20693b7221ce88.jpg" group-title="NL┃ DOLBY VISION",NL┃ Fast X - DOLBY
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=356463.mkv&play_token=3hHQUjIT2o&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/97664bd9e487fd06.jpg" group-title="NL┃ DOLBY VISION",NL┃ John Wick: Kapitel 4 [DTS]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=338133.mkv&play_token=DUGHrw94KR&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2f68374901f1d1db.jpg" group-title="NL┃ DOLBY VISION",NL┃ Operation Fortune: Ruse de Guerre (DOLBY)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=306493.mkv&play_token=aQvHDdOThM&type=movie

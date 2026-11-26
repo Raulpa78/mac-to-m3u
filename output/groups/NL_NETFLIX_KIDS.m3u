@@ -1,57 +1,113 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Stiefzussen [Steps] [NL GESPROKEN] 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2361496.mkv&play_token=tJf150tyaq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Stiefzussen [Steps] [NL SUBS] (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2361468.mkv&play_token=bCsudGQs9o&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OCtnyQutdX1RiRAn1xUrBnQEgc.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Whisper of the Heart - 1995
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292698.mkv&play_token=SdIDYv04GB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRk9U3z9JjjvBRk08VGoOgtGhnR.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ When Marnie was There - 2014
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292697.mkv&play_token=R7SyISOnv5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ripXZmaPueob1qVgqJz4HWIGlm.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ The Cat Returns - 2002
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292694.mkv&play_token=Rxsa4VgP6k&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TEs6twIANAc2qiU8m17JO8Ujcx.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Spirited Away - 2001
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292693.mkv&play_token=TaH7MHRUhN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jM5uEE7MUml28dkeQCcfirfrBkp.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Porco Rosso - 1992
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292692.mkv&play_token=SnAltteO29&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvtEjvXh15AQ3dk6BrpbSmYJ77J.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Ponyo - 2008
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292691.mkv&play_token=T7KWWL4EiE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PLPxPzr9ti4O54KGlOUqkeSxpL.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Only Yesterday - 1991
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292690.mkv&play_token=luyTbr9Mkk&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r74DvbQuz8zjxWvLwkX0iTIGs8C.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Nausicaä of the Valley of the Wind - 1984
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292689.mkv&play_token=Ld4zKQI9ZP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wL50v76Bf4BMW6UuoCrHOomUSJD.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Hôhokekyo Tonari no Yamada-kun (1999)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292688.mkv&play_token=eYW6D3AkAQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcpswHz8QeK0Rdq4VXLtErHNGN6.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Kiki's vliegende koeriersdienst - 1989
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292687.mkv&play_token=ExYRXWUlW8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0K2e1t6ocUNnkZ9BeiFdcOT9LG.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Howl's Moving Castle - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292686.mkv&play_token=9DAKEuJsJB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDse6WI1npXK9XUn3gOHSu4SFp3.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Laputa: Castle in the Sky - 1986
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292685.mkv&play_token=oUPtteF0DN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0xGWduoo2G6VkplVgJH905zUXB.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ De Geheime Wereld van Arrietty - 2010
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292683.mkv&play_token=p5VhEO3b3k&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abPQVYyNfVuGoFUfGVhlNecu0QG.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ De Avonturen van Pil - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781719.mkv&play_token=PjCtHMwpVs&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/np7ZzU2rmUqqIPQ4HtfcC8JLOvS.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ In Your Dreams [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437351.mkv&play_token=XZRHKAI4UC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22AouvwlhlXbe3nrFcjzL24bvWH.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ KPop Demon Hunters
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1306582.mkv&play_token=97HvysKUFB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmuWA097ijMNCDOnyBRNiipl68Q.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Octonauts & the Ring of Fire
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1289087.mkv&play_token=LRWFGEv0jx&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bk4RqSZ8FtCwMzXwiuxxoFZUHmU.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Octonauts and the Great Barrier Reef
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1289086.mkv&play_token=oEF3bcVPqT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlizMbZByBYPOC4i2AN64e4W1iM.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Octonauts and the Caves of Sac Actun
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1289085.mkv&play_token=Pfq0MsxACe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ The King of Kings
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1190681.mkv&play_token=NimDay29QO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGaUNLF5VZbg9ovPTyjm9Rv5xWz.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Plankton: De film [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097992.mkv&play_token=4ogOxCIuE0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bX6dx2U4hOk1esI7mYwtD3cEKdC.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ That Christmas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=978303.mkv&play_token=w9kUrfEnsg&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfdkIdBrBiXrivZ0R71SQ4RQbPz.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ De Bad Guys - De wraak van de kraak
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=909218.mkv&play_token=s1Rckmldwa&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j886YEkIUsiImY53px5VHKD4lRa.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Ultraman: Rising
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=815827.mkv&play_token=uzyGDrENAq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiUP9klg8Z7jmFuPnuMjoXpsnN4.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Strawberry Shortcake's Summer Vacation 4K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=815538.mkv&play_token=GzWdiQ0hCa&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fa92FnbWJ1yBEpJwjdqCHII5D1.jpg" group-title="┃NL┃ NETFLIX KIDS",┃NL┃ Thelma the Unicorn [SUBS]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796343.mkv&play_token=Blqd873hTg&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Stiefzussen [Steps] [NL GESPROKEN] 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2361496.mkv&play_token=hSOdJUyp0z&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Stiefzussen [Steps] [NL SUBS] (2026)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2361468.mkv&play_token=yzONCRWcQ5&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Whisper of the Heart - 1995
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292698.mkv&play_token=qzybd6DbFU&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ When Marnie was There - 2014
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292697.mkv&play_token=ItChKRRHlM&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ The Cat Returns - 2002
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292694.mkv&play_token=UVOtzu0JDT&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Spirited Away - 2001
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292693.mkv&play_token=uiPE19JS7V&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Porco Rosso - 1992
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292692.mkv&play_token=0XgV1WA2pW&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Ponyo - 2008
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292691.mkv&play_token=mPh0KzNevx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Only Yesterday - 1991
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292690.mkv&play_token=1o2RB1NQtQ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Nausicaä of the Valley of the Wind - 1984
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292689.mkv&play_token=IaO7DM2RzE&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Hôhokekyo Tonari no Yamada-kun (1999)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292688.mkv&play_token=ihfE7lFREE&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Kiki's vliegende koeriersdienst - 1989
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292687.mkv&play_token=hi42sBqMU2&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Howl's Moving Castle - 2004
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292686.mkv&play_token=8PJLf9XZ84&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Laputa: Castle in the Sky - 1986
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292685.mkv&play_token=tmiFLN5W5w&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/9a0555e1abc2f5a1.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ De Geheime Wereld van Arrietty - 2010
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2292683.mkv&play_token=hmxhhuLujA&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/604a8dbaceff0cd2.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ De Avonturen van Pil - 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1781719.mkv&play_token=5sw32Xj7pT&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2e348a6a379502c0.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ In Your Dreams [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1437351.mkv&play_token=aZNSFDy5ts&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ec9867753fcb7eaa.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ KPop Demon Hunters
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1306582.mkv&play_token=xDpl6z9Cdn&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/efa0dc9b87214a18.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Octonauts & the Ring of Fire
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1289087.mkv&play_token=RvZiMw5Nby&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/7800febcb3dae0fb.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Octonauts and the Great Barrier Reef
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1289086.mkv&play_token=lDYC61Cugj&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5677d75116e33c68.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Octonauts and the Caves of Sac Actun
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1289085.mkv&play_token=8QF4kAZD9O&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d245e7d9f287e312.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ The King of Kings
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1190681.mkv&play_token=bOKJ85SMnv&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/7028e99123ef7d4e.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Plankton: De film [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1097992.mkv&play_token=QozQPGWBjA&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5dce9885fe22f056.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ That Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=978303.mkv&play_token=Ytq6f9NzTy&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2e1d29e650370332.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ De Bad Guys - De wraak van de kraak
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=909218.mkv&play_token=LL7iXVPg9k&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/463d91d878b871cc.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Ultraman: Rising
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=815827.mkv&play_token=SA0hDgvcwP&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ef70adf77b282a2b.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Strawberry Shortcake's Summer Vacation 4K
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=815538.mkv&play_token=BVFtemY8Bj&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e888b062f18efb1c.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Thelma the Unicorn [SUBS]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=796343.mkv&play_token=tbjXI4FMXf&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0844ea447c686244.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Fireheart [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=788739.mkv&play_token=4oib3lDOfm&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/329c9518abba3760.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Woody Woodpecker gaat op kamp [NL Subs]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=771289.mkv&play_token=H94nx0wt5q&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/b1b92ddff6b3b7b9.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Woody Woodpecker gaat op kamp [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=771288.mkv&play_token=mVS4wLgJQN&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/efa364420bf5db74.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Anna Aardbei en het Bloemenfestival
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=768362.mkv&play_token=J2o24cyaSn&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/917632c5dad491e2.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ De Casagrandes - De film [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=760269.mkv&play_token=HX5WHlPu9E&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/855a1e7542004c13.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Orion en het Donker
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=719123.mkv&play_token=FltFkDql1C&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e866f412cf0665e5.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Orion en het Donker [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=719122.mkv&play_token=YAZ6EIL5uG&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/41ff07773d60a1dd.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Leo [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=643308.mkv&play_token=dfF0musiXY&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e054ced0a544da88.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Strawberry Shortcake's Perfect Holiday [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=635634.mkv&play_token=euYw9xghrg&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/48ac05fac4768359.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Strawberry Shortcake and the Beast of Berry Bog [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=635633.mkv&play_token=L23QQ4KibR&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a81ad1860d99e532.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Het Zeebeest
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=627572.mkv&play_token=UOwYBg6VqB&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/cff80439dee2508c.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ Evinced
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=600382.mkv&play_token=9fHblpGN4n&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d0b970d884055697.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ We Can Be Heroes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596050.mkv&play_token=8W2NcgBwz7&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/265fd54c9835317c.jpg" group-title="NL┃ NETFLIX KIDS",NL┃ The Willoughbys
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596049.mkv&play_token=8gzOTbCd5p&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Het Zeebeest (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596047.mkv&play_token=nGI8X6bLjO&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Nimona
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596044.mkv&play_token=r4MXzGgsHA&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Ivy + Bean: The Ghost That Had to Go
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596041.mkv&play_token=bVPRW1XwOt&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Ivy + Bean
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596040.mkv&play_token=vTUi9NETxT&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Free Rein: Valentine's Day
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596039.mkv&play_token=8DR83oxLWN&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Free Rein: The Twelve Neighs of Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596038.mkv&play_token=ecShnZcWX9&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Fearless
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596031.mkv&play_token=eZIRhOAJmH&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Chupa
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596030.mkv&play_token=BmHwFMTbm8&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Terug naar de Outback
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=596028.mkv&play_token=ad4TyTBcay&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Spongebob Schiet te Hulp
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=559951.mkv&play_token=xvbsE9tE9K&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Super Monsters: Vida's First Halloween (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511906.mkv&play_token=m3dXKuqT0e&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Super Monsters: Dia de los Monsters
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511905.mkv&play_token=yyUAvGj9cx&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Scrooge: A Christmas Carol (NL GESPROKEN)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511858.mkv&play_token=QK2zg4DU6n&type=movie
+#EXTINF:-1 tvg-logo="" group-title="NL┃ NETFLIX KIDS",NL┃ Captain Underpants: Epic Choice-o-rama
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=511412.mkv&play_token=Ryi5UlvBLI&type=movie

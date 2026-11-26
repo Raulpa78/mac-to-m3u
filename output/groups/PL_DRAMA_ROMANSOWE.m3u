@@ -1,85 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ihcd5LHu99w0Z4qsDf0nrRT0Oa.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ A Bag of Marbles
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813869.mp4&play_token=V513KBsCOM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddmOMoFWMpXJSU0YFddBU7d6kWT.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Switch
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813865.mp4&play_token=op5KTIHouG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5euQXAgJ34TdUFl1t3O6Jw2lJAs.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Seven Years in Tibet
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813859.mp4&play_token=j1GaKXqvAF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEKDQnXdRG7wRjvPmJwXJJGLN8t.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Private Desert
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813854.mkv&play_token=L6ngDTfGBQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PT4sAcneQ7MtZ1Mqoe2EyOJHmZ.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Field of Dreams
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813852.mp4&play_token=Mt0bhjfnAl&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4y7LxD8TSi6AtsM2xSYqUm1gu7u.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ The Beach
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813847.mp4&play_token=XMz2UKwpOl&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNyahBbrFSD0cwky3keePg5O6bu.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Taking Chances
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813836.mp4&play_token=8GNlABA2tP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m73KqOLXf9ZvPVCWS5dz5Hv7yQF.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ The Hi-Lo Country
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813824.mp4&play_token=lliqkUOWhM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Hook
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813816.mp4&play_token=ncU0q8szTF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFe5Yoo5zT495okA49bq1vPPkiV.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Philadelphia
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813810.mp4&play_token=ICdRCIGyCY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TspO5dThMBioF0DFrvy6YqrngH.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ EverAfter
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813807.mp4&play_token=QMrtgN0ydQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywrVRwdYhORHbYFTa7AOHOBTT9E.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ A E I O U – A Quick Alphabet of Love
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813799.mkv&play_token=1QgBwCOfLY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j85K3H6Vx7yR1eMFn09cJsLiPhr.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ The Abyss
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800645.mkv&play_token=g5GEL1IL5r&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vA8UL1zeHqQqQTzTlxZw9A9IpgU.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃  The Rage
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800644.mp4&play_token=BzwHAOvgqQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEBZSUTYjnWMKvIAsm0VwwesTra.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ The Shadowless Tower
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800642.mp4&play_token=gPgXOyNFGM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WT6g80atTgChMS6OyBJKGpe8gE.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ The Last Spark of Hope
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800639.mkv&play_token=fjI1Pz0W0J&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfYlCWuQgZOKpBx0X2d6PW0IP20.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ The Chambermaid
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800634.mkv&play_token=guLZz9Iv6p&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teeOvg7vZYrdg7l6VD7dHpIp6nX.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Beating Sun
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800622.mkv&play_token=kZSeog7Ov3&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CjewFRFMcpGh0XFLCCkJTGpP9Z.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Passages
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800621.mp4&play_token=gLqloroyNI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yg2ihSPbqy7B7V74VXBBTY1MVmu.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Junction
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800620.mkv&play_token=KQAavEMzvR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kboERE2tFHuxwvmqE4e8n82ETq.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Beyond The Wall
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800619.mp4&play_token=kmTHNjJztw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DR8Cn40kOVwICu3HyWLzVymAkb.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃  The Kiss
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800617.mkv&play_token=N8Ek2nm4KM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nb7P8pxr6SldsfZtyH4ZBplyYP.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ The End We Start From
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800607.mkv&play_token=uzPDgluZSy&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6s4zqn0MSZ0Qs6AJuWFjMswpJi.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Amazing Elisa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800604.mp4&play_token=X44GcZ65m6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ITSA14GSc3KZ0LTos2l2wrgFHa.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃  Monster
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800601.mp4&play_token=wrY8SYCcGc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50g3jLMXOJ1L8XZvoHQMlrD5fCE.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ You Were Not Supposed to Be Here
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800598.mkv&play_token=b5iTNfjKLR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ LYRISC FROM A BLEEDING HEART
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800596.mkv&play_token=dDAQHAkbSG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWmbsGKzfisHpNtnsB6TFo7ipJS.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ The Heartbreak Agency
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800595.mp4&play_token=NRt9UHFvmN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHBSMk1pgchVukEha7kXkk7MKSN.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ The Chapel
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800590.mkv&play_token=nlZRqaYTen&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqcs3XFVjTbE4tsNW2lvrI1pazC.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ House of Izabel
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800589.mp4&play_token=paouBhdR5D&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmB48zCTE4pg2OmxvL436Z8IOlU.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Gump
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800586.mp4&play_token=cYFsHNqpJV&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃  DO SIEDMIU RAZY SZTUKA
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800578.mp4&play_token=WUQVv6iBkO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃  BUTTER
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800573.mkv&play_token=aqFpMNjRGA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ex1NYmuPEucf9rqRpJvJp6S9G3r.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Soul Mates
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800572.mkv&play_token=ORVi6UWjHO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Mysterious Skin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799228.mp4&play_token=IHuqWG7iq5&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqTjO8yTaPRSKWj7i6Qnr7R5cls.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ The Current War
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799223.mp4&play_token=JvOnvcvtrH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oK8UKDrjFS14OFoihaQPfmmMOyI.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Before and After
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799221.mp4&play_token=7kTIznZ5yJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tDISwnoVuDQM0jKdZxwjCAyxQh.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Three Colors: Blue
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799217.mp4&play_token=EJ3vSWoZij&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNO4AXU8feyRE54Eh64YuPQhVtW.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Three Colors: Red
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799216.mp4&play_token=kSiQahekoc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfWIeoVIBBxLQKhJ22LWYvcEgaP.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ The Chorus
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799204.mp4&play_token=wzwerhlMxr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FrGhwhyZdNtdZRXS6jQbFw9KYB.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Above the Shadows
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799200.mp4&play_token=9abTMG7tqH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyKZRbZCFkxlXZprPfnmn799Twa.jpg" group-title="┃PL┃ DRAMA ┃ROMANSOWE",┃PL┃ Cobalt Blue
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=799191.mp4&play_token=IRQgcEOlnZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ihcd5LHu99w0Z4qsDf0nrRT0Oa.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ A Bag of Marbles
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813869.mp4&play_token=05jl6HGFnb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddmOMoFWMpXJSU0YFddBU7d6kWT.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ Switch
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813865.mp4&play_token=vA09n44PXF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5euQXAgJ34TdUFl1t3O6Jw2lJAs.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ Seven Years in Tibet
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813859.mp4&play_token=fWAHHNKXKA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEKDQnXdRG7wRjvPmJwXJJGLN8t.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ Private Desert
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813854.mkv&play_token=pTSUSyOo4N&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PT4sAcneQ7MtZ1Mqoe2EyOJHmZ.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ Field of Dreams
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813852.mp4&play_token=u7CofxU18e&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4y7LxD8TSi6AtsM2xSYqUm1gu7u.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ The Beach
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813847.mp4&play_token=9cDm7L9EVI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNyahBbrFSD0cwky3keePg5O6bu.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ Taking Chances
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813836.mp4&play_token=Ua4WEAjVvo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m73KqOLXf9ZvPVCWS5dz5Hv7yQF.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ The Hi-Lo Country
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813824.mp4&play_token=k1BPAx9RUv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ Hook
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813816.mp4&play_token=94XfcTEOW3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFe5Yoo5zT495okA49bq1vPPkiV.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ Philadelphia
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813810.mp4&play_token=DU3gRKADeW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TspO5dThMBioF0DFrvy6YqrngH.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ EverAfter
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813807.mp4&play_token=WN1jzdgSU1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywrVRwdYhORHbYFTa7AOHOBTT9E.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ A E I O U – A Quick Alphabet of Love
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=813799.mkv&play_token=kJNNYuNUPy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j85K3H6Vx7yR1eMFn09cJsLiPhr.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ The Abyss
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800645.mkv&play_token=e9N0f0FPnL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vA8UL1zeHqQqQTzTlxZw9A9IpgU.jpg" group-title="PL┃ DRAMA ┃ROMANSOWE",PL┃ The Rage
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=800644.mp4&play_token=GuqnFaeZ0e&type=movie

@@ -1,113 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adSJ0DpgOsMwrpUH78cZpLGOOAk.jpg" group-title="┃PT┃ ACTION",┃PT┃ Iron Man
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1156346.mp4&play_token=BXPUARdjKJ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlrDUtFG2tKtDcJN6kBznlqqsp.jpg" group-title="┃PT┃ ACTION",┃PT┃ Star Wars: Episódio IX - A Ascensão de Skywalker
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148626.mp4&play_token=lUyNpSo7Vp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sizv4fncWiCe8i5jWCA8xfqtCB9.jpg" group-title="┃PT┃ ACTION",┃PT┃ Homem-Aranha: No Universo-Aranha
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148624.mp4&play_token=5D8QjJiu3P&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVvTIEXyIHRoyyVaTBW6QUpd2Nt.jpg" group-title="┃PT┃ ACTION",┃PT┃ Death Race: Beyond Anarchy
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148582.mp4&play_token=eqVH0TUkuC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVLgEozCt7Sws03V2dIVphBsFYK.jpg" group-title="┃PT┃ ACTION",┃PT┃ Death Race 2050
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148581.mp4&play_token=ImShz810wZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg" group-title="┃PT┃ ACTION",┃PT┃ Deadpool 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148579.mp4&play_token=KShzxGlY04&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zK30Oa9GQfJOEOXZg3kH3anIP05.jpg" group-title="┃PT┃ ACTION",┃PT┃ Alcatraz
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148563.mp4&play_token=xLpuKUIlu1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lLGIi5aAwT3Pdp4m2YUARBkdG7.jpg" group-title="┃PT┃ ACTION",┃PT┃ Asher
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096089.mp4&play_token=e4aoD5VrKv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9iMvpGSu2FabWNTPxTojYffozu.jpg" group-title="┃PT┃ ACTION",┃PT┃ Art of Deception
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096083.mp4&play_token=5Wuhcma7DW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xu82cRfUJ3qBOtXuwX3bnmgGdch.jpg" group-title="┃PT┃ ACTION",┃PT┃ Armed
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096081.mp4&play_token=HlaYpum03y&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22dmzRXNULYaIllVAiIpa2bjmEY.jpg" group-title="┃PT┃ ACTION",┃PT┃ Apollo 13
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096074.mp4&play_token=my37P1hZsN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXOt14U0DU7Fe87WdiAXzzACJW5.jpg" group-title="┃PT┃ ACTION",┃PT┃ Um Domingo Qualquer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096073.mp4&play_token=SvNCXVhauQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PXyfcJe53A9qFkcj5dkTJwIWoS.jpg" group-title="┃PT┃ ACTION",┃PT┃ Conspiração.com
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096071.mp4&play_token=wDSULO0V1B&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0MIWur5XEnuSk0sb262ynxXIxs.jpg" group-title="┃PT┃ ACTION",┃PT┃ American Ninja 2: A Volta do Guerreiro Americano
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096046.mp4&play_token=dVmNMsz2Ps&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krou0du5PObaJizEmCWSPCSZzoq.jpg" group-title="┃PT┃ ACTION",┃PT┃ American Ninja
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096045.mp4&play_token=2CdBJNrOyi&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEvWA6QLo7qPmr0eR06QNNLsbok.jpg" group-title="┃PT┃ ACTION",┃PT┃ AVP2: Aliens vs. Predador 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096004.mp4&play_token=b0es8bWetZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83iq7QORVNUmmcNmuS4qrDDS5fs.jpg" group-title="┃PT┃ ACTION",┃PT┃ Alien Platoon
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096003.mp4&play_token=a5itGKWLpf&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lu55rlKDCHymiBRgcxxTjZpe5gU.jpg" group-title="┃PT┃ ACTION",┃PT┃ Alexandre
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095993.mp4&play_token=sWbIjpYrRP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ve7xmUK167YZloN8LnSyhKmmNgE.jpg" group-title="┃PT┃ ACTION",┃PT┃ Air Strike
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095986.mp4&play_token=HZMYPauTQO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2DXSyrJ4TmyChZhSc5dFDiK5sV.jpg" group-title="┃PT┃ ACTION",┃PT┃ Agent Cody Banks 2: Destination London
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095983.mp4&play_token=4W5PI5R9I2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mo3OdxeR6pLgAVt4a3cyvUUQri.jpg" group-title="┃PT┃ ACTION",After the Sunset - 2004
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095980.mp4&play_token=xtNF3WHN5U&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jwRYDsSEwJQhdBiiWgjvv7jZKX.jpg" group-title="┃PT┃ ACTION",┃PT┃ Ato de Coragem
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095963.mp4&play_token=0pFyIwUUCS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwV8LxjFT6AdbUJxQrDIMZz5C8I.jpg" group-title="┃PT┃ ACTION",┃PT┃ Die Hard: Nunca é Bom Dia para Morrer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095903.mp4&play_token=QFUJn1ByXL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asyYonjJkOn7Xl4hyfBMocD1i0K.jpg" group-title="┃PT┃ ACTION",┃PT┃ 71
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095886.mp4&play_token=iVYtYPFo80&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uynIxa4COM0pPV8RuPiz9ePDbB.jpg" group-title="┃PT┃ ACTION",┃PT┃ 48 Horas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095878.mp4&play_token=wJ9Llt0LB2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emXjVhz8LL4ZWahmUsk6YSg5wcU.jpg" group-title="┃PT┃ ACTION",┃PT┃ O Comboio das 3 e 10
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095876.mp4&play_token=QWCoj1NoZP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyr8u7wQU2k7HpJvBeGmZsJkZTR.jpg" group-title="┃PT┃ ACTION",┃PT┃ 24 Horas Para Viver
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095873.mp4&play_token=dKJChNfsa4&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwXNed7a2TERq4D7AUY3wltGrqw.jpg" group-title="┃PT┃ ACTION",┃PT┃ L'Intervention
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095863.mp4&play_token=QYEZEBF2Hb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztuunn8RppaemRgEFxF50ogEAIE.jpg" group-title="┃PT┃ ACTION",┃PT┃ 12 Rounds 3: Lockdown
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095860.mp4&play_token=ab3jkty7bL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om9LLjsNgwE36OEnIbFxlXK3YDn.jpg" group-title="┃PT┃ ACTION",┃PT┃ 10 Minutes Gone
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095853.mp4&play_token=HZmjY8gUht&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSFbyik1bd3xQxyPQbahdcaCYwT.jpg" group-title="┃PT┃ ACTION",┃PT┃ 007 - Contra Goldfinger
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095849.mp4&play_token=Njl3mw2YFS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrOts4zqd0B8i1Gt6IasYtTMQZb.jpg" group-title="┃PT┃ ACTION",┃PT┃ Yu-Gi-Oh! O Filme
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094774.mp4&play_token=9Yt84rJ3Dv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg" group-title="┃PT┃ ACTION",World War Z - 2013
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094765.mp4&play_token=slrVwU3ISg&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJuphyQM3MDWId1Hk8rF399I3dP.jpg" group-title="┃PT┃ ACTION",┃PT┃ Wonder Woman
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094763.mp4&play_token=GpcBvoXlDz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AUzpDzJSecEBIgwUIPzL5KMuTQ.jpg" group-title="┃PT┃ ACTION",Wild Wild West - 1999
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094756.mp4&play_token=sTGFf5IXWM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JeHrXR1FU57Y6b90YDpFJMhmVO.jpg" group-title="┃PT┃ ACTION",War - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094737.mp4&play_token=32P0MVEzHI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHPPUlwR4UNOGe1ne68kawiGOed.jpg" group-title="┃PT┃ ACTION",Viking Destiny - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094730.mp4&play_token=b6BLLDf11p&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg" group-title="┃PT┃ ACTION",Fast & Furious Presents: Hobbs & Shaw - 2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094728.mp4&play_token=q9DdjbmST9&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVQmXioizm9bJJlYT03wEHU24h6.jpg" group-title="┃PT┃ ACTION",┃PT┃ Agentes Secundários
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094717.mp4&play_token=WBfwwmVhpm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1ciDCWMG47gdT4kMyjyQbnLQQn.jpg" group-title="┃PT┃ ACTION",Underworld: Blood Wars - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094710.mp4&play_token=uusgJh1hGc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB8Jn5HXR1zG7qpsLoRIKce5fjB.jpg" group-title="┃PT┃ ACTION",Three Days To A Kill - 1992
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094665.mp4&play_token=BfxTqkpw9B&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg" group-title="┃PT┃ ACTION",The Wild Bunch - 1969
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094654.mp4&play_token=9rJx1QPTnM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5feOpRpuBL3aDuSdgmWMxDXe0Wz.jpg" group-title="┃PT┃ ACTION",The Tomorrow War 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094640.mp4&play_token=Rf6LmoR8Q9&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LV3sg3bJOGFD6J0gn7Wt1IL5SK.jpg" group-title="┃PT┃ ACTION",The Terminators - 2009
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094636.mp4&play_token=IclNzLb8kP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3guJhBoxXHgT66CIkibxiyFIO75.jpg" group-title="┃PT┃ ACTION",The Rising Sun - 2011
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094607.mp4&play_token=241b2L2qHu&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VAY6pSG6Tx1NCmFvg8VhGvlV33.jpg" group-title="┃PT┃ ACTION",The Quick and the Dead - 1987
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094601.mp4&play_token=1t0gP6URAK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJPoxqgpfFNbGi0HyoNsjFeLCio.jpg" group-title="┃PT┃ ACTION",The Perfect Storm - 2000
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094590.mp4&play_token=IDRjaR8A2d&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="┃PT┃ ACTION",The Perfect Getaway - 1998
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094589.mp4&play_token=5ZBsKH5asQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dbZqft6gS34f4qVncU6APBAKWU.jpg" group-title="┃PT┃ ACTION",The Marine 5: Battleground - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094569.mp4&play_token=3wkxNLNa7W&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w57jQVXbWgxcgZzLiG6UHd0c5Wy.jpg" group-title="┃PT┃ ACTION",The Legend of Ben Hall - 2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094554.mp4&play_token=42y987ksVj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg" group-title="┃PT┃ ACTION",The Italian Job - 2003
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094546.mp4&play_token=QX5ke1SV9j&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ao4qAFbjP7fcFOOdMNvQEnl0Yr.jpg" group-title="┃PT┃ ACTION",The Darkest Hour - 2011
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094506.mp4&play_token=K2Dakkm2hC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXDjSAWJrudIQ7ST6wfmsiMAiKo.jpg" group-title="┃PT┃ ACTION",┃PT┃ The Call of the Wild
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094494.mp4&play_token=ZQGEKo67kZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhSXxrwfkFDiFRR8S6BSBQuCeQT.jpg" group-title="┃PT┃ ACTION",┃PT┃ Kong: Ilha da Caveira
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094465.mp4&play_token=jMmXFqBqdz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hK7hKDA51FCbtFCuXZNiQ6gPq3S.jpg" group-title="┃PT┃ ACTION",Knock Off - 1998
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094464.mp4&play_token=TJ59yXqSPY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDiHT88cSQnhca3s2wTEHFE8IFW.jpg" group-title="┃PT┃ ACTION",┃PT┃ Kim Possible: É Um Drama
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094458.mp4&play_token=uZl6U5BDgV&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ Iron Man
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1156346.mp4&play_token=VC0xnSdmyt&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ Star Wars: Episódio IX - A Ascensão de Skywalker
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148626.mp4&play_token=sp4jkrWe9a&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ Homem-Aranha: No Universo-Aranha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148624.mp4&play_token=CbU3qzrGyo&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ Death Race: Beyond Anarchy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148582.mp4&play_token=KiH9XSswHq&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ Death Race 2050
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148581.mp4&play_token=oGOgRLbpQQ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ Deadpool 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148579.mp4&play_token=JSgP9tgfJp&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ Alcatraz
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148563.mp4&play_token=OKQjUHod7E&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ Asher
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096089.mp4&play_token=yRsqXhxaZp&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ Art of Deception
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096083.mp4&play_token=Q3gs5K727F&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ Armed
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096081.mp4&play_token=jA2W0fDH5Q&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ Apollo 13
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096074.mp4&play_token=ciLTiaxLS0&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ Um Domingo Qualquer
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096073.mp4&play_token=WUb3nkROva&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ Conspiração.com
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096071.mp4&play_token=tHFXjLNVqJ&type=movie
+#EXTINF:-1 tvg-logo="" group-title="PT┃ ACTION",PT┃ American Ninja 2: A Volta do Guerreiro Americano
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096046.mp4&play_token=fyjBZTWrj1&type=movie

@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ José Totoy 5 (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1800762.mkv&play_token=JUDibnzW5V&type=movie
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ José Totoy 4 (2024)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1800761.mkv&play_token=saEiQZbsBA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ José Totoy 3 (2022)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1800760.mkv&play_token=XeOr0OMdhL&type=movie
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ Little Amélie or the Character of Rain - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677845.mkv&play_token=bhy1HPAbvB&type=movie
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ Diary of a Wimpy Kid: The Last Straw - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677839.mkv&play_token=Z7652Vq7RQ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ De Griezels - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1648214.mkv&play_token=7IsZyBQZk7&type=movie
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ Smurfen - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1514000.mkv&play_token=z2pLeLpgiT&type=movie
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ How to Train Your Dragon (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1513997.mkv&play_token=SBxSJESapi&type=movie
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ The Little Mermaid
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420196.mkv&play_token=7M6vx7hLgi&type=movie
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ The Lion King
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420195.mkv&play_token=AElyT4hDdw&type=movie
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ Mufasa: The Lion King
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420177.mkv&play_token=U1NcyBXhXV&type=movie
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ Moana
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420176.mkv&play_token=zQgvs7RcBU&type=movie
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ Vaiana 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420175.mkv&play_token=SlUxwcI12Z&type=movie
-#EXTINF:-1 tvg-logo="" group-title="MULTI┃ KIDS",MULTI┃ Lilo & Stitch
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420174.mkv&play_token=Rr19Vkfz1k&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/228309ae9cfef0ac.jpg" group-title="MULTI┃ KIDS",MULTI┃ José Totoy 5 (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1800762.mkv&play_token=ai63XMdKNQ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d70ac158f0c458ab.jpg" group-title="MULTI┃ KIDS",MULTI┃ José Totoy 4 (2024)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1800761.mkv&play_token=i3hOsMJLMq&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d3b7835fca9d26b9.jpg" group-title="MULTI┃ KIDS",MULTI┃ José Totoy 3 (2022)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1800760.mkv&play_token=QU48YbPhi6&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/698c1d7ddeba8f63.jpg" group-title="MULTI┃ KIDS",MULTI┃ Little Amélie or the Character of Rain - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677845.mkv&play_token=LbwuShu0MF&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/498270f8881f78e4.jpg" group-title="MULTI┃ KIDS",MULTI┃ Diary of a Wimpy Kid: The Last Straw - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1677839.mkv&play_token=RjVIXXwpyx&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/71eaa61d04a49990.jpg" group-title="MULTI┃ KIDS",MULTI┃ De Griezels - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1648214.mkv&play_token=uNM9A03BPn&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/94f950e694450083.jpg" group-title="MULTI┃ KIDS",MULTI┃ Smurfen - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1514000.mkv&play_token=THC6JFX8zO&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/a897fb4bd16aac60.jpg" group-title="MULTI┃ KIDS",MULTI┃ How to Train Your Dragon (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1513997.mkv&play_token=PQP2zsHBZx&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/17c70d976e6f6b0e.jpg" group-title="MULTI┃ KIDS",MULTI┃ The Little Mermaid
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420196.mkv&play_token=Ok1anWNQ5n&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/da7bd5c8cecb19c4.jpg" group-title="MULTI┃ KIDS",MULTI┃ The Lion King
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420195.mkv&play_token=P7ktOhcVEh&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/7266282772a3b561.jpg" group-title="MULTI┃ KIDS",MULTI┃ Mufasa: The Lion King
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420177.mkv&play_token=GCGskHfgT6&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/e3f486fc715c8000.jpg" group-title="MULTI┃ KIDS",MULTI┃ Moana
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420176.mkv&play_token=WHkPPQkQ2Z&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d071d840f04da92b.jpg" group-title="MULTI┃ KIDS",MULTI┃ Vaiana 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420175.mkv&play_token=VVw4tYrulK&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d78f4adffaf91a91.jpg" group-title="MULTI┃ KIDS",MULTI┃ Lilo & Stitch
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420174.mkv&play_token=6UK7YcZ3QN&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0a356dec847744f8.jpg" group-title="MULTI┃ KIDS",MULTI┃ Encanto
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420164.mkv&play_token=dvwc3JQsnt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1420164.mkv&play_token=gz4L3mfIBs&type=movie

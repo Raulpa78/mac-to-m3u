@@ -1,239 +1,113 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",ES┃ Vicenta
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1207052.mp4&play_token=lNWOpNlgU0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezIzU9ebKhQtflUwBzTdfJIDFa6.jpg" group-title="ES┃ ESPAÑA",ES┃ Vicenta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1207052.mp4&play_token=YUvasVL99L&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Forever.RBD.2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963730.mp4&play_token=5N1rwpDcbd&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963730.mp4&play_token=9c0ktvFSGW&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Barbie.And.Chelsea.The.Lost.Birthday.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963570.mp4&play_token=aZIbiv8lwQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963570.mp4&play_token=2lcwN2mGQb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iU3ZrNP8hsX8ecfqlNIGKzWAv8q.jpg" group-title="ES┃ ESPAÑA",Amor platónico - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963549.mp4&play_token=80E8Cnp37w&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963549.mp4&play_token=gQVidvUJVx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5u3uOpxlsUyr3TS036qrXKBj7M6.jpg" group-title="ES┃ ESPAÑA",American Nightmare: Becoming Cody Rhodes - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963548.mp4&play_token=jaCxetVdxV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963548.mp4&play_token=FWB7UhmuGE&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Kysset.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963193.mp4&play_token=RN03CZtLSN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963193.mp4&play_token=nOXBuOnAXN&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Music.is.on.the.Menu.Sofia.Carson.2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963072.mp4&play_token=HDgnO81R54&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963072.mp4&play_token=inYkwI4Xdc&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Me.Myself.and.Di.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963045.mp4&play_token=RksoGfWdJo&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963045.mp4&play_token=srRV7xeLLw&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Matadero.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963041.mp4&play_token=uW2Fkdv11J&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963041.mp4&play_token=xxBtyOXhUY&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Maria.The.Eternal.Diva.2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963037.mp4&play_token=Edx1cEH1OG&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=963037.mp4&play_token=Lfpnyk17Nu&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Rick.and.Morty.Summer.Meets.God.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962929.mp4&play_token=dnrvQV2qKZ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=962929.mp4&play_token=SVfljAyZ9a&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",The.Villain.2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957875.mp4&play_token=FxXzEcWDmC&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=957875.mp4&play_token=LzcCSBYRwt&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Time.Limit.2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=956502.mp4&play_token=LovzajqM5P&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=956502.mp4&play_token=dZKWrnKecv&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",V.For.Victory.2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955763.mp4&play_token=mToDQmr85e&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955763.mp4&play_token=QiiAocvOdF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ES┃ ESPAÑA",Underdog - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955743.mp4&play_token=fz0qUzCKqw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955743.mp4&play_token=uaajtC7oMo&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Undefeated.2.2006
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955737.mp4&play_token=ng4ER77ngw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955737.mp4&play_token=fysk73p7bt&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Una.Dona.Amb.Unes.Ales.Tremendes.2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955714.mp4&play_token=VrNeEBzc2z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955714.mp4&play_token=vFR3ooLzgA&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Un.Mujar.Con.Unas.Alas.Tremendas.2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955702.mp4&play_token=j59AnnlZWN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955702.mp4&play_token=lVFoGoDGkx&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Weekend.In.Croatia.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955604.mp4&play_token=8VwU8eK3gD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955604.mp4&play_token=AvgvcJobaL&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Watch Apollo.10.And.A.Half.A.Space.Childhood.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955597.mp4&play_token=8i4ZkqJ2yH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955597.mp4&play_token=cclwIa375e&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Ver SOL.2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955565.mp4&play_token=dX3iIXCizQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955565.mp4&play_token=y41t1dyQrT&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Ver.Wolf.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955560.mp4&play_token=ZaQzxj9Ie3&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955560.mp4&play_token=xY62NyQUFq&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Ver.Lienzo.2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955545.mp4&play_token=Iq1dFDM6Hw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955545.mp4&play_token=yuOtQ6TCoi&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Ver.Antologia.De.La.Pandemia.2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955534.mp4&play_token=TVODtCPurD&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955534.mp4&play_token=rxRuD4cvB4&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Zaniki.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955499.mp4&play_token=GQjfK5BzTv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955499.mp4&play_token=ShGcvjPC6c&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Yo.era.famoso.2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955481.mp4&play_token=EGZGPXxGnr&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955481.mp4&play_token=7qKTsB6FA8&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",The.Bleepin.Robot.Chicken.Archie.Comics.Special.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955415.mp4&play_token=fB6UK0NGFa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955415.mp4&play_token=2koR6NgTsg&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",The.Beast.Below.2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955101.mp4&play_token=n4BCzVmQh0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955101.mp4&play_token=OLqRjjKQnM&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",The.Beach.Bum.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955100.mp4&play_token=mByU4ZuBS1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955100.mp4&play_token=S1K12dS5M2&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",The.Abbess.2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955081.mp4&play_token=Omn6Yiuxq4&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955081.mp4&play_token=Bq7nN2r5Re&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Testigo.2016
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955075.mp4&play_token=F6JwlBI752&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955075.mp4&play_token=N8v55AJoLK&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Ten.Murder.Island.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955063.mp4&play_token=xgJtpIESRN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=955063.mp4&play_token=V37ipZcuBF&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Stonewall.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954970.mp4&play_token=z36JMwel3A&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954970.mp4&play_token=yrEqDjmd1p&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Siempre.Es.Ostano.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954951.mp4&play_token=yZbUuB9DrJ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954951.mp4&play_token=gDopPGopYj&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",She.Came.from.the.Woods.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954942.mp4&play_token=8Wd2p8cPH5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954942.mp4&play_token=NYmXLnRoU1&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Sex.Modesty.And.Tears.2.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954936.mp4&play_token=7hmBRQckad&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954936.mp4&play_token=4GfAycA0vp&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Serenity2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954928.mp4&play_token=jHoevLXfZQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954928.mp4&play_token=v7QuIsJfbq&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",See.Guilt.2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954919.mp4&play_token=aRzOdy1IdR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954919.mp4&play_token=g08J6PCXAG&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Saga.Steel.Los.Suenos.De.Heaven.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954889.mp4&play_token=9wqaRnBPKn&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954889.mp4&play_token=nFc0mcxjGN&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Spot.On.The.Rise.and.Fall.of.Abercrombie.and.Fitch.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954869.mp4&play_token=1dE5C8PSte&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954869.mp4&play_token=Ny5CbA44CT&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",SOS.Mommies.The.Movie.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954763.mp4&play_token=tB2w4QfO0i&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954763.mp4&play_token=K4c3m5Fgwh&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Somebody.Special.2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954756.mp4&play_token=ldOnoGn5ex&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954756.mp4&play_token=2HKjvtG9yH&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Prueba.Oculta.2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954748.mp4&play_token=mYzjKBqp6U&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954748.mp4&play_token=1MRaqclN8a&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Princess.Of.The.Row.2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954740.mp4&play_token=0GniNA673Z&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=954740.mp4&play_token=PBlutol9C0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoL1yqHE9WjR8Gx1Phfq03eLlNj.jpg" group-title="ES┃ ESPAÑA",ES┃ My War
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953662.mp4&play_token=N2PN5kRUQa&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953662.mp4&play_token=5hOrapOc5T&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sy3Ac0RwYBDXHeZcGwfJmvYNXB.jpg" group-title="ES┃ ESPAÑA",ES┃ Dangerous Medicine
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953543.mp4&play_token=H6yCEE6VYf&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953543.mp4&play_token=se3zDGy9JN&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",M.La.Ultima.Esperanza.2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953464.mp4&play_token=MRybA8jf4N&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953464.mp4&play_token=3Y7bxr0a1D&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Lunana.un.yak.en.la.escuela.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953458.mp4&play_token=ZU4pceb2q1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953458.mp4&play_token=07tFjT6OrT&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Luckies.Girl.Alive.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953456.mp4&play_token=Cp7zpvH2rt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953456.mp4&play_token=nfuXvNUzmw&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Luchand. Por.Un.Sueno.2019
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953454.mp4&play_token=LrV4YVKUzB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953454.mp4&play_token=gqXftw7cSG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjEOSQwcMnc04gfBRxlrcw4wW1x.jpg" group-title="ES┃ ESPAÑA",In Loving Memories - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953453.mp4&play_token=BbRbwgocpj&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953453.mp4&play_token=qEp2vKFJeF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrwcvjIAf99OyYdJBGMVTwtXD1M.jpg" group-title="ES┃ ESPAÑA",Love You to Death - 2017
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953451.mp4&play_token=upEMn0DaQ6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953451.mp4&play_token=tivSQYMGYX&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Love.Hard.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953447.mp4&play_token=gkEUVqJQjA&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953447.mp4&play_token=VMRmWbsdcb&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Love.Divided.2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953445.mp4&play_token=AixxfP5X6e&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953445.mp4&play_token=CYOQ7HeRjK&type=movie
 #EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Lost.In.The.Night.2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953442.mp4&play_token=XeZvdYB0mV&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953442.mp4&play_token=r9hUcGY4J3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvFY928Dd7kGq15ps6uWzNrrqPl.jpg" group-title="ES┃ ESPAÑA",Lost - 2018
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953440.mp4&play_token=aXqRtVaAZs&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Los.Oriyinales.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953430.mp4&play_token=NIJPAOnyCG&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Los.Octonautas.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953428.mp4&play_token=RRkSSUSVeg&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Los.Desorientados.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953414.mp4&play_token=x6vf6YzYzx&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Los.Croods.2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953410.mp4&play_token=Z3p7Yy5e6y&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Lonely.Planet.2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953398.mp4&play_token=8Mn7JHcVLy&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",El abuelo y Kid - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953397.mp4&play_token=65Pxo0wlIx&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Lola.lndigo.La.Nina.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953396.mp4&play_token=krSflCOsl3&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Locos.La.Pelicula.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953395.mp4&play_token=ryHTdt31H4&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Little.Loves.2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953381.mp4&play_token=DpaUT0qVti&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7om2LoIEtsQ5FtvOrUEfn7YxjZk.jpg" group-title="ES┃ ESPAÑA",Lights Out - 2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953375.mp4&play_token=TXOoJ4NZko&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ES┃ ESPAÑA",Liberation - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953368.mp4&play_token=kCSRla5fAT&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Lets.Tie.the.Knot.Honey.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953337.mp4&play_token=OsWqNcPD95&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Lets.Tie.the.Knot.Honey .2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953336.mp4&play_token=bNPgMzFEP7&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Leprechaun.Returns.2022.
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953334.mp4&play_token=STco3DyIHX&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Le.Torrent.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953329.mp4&play_token=XBlbQHMx97&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Le.Hermna.Del.Lovo.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953328.mp4&play_token=oGLhCyQukZ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Land.of.the.Sons.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953302.mp4&play_token=oazfqA7Ryg&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Land.Of.Bad.2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953300.mp4&play_token=QBehbo8IVc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bm0LP4X8YJHNUyUQgrl7eE7S2RH.jpg" group-title="ES┃ ESPAÑA",Land - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953299.mp4&play_token=JQU8HQALkO&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",Lady.Chatterley.s.Lover.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953297.mp4&play_token=gCUtCo2CFw&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",La.ninera.Nanny.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953264.mp4&play_token=kAzihYG9Pc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXXUXqA9SKa9y66AK1RysqcUcw.jpg" group-title="ES┃ ESPAÑA",La Nave - 2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953263.mp4&play_token=XvWcDVPkNG&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",La.Mansion.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953253.mp4&play_token=tyAQkXfUaK&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",La.Maldicion.The.Grudge.2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953249.mp4&play_token=UCCQXYiurH&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",La.invitacion.The.Invitation.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953239.mp4&play_token=o29QAdGIjF&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",La.fortaleza.Fortress.2021
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953234.mp4&play_token=k2D9aVlBuI&type=movie
-#EXTINF:-1 tvg-logo="" group-title="ES┃ ESPAÑA",La.casa.belleville.Master.2022
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953222.mp4&play_token=FMgXaYK2df&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjKrbwInHduU3EelM5EpaERROfT.jpg" group-title="ES┃ ESPAÑA",ES┃ El justiciero
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952288.mp4&play_token=Da0mfDzBVv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYAqKRiDVL0f38AoUKpDI32oY5r.jpg" group-title="ES┃ ESPAÑA",ES┃ Torrente  el brazo tonto de la ley
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952256.mp4&play_token=y1NpCqArTX&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHNFvpNTQzRKM9OuCUg24jaxheM.jpg" group-title="ES┃ ESPAÑA",ES┃ El bebé está listo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952255.mp4&play_token=htiAXCof3e&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkHRkB3fISkpJeNbVg6vSe43l0n.jpg" group-title="ES┃ ESPAÑA",ES┃ Early Birds
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=952235.mp4&play_token=S7c9JEWSV7&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVFnWZdobUio0sAiu7PDXQdLm9f.jpg" group-title="ES┃ ESPAÑA",ES┃ Godzilla y Kong: El nuevo imperio (Godzilla x Kong: The New Empire)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=793746.mkv&play_token=uZXyHM0wVP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgWPRttsBx1q5SZ72HCVHRUyDqO.jpg" group-title="ES┃ ESPAÑA",ES┃ Pared con pared [ Love Divided]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=772476.mkv&play_token=sKtNVbeJAT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31IB4VXpan7JrQYnnr7g75YqOu8.jpg" group-title="ES┃ ESPAÑA",ES┃ El último vagón
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=747012.mp4&play_token=RNmWNCzbsc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oM2F7l8zNXV12Obe48IpQbH3crK.jpg" group-title="ES┃ ESPAÑA",ES┃ Verónica
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=747010.mp4&play_token=mOygdvkGDv&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0OPPrum4L2oL4iC1p8rpDEVI4L.jpg" group-title="ES┃ ESPAÑA",ES┃ Matar a la bestia
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=747006.mp4&play_token=ez6AVzb2Ke&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88KQtbo4L4ssQtPhMIyGAyaSbab.jpg" group-title="ES┃ ESPAÑA",ES┃ Eles Transportan a Morte
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=747005.mp4&play_token=rvARYWC9Q3&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sd6LML87wa9UPZgfuPnGwic82YH.jpg" group-title="ES┃ ESPAÑA",ES┃ El secreto de sus ojos
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=747004.mp4&play_token=VRccYN7HBK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hH23K3Nv8ekBiUvHFWoRbDjcOc.jpg" group-title="ES┃ ESPAÑA",ES┃ Papá al rescate
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=747003.mp4&play_token=WjLzg1I1J8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8ufvT0cxTju4lQuel0ow29NBtm.jpg" group-title="ES┃ ESPAÑA",ES┃ Viejos
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=747000.mp4&play_token=wG8V2b4PcX&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nXRJNpGs3sIgxtQhdJ94m9DjrZ.jpg" group-title="ES┃ ESPAÑA",ES┃ La vaca que cantó una canción hacia el futuro
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746998.mp4&play_token=fvGeaHJvSz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGSzha9K65abyvzBwXXnSV2sHWV.jpg" group-title="ES┃ ESPAÑA",ES┃ La niña de la comunión
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746997.mkv&play_token=HqZ07kweSq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/em2LVkDDRcNWLexiQDs5JKGfT0x.jpg" group-title="ES┃ ESPAÑA",ES┃ Un rabón con corazón
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746995.mp4&play_token=bk34mLgZ7I&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2UhXsV5W2IlVdCRSxtK7hNa83s.jpg" group-title="ES┃ ESPAÑA",ES┃ Rotting in the Sun
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746994.mkv&play_token=gKDDMsLHqt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDi0IvzhcjIYDJTURcTmfEWAJwp.jpg" group-title="ES┃ ESPAÑA",ES┃ Rebellion
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746993.mp4&play_token=cgcIiI7iZK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuzoy7ddQ7SvgB02gUBpi3nG3fZ.jpg" group-title="ES┃ ESPAÑA",ES┃ Radical
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746992.mkv&play_token=puJZDyrtYn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZbWaMQEGlVJsCSt73XPkZpqKZF.jpg" group-title="ES┃ ESPAÑA",ES┃ Modelo 77
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746991.mp4&play_token=DOrife8l4k&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Z6wvj4QLdkgHP9bPIWcry8eMFf.jpg" group-title="ES┃ ESPAÑA",ES┃ Plaza Catedral
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746990.mp4&play_token=LMMpmTHFLb&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBpf9HVAKdkAhZQWGDjjQnAgvXI.jpg" group-title="ES┃ ESPAÑA",ES┃ On The Fringe
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746989.mp4&play_token=g6oqyMOpEC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5j8fZYokhEDxS637nlb37AznXP.jpg" group-title="ES┃ ESPAÑA",ES┃ Norma
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746988.mkv&play_token=DyOJaMXv06&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8wRmze5yJ9uN9zrvXpx9ZcfoO2.jpg" group-title="ES┃ ESPAÑA",ES┃ Madre
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746986.mp4&play_token=2rceIpIvwn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejijnP0sOr4Fgxo5CYWT6rz3ZdG.jpg" group-title="ES┃ ESPAÑA",ES┃ Objetos
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746985.mp4&play_token=vAluCjPWKe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXhPTEIEDxekCZg9DwZQNshZ432.jpg" group-title="ES┃ ESPAÑA",ES┃ La Trampa
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746983.mp4&play_token=VlsjC9E3L2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idew42l7ILdyR97XC9yG4hFUy1Z.jpg" group-title="ES┃ ESPAÑA",ES┃ El club de los lectores criminales
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746982.mkv&play_token=AicfnHmrkf&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiAM7Y8xF8wJDDsjeSuLgzyFGmd.jpg" group-title="ES┃ ESPAÑA",ES┃ Infelices para Siempre
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746981.mp4&play_token=PptHSDr37D&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rVakDWkFn1G0z6e1tRRY5IZ3aa.jpg" group-title="ES┃ ESPAÑA",ES┃ La odisea de los giles
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746978.mp4&play_token=xOWz0IkB9C&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKKSvaUcZLHW2na5QWnPAf8TR6D.jpg" group-title="ES┃ ESPAÑA",ES┃ H0us3
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746977.mp4&play_token=2CcHv4xUSl&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJNxJdD5F3cAXglCtwjumTB5tl7.jpg" group-title="ES┃ ESPAÑA",ES┃ El cuarto pasajero
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746976.mp4&play_token=FMY4D3nOeW&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sChhX2wWgVbTd6j38ADrAfHd4mE.jpg" group-title="ES┃ ESPAÑA",ES┃ Mal de ojo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746974.mp4&play_token=DyQUJ8evqn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b84WFI8ffMKyexc4L7oUIenci79.jpg" group-title="ES┃ ESPAÑA",ES┃ Azul Oscuro Casi Negro
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746971.mp4&play_token=kUIFgitlTi&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kceKve71vFsd0ALpNGV0CKXkWTT.jpg" group-title="ES┃ ESPAÑA",ES┃ Chaco
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746970.mp4&play_token=gGCqCk4mkf&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GUmHwzqiRUPFutEUdL4d5WPWgf.jpg" group-title="ES┃ ESPAÑA",ES┃ 20.000 especies de abejas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746969.mp4&play_token=bHqZEI0mpk&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlL3vY9Z1mBF2Uzi4Grfl9uCKOX.jpg" group-title="ES┃ ESPAÑA",ES┃ 1976
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=746968.mp4&play_token=eYCE9UP3PO&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=953440.mp4&play_token=KyD6wTqE2c&type=movie

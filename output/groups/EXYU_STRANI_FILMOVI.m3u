@@ -1,225 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ X
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333617.mkv&play_token=nnj8ds0ejI&type=movie
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Wrong Place
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333616.mkv&play_token=ETQ9pLEFdx&type=movie
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Women Talking
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333615.mkv&play_token=SN5ZB4bahP&type=movie
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Wolves of War
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333614.mkv&play_token=aftHr8uvaA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Wolf Hound
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333613.mkv&play_token=S1Uunwq2I0&type=movie
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ 1941. Крылья над Берлином
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333612.mkv&play_token=6xSnQK7tIU&type=movie
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Wildhood
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333611.mkv&play_token=Vvi1aPcHcn&type=movie
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Wifelike
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333610.mkv&play_token=ym4pweQK3K&type=movie
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Whitney Houston: I Wanna Dance with Somebody
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333609.mkv&play_token=cCA9DMQIKE&type=movie
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ White Elephant
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333608.mkv&play_token=HiCKkK5Wfm&type=movie
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Là où chantent les écrevisses
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333607.mkv&play_token=BYGLGnBGpn&type=movie
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Wet Sand
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333606.mkv&play_token=FDF43HKRbq&type=movie
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Werewolf by Night
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333605.mkv&play_token=wVn91iibhA&type=movie
-#EXTINF:-1 tvg-logo="" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Welcome to the Family
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333604.mkv&play_token=iFGV5z4Pm0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ep2C0shFTkxPUGLBvsgODWycwU7.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ X
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333617.mkv&play_token=Ae6ZfKsyuG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgaV5XR8VLe5Jy7Th3kIq8rQCW2.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Wrong Place
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333616.mkv&play_token=nfaMmIjggX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXadsqbSWCiIcdytfbRmYHZeQBP.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Women Talking
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333615.mkv&play_token=n8yXW7IS2B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4xPHr0DGiaeg4rIWSF1HW9Vwi6.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Wolves of War
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333614.mkv&play_token=1pN1mGYVIR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hCP2gaTcaPkajADVF0mOsKfAjh.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Wolf Hound
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333613.mkv&play_token=TEG9ke5GnP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SwCwfpYbOa0pQEtUS9LBYBJJzJ.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ 1941. Крылья над Берлином
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333612.mkv&play_token=7mvMgasrQv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6ShzPuitNifo5XkWuSC7ZQ04x.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Wildhood
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333611.mkv&play_token=RhjKTWuKjH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tea2gDZPxw0wfKC2S2VRWHagtt4.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Wifelike
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333610.mkv&play_token=ix6Xn8Jjmj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpQz98dywcKQEpDKM00M27U28Xy.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Whitney Houston: I Wanna Dance with Somebody
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333609.mkv&play_token=7tWQrCW4kw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idKI3VCEUD60Ltht4VpQ9eATqcy.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ White Elephant
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333608.mkv&play_token=wLf3qL3vLM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/leM2Krf87zKSNvT98kpFC2xC7rI.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Là où chantent les écrevisses
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333607.mkv&play_token=jsBIrAfDyL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwrwVs31Oe9gUbwelRaWG2Xfyqx.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Wet Sand
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333606.mkv&play_token=wNE9hFE2ph&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5p6Q5dsqgT7dknImjtoRvNx50k9.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Werewolf by Night
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333605.mkv&play_token=UbrovxMLZp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKWndNaBQQFf5LMZw5DG63bqHL2.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Welcome to the Family
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333604.mkv&play_token=xkglXzzy7t&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Weird: The Al Yankovic Story
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333603.mkv&play_token=oaTiMZgUtw&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333603.mkv&play_token=zZ90Db3ita&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrlRsTQ4zmR1geD5yRu9j5k0mIz.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Watcher
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333602.mkv&play_token=ic2J9IMIL9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333602.mkv&play_token=dq2sk6myzO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ WarHunt
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333601.mkv&play_token=gTFeFk16M9&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333601.mkv&play_token=xgRYCWRHsW&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUWncunJts6fxTnPR7BtMRkJmVj.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Violent Night
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333600.mkv&play_token=gGpM56imNs&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333600.mkv&play_token=F2KoJ9ztox&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJprLTBELexsz8QKX9yuIlOmbBt.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Vesper
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333599.mkv&play_token=Sv3t6wfw80&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333599.mkv&play_token=svwI1lsx9T&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNxLrxcdp69ne8InTLebNLlL30j.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Venus
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333598.mkv&play_token=NbOGUxrf8V&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333598.mkv&play_token=VCIsat3umk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNV2wiYpSBXJuFeEZUHC92zgcdl.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Uncharted
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333597.mkv&play_token=KGnNqUU8kp&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333597.mkv&play_token=eiRp3C2t2f&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goKXQ9aNdjE9pxkHjMbrnn9rZBc.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Una femmina
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333596.mkv&play_token=2KOS4kaZsQ&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333596.mkv&play_token=0isOx0CRWq&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Umma
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333595.mkv&play_token=cGEByRK1XR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333595.mkv&play_token=42pWmlBun5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDwMX7mI7m4t4rLNenuaAeGPmgt.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Sans filtre
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333594.mkv&play_token=GweywENS2O&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333594.mkv&play_token=23SXIYJgDU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJhaeXggESnMuD4roEcrUvCyoBV.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Thar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333593.mkv&play_token=FZWINnCOAv&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333593.mkv&play_token=58llecA14O&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwvy97Bli8J5PnCoVNTTjC55Fwi.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Tow
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333592.mkv&play_token=kKkhP0BzBc&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333592.mkv&play_token=FIP74sa1lN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgjn7uJyif1uJyHWeMw0zIZNQd.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Cœurs déchirés
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333591.mkv&play_token=7XP2vzH2j1&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333591.mkv&play_token=ESzZq48vqP&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuwi4wwG6HAHVqaEvJDx6gI773N.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Top Gun : Maverick
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333590.mkv&play_token=AnkSbreTyM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlW6Bwfy9byBqEbFnaugtXpMqV1.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ На ощупь
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333589.mkv&play_token=n2FbH7LLgT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPKp7ULBeO0BLZgoyOnRVPWWI3Y.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ 北の方へ
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333588.mkv&play_token=xnfBlwWuAI&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDXgBsRpz18TeL9tcfQX5v2MJOb.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ To Russia with Love
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333587.mkv&play_token=yGqIhsfTkN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldrwhZLKac9z6jhD5M80mUH9rcU.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ To Olivia
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333586.mkv&play_token=RPITXLJrEP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFTgfsw4cnNjIZZ2r6P363X2Uk3.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ To Leslie
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333585.mkv&play_token=Yl0rgpqQ6u&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWL9F8Rn29tVm6wzuG3P3t6J5JD.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Ticket to Paradise
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333584.mkv&play_token=E7BY35TXJM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCYaYduejXz9SIkLsKkHESU1sWq.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Trois mille ans à t'attendre
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333583.mkv&play_token=dFuy1Ie43k&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Δεκατρείς Ζωές
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333581.mkv&play_token=GrHjM7WWic&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2SD6fWgKu6qW65jWpfQ2CtzELl.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Things Like This
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333580.mkv&play_token=sAjTGzVkGa&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQ50xkGlXHsreKvQlqtLsj7vSP0.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ They Live in the Grey
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333579.mkv&play_token=DfGbx81w0U&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agCxWmrYlv26otg1PLObNhojSsb.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ There Are No Saints
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333578.mkv&play_token=bk0OcKgRBV&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEXD8pae0drdyKMtZykv3p8brHb.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Woman King
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333577.mkv&play_token=PI62BI0NVF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzZ8JbGHfx13kkioYPc1oXqqJ3F.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Wolves
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333576.mkv&play_token=tMO5k7ThLh&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jilYAMUKk9U5K9phmbFOEDqfR3.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Whale
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333575.mkv&play_token=hIiLOSQXxB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FchVTEnjQw6m5NnQBa8QwjUv6T.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Visitor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333574.mkv&play_token=Z3VMJMCNmT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPFOgQLxhegnTts7GjGH8gunFxa.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Valet
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333573.mkv&play_token=f3wODOlzkP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRCr5j8As8RePwejTZivtxlTBcq.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Un talent en or massif
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333572.mkv&play_token=PgG4iLeIHR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MWUdaRZHUh7WbVYstpH7tcR3y4.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The System
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333571.mkv&play_token=VsLnymuI2N&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bX57QlmpI1DcWLkggGmg5guqJx.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Stranger in Our Bed
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333570.mkv&play_token=l1qwpMlV2a&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngACgDDOgiTNXtjjLQcIt5qiG7u.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Tagurpidi torn
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333569.mkv&play_token=bUspjkRnmi&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEtYEC0Rpvu3E4udcqKqzVAGtlR.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Roundup
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333568.mkv&play_token=wGfQArL9Dj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nk7v4GoS4xUJapeMH4wZaDTkM4N.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Red Book Ritual
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333567.mkv&play_token=EhGD9CO0E3&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVuhQ2FDf4HmkwteSS6rVj8D4ql.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Ravine
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333566.mkv&play_token=cNdHNEKv09&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swb7d5b7O08xLnY0YHKNBEG2GOm.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The quiet girl
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333565.mkv&play_token=irFYaPgSZc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLpdoDKXwj6QIIKQNAwfSJOLBhs.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Princess
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333564.mkv&play_token=wRffnr3xNq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQVOJcX7pUbmRQb0MgM1uqnj0kM.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Policeman's Lineage
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333563.mkv&play_token=g1AwNXhaam&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbGN4QBrKoT3HO7etj4FvlM3OZb.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Outfit
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333562.mkv&play_token=28bhYikSt8&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cV7EY78064mfKzeOMzKPS7TQuMj.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Other Me
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333561.mkv&play_token=KRwWw04ZRT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e05Xnx7505ZhSvjbhbvlCeFZIf0.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ La Romancière  le Film et le Heureux Hasard
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333560.mkv&play_token=OrOOPvQMmk&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHUGeJfC7xJkliJK5ivjKrhKBZf.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Northman
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333559.mkv&play_token=Z87cySxAlD&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccaZVroabuyrTMhbt4Y1FkPXpnS.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Minute You Wake Up Dead
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333558.mkv&play_token=QwBtQcsm5A&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9KjjwNcY6WhhA2HGCOzNOa0Lg6.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Le Menu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333557.mkv&play_token=IwfT3nJe8Z&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zu54XJbWEBBITEfHOHTR0m0v38V.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Anul pierdut 1986
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333556.mkv&play_token=Nb3IwVllN2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnheO8cFvCYcmZsDrBoabJbKLFE.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Lost City
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333555.mkv&play_token=kSqMpdmLqB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLHGciBl5kwUVJCUj8xKtDqkP7V.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Long Night
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333554.mkv&play_token=XxDrrs40uz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lt3cWgtvr6bKX49tJlsI8D1LzVW.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Loneliest Boy in the World
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333553.mkv&play_token=laTKh1IegT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2praYsQxyDtKM67iEanSS418fH.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Ledge
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333552.mkv&play_token=hyNp2QcOQr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkMotc2mM4VuJmMPWUkZ8niEFbP.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Last Victim
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333551.mkv&play_token=NHOVGZybhU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95Bn6HZBBJcG7LOBMAzNH0gmLih.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Last Manhunt
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333550.mkv&play_token=mc6F6cghhC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lRFGaUKumREGaXl9uvt84wi2yX.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Lair
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333549.mkv&play_token=zqEPbKyI33&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZ3ZxAjy26ZEo3WM4JFdOkoE5sS.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The King's Daughter
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333548.mkv&play_token=6cyukwMN8n&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kffT53riEkORfenIPQl6piOyZQ1.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ El juego de las llaves
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333547.mkv&play_token=H6YXLTj5J6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dhkPE7Y8FhrEuXd9nL4xAmaEpo.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Inhabitant
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333545.mkv&play_token=dB9RJBADUf&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Infernal Machine
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333544.mkv&play_token=2KySOjPJGB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agGG7Zzd0tJAF4hxiaWvi8EQhXU.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Haunted Museum: 3 Ring Inferno
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333543.mkv&play_token=2lcmxwS273&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7qlOysRTnpNKi3aWdTrzF2BrbV.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Harbinger
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333542.mkv&play_token=JR8hqrTgqp&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcKzWg7jnxkcMsqmlkZRiM8BlfP.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Greatest Beer Run Ever
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333541.mkv&play_token=mmzQSSk2Cj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZiZ3eVUWPxJROTkYbH8FBC9UuB.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Girl on the Mountain
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333540.mkv&play_token=lVJjuIBhDy&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhZvza254SVeN5BMkjMHfwS7dvW.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Forgiven
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333539.mkv&play_token=M7UqPibRqH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ByHl9XRKR2iXbvF0ZilMRD1RcL.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Fallout
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333538.mkv&play_token=ZPgiksYgrP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KYVM83m43XbSJH9B5cCscNqwp0.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Exorcism of God
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333537.mkv&play_token=2QDdI79mgR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GagqZ0KKuqOn1Po4tO9J1GGGKo.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Eternal Daughter
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333536.mkv&play_token=2qcSY0nF6I&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zbx0lBABfshtIAyfj23oEtJLwR.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Escort Wife
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333535.mkv&play_token=GOk4FTVKys&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3R3ecxI5rxiRJTqylD7FnnUU4Mp.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Enforcer
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333534.mkv&play_token=3hNKFFOnVr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYPnCje5lIBtZdz6cbLBDTnUJAQ.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Contractor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333533.mkv&play_token=zEfhv9Y8oN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4vrs65imRflPQXexfJGV6KZx7E.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Le Commando
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333532.mkv&play_token=eAxKVDlPtK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtfGeS5WMXA6PtikIYUmYTSbVdg.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Cellar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333531.mkv&play_token=2EEaRc5AeQ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FGenj5LnApAsJVLbd5Ehmn16XV.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Bunker Game
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333530.mkv&play_token=ImUWKyt99D&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rVNiPMAHOyxjkdwyTtqUQs0i61.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Black Phone
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333529.mkv&play_token=TXoZTHPB6Q&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYRxqSuuBdKkgHRUsfe5EE9KOlV.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Las Bestias
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333528.mkv&play_token=wrfA8Nit58&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9JGg10CW1DzXEdWL54ewkUko6N.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Batman
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333527.mkv&play_token=0xMEasrney&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1fVbgVuUVkWONCSN5ckeW0CysU.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Les Banshees d'Inisherin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333526.mkv&play_token=O72fqT4Onr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqOzUdbCjWYeY1BmCC82zMNqR3V.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ The Arbors
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333525.mkv&play_token=JmhXip6tOM&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbwj2oD5zUhwCA5Uny9bStQL3i1.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ L’Ancre
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333524.mkv&play_token=2J8Tp519G9&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k26FYPVrLRHYnv5ZbMsIHFsjdIM.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ 355
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333523.mkv&play_token=UcVcFcw24A&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chts5Axluy3och9vdcdJSiJOMJK.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Un été comme ça
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333522.mkv&play_token=u5oByCo4vj&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njqfucSkcxaIp7l2lbVNXOqyzeJ.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Terrifier 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333521.mkv&play_token=t2BhuTUgwH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Ted K
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333520.mkv&play_token=YLEfEGqtdA&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVSr0wEkrLNRx9PXz2PH4Ue5xWp.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Take Back the Night
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333519.mkv&play_token=mTKOQIhErT&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6I5KrT3IHp8jtgO1wOMeSpBU7r.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Sundown
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333518.mkv&play_token=w8V97XPLGm&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBLJ88o4xTY7WMfVMbK95tjUlcD.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Summit Fever
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333517.mkv&play_token=aiGt1btdgK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD2XyaV6eGEEgEzVnjg0hQVR5yz.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Studio 666
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333516.mkv&play_token=xpxfLJVsOV&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueffCcq485jkEQMY30yCDmGEksQ.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Speak No Evil
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333514.mkv&play_token=hFfzMgX4ud&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKYXcKmJngpKWgwtrJr4RQCdwF9.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Sparta
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333513.mkv&play_token=Oj0pC1VMbS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Sonic the Hedgehog 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333512.mkv&play_token=y5KPdx1PQF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3DXRZvnQURUGDCc5TPOczSuS1W.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Une Bague pour Deux
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333511.mkv&play_token=zLwh3SoLWo&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LUH58CVIGM2NK1YHS1YRZoynBc.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Sniper : Le Corbeau Blanc
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333510.mkv&play_token=xD7KH1N27K&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o35QcAxtz2gWoT73FpEvsmGWUbQ.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Fumer fait tousser
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333509.mkv&play_token=J0ENyYPNnG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kbtoJw6ZN0UUQhSuiRbAatr2kV.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Smile
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333508.mkv&play_token=7CBGllm337&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmmRFQtsRrNOpmcfoxVIyE1LxxT.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Slash/Back
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333507.mkv&play_token=NsuwXgNNta&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evqFVbeKQeqqydNRapIqps42a1N.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Slapface
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333506.mkv&play_token=AgoLXrufVZ&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kS7k2cPp9YmwSaeBKA8nfU8Rx2o.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ La piel en llamas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333505.mkv&play_token=SQrVMXiVE7&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpPwMDS7l1DP2QK9CUKyO6x71Ek.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Sisters
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333504.mkv&play_token=MbR9MxlCbe&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nU6STC8dssaO8KrU99lNjHdgJqn.jpg" group-title="EXYU┃ STRANI FILMOVI",EXYU┃ Sinjar
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333503.mkv&play_token=sPo0CPZ2bY&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1333590.mkv&play_token=FxzjOOjG7M&type=movie

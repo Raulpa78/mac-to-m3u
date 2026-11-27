@@ -1,121 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ DOCU FILMOVI",TAJNE.I.SKANDALI.BIJELE.KUE.2020
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335097.mkv&play_token=JMwJVk5LDo&type=movie
-#EXTINF:-1 tvg-logo="" group-title="┃EXYU┃ DOCU FILMOVI",549806
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335048.mkv&play_token=oFPqEwysXm&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJnfOOCvBVmSnwZPIHd3sJ2358owbQhS2Iw&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Zabranjena Istorija
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335108.mkv&play_token=iQZj5Emi1U&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbgmCmK2wWKCjoUGyJWQv3Y5fBJ.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Yugo: Kratka autobiografija
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335107.mkv&play_token=z6r76Aifyh&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93HvyseTjjL5t5sXeQSgX9Z8bCE.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Whitney
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335106.mkv&play_token=89EVXjqMEi&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eExz9aforS7T9fEOFp6Cx3ovKYN.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ When Borat Came to Town
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335105.mkv&play_token=h2V4rthUJO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebLUnyd8cC0kBLSkLWnhNguMWGY.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Dans l'inconnu: Les robots tueurs
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335104.mkv&play_token=RaoQPtzS6o&type=movie
-#EXTINF:-1 tvg-logo="https://mojtv.hr/images/f7104b06-98ad-492d-8cc5-36fe05f72726.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Tose Proeski Sest Sati Do Neba
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335103.mkv&play_token=trfWLCorzm&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtEWtUgMOtElJD1W4nZjYD8fsP1HgXlmUdQ&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Torinsko Platno
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335102.mkv&play_token=X6DXXnPwtm&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpQ5-hTGymPpn7HEwsgPmWrVAL71orZMksSw&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Titanics Lost Evidence
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335101.mkv&play_token=Y33YtS6Rdw&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Qh8gT1Kzc11GbE0TZ3Z6FelN6U.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Les Frères Menendez
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335100.mkv&play_token=Hxx3hB5NI7&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txGil2zkcVAeYWl8O6l8Pv7pl9K.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ The End of the Storm
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335099.mkv&play_token=PVUGy27eY2&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwNN70tmq8oDzAkzlVn5KlOYAImVapN-_Yg&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ The Death Of Bruce Lee
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335098.mkv&play_token=3q1mjXkhkF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuzzHCxHp8KtXqmBeHgaWMG6nvY.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Starac i roda  priča o Malenoj i Klepetanu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335096.mkv&play_token=NHfP6BX2NF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oE8ZQ1L91FA2Vb95Gc7V639GBN8.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Stallone: Frank  That Is
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335095.mkv&play_token=6fBiOffEtU&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGElEotRkYJc5wiw9kC5zHVdBci.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sredinom
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335094.mkv&play_token=v8mI0uqIM0&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhhfeNtDqcJX2INCck7WYFHBwAO.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sodome et Gomorrhe
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335093.mkv&play_token=7T2L3fFQSN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArpeW9q7rEwWyzZ3SZbBRsuvFPZ.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Schumacher
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335091.mkv&play_token=A1nt7pSoXZ&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR1GUmdPJxZoQJ-EvjmD8ruOyHgGJFDgNFMQ&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sekunde Do Katastrofe Tsunami
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335090.mkv&play_token=mCDJpxMQv5&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoIcQ18E_OUl3Wh0_toS3uONfopY3nIWQOGw&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sekunde Do Katastrofe Tornado
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335089.mkv&play_token=LxZEK2aueE&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gmYI6SiRAraTHClJwMBehfupovPTXG0YSA&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sekunde Do Katastrofe Scandinavian Star Vatra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335088.mkv&play_token=uwupHoELrE&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8gOj-3Q0V2q6z7I10UQZNoERC952hjQxE1w&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sekunde Do Katastrofe Rusenje Trgovackoc Centra
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335087.mkv&play_token=it5mwRjXSA&type=movie
-#EXTINF:-1 tvg-logo="https://sire-media-natgeo.techops.disn.io/ng_hr/serie-main/599203.640x640.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sekunde Do Katastrofe Rijeka Potomac
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335086.mkv&play_token=wmI4wiXPSg&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcybKaMQzbbgbJX7RvOCj8LD-Oy6XhtoNrmg&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sekunde Do Katastrofe Naftna Eksplozija U Texas
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335085.mkv&play_token=vni3wC9c33&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkUIr0Y7FviBjW6OAk_EzmQFZ5G3FxQaPVPw&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sekunde Do Katastrofe Fukusima
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335084.mkv&play_token=MMxMC1NksM&type=movie
-#EXTINF:-1 tvg-logo="https://sire-media-natgeo.techops.disn.io/generic/photogallery-photo/239/599216.custom.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sekunde Do Katastrofe Erupcija Na Monsereatu
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335083.mkv&play_token=sr5xmDX3U8&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS68Jf_GwXw_WhL3wfqePc9LkMUJApFjXt_GQ&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sekunde Do Katastrofe Eksplozija Nosaca Zrakoplova
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335082.mkv&play_token=sd8tDKejn7&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFTDDCEOYh3Qb87mpAXafrl5jQlBdhXvhDg&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sekunde Do Katastrofe Comet
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335081.mkv&play_token=emPfwTn5Jl&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXEXvQVO7yJwYlUYGDN0HZfIDVeM4EE1jVlg&s" group-title="┃EXYU┃ DOCU FILMOVI",Sekunde Do Katastrofe Cikaksi Let 191
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335080.mkv&play_token=3OfCCHM8jm&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8VYLze6JBm63-j0neRzgJaw0dbtDHbU2SLg&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sekunde Do Katastrofe Challenger
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335079.mkv&play_token=f06zJhheYV&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBflRgGA3FW_NYYaLde5X6J1ssZTrtK4VxIg&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sekunde Do Katastrofe 911
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335078.mkv&play_token=byqI2VvUCF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ap3672vjjMHvdIfenXqTDkMUqD.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Nebo iznad Zenice
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335077.mkv&play_token=z6mEeUBv1d&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnPd37LXBYNm5JmPB0vE6AOBAox.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Milli Vanilli
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335076.mkv&play_token=UUn8AtOV3r&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjni2ojibdv0QENXddqE7ptBbZw8b1blwf_Q&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Mercedes Fabrika Kamiona
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335075.mkv&play_token=3mXdldE0cq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1ugoYhfDCwnOt6jcUQ7NVBDEcA.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Megaestructuras: El Bernabéu del siglo XXI
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335074.mkv&play_token=kLPNhx85ra&type=movie
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZiNTU2ZDYtZWUxYy00ZWY0LTliZjMtZGEzMTIwZjQ1NjZmXkEyXkFqcGc@._V1_.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Lau
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335073.mkv&play_token=8EDxUmZLAE&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuA5bfEeWXMV_4ry0gvIn8ZoTD7IkXFOtIwg&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Kumanovo Pregovori Pobednika
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335072.mkv&play_token=BQjbZIUTeR&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urY6AiFhuE0A0HxsALgeNIiVNwF.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Коридор 92
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335071.mkv&play_token=nattoZ96df&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqlOXMsJ0sSyForOe93BSfNW3Pi.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ L'Assassinat de Lincoln
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335070.mkv&play_token=w80NsPaw5g&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6K3IKUHpQRxX14cjoI30kKn6V4oUvI9R7bA&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Jfk Izgubljeni Metak
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335069.mkv&play_token=0eM8Mwckz6&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOFWSCiXAgJL6bVLvSLqOBJ-L_6J0of_iX2A&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Izgubljeno Dugme Bijelo Dugme
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335068.mkv&play_token=wVPkRb3bWO&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUSTuyHQbNi_ZIwg0ZtgF_Bknyn8tAYZMjQ&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Iza Resetaka Prica O Srbinu Svesteniku
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335067.mkv&play_token=UQMNlAosLY&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEq8c6r7d96Zms6bwgx_hyoLlpXlbpkctJQ&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Iza Resetaka Pink Panterka Prvi Deo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335066.mkv&play_token=Gdst1bekfi&type=movie
-#EXTINF:-1 tvg-logo="https://laguna.rs/_img/korice/4583/ja_pink_panter_ispovest-olivera_cirkovic_v.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Iza Reetaka Pink Panterka Drugi Deo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335065.mkv&play_token=Qwn6pIUADl&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_YIOBN2hUaw0l8Z7m8-9ykal08z1n92dTg&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Istinita Pricaaleksandar Veliki
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335064.mkv&play_token=P9wvMmVLSi&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4g8q6EW4LhiGQJl96Bb7gis75A.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Harry Potter fête ses 20 ans : Retour à Poudlard
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335063.mkv&play_token=GCvDlsqDyd&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvnYBtPpg1PaSEUTtyEkCJlMd1i.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Friends : Les Retrouvailles
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335062.mkv&play_token=gIkIwFmx6d&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLGYazotz7ts8rbik8PdzAFy3Z1qi0aYGbvg&s" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Crvena Zvezda Put Radosti
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335061.mkv&play_token=PTwwVLN24H&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ao9mpFYbarCyJogmVvKF2fmXGIi.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Cyber Hell : Le réseau de l'horreur
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335060.mkv&play_token=T2css0ZiOD&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lilm35q9B2iPVJ7MVYheoHyBmV9.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Црна Гора: Подељена земља
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335059.mp4&play_token=eKcqmIR28b&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/R0rmE1wDbxMb2W0MyDE3HKPhOR.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Close Encounters of the Fifth Kind
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335058.mkv&play_token=pq0WYoTCSE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRI3nn46KTkFhfXmkzJeH9GQ6AO.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Sogno Azzurro : En route pour Wembley
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335057.mkv&play_token=jbyomMqzgr&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qI8lJ5H3hW2yzO1IzAZR9HsqwJp.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Frères de sang: Malcolm X et Mohamed Ali
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335056.mkv&play_token=lEkKsKX1Kt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9q9K2OqagIIMd1JcmDo38cDFzK.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Trous noirs : Aux confins du savoir
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335055.mkv&play_token=AYa8bCl6HP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sB7uG9GKbakiBfYbUZapqKeYfSu.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ BAM : Bâtisseurs de l'ancien monde
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335054.mkv&play_token=juanXnF4Ub&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mqLGcB3OZ4tFCZIrXeYqyAUVu.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Il Divin Codino : L'art du but par Roberto Baggio
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335053.mkv&play_token=zn1P5VSoF1&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLUMbMGCvc4YxhWzJBnhdgO1tSw.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Avicii: True Stories
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335052.mkv&play_token=5Qa2IZw2rB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZn9vDJxFiHVJpa5wFBzlhj2JmG.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Apollo 11
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335051.mkv&play_token=wfHiOxAOYG&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHid0wVegZjIpyHOdMCo98ToTWi.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ Les Révoltés
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335050.mkv&play_token=ap3brJH7YP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jftgQ8mYaPFYf0UywgwgqimAkmu.jpg" group-title="┃EXYU┃ DOCU FILMOVI",┃EXYU┃ After Death
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335049.mkv&play_token=ATUMBsViDD&type=movie
+#EXTINF:-1 tvg-logo="" group-title="EXYU┃ DOCU FILMOVI",TAJNE.I.SKANDALI.BIJELE.KUE.2020
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335097.mkv&play_token=wB8oR5G3mC&type=movie
+#EXTINF:-1 tvg-logo="" group-title="EXYU┃ DOCU FILMOVI",549806
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335048.mkv&play_token=4UD1RIOMgQ&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJnfOOCvBVmSnwZPIHd3sJ2358owbQhS2Iw&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Zabranjena Istorija
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335108.mkv&play_token=Q17E3Nb6Er&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbgmCmK2wWKCjoUGyJWQv3Y5fBJ.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Yugo: Kratka autobiografija
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335107.mkv&play_token=fmBIAYRtum&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93HvyseTjjL5t5sXeQSgX9Z8bCE.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Whitney
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335106.mkv&play_token=3KjCsE2tZI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eExz9aforS7T9fEOFp6Cx3ovKYN.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ When Borat Came to Town
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335105.mkv&play_token=pm3tb5zBg5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebLUnyd8cC0kBLSkLWnhNguMWGY.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Dans l'inconnu: Les robots tueurs
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335104.mkv&play_token=n2ECybBvpa&type=movie
+#EXTINF:-1 tvg-logo="https://mojtv.hr/images/f7104b06-98ad-492d-8cc5-36fe05f72726.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Tose Proeski Sest Sati Do Neba
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335103.mkv&play_token=cjObzhlAXS&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtEWtUgMOtElJD1W4nZjYD8fsP1HgXlmUdQ&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Torinsko Platno
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335102.mkv&play_token=MK9AaPGL0o&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpQ5-hTGymPpn7HEwsgPmWrVAL71orZMksSw&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Titanics Lost Evidence
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335101.mkv&play_token=v4aIflhScp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Qh8gT1Kzc11GbE0TZ3Z6FelN6U.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Les Frères Menendez
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335100.mkv&play_token=ZlhkwwWLAO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txGil2zkcVAeYWl8O6l8Pv7pl9K.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ The End of the Storm
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335099.mkv&play_token=535XZ4z7ad&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwNN70tmq8oDzAkzlVn5KlOYAImVapN-_Yg&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ The Death Of Bruce Lee
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335098.mkv&play_token=J7FcAjQaXJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuzzHCxHp8KtXqmBeHgaWMG6nvY.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Starac i roda  priča o Malenoj i Klepetanu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335096.mkv&play_token=AajD1L7lnM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oE8ZQ1L91FA2Vb95Gc7V639GBN8.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Stallone: Frank  That Is
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335095.mkv&play_token=7tFiEgqvud&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGElEotRkYJc5wiw9kC5zHVdBci.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sredinom
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335094.mkv&play_token=FSrBrTW77d&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhhfeNtDqcJX2INCck7WYFHBwAO.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sodome et Gomorrhe
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335093.mkv&play_token=S0K8iFl5QL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArpeW9q7rEwWyzZ3SZbBRsuvFPZ.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Schumacher
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335091.mkv&play_token=SKeJGPCik0&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR1GUmdPJxZoQJ-EvjmD8ruOyHgGJFDgNFMQ&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sekunde Do Katastrofe Tsunami
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335090.mkv&play_token=SF1ysRSswz&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoIcQ18E_OUl3Wh0_toS3uONfopY3nIWQOGw&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sekunde Do Katastrofe Tornado
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335089.mkv&play_token=6ODfKMfHuI&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gmYI6SiRAraTHClJwMBehfupovPTXG0YSA&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sekunde Do Katastrofe Scandinavian Star Vatra
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335088.mkv&play_token=xYitRZmMne&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8gOj-3Q0V2q6z7I10UQZNoERC952hjQxE1w&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sekunde Do Katastrofe Rusenje Trgovackoc Centra
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335087.mkv&play_token=pyHaRhNU7V&type=movie
+#EXTINF:-1 tvg-logo="https://sire-media-natgeo.techops.disn.io/ng_hr/serie-main/599203.640x640.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sekunde Do Katastrofe Rijeka Potomac
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335086.mkv&play_token=VjQcbKA7ta&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcybKaMQzbbgbJX7RvOCj8LD-Oy6XhtoNrmg&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sekunde Do Katastrofe Naftna Eksplozija U Texas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335085.mkv&play_token=6tguklKNIR&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkUIr0Y7FviBjW6OAk_EzmQFZ5G3FxQaPVPw&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sekunde Do Katastrofe Fukusima
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335084.mkv&play_token=G5ICbagVet&type=movie
+#EXTINF:-1 tvg-logo="https://sire-media-natgeo.techops.disn.io/generic/photogallery-photo/239/599216.custom.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sekunde Do Katastrofe Erupcija Na Monsereatu
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335083.mkv&play_token=qaNzYtpvLY&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS68Jf_GwXw_WhL3wfqePc9LkMUJApFjXt_GQ&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sekunde Do Katastrofe Eksplozija Nosaca Zrakoplova
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335082.mkv&play_token=tvwtv6Xii7&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFTDDCEOYh3Qb87mpAXafrl5jQlBdhXvhDg&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sekunde Do Katastrofe Comet
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335081.mkv&play_token=Mu8KeBWqBr&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXEXvQVO7yJwYlUYGDN0HZfIDVeM4EE1jVlg&s" group-title="EXYU┃ DOCU FILMOVI",Sekunde Do Katastrofe Cikaksi Let 191
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335080.mkv&play_token=Tmy5tQivEp&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8VYLze6JBm63-j0neRzgJaw0dbtDHbU2SLg&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sekunde Do Katastrofe Challenger
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335079.mkv&play_token=QxdZgjcMzc&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBflRgGA3FW_NYYaLde5X6J1ssZTrtK4VxIg&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Sekunde Do Katastrofe 911
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335078.mkv&play_token=6xCt6gapVX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ap3672vjjMHvdIfenXqTDkMUqD.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Nebo iznad Zenice
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335077.mkv&play_token=Dmw1xbLdTW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnPd37LXBYNm5JmPB0vE6AOBAox.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Milli Vanilli
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335076.mkv&play_token=qZxxW98Sw5&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjni2ojibdv0QENXddqE7ptBbZw8b1blwf_Q&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Mercedes Fabrika Kamiona
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335075.mkv&play_token=M3EL4pkE9g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1ugoYhfDCwnOt6jcUQ7NVBDEcA.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Megaestructuras: El Bernabéu del siglo XXI
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335074.mkv&play_token=aKqo0hTqnT&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZiNTU2ZDYtZWUxYy00ZWY0LTliZjMtZGEzMTIwZjQ1NjZmXkEyXkFqcGc@._V1_.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Lau
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335073.mkv&play_token=HivMiAFS7i&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuA5bfEeWXMV_4ry0gvIn8ZoTD7IkXFOtIwg&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Kumanovo Pregovori Pobednika
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335072.mkv&play_token=hQjEzSgxrA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urY6AiFhuE0A0HxsALgeNIiVNwF.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Коридор 92
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335071.mkv&play_token=YIyxt7Lnbt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqlOXMsJ0sSyForOe93BSfNW3Pi.jpg" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ L'Assassinat de Lincoln
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335070.mkv&play_token=Vck2blHl1R&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6K3IKUHpQRxX14cjoI30kKn6V4oUvI9R7bA&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Jfk Izgubljeni Metak
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335069.mkv&play_token=FN5N0EvDGI&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOFWSCiXAgJL6bVLvSLqOBJ-L_6J0of_iX2A&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Izgubljeno Dugme Bijelo Dugme
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335068.mkv&play_token=MNTO1cf7Yx&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUSTuyHQbNi_ZIwg0ZtgF_Bknyn8tAYZMjQ&s" group-title="EXYU┃ DOCU FILMOVI",EXYU┃ Iza Resetaka Prica O Srbinu Svesteniku
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1335067.mkv&play_token=xtroPzjR5O&type=movie

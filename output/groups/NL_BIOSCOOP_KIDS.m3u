@@ -1,83 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Barbie in the Nutcracker - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336136.mkv&play_token=WrIBufDnap&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Forgotten Island - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149827.mkv&play_token=81BE286bY9&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Paw Patrol: De Dinofilm [NL Gesproken] 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2059440.mkv&play_token=DJqBCJnnK3&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Paw Patrol: De Dinofilm [NL SUBS] - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1978458.mkv&play_token=cLEogdFPcJ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Minions & Monsters [NL GESPROKEN] - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1908064.mkv&play_token=NU2hXvIOTs&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ LEGO Disney Princess: Magische Chaos - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1908063.mkv&play_token=HxyC5NgxM3&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Doornroosje  De Musical - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1878097.mkv&play_token=Kz2ULL479s&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Toy Story 5 - 2026 [NL GESPROKEN]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1863516.mkv&play_token=twigsU8rtT&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Toy Story 5 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1855175.mkv&play_token=wZD0kySWzX&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Minions & Monsters - 2026 [NL AUDIO]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1855174.mkv&play_token=1nREBn7wun&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Minions & Monsters - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1833599.mkv&play_token=LOvifUanEB&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Storm on Sesame Street - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827333.mkv&play_token=W94xynu74d&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Tafiti – dwars door de woestijn - 2025 [NL AUDIO]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1824902.mkv&play_token=yZ6qPzvY4r&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Snoopy presenteert: oost west  thuis best - 2026 [NL AUDIO]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1824901.mkv&play_token=58dVRZdu64&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/fd0b3c7cc2ada55d.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Barbie in the Nutcracker - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2336136.mkv&play_token=WR5RGAY9Lt&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/63491d3e0237bd40.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Forgotten Island - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2149827.mkv&play_token=WYRUK5CNMz&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/02c2ccb8699a6fa6.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Paw Patrol: De Dinofilm [NL Gesproken] 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2059440.mkv&play_token=GmIfdu08BG&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/71f39f4ecd7c055b.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Paw Patrol: De Dinofilm [NL SUBS] - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1978458.mkv&play_token=TNA1GLMmO2&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3a280c2e5a8d098c.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Minions & Monsters [NL GESPROKEN] - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1908064.mkv&play_token=tLQDrkVWBY&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/b420e3d5ed173d57.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ LEGO Disney Princess: Magische Chaos - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1908063.mkv&play_token=QXqp4IpXSb&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/fd3f44835207f4d1.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Doornroosje  De Musical - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1878097.mkv&play_token=V7PPEp8Pqv&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/d31e50aac360fca9.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Toy Story 5 - 2026 [NL GESPROKEN]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1863516.mkv&play_token=Y7Ys4k8VCY&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/56b4e83f153ae7e7.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Toy Story 5 - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1855175.mkv&play_token=1govocECZh&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/3802cac1a03b179f.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Minions & Monsters - 2026 [NL AUDIO]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1855174.mkv&play_token=SdsvC75Ovx&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/4d779689578c0f62.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Minions & Monsters - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1833599.mkv&play_token=ASfhfn5Opm&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/ac0ee2791df9563a.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Storm on Sesame Street - 2026
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1827333.mkv&play_token=lROcUc1tDe&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1c5c22f8d16b503a.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Tafiti – dwars door de woestijn - 2025 [NL AUDIO]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1824902.mkv&play_token=7UtFuZeUCB&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f44715f30d1eefde.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Snoopy presenteert: oost west  thuis best - 2026 [NL AUDIO]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1824901.mkv&play_token=hcHdc2TXLb&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/91fca5b77293b07f.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Tom & Jerry en het gouden kompas - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803480.mkv&play_token=2l6UXNBz76&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1803480.mkv&play_token=BcMj0tlL28&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/af605755a4aada60.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ David - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1799689.mkv&play_token=qB5BbmLRcW&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1799689.mkv&play_token=Qn1EeyzMzo&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/72298b55ba79463e.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Toy Story 5 - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1787148.mkv&play_token=zTijUzXaiB&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1787148.mkv&play_token=dQzJtW6Nzv&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/5b2b8f7b8bb389ad.jpg" group-title="NL┃ BIOSCOOP KIDS",Super Charlie - 2024
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766349.mkv&play_token=Tvz4t7RHx0&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1766349.mkv&play_token=c4Fk5empTm&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/0e0503c0e7b848f5.jpg" group-title="NL┃ BIOSCOOP KIDS",Jumpers - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1745836.mkv&play_token=QITg31Y0Xt&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1745836.mkv&play_token=auXmkLf47H&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/563d04caa2accfed.jpg" group-title="NL┃ BIOSCOOP KIDS",Animal Farm - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739097.mkv&play_token=bos5prQQP5&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1739097.mkv&play_token=Eq4OLbWjgF&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/390e2e62d4265e2e.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ The Super Mario Galaxy Movie [NL Gesproken] (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1734338.mkv&play_token=aIhEoAQy85&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1734338.mkv&play_token=Gn0g7TwWCD&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8124cfa1e0cc7f2a.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Tafiti – dwars door de woestijn [NL SUBS] - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1725320.mkv&play_token=ERZSunQf89&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1725320.mkv&play_token=eQKurMEW1o&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/6545676fd8512aa6.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Charlie the Wonderdog [NL SUBS] - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1724219.mkv&play_token=qCbKcLHNP2&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1724219.mkv&play_token=Gow8wuix67&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/67cff3cedd81398d.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Swapped (2026)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1720674.mkv&play_token=vksm5wCWOH&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1720674.mkv&play_token=iygPgSlXpx&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/f071071813477a5f.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Jumpers [Hoppers] - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716717.mkv&play_token=umQOcdrq4k&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1716717.mkv&play_token=JvnJV8YglZ&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/44006602c359cc49.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ The Super Mario Galaxy Movie - 2026
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1699832.mkv&play_token=2r5Ml4hXTN&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1699832.mkv&play_token=lQyXhwpIP3&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/db60cdffa5a17cde.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Zootropolis 2 [NL Gesproken] - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600873.mkv&play_token=Eg5S2pt8e6&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1600873.mkv&play_token=HRVCtXbTRt&type=movie
 #EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/79ea8e4cca755c59.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Gereed voor de Landing: De Sneeuwbaloperatie - 2025 [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598941.mkv&play_token=IU1qUY0RUe&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Spongebob op Piratenpad - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1590769.mkv&play_token=PnDADLgvqD&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Zootropolis 2 (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1514743.mkv&play_token=WSrdRREHwd&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Kerst met de PAW Patrol [NL Gesproken] (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1502272.mkv&play_token=ryxXOaIH2D&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Kerst met de PAW Patrol [NL Subs] (2025)
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1502244.mkv&play_token=A11dp7WjHy&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Huisdieren Express - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1488110.mp4&play_token=AIi7gxoJCv&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Het leven van een loser: Bekijk het maar! - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1480420.mkv&play_token=ME6G1Or1hn&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Kayara [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1467525.mkv&play_token=fH8OGNiDfX&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Kayara - 2025
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1464494.mkv&play_token=VczvzajXf2&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Big Trip 3: Race om de wereld [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334632.mkv&play_token=SZogX2fuIB&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ The Bad Guys 2
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1265617.mkv&play_token=jPmGdPCF8o&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Hoe Tem Je een Draak [NL Gesproken]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1260094.mkv&play_token=F9eHE7eMfC&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Smurfen [NL Subs]
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256139.mkv&play_token=zfEBAaWhTu&type=movie
-#EXTINF:-1 tvg-logo="" group-title="NL┃ BIOSCOOP KIDS",NL┃ Woezel En Pip Op Avontuur In De Tovertuin
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1209568.mkv&play_token=b0IvBmtaLR&type=movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1598941.mkv&play_token=7qTkZ1C2rw&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/00045087f0a0c71a.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Spongebob op Piratenpad - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1590769.mkv&play_token=Wo5FOJO2mH&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/657315636e573d76.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Zootropolis 2 (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1514743.mkv&play_token=Cm5KY0x8pr&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/8b3c41606849fbed.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Kerst met de PAW Patrol [NL Gesproken] (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1502272.mkv&play_token=oRQiWFzldf&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/489265772ae1a843.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Kerst met de PAW Patrol [NL Subs] (2025)
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1502244.mkv&play_token=CYTC7GoNss&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/42194475a4c38e1b.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Huisdieren Express - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1488110.mp4&play_token=auOh50Cr56&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/329ba6f9432848fa.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Het leven van een loser: Bekijk het maar! - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1480420.mkv&play_token=xSrYooJ3rv&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/42d02cfba36f4f65.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Kayara [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1467525.mkv&play_token=0x0B9DQ9uL&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/76130354da15e3b6.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Kayara - 2025
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1464494.mkv&play_token=fKcLdVxuyo&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2402027a6768af3f.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Big Trip 3: Race om de wereld [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1334632.mkv&play_token=yqivdlqwWp&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/2d37d3675c1680ed.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ The Bad Guys 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1265617.mkv&play_token=xO43VPkEjQ&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/314388643be71b23.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Hoe Tem Je een Draak [NL Gesproken]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1260094.mkv&play_token=qcHI6R3W0j&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/02cede193c515133.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Smurfen [NL Subs]
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1256139.mkv&play_token=5ATv8ZoUVj&type=movie
+#EXTINF:-1 tvg-logo="https://cover.mauve-cdn.net/fr/1b469e77ef57b039.jpg" group-title="NL┃ BIOSCOOP KIDS",NL┃ Woezel En Pip Op Avontuur In De Tovertuin
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1209568.mkv&play_token=ln33U3CZdR&type=movie

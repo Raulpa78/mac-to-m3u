@@ -1,29 +1,337 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Havoc
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1154697.mp4&play_token=gjSnJW8e8q&type=movie
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ To All the Boys: Always and Forever
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148638.mp4&play_token=SaLpQiYVlz&type=movie
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ På villspor
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148636.mp4&play_token=naCAVS9YcD&type=movie
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Tornado: Apanhados na Tempestade
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148635.mp4&play_token=OYkUCT0p4t&type=movie
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ La vita davanti a sé
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148633.mp4&play_token=NOcnHAIEOQ&type=movie
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Rica Vida
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148623.mp4&play_token=FgavDJGdac&type=movie
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Plâncton: O Filme
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148619.mp4&play_token=tma49LLPXF&type=movie
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Patrulha Pata: o Super Filme
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148615.mp4&play_token=3MiRisCkBG&type=movie
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Os Dois Hemisférios de Lucca
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148603.mp4&play_token=zMsXjJyQWk&type=movie
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Nos Confins do Mundo
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148601.mp4&play_token=MxHg23Zydy&type=movie
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Kraven  o Caçador
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148599.mp4&play_token=1FK628yezE&type=movie
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Mais ou Menos Grávida
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148598.mp4&play_token=G0gTzLwraU&type=movie
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Eu e Mamã Vamos de Lua de Mel
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148593.mp4&play_token=iydZmtJaIe&type=movie
-#EXTINF:-1 tvg-logo="" group-title="PT┃ NETFLIX",PT┃ Imortal: O Homem Que Quer Viver Para Sempre
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148586.mp4&play_token=TkVEAIm2Qu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TcTdvMOZvZ6kDLEm0SZlkNm9Vu.jpg" group-title="PT┃ NETFLIX",PT┃ Havoc
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1154697.mp4&play_token=8qnoQWMCsI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZ6rR0kXKlBRXGYjOTJx8j82sqs.jpg" group-title="PT┃ NETFLIX",PT┃ To All the Boys: Always and Forever
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148638.mp4&play_token=FhivKVhB88&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVHGPxHXIpOet5H7orIFMIjzeva.jpg" group-title="PT┃ NETFLIX",PT┃ På villspor
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148636.mp4&play_token=DY35oc8KOB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p91IMcRiHvDc1Ou8rDBdEIHZcli.jpg" group-title="PT┃ NETFLIX",PT┃ Tornado: Apanhados na Tempestade
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148635.mp4&play_token=FHew7iYClU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6QqW954LzK1Fs6Dc1mM9iSZgyD.jpg" group-title="PT┃ NETFLIX",PT┃ La vita davanti a sé
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148633.mp4&play_token=Gyszbr3SWJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omGWTCLiaEWt55JInKLQ58H0Z1b.jpg" group-title="PT┃ NETFLIX",PT┃ Rica Vida
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148623.mp4&play_token=RxmHsQ56Y7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xODFawcWmxx2vn7rCw3KrdZmtmy.jpg" group-title="PT┃ NETFLIX",PT┃ Plâncton: O Filme
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148619.mp4&play_token=VTMF78vBUA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUirEoPDHqKYKzpfExHPvcnz6ME.jpg" group-title="PT┃ NETFLIX",PT┃ Patrulha Pata: o Super Filme
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148615.mp4&play_token=LPwbfTQZNT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u226mX8Fr6eHpRnB0SBvZbWgSrJ.jpg" group-title="PT┃ NETFLIX",PT┃ Os Dois Hemisférios de Lucca
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148603.mp4&play_token=57jjCMBhJK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIgwLgltdbJtJHwkemdl32w27Ye.jpg" group-title="PT┃ NETFLIX",PT┃ Nos Confins do Mundo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148601.mp4&play_token=OVP92pHfEO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg" group-title="PT┃ NETFLIX",PT┃ Kraven  o Caçador
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148599.mp4&play_token=qUvpGmmIVi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qh4H7H0XYv9TJ0ZSFsOc64NUG1W.jpg" group-title="PT┃ NETFLIX",PT┃ Mais ou Menos Grávida
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148598.mp4&play_token=2gYwGQ6xwm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JRF2CsPVaqbjxJkZM0zAKfdoXH.jpg" group-title="PT┃ NETFLIX",PT┃ Eu e Mamã Vamos de Lua de Mel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148593.mp4&play_token=ME3uJCWCBc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6mdvaGWxdfLb23wWBO1gHdnMdG.jpg" group-title="PT┃ NETFLIX",PT┃ Imortal: O Homem Que Quer Viver Para Sempre
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148586.mp4&play_token=TGdZLe4njS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBh6Cljpg7678grLPZFLLmzMCPq.jpg" group-title="PT┃ NETFLIX",PT┃ Delicious
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148583.mp4&play_token=F1cRqYaXbW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQOyS5280smeEOqXJ6VQbGFospl.jpg" group-title="PT┃ NETFLIX",PT┃ Morte Antes do Casamento
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148580.mp4&play_token=rcyZovCBMi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQsMy1xn8NG1VfVWFpEhhAsp4pi.jpg" group-title="PT┃ NETFLIX",PT┃ Contra-Ataque
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148577.mp4&play_token=SY5nn4rtg2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvM4FDKDfeUFZnf6RGOLRMzT6zf.jpg" group-title="PT┃ NETFLIX",PT┃ Caos: Os Crimes dos Manson
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148572.mp4&play_token=01Of1rged5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht9LiXOHBvDkvTQl9sAwllOsF81.jpg" group-title="PT┃ NETFLIX",PT┃ Bogotá: A Cidade dos Sonhos Perdidos
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148570.mp4&play_token=dzSKjUHaHz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDVsBMUE3QI0lZE44vfqpIojqRg.jpg" group-title="PT┃ NETFLIX",PT┃ Barbie & Teresa: Recipe for Friendship
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1148567.mp4&play_token=ziAxEbWAXA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h87bgIhs4keL005Ch5aeKhnaAIL.jpg" group-title="PT┃ NETFLIX",PT┃ iHostage
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147244.mp4&play_token=qWhBD1MvSR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1EByaSlnST1ieAagdM3LJamlJ7.jpg" group-title="PT┃ NETFLIX",PT┃ Stranger Things: The First Shadow – Les coulisses de la pièce
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147236.mp4&play_token=ZBbeqmU0CR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gspluUUTwGMT33rR6YietqRIjok.jpg" group-title="PT┃ NETFLIX",PT┃ Banger
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147235.mp4&play_token=Bhzdd452Le&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v11kXYtSffp3t10VdM5EnORMbUn.jpg" group-title="PT┃ NETFLIX",PT┃ Tim Dillon: I'm Your Mother
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147231.mp4&play_token=V027OF0YaQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zrVB7SQe9UZNRABpca66lObH0n.jpg" group-title="PT┃ NETFLIX",PT┃ Um Ano Para Ser Feliz
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147230.mp4&play_token=fbmPiKO0yd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qED1q18l2rM5eBbJsmnc4JakN5b.jpg" group-title="PT┃ NETFLIX",PT┃ Lo mejor del mundo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147229.mp4&play_token=isniJ3QxKJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5w4tc7RJOT104dHXQUla5xRQVPT.jpg" group-title="PT┃ NETFLIX",PT┃ Setetes Embun Cinta Niyala
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1147225.mp4&play_token=OXUHIme0AN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb30hkUpBm23stnVgDJGYGsC0R0.jpg" group-title="PT┃ NETFLIX",PT┃ Aníkúlápó
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096063.mp4&play_token=0jOzacpytR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yi3rC99fntOrrdX3Dg54cM5cKK6.jpg" group-title="PT┃ NETFLIX",PT┃ Amy Schumer: Emergency Contact
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096057.mp4&play_token=dlsnif1nLk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg" group-title="PT┃ NETFLIX",PT┃ A Todas Partes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1096017.mp4&play_token=1ltOyPcyXA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygKMsqCscAnRl0F8utCh23w5M2C.jpg" group-title="PT┃ NETFLIX",PT┃ Afterlife of the Party
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095981.mp4&play_token=BwEkG5WZRX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfjdBn9rOoMZQgCqySlpjZv4L2V.jpg" group-title="PT┃ NETFLIX",PT┃ A Week Away
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095947.mp4&play_token=nC2JDC9C3f&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nhTfuDkks0MZgx0gncPvz1L59p.jpg" group-title="PT┃ NETFLIX",PT┃ A Tourist's Guide to Love
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095941.mp4&play_token=tGtBxhXHa6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg" group-title="PT┃ NETFLIX",PT┃ Entre el Amor y la Amistad
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095937.mp4&play_token=9YEmCotRNN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8cbfqsFcXBgoJhnsajx9tMTpTp.jpg" group-title="PT┃ NETFLIX",PT┃ Reviviendo la Navidad
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095927.mp4&play_token=mb1rSvC3g6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQqmFcKOSg7RVtaIKOTtv1vWQPx.jpg" group-title="PT┃ NETFLIX",PT┃ A Fall from Grace
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095897.mp4&play_token=mpgQcqRzpA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik7x3QS4LVfZPMV4lAIFtoh7ASS.jpg" group-title="PT┃ NETFLIX",PT┃ Um Rapaz Chamado Natal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095889.mp4&play_token=MwzEc6qaGH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uy3NhZq5IMw9c7vSoP2Z1GsQOJo.jpg" group-title="PT┃ NETFLIX",PT┃ 20th Century Girl
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095871.mp4&play_token=QkbT3QlbfA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3N0nM4ouA500Xp5uSMpVazLNF0c.jpg" group-title="PT┃ NETFLIX",PT┃ 12 Órfãos Poderosos
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1095859.mp4&play_token=G3A6pKR3dO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oFfY1HpzJDlRzKSCBF2sA5mb9U.jpg" group-title="PT┃ NETFLIX",Your Place or Mine - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094773.mp4&play_token=OOgqoFILhd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg" group-title="PT┃ NETFLIX",You People - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094771.mp4&play_token=lHj6GiRhKj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WN4bLzEeVwHKMzDc2GrOWSkFHY.jpg" group-title="PT┃ NETFLIX",야차 - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094769.mp4&play_token=W4KcL6yOUE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssk0Gd27ziryP2OUxprIVhAvr3e.jpg" group-title="PT┃ NETFLIX",El camino de Xico - 2020
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094767.mp4&play_token=EbUcWFpbgx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYbyICfrtFyg666rVYX2yCb8EKg.jpg" group-title="PT┃ NETFLIX",Why Did You Kill Me? - 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094753.mp4&play_token=Kf6OjP4JVV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg" group-title="PT┃ NETFLIX",White Noise - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094751.mp4&play_token=C9ZYsBg7IQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om3ojwYvXOkEifztuSIFKqUruly.jpg" group-title="PT┃ NETFLIX",Whindersson Nunes: Isso não é um culto - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094750.mp4&play_token=JMPCChDK5u&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQbva3zRZz2f6Vuov0RmevYsolj.jpg" group-title="PT┃ NETFLIX",WHAM! - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094746.mp4&play_token=237PUWSCn2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7w7BgqsOVl2fBWUeZqIIH9UMQy.jpg" group-title="PT┃ NETFLIX",We Have a Ghost - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094740.mp4&play_token=ElaFvkJiYB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iG9Ft4pU7tIN67QFUSSIp1A0cNE.jpg" group-title="PT┃ NETFLIX",Violet Evergarden: Recollections - 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094732.mp4&play_token=y6W0pcOQaA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZMG7Rfubn6xIysmv4TC71Rr0KK.jpg" group-title="PT┃ NETFLIX",Vikingulven - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094731.mp4&play_token=NkyD1Z970v&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34tvdAPphiylLBpXMOnQmPxCqbz.jpg" group-title="PT┃ NETFLIX",Urzila Carlson: Overqualified Loser - 2020
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094723.mp4&play_token=CtBaNKoOxu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pArr12pr825SWb06ihiWesJsuR0.jpg" group-title="PT┃ NETFLIX",Untold: Operation Flagrant Foul - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094720.mp4&play_token=ylItd0STJ2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KV7WxGjF5O5fhBJnjNME4jkJC7.jpg" group-title="PT┃ NETFLIX",Unknown: The Lost Pyramid - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094715.mp4&play_token=z9qXW94Eod&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZ61VGpdRiMUlptBucnjBc64Wrj.jpg" group-title="PT┃ NETFLIX",Unknown: Killer Robots - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094714.mp4&play_token=sVgSFwKUYy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZxroOwIaD6JGCYraNEJKddOUWp.jpg" group-title="PT┃ NETFLIX",Unknown: Cosmic Time Machine - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094713.mp4&play_token=Z8smWiS8F7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irDu0rnlzTpl8RkOEl7XG2B88tJ.jpg" group-title="PT┃ NETFLIX",Unknown: Cave of Bones - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094712.mp4&play_token=zH9KpoEOWo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyX9ujcKOiaUIDYqv485ipU82H1.jpg" group-title="PT┃ NETFLIX",Uncharted - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094705.mp4&play_token=tZrwnp0CK9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qntAorVEzixuYOIPMCGwDiuGkd.jpg" group-title="PT┃ NETFLIX",PT┃ True Spirit
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094689.mp4&play_token=3auXFYxapc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NvYyM8H6d5KAVGqpyFV9YPO5cU.jpg" group-title="PT┃ NETFLIX",PT┃ Tom & Jerry
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094672.mp4&play_token=h8SkySJ45H&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iepqdM52f4w75fNcvgRF5QoIAjm.jpg" group-title="PT┃ NETFLIX",To All the Boys: Always and Forever - 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094669.mp4&play_token=Ux3uS6sOOG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tSkNmGt1K5Lgf0L0BTHHYJNz0W.jpg" group-title="PT┃ NETFLIX",Things Heard & Seen - 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094662.mp4&play_token=xPlTPDlF5R&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckjlfMg2lXQK5aav33BCBgtsYWh.jpg" group-title="PT┃ NETFLIX",The Witcher: Nightmare of the Wolf - 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094655.mp4&play_token=mUzYTNawKl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LQUp64Ub9JfnLVuzyhEHdc7DBg.jpg" group-title="PT┃ NETFLIX",De Vulkaan: Redding uit Whakaari - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094648.mp4&play_token=RxmwGv0LCk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0FyEjaThmoji4dP3BbafJIhJKr.jpg" group-title="PT┃ NETFLIX",PT┃ The Seven Deadly Sins: Grudge of Edinburgh Part 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094618.mp4&play_token=ooSvc1CSPO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YH3W8S3JqiKLAVfYXNIHFm9K0e.jpg" group-title="PT┃ NETFLIX",The Saint of Second Chances - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094612.mp4&play_token=Q6gtVZAHxq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4LohOVRUtoL61E6jmenD0HE5uo.jpg" group-title="PT┃ NETFLIX",Natale a tutti i costi - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094595.mp4&play_token=3nT6l6EYCj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg" group-title="PT┃ NETFLIX",The Monkey King - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094575.mp4&play_token=4BtACbMYYX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1KYAyf91gHBqa1LKYj389GevRX.jpg" group-title="PT┃ NETFLIX",L'ultimo paradiso - 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094551.mp4&play_token=vwmgmukUHD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg" group-title="PT┃ NETFLIX",The Good Nurse - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094528.mp4&play_token=WPSO7iyh7f&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gKAn4npGEBi0HZAbwFZ77reLBR.jpg" group-title="PT┃ NETFLIX",The Deepest Breath - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094510.mp4&play_token=3FwnIVAPAE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg" group-title="PT┃ NETFLIX",The Conjuring: The Devil Made Me Do It - 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094502.mp4&play_token=rqQ5mRTKT6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uog089YZqlMAplQwg68GQ4sexdY.jpg" group-title="PT┃ NETFLIX",PT┃ A Bolha
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094493.mp4&play_token=Ft7BzbJAOF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56mBlJ55Z1O9oIOhRTAGIHZHXP7.jpg" group-title="PT┃ NETFLIX",PT┃ Perseguição
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094478.mp4&play_token=6YAxdaGEqK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbc8H3SR3BM6TZkJw6UBN4ekdjK.jpg" group-title="PT┃ NETFLIX",PT┃ L.O.L. Surprise! The Movie
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094468.mp4&play_token=KPMf86HgsL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJAF2h2iLLCpKUocEnoJz7wKtWq.jpg" group-title="PT┃ NETFLIX",PT┃ King of Clones
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094460.mp4&play_token=rG4KDdBHd5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rn7PFMpdUUEPxaf6AYMVF91DUfJ.jpg" group-title="PT┃ NETFLIX",PT┃ O Clube de Leitores Assassinos
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094456.mp4&play_token=7vbFFxx4Qj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZeqXAT3EXu9uhFXwhyKlH4NAlM.jpg" group-title="PT┃ NETFLIX",PT┃ Mundo Jurássico: Acampamento Cretáceo: Aventura Secreta
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094444.mp4&play_token=vbAoDR6UxU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHWhtNZAEt7jyEpGvpb9iJHoRh3.jpg" group-title="PT┃ NETFLIX",PT┃ Jim Jefferies: High n' Dry
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094433.mp4&play_token=0LShDspyx0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oASURJm0m8c1KPxAV1CiElQgZiR.jpg" group-title="PT┃ NETFLIX",PT┃ Jack Whitehall: I'm Only Joking
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094426.mp4&play_token=RId0SQZmW8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNPKBpxvlm1Qzojxmiu29IHZzt1.jpg" group-title="PT┃ NETFLIX",PT┃ Is That Black Enough for You?!?
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094417.mp4&play_token=oSe6W19PPh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfsbL4QcmMKJvdVYE36tPRmoaiv.jpg" group-title="PT┃ NETFLIX",PT┃ iNumber Number: O Ouro de Joanesburgo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094413.mp4&play_token=TgrUQYUl2q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTlxP1yJFPB2jegg4ece5iIWfgr.jpg" group-title="PT┃ NETFLIX",PT┃ Em Que Pensam os Gatos
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094408.mp4&play_token=CiVdjU6WGp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXZ7oH22HMAqQ8Svdm1Y7Zt7Vgh.jpg" group-title="PT┃ NETFLIX",PT┃ A plena luz: El caso Narvarte
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094399.mp4&play_token=7bbyeBSPlR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idRnGEvyYN44wlp39WYVz4lpLK8.jpg" group-title="PT┃ NETFLIX",PT┃ I Am Vanessa Guillen
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094290.mp4&play_token=0BBI2jABvR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWBXydaQ9vX3OIf0f1wNQ9Z0ElQ.jpg" group-title="PT┃ NETFLIX",PT┃ Eu Sou Todas Elas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094289.mp4&play_token=NWFGOaap8p&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJJuiyH3ibOA3VdUjrXA88HRxfS.jpg" group-title="PT┃ NETFLIX",PT┃ Uma Festa de Arromba
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094280.mp4&play_token=RbBIBzfRaH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3vZkkM5G40pUJxUzkz69H777Hm.jpg" group-title="PT┃ NETFLIX",PT┃ Hidden Strike
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094271.mp4&play_token=vaq5GO8v2w&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW3AG5NHoyq52dcSbMiFB6LyHvk.jpg" group-title="PT┃ NETFLIX",He's All That - 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094269.mp4&play_token=FID3JGCk3M&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XQX0uz4WHqbIOJKYp7BNAtCGRr.jpg" group-title="PT┃ NETFLIX",PT┃ Hasan Minhaj: The King's Jester
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094263.mp4&play_token=OkV9rP3Eon&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sejOOSFyqNd2KHWo9s3FiP7JCTv.jpg" group-title="PT┃ NETFLIX",PT┃ Happiness for Beginners
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094258.mp4&play_token=HVDlKxKePW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WjFS2RHHif6zeiDZiUIb2CNDip.jpg" group-title="PT┃ NETFLIX",PT┃ Felicidade Para Sempre
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094257.mp4&play_token=VoMCVM6z9z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zxGaM9LmQxBWr96laGHEUDJ1AL.jpg" group-title="PT┃ NETFLIX",PT┃ Good on Paper
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094239.mp4&play_token=ifAeO510LT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZvpTcUk0L8paEqegXzUcJa9nG.jpg" group-title="PT┃ NETFLIX",PT┃ Go! Go! Cory Carson: Chrissy Takes the Wheel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094234.mp4&play_token=y3vLZNxkMQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg" group-title="PT┃ NETFLIX",PT┃ Glass Onion: Um Mistério Knives Out
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094233.mp4&play_token=UkGZwAWTq3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf96HbBBy3x5R5Jc8qcS8i7qgzD.jpg" group-title="PT┃ NETFLIX",PT┃ Gabriel Iglesias: Stadium Fluffy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094218.mp4&play_token=A3jRfjuXgN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsgF3IyWmNOnYqNtweaqySWpYTz.jpg" group-title="PT┃ NETFLIX",PT┃ Fullmetal Alchemist: A Vingança de Scar
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094217.mp4&play_token=CrB6cNS9Ed&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMzOYHGiHEfknowTlg3o72gSvHy.jpg" group-title="PT┃ NETFLIX",PT┃ Fullmetal Alchemist: A Alquimia Final
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094216.mp4&play_token=IfOgu9qyNJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjLWPQFMBzsPk9ZURWJ5X6fptLQ.jpg" group-title="PT┃ NETFLIX",PT┃ Fugitive: The Curious Case of Carlos Ghosn
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094213.mp4&play_token=KvsFdHk5uK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLaTeAG7kq4x39MVqbrwGEvzLJ.jpg" group-title="PT┃ NETFLIX",PT┃ Franco Escamilla: Voyerista auditivo
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1094206.mp4&play_token=w8PUOOsy9m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcQY8T1owyMMRmp9dZiUTUQVxKW.jpg" group-title="PT┃ NETFLIX",PT┃ ‘Ohana: Um Tesouro do Havai
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093614.mp4&play_token=SBYf1fW6th&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo6VGI3ogUnpc8da5WnX9zF7ltM.jpg" group-title="PT┃ NETFLIX",PT┃ Fever dream
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093610.mp4&play_token=fEJbAtDOds&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEZMl8M5EKjPncmaBi6c0UEkAqz.jpg" group-title="PT┃ NETFLIX",PT┃ Faraway
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093602.mp4&play_token=ma8UOSMwDQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6S0Elz6FHbasFzGr08d2HpZPyuQ.jpg" group-title="PT┃ NETFLIX",PT┃ Fanfik
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093599.mp4&play_token=w8EHTAu4KR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epCjHq5yefl7h3cKaOJgexc0AMY.jpg" group-title="PT┃ NETFLIX",PT┃ Eric Andre: Legalize Everything
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093577.mp4&play_token=RHveKz3Dsv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8Sg7wHxquACYe4IIKyH0rORMp9.jpg" group-title="PT┃ NETFLIX",PT┃ Era ora
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093575.mp4&play_token=cTvdB4MBjt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AjIDqNC37ML6fPidheFBYG2xVF.jpg" group-title="PT┃ NETFLIX",PT┃ Elesin Oba: The King's Horseman
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093564.mp4&play_token=fJ9Bv0ucFW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piG2K4yaa1CO6flhWQPSVkgPvhH.jpg" group-title="PT┃ NETFLIX",PT┃ O Conde
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093561.mp4&play_token=46F0vMp0xe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZwkqc75XDMy35keKJkk2rh3Jhf.jpg" group-title="PT┃ NETFLIX",PT┃ Ehrengard: Forførelsens kunst
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093560.mp4&play_token=xBi5pcSebA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BCTdek5LFHglcgl7shsm7igJAH.jpg" group-title="PT┃ NETFLIX",PT┃ Dynasty Warriors
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093556.mp4&play_token=uxqKF2Nzkq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXkELm9DENmIOuMgveR1RzjCctD.jpg" group-title="PT┃ NETFLIX",PT┃ Dolly Parton: A MusiCares Tribute
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093538.mp4&play_token=itZSF6yAqn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZRncL9WLV0aLOG4WKvML4Ljoq0.jpg" group-title="PT┃ NETFLIX",PT┃ Dois Perfeitos Estranhos
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093537.mp4&play_token=sAeyvyPmSa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQc7xVGLKrWErxdH4xToH3Mcf6i.jpg" group-title="PT┃ NETFLIX",PT┃ Patton Oswalt: We All Scream
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093454.mp4&play_token=pYHpTA7GA4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkMkTCIxe94UQlJPORm1OKLiXnk.jpg" group-title="PT┃ NETFLIX",Patton Oswalt: I Love Everything - 2020
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093453.mp4&play_token=TSpP1eXujH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Gl3rC87UfQxMeg22lKOoCVc0Lz.jpg" group-title="PT┃ NETFLIX",Ganz normale Männer - Der „vergessene Holocaust“ - 2022
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093438.mp4&play_token=HWVbuiMIgN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj0PpS8cvXCNB3Wvhe6w5k0Nnke.jpg" group-title="PT┃ NETFLIX",Deadly Illusions - 2021
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093383.mp4&play_token=gsMc7NfVpB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UWPWjz3w3WuNkLkFViqllnh5nJ.jpg" group-title="PT┃ NETFLIX",Copenhagen Cowboy: I neonlyset med Nicolas Winding Refn - 2023
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093365.mp4&play_token=MxD1vCGaVo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olT4pIcEwP3160jXETWP1zawaCe.jpg" group-title="PT┃ NETFLIX",PT┃ Los (casi) ídolos de Bahía Colorada
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093345.mp4&play_token=v0bNBl00kL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6MUJa8xIBQnx0a5Us5pEe38l9P.jpg" group-title="PT┃ NETFLIX",PT┃ O Bando em Ação Salva o Natal
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093340.mp4&play_token=EdhDFNABTf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9niJrWHUCnPnDTrnYmVki663Esf.jpg" group-title="PT┃ NETFLIX",PT┃ Quem Cuida da Maya?
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093328.mp4&play_token=VdOi5IuXhm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOiJmotRM12wsgfwiEXsp3AErdU.jpg" group-title="PT┃ NETFLIX",PT┃ Stutz
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093313.mp4&play_token=hRnz4czBMZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liJ4HcdAl8oizjZ8maOJ9ddW9Fv.jpg" group-title="PT┃ NETFLIX",PT┃ Stromboli
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093311.mp4&play_token=e9CD2gCE1P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etQ3kqeOCSyICR4rxwzqLSOt04D.jpg" group-title="PT┃ NETFLIX",PT┃ State of Alabama vs. Brittany Smith
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093302.mp4&play_token=SE3Tl8BUzs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwCKYjIPXapuBtO51S81GNhoGxV.jpg" group-title="PT┃ NETFLIX",PT┃ Spy Kids: Apocalipse
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093299.mp4&play_token=ZxrD2xf6FT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHRid7SIsqHAG8hlxbg2u5E9ouN.jpg" group-title="PT┃ NETFLIX",PT┃ Operacja: Soulcatcher
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093286.mp4&play_token=Dsj7dgqDyR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg" group-title="PT┃ NETFLIX",PT┃ Esposa de Aluguel
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093280.mp4&play_token=AXoQGA075F&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKul2I03FI6QYxHnhMOkQ72EDPE.jpg" group-title="PT┃ NETFLIX",PT┃ Slumberland: O Reino dos Sonhos
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093269.mp4&play_token=2axLlqr9vp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOA6zX9ayEyHU6Y3D04rZxigBbX.jpg" group-title="PT┃ NETFLIX",PT┃ Escândalo! O Caso Wirecard
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093266.mp4&play_token=ta5lSgfrL0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTXxYgJ8UE7N6XIxIaesAqvMG4S.jpg" group-title="PT┃ NETFLIX",PT┃ Shazam! Fúria dos Deuses
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093250.mp4&play_token=8VlG678UjW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgH1sTqrKH3rjAXPo1kZ6kwypM.jpg" group-title="PT┃ NETFLIX",PT┃ Shawn Mendes: Live in Concert
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093249.mp4&play_token=KeW5OzwfxT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRrVmiXapjHAcc3tW7wvY5n3WLi.jpg" group-title="PT┃ NETFLIX",PT┃ Serious Men
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093245.mp4&play_token=wL4KWbY7uu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iog3e8ksgSLDh6Q94Jf9z7S9ykT.jpg" group-title="PT┃ NETFLIX",PT┃ Security
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093238.mp4&play_token=9sMdK0axr1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP6QJ62LQL8xPqBTueXRYILJKm0.jpg" group-title="PT┃ NETFLIX",PT┃ Os Ficheiros Secretos da Boy Scouts of America
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093233.mp4&play_token=Rq4PGZr3tG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiPEa0h9QIPT6kQu1h3Jp0Ky0CP.jpg" group-title="PT┃ NETFLIX",PT┃ Kenshin: O Samurai Errante: O Início
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093220.mp4&play_token=KIdTawb95K&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPQpMjv47rlshyDpT6OOEm1oAZ2.jpg" group-title="PT┃ NETFLIX",PT┃ Ruido
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093218.mp4&play_token=tdrC0YrxVV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nQkSXRwun0dLk4EKvU2LfpgZhG.jpg" group-title="PT┃ NETFLIX",PT┃ L'incredibile storia dell'Isola delle Rose
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093214.mp4&play_token=KRZdIW7wSp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo4JxW3rWsOF87XNeAoeewESrMY.jpg" group-title="PT┃ NETFLIX",PT┃ Rapiniamo il Duce
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093207.mp4&play_token=oGsbikDmHs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5GR75CM0FbATtHjnAaE7WwUXkX.jpg" group-title="PT┃ NETFLIX",PT┃ Matilda de Roald Dahl: O Musical
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093206.mp4&play_token=lSdP4FzwdX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdAVVJT8TtC3S1VVHzh5eIX0CzQ.jpg" group-title="PT┃ NETFLIX",PT┃ Ricos de Amor 2
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093203.mp4&play_token=VMznd2R7Kg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHBhmkfqjZo6xSmLSb9OmEtAviw.jpg" group-title="PT┃ NETFLIX",PT┃ Rescued From Hell
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093195.mp4&play_token=zovfvEVI5S&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rU2sCry1YzuBoeMj06eWqTfponC.jpg" group-title="PT┃ NETFLIX",PT┃ Christmas with You
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093117.mp4&play_token=MI6teRL4Cw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW8HI9wOfUvcBemr5NHW2N5V7W8.jpg" group-title="PT┃ NETFLIX",PT┃ Christmas on Mistletoe Farm
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093116.mp4&play_token=A3vxchLzpy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bL0bA4aZqml7BjTSRWH8uh2UvyC.jpg" group-title="PT┃ NETFLIX",PT┃ Chelsea Handler: Revolution
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093111.mp4&play_token=LC8MjH5nlr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZxtS3jXAyyTkjJ9M42V67cc06k.jpg" group-title="PT┃ NETFLIX",PT┃ Caught Out: Crime. Corruption. Cricket
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093103.mp4&play_token=43XZd1vcXU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTwOhXPVsfv6dJsOcmMEiZceXxP.jpg" group-title="PT┃ NETFLIX",PT┃ Cabras da Peste
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093089.mp4&play_token=TXnD30XJJc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plSUrCv17GRqFph7qSKfhT0jwcH.jpg" group-title="PT┃ NETFLIX",PT┃ Ardiente paciencia
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093086.mp4&play_token=INPnJINq87&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hssJ3koEXveKRDXb3r6ujEuySGF.jpg" group-title="PT┃ NETFLIX",PT┃ Broad Peak
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093076.mp4&play_token=ISwTqleWvo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jov3rCzNT8u5b7A56c0XKCkP5Dc.jpg" group-title="PT┃ NETFLIX",PT┃ Bob Ross: Happy Accidents  Betrayal & Greed
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093066.mp4&play_token=zyayhyRk6o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg" group-title="PT┃ NETFLIX",PT┃ Bo Burnham: Inside
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093065.mp4&play_token=961QfhWr5Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TR3pYZEwAI80okH8sMCVT7aL6S.jpg" group-title="PT┃ NETFLIX",PT┃ Blue Miracle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093064.mp4&play_token=mly6kVAVJt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg" group-title="PT┃ NETFLIX",PT┃ Blackout
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093056.mp4&play_token=Vq179fNsID&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KK0FJGdZI7jMhfwyJTg1LGR2z8.jpg" group-title="PT┃ NETFLIX",PT┃ Black Clover: A Espada do Rei Feiticeiro
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093044.mp4&play_token=EAEB1THuBa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rlU3gwaKobcdrmIBTRfyGcE6ew.jpg" group-title="PT┃ NETFLIX",PT┃ Às Cegas: Barcelona
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1093040.mp4&play_token=mZLpQyynu3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU4VeXVK18JtCZsy7i0zczlA9p7.jpg" group-title="PT┃ NETFLIX",PT┃ ARQ
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024957.mp4&play_token=355zGx272t&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUUPFgIkYGb0okY1siub2wDg5Ly.jpg" group-title="PT┃ NETFLIX",PT┃ Angela's Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024943.mp4&play_token=Ajt6N6V3Xk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alPfz0S3QrN6cd7Kxf03EfSWKuf.jpg" group-title="PT┃ NETFLIX",PT┃ A StoryBots Christmas
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024914.mp4&play_token=tskGPuGmrl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bka5V6BESl3BH60a1TDBfWg1clb.jpg" group-title="PT┃ NETFLIX",PT┃ Lykke-Per
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024904.mp4&play_token=EOKhLeEFhx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfmBRWxveZFWkp3gGr4POJxzhXv.jpg" group-title="PT┃ NETFLIX",PT┃ A Christmas Prince: The Royal Wedding
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024901.mp4&play_token=6zwYPZ8qE0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSfOYaqgCOVs7XIb8L6WaQVAQyY.jpg" group-title="PT┃ NETFLIX",PT┃ A Christmas Prince
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024900.mp4&play_token=EoMnMutRBG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg" group-title="PT┃ NETFLIX",PT┃ 1922
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024896.mp4&play_token=vWWC3uBswF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTsZEzkvQZ1keK7V2EgbOurIlL9.jpg" group-title="PT┃ NETFLIX",PT┃ Come Sunday
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024889.mp4&play_token=r9ADlPjNrk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfocdCwsdaJQNOpXacHet1S3QEN.jpg" group-title="PT┃ NETFLIX",PT┃ Colombiana
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024886.mp4&play_token=eqjKrbmoem&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vzTq5qYKkM3P53K6rnUW8Ppkyi.jpg" group-title="PT┃ NETFLIX",PT┃ Cold Comes the Night
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024883.mp4&play_token=nRlPKC2qPT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5axr1rgoGeQRwHLQkcC1A7Hdnt9.jpg" group-title="PT┃ NETFLIX",PT┃ Coin Heist
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024881.mp4&play_token=VTgq5k5EtU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbIL53MdZFJXsgxXaSOVuApWTs8.jpg" group-title="PT┃ NETFLIX",PT┃ Circle
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024876.mp4&play_token=vhZddcte1Y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdL5Vu9GcBlyC9T9bowojEOFs8X.jpg" group-title="PT┃ NETFLIX",PT┃ Chris Rock: Tamborine
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024871.mp4&play_token=iePA4JUTG5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dqHB8JCeDZF9ghp8eNeeo8h0H5.jpg" group-title="PT┃ NETFLIX",PT┃ Chief Daddy
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024867.mp4&play_token=kJzzn7BSBJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvRHRqI4ahmEwscylU10iaNo5RY.jpg" group-title="PT┃ NETFLIX",PT┃ Chasing Coral
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024865.mp4&play_token=oOeGZbrbXQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mq6N0YNTaYXXFGtri0Z6YjpoyOD.jpg" group-title="PT┃ NETFLIX",PT┃ Celeste & Jesse Forever
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1024854.mp4&play_token=8EvOV87cOi&type=movie

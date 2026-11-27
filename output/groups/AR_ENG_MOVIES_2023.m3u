@@ -1,29 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaeQ0aWve7rNbrht4a3l3onM9qQ.jpg" group-title="┃AR┃ ENG MOVIES 2023",┃AR┃ Miguel Wants to Fight - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1589456.mp4&play_token=qGp5ahSGmq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92hYmHw1XpMEF7yZUzjOzcO4zmC.jpg" group-title="┃AR┃ ENG MOVIES 2023",┃AR┃ Gunfight at Rio Bravo - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1582985.mp4&play_token=Yw0qDwnuDF&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMVqkdfTY4dUWE3nUviETzOsINI.jpg" group-title="┃AR┃ ENG MOVIES 2023",┃AR┃ Secrets of the Lost Forest - 2023
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1562859.mp4&play_token=gTbIIM9RbY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwh0Z4sxzItQpNVoPeevQqqNTqL.jpg" group-title="┃AR┃ ENG MOVIES 2023",┃AR┃ The Duel
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364010.mp4&play_token=ppLQ3ts7rP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rFWY88UDZ6K1DrMLq7c66LBk7v.jpg" group-title="┃AR┃ ENG MOVIES 2023",┃AR┃  Head to Head
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1364003.mp4&play_token=8EJADvCYBK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3upBKM4ZFZ1fEEnWrnTZMuyPrzI.jpg" group-title="┃AR┃ ENG MOVIES 2023",┃AR┃ Candy Land
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363988.mp4&play_token=dmF6N1gQzt&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UudwUPGweFpI0MGOn4YCRxZ4Z2.jpg" group-title="┃AR┃ ENG MOVIES 2023",┃AR┃ Candy Cane Lane
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363987.mp4&play_token=fY5Q1GbUdB&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8UVZmtBRS2LDfO0mHU4ojxUsAP.jpg" group-title="┃AR┃ ENG MOVIES 2023",┃AR┃ Call Her King
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363979.mp4&play_token=WPnqDmiFRP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eU49kJLr4iZYHAFrXGGBBJ627xD.jpg" group-title="┃AR┃ ENG MOVIES 2023",┃AR┃ Called to Duty
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1363978.mp4&play_token=GAHuF3DktH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4G4kUOoJn9gjLuXqSMKTabSiu4k.jpg" group-title="┃AR┃ ENG MOVIES 2023",┃AR┃ A Perfect Life
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1356141.mp4&play_token=CVjYW5absi&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ma0r1n8kfH7UaQMS7bJ9KsYUjT.jpg" group-title="┃AR┃ ENG MOVIES 2023",Tinker Bell - 2008
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1343567.mp4&play_token=AfLK6d6whq&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cb7PrVIYbwIadQqWxgSU6CGHJjj.jpg" group-title="┃AR┃ ENG MOVIES 2023",┃AR┃ Tinker Bell and the Great Fairy Rescue
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1343568.mp4&play_token=p3xDBhR7SE&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KeUqW6DpVtf8G9VMuI2l0XIPCo.jpg" group-title="┃AR┃ ENG MOVIES 2023",┃AR┃ Lincoln
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1343546.mp4&play_token=x59uPNhEct&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6kU5LzZLUGDPNTsv29l2DNXP7c.jpg" group-title="┃AR┃ ENG MOVIES 2023",┃AR┃ Single Black Female 2: Simone's Revenge
-http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=1340146.mp4&play_token=1q03LPbp3B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krOWstmTUdfafRbXH9YAjVj2zE5.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ The Man from Earth: Holocene
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428687.mp4&play_token=U9uZmpJ0uE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52RTgN7wHJ9Q5hqe7fiWyc6ieW5.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ The Irish Connection
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428686.mp4&play_token=sPSL7a26yM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9xtEAlNb0wWql0EnT2SmaLZ1qa.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Le Bal des folles
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428685.mp4&play_token=MpKtw4fYpP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4I5zUfVszl6vGpTfMo7ue8TgU.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ The Lost Lotteries
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428684.mp4&play_token=f5qz6FEGwf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Sicario
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428683.mp4&play_token=3JW3CbzWXK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGfIsvdrUhTlQOkxQIELU7obDYj.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Siberia
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428682.mp4&play_token=zJQ1E6ZXks&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXIGq6ddQhIYe4Z7A86nZ1qjUME.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Shut In
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428681.mp4&play_token=LKzc4Ge96P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5ug4LyLQFeR6azAJyIPBQz5ur9.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Shut In
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428680.mp4&play_token=QvbUbLHMNW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p26DdLij3iwqTKbGCBqVobiMMqh.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Shriekshow
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428679.mp4&play_token=uX8RaixTyj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkQucrZCvT07DlA7UZGkwgnR2fv.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ 쇼미더고스트
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428678.mp4&play_token=tNfl2vsLE3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Shotgun Wedding
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428677.mp4&play_token=7FB5cH5nwJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLmLz2wtyYvmW8Ult3l2ngOnW8v.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Shot Caller
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428676.mp4&play_token=9rTonfllu3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8Y9lKNnroACauSxmVQRkACj2ow.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Shock and Awe
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428675.mp4&play_token=hJanfq5uU0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8c7f2OH0CsbbyHbVQTgAki6Rj5.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Shinobi
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428674.mp4&play_token=T0Qu9OsbF1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfHTnM6eS6cA3x84UimGg2LZ6g8.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Shin Kamen Rider
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428673.mp4&play_token=07cH4PWVL0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48htZWSg3G7YRWgQORvEI3y5ffI.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Shifter
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428672.mp4&play_token=6ZFhHWobHO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbN1YWgBmwqGzqF6ZTsM96dub4r.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ She Will
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428671.mp4&play_token=OUQiJG3Keq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ She Said
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428670.mp4&play_token=7Mr91Dq0eB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUAkQmihFmRxMYTa3AkvIzMCV4.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Sheroes
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428669.mp4&play_token=n2rVpLroxd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZr7DFP1kP9s7cRnqWuVP72EB7X.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Shepherd
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428668.mp4&play_token=8pyrMIbdFA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfiG5RguvKXBnouQUhFCc7bNXbi.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ She Made Them Do It
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428667.mp4&play_token=IODE8lIEK9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cay2mz6e0wCmhtLCStBANnLIc37.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Shelter in Place
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428666.mp4&play_token=uvqY7UicXA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9Xn3TwJQlpDf8DwHXO617NOdav.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Sheltering Season
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428665.mp4&play_token=dwMme9y6BA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SFfpeGwBbcSKZNOLRwvqVDcjuJ.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ She Inherited Danger
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428664.mp4&play_token=d8dFfLbpCG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogTna9bUzldTV5l2nyuyJV4tbCH.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ She Dies Tomorrow
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428663.mp4&play_token=6rEutdzFpu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89uBJh6y1AQ7KE7bDO2u2mTU6N.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ She Came from the Woods
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428662.mp4&play_token=pqhYyeNanU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="AR┃ ENG MOVIES 2023",AR┃ Shazam
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428661.mkv&play_token=AxLXkNpmmC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phzw7qNjTVS1hxvkQcX2e5YyNbR.jpg" group-title="AR┃ ENG MOVIES 2023",AR┃ Shazam! Fury of the Gods
+http://nexusconnects.org:80/play/movie.php?mac=A0:BB:3E:03:BA:6C&stream=2428660.mp4&play_token=IJChP4pY8j&type=movie
